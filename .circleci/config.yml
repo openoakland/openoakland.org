@@ -4,6 +4,7 @@ jobs:
   build:
     docker:
       - image: circleci/ruby:2.5
+    working_directory: ~/openoakland.org
     steps:
     - checkout
     - run: bundle install
@@ -16,6 +17,7 @@ jobs:
   deploy:
     docker:
       - image: infrastructureascode/aws-cli
+    working_directory: ~/openoakland.org
     environment:
       AWS_DEFAULT_REGION=us-west-2
     steps:
