@@ -1,0 +1,21 @@
+---
+version: 2
+jobs:
+  build:
+    docker:
+      - image: infrastructureascode/aws-cli
+    environment:
+      AWS_DEFAULT_REGION=us-west-2
+    steps:
+    - checkout
+    - run: aws s3 sync _site s3://beta.aws.openoakland.org/
+
+workflows:
+  version: 2
+  commit:
+    jobs:
+      - build:
+          filters:
+            branches:
+              only:
+                - master
