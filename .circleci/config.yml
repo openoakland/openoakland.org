@@ -3,18 +3,36 @@ version: 2
 jobs:
   build:
     docker:
+      - image: circleci/ruby:2.5
+    steps:
+    - checkout
+    - run: bundle install
+    - run: bundle exec jekyll build
+    - persist_to_workspace:
+        root: .
+        paths:
+          - _site
+
+  deploy:
+    docker:
       - image: infrastructureascode/aws-cli
     environment:
       AWS_DEFAULT_REGION=us-west-2
     steps:
     - checkout
+    - attach_workspace:
+        at: .
     - run: aws s3 sync _site s3://beta.aws.openoakland.org/
+
 
 workflows:
   version: 2
   commit:
     jobs:
-      - build:
+      - build
+      - deploy:
+          requires:
+            - build
           filters:
             branches:
               only:
