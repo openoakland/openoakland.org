@@ -1,0 +1,82 @@
+/* Search result text color */
+.entry-title a:hover  {
+  color: #1ab890;
+}
+
+/* Search result pagination text color */
+.archive-pagination li a:hover,
+ .archive-pagination li.active a  {
+  background-color: #1ab890;
+}
+
+/* Reduce top padding site-wide */
+.site-container {
+  margin: 2rem auto;
+}
+
+/* Reduce padding around logo */
+.site-header .wrap {
+  padding: 2rem 0 0 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 400;
+}
+
+a {
+  color: #1ab890;
+}
+
+#projects .col1 {
+  float: left;
+  margin-right: 20px;
+  padding-bottom: 20px;
+  width: 35%;
+}
+
+#projects .col2 {
+  display: table-row-group;
+  padding-bottom: 20px;
+}
+
+#projects img,
+#projects a img {
+  border: 1px #dadada solid;
+  width: 100%;
+}
+
+#projects a img:hover {
+  border: 1px #1ab890 solid;
+  opacity: 0.9;
+  padding: 0px;
+}
+
+#projects h3 {
+  background-color: #f5f5f5;
+  clear: both;
+  font-weight: bold;
+  line-height: 1;
+  padding: 12px 0;
+}
+
+#projects h3 a {
+  padding-left: 12px;
+}
+/* steering committee page styles, added 1/30/19 by alison lawyer */
+.steeering-committee-container {
+  display: flex;
+}
+.steeering-committee-name {
+  font-family: "Raleway", sans-serif;
+  margin-top: -2.5rem;
+}
+.steeering-committee-image {
+  margin: 0 3rem 0 0;
+  height: 150px;
+  width: 150px;
+}
