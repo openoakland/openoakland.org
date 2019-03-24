@@ -4,7 +4,6 @@ jobs:
   build:
     docker:
       - image: circleci/ruby:2.5
-    working_directory: ~/openoakland.org
     steps:
     - checkout
     - restore_cache:
@@ -26,14 +25,14 @@ jobs:
 
   deploy:
     docker:
-      - image: infrastructureascode/aws-cli
-    working_directory: ~/openoakland.org
+      - image: circleci/python:3
     environment:
       AWS_DEFAULT_REGION=us-west-2
     steps:
     - checkout
     - attach_workspace:
         at: .
+    - run: pip install --user --upgrade awscli
     - run: aws s3 sync _site s3://beta.aws.openoakland.org/
 
 
