@@ -5,6 +5,36 @@
 This site is a work in progress.
 
 
+## Development
+
+Prerequisites:
+
+- [GNU Make](https://www.gnu.org/software/make/)
+- [Ruby 2.5+](https://www.ruby-lang.org/en/)
+- [bundler](https://bundler.io/)
+
+
+### Setup
+
+Install project dependencies.
+
+    $ make setup
+
+Build the site.
+
+    $ make build
+
+Run some checks.
+
+    $ make test
+
+Start a local server.
+
+    $ make serve
+
+Open your web browser to [localhost:4000](http://localhost:4000/).
+
+
 ## Deployment
 
 This site is deployed automatically from the `master` branch. [CircleCI](https:)
