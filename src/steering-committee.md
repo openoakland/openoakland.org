@@ -6,35 +6,36 @@ author: elina
 layout: page
 guid: http://www.openoakland.org/?page_id=167618
 ---
-### Hack Night Lead: {.steeering-committee-header}
+
+### Hack Night Lead:
 
 <div>
   <img
     class="steeering-committee-image"
     alt="Photo of Colin King-Bailey"
     src="https://openoakland.org/wp-content/uploads/2019/01/IMG_8612-e1548824109488-300x300.jpg"
- /></p> 
+ /> 
   
   <p class="steeering-committee-name">
     Colin King-Bailey
   </p>
 </div>
 
-### Treasurer/Recorder: {.steeering-committee-header}
+### Treasurer/Recorder:
 
 <div>
   <img
     class="steeering-committee-image"
     alt="Photo of Mike Ubell"
     src="https://openoakland.org/wp-content/uploads/2018/02/Mike-Ubell-1-300x300.jpg"
- /></p> 
+ /> 
   
   <p class="steeering-committee-name">
     Mike Ubell
   </p>
 </div>
 
-### Community Organizers: {.steeering-committee-header}
+### Community Organizers:
 
 <div class="steeering-committee-container">
   <div>
@@ -42,11 +43,11 @@ guid: http://www.openoakland.org/?page_id=167618
       class="steeering-committee-image"
       alt="Photo of Andrew Tom"
       src="https://openoakland.org/wp-content/uploads/2019/01/Screen-Shot-2019-01-29-at-8.39.02-PM-300x300.png"
- /></p> 
+ />
     
     <p class="steeering-committee-name">
       Andrew Tom
-    </p></p>
+    </p>
   </div>
   
   <div>
@@ -54,22 +55,22 @@ guid: http://www.openoakland.org/?page_id=167618
       class="steeering-committee-image"
       alt="Photo of Mary Yeh"
       src="https://openoakland.org/wp-content/uploads/2019/01/Simone-Anne-Mary-12-retouched-e1548823712932-300x300.jpg"
- /></p> 
+ />
     
     <p class="steeering-committee-name">
       Mary Yeh
-    </p></p>
+    </p>
   </div>
 </div>
 
-### Communications Officer: {.steeering-committee-header}
+### Communications Officer:
 
 <div>
   <img
     class="steeering-committee-image"
     alt="Photo of Alison Lawyer"
     src="https://openoakland.org/wp-content/uploads/2019/01/IMG_1386.jpg"
- /></p> 
+ />
   
   <p class="steeering-committee-name">
     Alison Lawyer

@@ -3,9 +3,10 @@ id: 167691
 title: Onboarding
 date: 2017-02-25T11:44:31-07:00
 author: Services @OpenOakland.org
-layout: page
+layout: post
 guid: http://www.openoakland.org/?page_id=167691
 ---
+
 Questions and Conversation ideas and Actions Neil takes for Onboarding Newcomers
 
 **What is Civic Engagement or Participation?**  
@@ -18,32 +19,32 @@ https://en.wikipedia.org/wiki/Civic_technology
 
 **Who is Code for America?**
 
-  * codeforamerica.org (General. Brigades/Fellowship. Youtube)
+- codeforamerica.org (General. Brigades/Fellowship. Youtube)
 
 **Who is OpenOakland?**
 
-  * History
-  * Code of Conduct
-  * Projects
-  * Governance
-  * Events and Meetings
-  * Culture
+- History
+- Code of Conduct
+- Projects
+- Governance
+- Events and Meetings
+- Culture
 
-* * *
+---
 
 **Crucial Questions to help identify your contributions and activities:**
 
-  * What do you want to do in Oakland?
-  * How do you want to help in Oakland?
-  * What&#8217;s not working around you?
-  * What partnerships can be nurtured? Created?
-  * What role(s) do you want to play at OpenOakland?
+- What do you want to do in Oakland?
+- How do you want to help in Oakland?
+- What&#8217;s not working around you?
+- What partnerships can be nurtured? Created?
+- What role(s) do you want to play at OpenOakland?
 
-* * *
+---
 
 **Communication tools we use:**
 
-  * Meetup (CfA pays)
-  * Google Groups
-  * Slack (http://slack.openoakland.org)
-  * Trello for some projects
+- Meetup (CfA pays)
+- Google Groups
+- Slack (http://slack.openoakland.org)
+- Trello for some projects
