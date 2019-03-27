@@ -1,0 +1,49 @@
+---
+id: 168120
+title: Civic User Testing (CUT) Group
+date: 2018-01-11T21:10:35-07:00
+author: Tom Dooner
+layout: page
+guid: https://www.openoakland.org/?page_id=168120
+---
+The Civic User Testing Group is a set of regular Oakland residents who **get paid** to test out civic apps.
+
+## Be a tester, get paid
+
+The Civic User Testing Group (CUTGroup) is a set of regular Oakland residents who get paid to test out civic apps.
+
+  * If and when you are chosen to test a civic app, you get paid a $20 gift card via GiftRocket.
+
+There is a large and growing community of &#8220;civic hackers&#8221; in Oakland — technology developers who make websites, mobile apps, and other tools that often have specific use in Oakland. The goal is to make software that helps make lives better in the city.
+
+The problem is that lots of civic apps get attention among a smallish group of other developers and people interested in the world of open data, but do not get wide acceptance by the people they were made for — regular residents of the city of Oakland.
+
+**You are going to change all that!**
+
+We need people from all over the city, using all sorts of devices, browsers and operating systems.
+
+## Get Started
+
+<div class="hidden-phone">
+  <p>
+    We are currently soliciting applications from every neighborhood in Oakland. As we spend time together, we hope to form bonds among government, developers, and community members who come together in the spirit of co-creation to make civic apps that work for everyone. We will close down each neighborhood once we&#8217;ve got enough coverage, and we&#8217;ll update the map above as we get people onboard. Sign up now and tell your friends!
+  </p>
+</div>
+
+In order to get the most out of CUTGroup testing, we have to have a fairly scientific take on the who is doing the testing and how they’re using the Internet.
+
+This survey has a lot of questions about where you live, what devices you have, and how you connect to the Internet. This helps us get the right mix of people to test a particular application.
+
+
+
+## About
+
+The Civic User Testing Group is a project of the [OpenOakland](http://www.openoakland.org), a civic organization devoted to using technology to make lives better in Oakland. The project is supported by a [Kapor Center for Social Impact grant](http://www.kaporcenter.org/) .
+
+Testing will happen all over the city at various locations of with internet and computer access. If you&#8217;re interested in getting into the civic hacker world as a member of government, a technology developer, or an engaged citizen, consider joining [weekly OpenOakland meetups](http://www.meetup.com/OpenOakland/). All are welcome!
+
+Get a mitt and get in this game!
+
+## Contact
+
+Questions, comments, concerns? Email Niranjan, <niranjan@openoakland.org>.
