@@ -5,36 +5,34 @@ jobs:
     docker:
       - image: circleci/ruby:2.5
     steps:
-    - checkout
-    - restore_cache:
-        keys:
-          - v1-bundle-{{ checksum "Gemfile.lock" }}
-          - v1-bundle-
-    - run: bundle install --path vendor/bundle
-    - save_cache:
-        key: v1-bundle-{{ checksum "Gemfile.lock" }}
-        paths:
-          - vendor/bundle
-    - run: make build
-    - run: make serve &
-    - run: make test
-    - persist_to_workspace:
-        root: .
-        paths:
-          - _site
+      - checkout
+      - restore_cache:
+          keys:
+            - v1-bundle-{{ checksum "Gemfile.lock" }}
+            - v1-bundle-
+      - run: bundle install --path vendor/bundle
+      - save_cache:
+          key: v1-bundle-{{ checksum "Gemfile.lock" }}
+          paths:
+            - vendor/bundle
+      - run: make build
+      - run: make serve &
+      - run: make test
+      - persist_to_workspace:
+          root: .
+          paths:
+            - _site
 
   deploy:
     docker:
       - image: circleci/python:3
-    environment:
-      AWS_DEFAULT_REGION=us-west-2
+    environment: AWS_DEFAULT_REGION=us-west-2
     steps:
-    - checkout
-    - attach_workspace:
-        at: .
-    - run: pip install --user --upgrade awscli
-    - run: aws s3 sync _site s3://beta.aws.openoakland.org/
-
+      - checkout
+      - attach_workspace:
+          at: .
+      - run: pip install --user --upgrade awscli
+      - run: /home/circleci/.local/bin/aws s3 sync _site s3://beta.aws.openoakland.org/
 
 workflows:
   version: 2
