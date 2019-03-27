@@ -6,9 +6,10 @@ author: elina
 layout: page
 guid: https://www.openoakland.org/?page_id=126
 ---
+
 Contacts:
 
-  * Alison Lawyer at alison[at]openoakland.org
+- Alison Lawyer at alison[at]openoakland.org
 
 ## 2018
 
@@ -42,8 +43,9 @@ _MAY 9, 2016 -Civicist/Civic Hall, Jessica McKenzie_
 **<a title="What Counts book" href="http://www.whatcountsforamerica.org/portfolio/three-data-access-trends-shaping-the-future-of-community-development-open-data-my-data-and-smart-disclosure/" target="_blank" rel="noopener noreferrer">Three Data Access Trends Shaping the Future of Community Development: Open Data, My Data, and Smart Disclosure</a>**  
 _What Counts book (2015)_, Published by the Urban Institute, Amias Gerety & Sophie Raseman.
 
+<!-- AL removed link -->
 <p class="p1">
-  <strong><a href="http://oaklandlocal.com/2015/06/speak-up-oakland-encourages-civic-involvement/"><span class="s1">Speak Up Oakland Encourages Civic Involvement<br /> </span></a></strong><em><span class="s1">June 15, 2015 &#8211; Oakland Local, A. Scot Bolsinger</span></em>
+  <strong><a><span class="s1">Speak Up Oakland Encourages Civic Involvement<br /> </span></a></strong><em><span class="s1">June 15, 2015 &#8211; Oakland Local, A. Scot Bolsinger</span></em>
 </p>
 
 <p class="p1">
@@ -64,11 +66,13 @@ _December 20, 2014 &#8211; GovTech Today newsletter, Government Technology Magaz
 **[Volunteers hack technology to improve Oakland city government](http://kalw.org/post/volunteers-hack-technology-improve-oakland-city-government)**  
 _March 18, 2014 &#8211; KALW Radio, Laura Flynn_ ([mp3](http://cpa.ds.npr.org/kalw/audio/2014/03/WEB.HackingOakland.mp3), 5:39)<audio class="wp-audio-shortcode" id="audio-126-2" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://cpa.ds.npr.org/kalw/audio/2014/03/WEB.HackingOakland.mp3?_=2" />
 
-<http://cpa.ds.npr.org/kalw/audio/2014/03/WEB.HackingOakland.mp3></audio> 
+<http://cpa.ds.npr.org/kalw/audio/2014/03/WEB.HackingOakland.mp3></audio>
 
 Though a lot of jargon is thrown around, some of the people here have no tech backgrounds at all, including Anna Mathai. “I just wanted to know more about Oakland politics and budget,” she says. “Just about government. And I just find this to be a good forum to, I think, help foster transparency and open government. But also get plugged into what&#8217;s happening where, and what&#8217;s going to happen with the next election, and other initiatives.”
 
-**[<span class="s1">Oakland Data Day Jumpstarts Multiple Civic Projects (Community Voices)<br /> </span>](http://oaklandlocal.com/2014/02/oakland-data-day-jumpstarts-multiple-civic-projects-community-voices/)**_<span class="s1">February 27, 2014 &#8211; Oakland Local, Howard Dyckoff</span>_
+<!-- AL removed link -->
+
+**[<span class="s1">Oakland Data Day Jumpstarts Multiple Civic Projects (Community Voices)<br /> </span>]**_<span class="s1">February 27, 2014 &#8211; Oakland Local, Howard Dyckoff</span>_
 
 ## 2013 &#8211; OpenOakland Expands
 
@@ -84,7 +88,9 @@ _August 4, 2013 &#8211; The White House_
 _August 16, 2013 &#8211; San Francisco Business Times_  
 &#8220;OpenOakland.. brings together coders, designers, city staff and others to improve how Oakland&#8217;s government serves its citizens.&#8221; [SFBusinessTimes8-16-2013 (PDF)](http://openoakland.org/wp-content/uploads/2012/11/SFBusinessTimes8-16-2013.pdf)
 
-**[<span class="s1">Profiles in OakTech: Steve Spiker, Open Data Advocate<br /> </span>](http://oaklandlocal.com/2013/08/the-oaktech-series-steve-spiker-open-data-champion-august-1-with-photos/)**_<span class="s1">August 12, 2013 -Oakland Local, Howard Dyckoff</span>_
+<!-- AL removed link -->
+
+**[<span class="s1">Profiles in OakTech: Steve Spiker, Open Data Advocate<br /> </span>]**_<span class="s1">August 12, 2013 -Oakland Local, Howard Dyckoff</span>_
 
 <a title="Most Innovative Activist Group " href="http://www.eastbayexpress.com/oakland/most-innovative-activist-group/BestOf?oid=3653840" target="_blank" rel="noopener noreferrer"><strong>Most Innovative Activist Group </strong></a>  
 _<span class="s1">July 16, 2013 &#8211;</span><span class="s1"> </span>East Bay Express_  
@@ -94,8 +100,9 @@ _<span class="s1">July 16, 2013 &#8211;</span><span class="s1"> </span>East Bay
 _June 11, 2013 &#8211; IEEE Spectrum, Travis Korte_  
 &#8220;Oakland, Calif., ever the outlier, hosted the massively collaborative ReWrite Oakland event, in which more than 70 programmers, designers, city officials, writers and local residents came together to create a new community-oriented information website for the city&#8230;  ReWrite Oakland provided a great model for this kind of collaboration, and other cities would do well to take note&#8230;&#8221;
 
+<!-- AL removed link -->
 <p class="p1">
-  <strong><a href="http://oaklandlocal.com/2013/06/re-write-oakland-hackathon-answers-over-160-civic-questions/"><span class="s1">Re-Write Oakland Hackathon Answers Over 160 Civic Questions<br /> </span></a></strong><em><span class="s1">June 6, 2013 &#8211; Oakland Local, Howard Dyckoff</span></em>
+  <strong><a><span class="s1">Re-Write Oakland Hackathon Answers Over 160 Civic Questions<br /> </span></a></strong><em><span class="s1">June 6, 2013 &#8211; Oakland Local, Howard Dyckoff</span></em>
 </p>
 
 [**Hacking Oakland&#8217;s Budget**](http://www.eastbayexpress.com/SevenDays/archives/2013/04/30/hacking-oaklands-budget "hacking Oakland's Budget")  
@@ -114,7 +121,9 @@ _March 30, 2013 &#8211; Ars Technica, Cyrus Farivar_
 _2/25/2013 &#8211; Atlantic Cities, Emily Badger_  
 &#8220;This past Saturday was International Open Data Day, and with it came hackathons hosted in dozens of cities on five continents all simultaneously tinkering with apps, visualizations, data catalogs and new standards built on the world’s growing trove of public data. Of course, put a bunch of mapping geeks and civic hackers in a room – many rooms, all over the world.&#8221;
 
-**[OpenOakland to host community hackathon Feb. 23](http://oaklandlocal.com/article/open-oakland-holding-hackathon-february-23-0)**  
+<!-- AL removed link -->
+
+**[OpenOakland to host community hackathon Feb. 23]**  
  _2/19/2013 &#8211; Oakland Local, Samuel Felsing_  
 &#8220;In Oakland, community group OpenOakland, will host its own Open Data Day celebration. The event, dubbed a “hackathon,” will be held at the 81st Avenue Branch of the public library. All Oakland residents are encouraged to attend — with designers, coders, statisticians and city staff members being especially welcome.&#8221;
 
@@ -128,7 +137,9 @@ _1/2/2013 &#8211; East Bay Express, Azeen Ghorayshi_
 
 ## 2012 &#8211; OpenOakland starts up
 
-[**City Hall starts its Open Gov, Open Data journey with City Camp Oakland**](http://archive.oaklandlocal.com/posts/2013/01/1-16-opening-government-oakland%E2%80%99s-first-citycamp-community-voices)  
+<!-- AL removed link -->
+
+[**City Hall starts its Open Gov, Open Data journey with City Camp Oakland**]
 _December 6, 2012 &#8211; Oakland Local, Howard Dyckoff_  
 Steve Spiker: &#8220;CityCamp Oakland was about supporting open government and we all witnessed some genuine interest in seeing this happen from city staff with a real desire to partner with us and others to make this happen. Our team put a ton of effort into creating an event to show appreciation to our city staff and to create a safe, encouraging place for us all to have open, frank conversations about how we can all collaborate to make our city even greater, for all our residents, not just the tech community.&#8221;
 
@@ -136,7 +147,9 @@ Steve Spiker: &#8220;CityCamp Oakland was about supporting open government and w
 _December 3, 2012 &#8211; SFGate.com / Oakland North, Nausheen Husain_  
 Over 120 people, including programmers, city officials, bloggers and community members, attended Saturday’s [CityCamp] “unconference,” or interactive forum with topics of discussion that attendees themselves chose.
 
-[**Data community asks Oakland Council candidates to sign &#8216;open government&#8217; pledge**](http://oaklandlocal.com/article/115-data-community-asks-oakland-council-candidates-sign-open-government-pledge)  
+<!-- AL removed link -->
+
+[**Data community asks Oakland Council candidates to sign &#8216;open government&#8217; pledge**]
 _November 4, 2012 &#8211; Oakland Local, Barbara Grady_  
 [OpenOakland] asked City Council and City Attorney candidates to sign a pledge of open government principles including transparency, participation and collaboration.
 
@@ -146,9 +159,11 @@ Born out of [Code for America](http://codeforamerica.org/), a non-profit that se
 
 **[A Crowdsourced Hyperlocal City Guide, Coming To You Soon](http://www.fastcoexist.com/1680760/a-crowdsourced-hyperlocal-city-guide-coming-to-you-soon)**  
 _10/24/12 &#8211; Fast Company: Co.Exist, Emily Badger_  
-Thanks to a grant from the [Knight News Challenge](http://www.knightfoundation.org/grants/20094016/), LocalWiki has been further developing the software so that communities anywhere can replicate the idea. The Raleigh-Durham Triangle area launched one earlier this year. Now [Oakland](http://oaklandwiki.org/) and [Ann Arbor](http://arborwiki.org/) have wikis, too. As a sign of true global dominance, a LocalWiki project is even coming to [Antarctica](http://localwiki.org/blog/2012/oct/10/localwiki-antarctica/).
+Thanks to a grant from the [Knight News Challenge](http://www.knightfoundation.org/grants/20094016/), LocalWiki has been further developing the software so that communities anywhere can replicate the idea. The Raleigh-Durham Triangle area launched one earlier this year. Now [Oakland](http://oaklandwiki.org/) and [Ann Arbor](http://arborwiki.org/) have wikis, too. As a sign of true global dominance, a LocalWiki project is even coming to [Antarctica].
 
-**[Meet Our Vanguard: Stephen Spiker](http://americancity.org/daily/entry/meet-our-vanguard-stephen-spiker)**  
+<!-- AL removed link -->
+
+**[Meet Our Vanguard: Stephen Spiker]**  
 _10/8/12 &#8211; Next American City, Kate Holmquist_  
 Stephen Spiker is brigade co-captain for the new start-up OpenOakland, a volunteer group of hackers, software engineers and civic advocates who build open source technology to tackle civic issues that government doesn’t have the resources to undertake. Spiker loves data, democracy and design. Oh, and he’s a new dad, too.
 

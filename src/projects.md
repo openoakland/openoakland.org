@@ -137,7 +137,7 @@ OpenOakland projects are the core of our organization&#8217;s efforts to connect
   </p>
   
   <h3>
-    <a href="http://adoptadrainoakland.com" target="_blank" rel="noopener noreferrer">Adopt a Drain</a>
+    <a href="https://adoptadrainoakland.com" target="_blank" rel="noopener noreferrer">Adopt a Drain</a>
   </h3>
   
   <div class="col1">
@@ -164,9 +164,9 @@ OpenOakland projects are the core of our organization&#8217;s efforts to connect
     To support the Equity Licensing Program, OpenOakland is providing support to other volunteer technologists and cannabis entrepreneurs who are working with the City of Oakland’s City Administrator’s Office and the Department ofRace and Equity to develop <a href="http://cannaequity.org/">CannaEquity.org</a>, an online“matchmaking” application that would assist interested equity and regularapplicants to locate each other efficiently. Applicants would create onlineaccounts to pre-screen for compatibility and control the pace of informationsharing and relationship building needed for the formation of space-sharingrelationships. Once built, the app will be maintained until the end of phaseone of licensing. This date will be determined by the collection of cannabistax revenue sufficient to launch the next phase of equity applicant supportservices (assumed to be within one year).
   </div>
   <br />
-  
+  <!-- AL removed link to city camp page-->
   <h3>
-    <a href="https://www.openoakland.org/citycamp/" target="_blank" rel="noopener noreferrer">CityCamp Oakland</a>
+    CityCamp Oakland
   </h3>
   
   <div class="col1">
@@ -205,7 +205,7 @@ OpenOakland projects are the core of our organization&#8217;s efforts to connect
   
   <br />
   <h3>
-    <a href="http://oaklandbeats.com" target="_blank" rel="noopener noreferrer">Oakland Beats</a>
+    <a href="http://gisapps1.mapoakland.com/policedistricts/" target="_blank" rel="noopener noreferrer">Oakland Beats</a>
   </h3>
   
   <div class="col1">
@@ -288,9 +288,9 @@ OpenOakland projects are the core of our organization&#8217;s efforts to connect
   <div class="col1">
     <strong>Established</strong>: 2013
   </div>
-  
+<!-- AL removed link to ordinance -->
   <div class="col2">
-    <strong>Our Backstory</strong>: Soft Story is a simple interactive map of potential soft-story buildings in Oakland. Soft-story buildings are multi-unit, wood-frame, residential buildings with a first story that lacks adequate strength or stiffness to prevent leaning or collapse in an earthquake. These buildings pose a safety risk to tenants and occupants, a financial risk to owners, and risk the recovery of the city and region. This data shows the results of a screening program for potential soft-story buildings in Oakland. In 2008 Oakland surveyed its multi-family buildings with five or more units, and in 2009 passed <a href="http://clerkwebsvr1.oaklandnet.com/attachments/22928.pdf">an ordinance</a> that required the owners of these buildings to complete a simple evaluation of the ground floor. This data shows the results of these screenings as of early 2013.
+    <strong>Our Backstory</strong>: Soft Story is a simple interactive map of potential soft-story buildings in Oakland. Soft-story buildings are multi-unit, wood-frame, residential buildings with a first story that lacks adequate strength or stiffness to prevent leaning or collapse in an earthquake. These buildings pose a safety risk to tenants and occupants, a financial risk to owners, and risk the recovery of the city and region. This data shows the results of a screening program for potential soft-story buildings in Oakland. In 2008 Oakland surveyed its multi-family buildings with five or more units, and in 2009 passed an ordinance that required the owners of these buildings to complete a simple evaluation of the ground floor. This data shows the results of these screenings as of early 2013.
   </div>
   
   <br />
