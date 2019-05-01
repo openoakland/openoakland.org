@@ -1,26 +1,25 @@
 ---
-id: 167502
 title: Code of Conduct
 date: 2017-01-10T16:56:49-07:00
 author: elina
 layout: page
-guid: http://www.openoakland.org/?page_id=167502
 ---
-This document is adapted from Code for America&#8217;s Code of Conduct and Anti-Harassment Policy.
 
-* * *
+This document is adapted from Code for America's Code of Conduct and Anti-Harassment Policy.
+
+---
 
 <h4 style="text-align: left;">
-  OpenOakland&#8217;s Code of Conduct
+  OpenOakland's Code of Conduct
 </h4>
 
 <span style="font-weight: 400;">Our Code of Conduct aims to produce an environment that is inclusive and collaborative by </span><span style="font-weight: 400;">guarding each person’s dignity and sense of security. </span>
 
 The OpenOakland community expects that  OpenOakland activities, events, and digital forums:
 
-  1. <span style="font-weight: 400;">OpenOakland is a professional environment. Behaviors that are inappropriate around your boss are inappropriate here. </span>
-  2. <span style="font-weight: 400;">Respect personal space. As a policy, we discourage hugs and other physical contact.</span>
-  3. <span style="font-weight: 400;">Err on the side of political correctness. Don’t say or write anything that can be misunderstood as insensitive.</span>
+1. <span style="font-weight: 400;">OpenOakland is a professional environment. Behaviors that are inappropriate around your boss are inappropriate here. </span>
+2. <span style="font-weight: 400;">Respect personal space. As a policy, we discourage hugs and other physical contact.</span>
+3. <span style="font-weight: 400;">Err on the side of political correctness. Don’t say or write anything that can be misunderstood as insensitive.</span>
 
 <span style="font-weight: 400;">OpenOakland reserves the right to ask anyone in violation of these policies not to participate in OpenOakland network activities, events, and digital forums.</span>
 
@@ -28,26 +27,26 @@ The OpenOakland community expects that  OpenOakland activities, events, and di
 
 <span style="font-weight: 400;">For interpersonal interactions: </span>
 
-  1. <span style="font-weight: 400;">Presume the value of others. </span><span style="font-weight: 400;">Differing ideas, skills and contributions all play a crucial role in the operation of each project.</span>
-  2. <span style="font-weight: 400;">Endeavor to include technical and non-</span><span style="font-weight: 400;">technical</span> <span style="font-weight: 400;">skill sets</span> <span style="font-weight: 400;">in your project.</span>
-  3. Encourage members and participants to listen as much as they speak.
+1. <span style="font-weight: 400;">Presume the value of others. </span><span style="font-weight: 400;">Differing ideas, skills and contributions all play a crucial role in the operation of each project.</span>
+2. <span style="font-weight: 400;">Endeavor to include technical and non-</span><span style="font-weight: 400;">technical</span> <span style="font-weight: 400;">skill sets</span> <span style="font-weight: 400;">in your project.</span>
+3. Encourage members and participants to listen as much as they speak.
 
 <span style="font-weight: 400;">When considering a new project or working on a current one: </span>
 
-  1. Strive to build tools that are open and free technology for public use.
-  2. Consider access for and input from those who are traditionally excluded from the civic process.
-  3. <span style="font-weight: 400;">Encourage participation from all community members in the planning, design, and implementation of civic tech.</span>
-  4. <span style="font-weight: 400;">Create and maintain positive relationships with community partners, community members and local government staff and actively involve them in the decision making process. </span>
+1. Strive to build tools that are open and free technology for public use.
+2. Consider access for and input from those who are traditionally excluded from the civic process.
+3. <span style="font-weight: 400;">Encourage participation from all community members in the planning, design, and implementation of civic tech.</span>
+4. <span style="font-weight: 400;">Create and maintain positive relationships with community partners, community members and local government staff and actively involve them in the decision making process. </span>
 
 <h4 style="text-align: left;">
-  <a id="user-content-code-for-americas-anti-harassment-policy" class="anchor" href="https://github.com/codeforamerica/codeofconduct#code-for-americas-anti-harassment-policy"></a> OpenOakland&#8217;s Anti-Harassment Policy
+  <a id="user-content-code-for-americas-anti-harassment-policy" class="anchor" href="https://github.com/codeforamerica/codeofconduct#code-for-americas-anti-harassment-policy"></a> OpenOakland's Anti-Harassment Policy
 </h4>
 
 This anti-harassment policy is based on [the example policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy) from the Geek Feminism wiki, created by the Ada Initiative and other volunteers.
 
 This policy is based on several other policies, including the Ohio LinuxFest anti-harassment policy, written by Esther Filderman and Beth Lynn Eicher, and the Con Anti-Harassment Project. Mary Gardiner, Valerie Aurora, Sarah Smith, and Donna Benjamin generalized the policies and added supporting material. Many members of LinuxChix, Geek Feminism and other groups contributed to this work.
 
-* * *
+---
 
 All OpenOakland network activities, events, and digital forums and their staff, presenters, and participants are held to an anti-harassment policy, included below.
 
@@ -61,7 +60,7 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 If you cannot reach an event organizer or forum administrator and/or it is an emergency, please call 911 and/or remove yourself from the situation.
 
-You can also contact OpenOakland about harassment at _safespace@openoakland.org _and feel free to use the email template below.  The OpenOakland Core Team acknowledge that we are not always in a position to evaluate a given situation due to the number of events and the fact that our team is not always present. However, we are hopeful that by providing these guidelines we are establishing a community that jointly adheres to these values and can provide an environment that is welcoming to all.
+You can also contact OpenOakland about harassment at \_safespace@openoakland.org _and feel free to use the email template below.  The OpenOakland Core Team acknowledge that we are not always in a position to evaluate a given situation due to the number of events and the fact that our team is not always present. However, we are hopeful that by providing these guidelines we are establishing a community that jointly adheres to these values and can provide an environment that is welcoming to all.
 
 We value your attendance and hope that by communicating these expectations widely we can all enjoy a harassment-free environment.
 
@@ -74,8 +73,6 @@ I am writing because of harassment at an OpenOakland event, (NAME, PLACE, DATE 
 You can reach me at (CONTACT INFO). Thank you.
 
 **Code of Conduct Complaints will be reviewed by the Ombudspersons. The full process is stated [here](https://docs.google.com/document/d/166AtSw9ygV4NW0_P9XrYDgx_pt7gtjkePXAoUQ0_KrA/edit#heading=h.y9wfwqjg139g).**
-
-&nbsp;
 
 #### **Image and Video Policy**
 

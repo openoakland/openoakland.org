@@ -24,7 +24,7 @@ title: We are OpenOakland
   <p>
     We meet every Tuesday at 6:30pm at Oakland City Hall in Hearing Room 4. Food
     is provided. Join us by
-    <a href="https://www.meetup.com/OpenOakland/">RSVPing on our Meetup page</a
+    <a href="https://www.meetup.com/OpenOakland/" target="_blank" rel="noopener">RSVPing on our Meetup page</a
     >.
   </p>
 
@@ -33,6 +33,6 @@ title: We are OpenOakland
 
   <p>
     OpenOakland members primarily use Slack for all communication. Please fill
-    out <a href="https://tinyurl.com/y722n6ul">this contact form</a> to get an
+    out <a href="https://tinyurl.com/y722n6ul" target="_blank" rel="noopener">this contact form</a> to get an
     invitation to our slack channel.
   </p>

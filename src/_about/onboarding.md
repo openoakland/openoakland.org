@@ -1,16 +1,14 @@
 ---
-id: 167691
 title: Onboarding
 date: 2017-02-25T11:44:31-07:00
 author: Services @OpenOakland.org
 layout: post
-guid: http://www.openoakland.org/?page_id=167691
 ---
 
 Questions and Conversation ideas and Actions Neil takes for Onboarding Newcomers
 
 **What is Civic Engagement or Participation?**  
-is &#8220;individual and collective actions designed to identify and address issues of public concern&#8221;. It can be defined as [citizens](https://en.wikipedia.org/wiki/Citizen "Citizen"){.mw-redirect} working together to make a change or difference in the community. Civic engagement includes communities working together in both political and non-political actions. The goal of civic engagement is to address public concerns and promote the quality of the community.  
+is "individual and collective actions designed to identify and address issues of public concern". It can be defined as [citizens](https://en.wikipedia.org/wiki/Citizen "Citizen"){.mw-redirect} working together to make a change or difference in the community. Civic engagement includes communities working together in both political and non-political actions. The goal of civic engagement is to address public concerns and promote the quality of the community.  
 https://en.wikipedia.org/wiki/Civic_engagement
 
 **What is Civic Technology?**  
@@ -36,7 +34,7 @@ https://en.wikipedia.org/wiki/Civic_technology
 
 - What do you want to do in Oakland?
 - How do you want to help in Oakland?
-- What&#8217;s not working around you?
+- What's not working around you?
 - What partnerships can be nurtured? Created?
 - What role(s) do you want to play at OpenOakland?
 
