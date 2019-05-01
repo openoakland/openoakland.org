@@ -34,7 +34,7 @@ This guide discusses the legal, social and technical aspects of open data. It ca
 
 ---
 
-[Resources related to Oakland Public Record Requests]({{site.baseurl}}/resources/resources-related-to-oakland-public-record-requests/)
+<!-- AL removed link to PRR resources -->
 
 <a href="http://data.oaklandnet.com/" target="_blank" rel="noopener noreferrer">OakData<br /> </a>The City of Oakland's data portal; populated and managed by the city.
 
