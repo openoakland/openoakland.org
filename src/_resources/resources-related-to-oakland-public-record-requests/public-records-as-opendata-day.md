@@ -1,10 +1,8 @@
 ---
-id: 168534
 title: Public Records as OpenData Day
 date: 2019-03-05T20:34:08-07:00
 author: Rik Belew
 layout: page
-guid: https://openoakland.org/?page_id=168534
 ---
 
 <h2 style="text-align: center;">

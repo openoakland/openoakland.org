@@ -1,13 +1,11 @@
 ---
-id: 20
 title: Our Projects
 date: 2015-11-03T02:55:22-07:00
 author: elina
 layout: page
-guid: https://www.openoakland.org/?page_id=20
 ---
 
-OpenOakland projects are the core of our organization&#8217;s efforts to connect citizens with impactful civic initiatives. **We&#8217;re always seeking new projects and project leaders** to work on housing, transportation, education, health, or any area that can improve the lives of Oakland&#8217;s residents. Please feel free to [join our Slack](https://docs.google.com/forms/d/e/1FAIpQLSee_qdE0qCmhufJC94MmSRVDLPAhhFJO4QMzuC31Kh0lxI_Mg/viewform?usp=sf_link) and reach out to members, leadership, or any project team for more information. You can contact project teams directly in their individual Slack channels. **Join or sign-in to Slack: <a href="http://slack.openoakland.org/" target="_blank" rel="noopener noreferrer">slack.openoakland.org</a>**
+OpenOakland projects are the core of our organization's efforts to connect citizens with impactful civic initiatives. **We're always seeking new projects and project leaders** to work on housing, transportation, education, health, or any area that can improve the lives of Oakland's residents. Please feel free to [join our Slack](https://docs.google.com/forms/d/e/1FAIpQLSee_qdE0qCmhufJC94MmSRVDLPAhhFJO4QMzuC31Kh0lxI_Mg/viewform?usp=sf_link) and reach out to members, leadership, or any project team for more information. You can contact project teams directly in their individual Slack channels. **Join or sign-in to Slack: <a href="http://slack.openoakland.org/" target="_blank" rel="noopener noreferrer">slack.openoakland.org</a>**
 
 ---
 
@@ -25,7 +23,7 @@ OpenOakland projects are the core of our organization&#8217;s efforts to connect
   </div>
   
   <div class="col2">
-    We make the Oakland City Council meetings easily accessible to the citizens&nbsp;of Oakland. Using our site citizens can learn when are the upcoming city&nbsp;council meetings, view the agenda, put the meeting on your calendar, and send an electronic comment to the Council. Plus you can see videos of past&nbsp;meetings.
+    We make the Oakland City Council meetings easily accessible to the citizens of Oakland. Using our site citizens can learn when are the upcoming city council meetings, view the agenda, put the meeting on your calendar, and send an electronic comment to the Council. Plus you can see videos of past meetings.
   </div>
   <br />
   <h3>
@@ -37,7 +35,7 @@ OpenOakland projects are the core of our organization&#8217;s efforts to connect
   </div>
   
   <div class="col2">
-    Civic User Testing (CUT) Group&#8217;s goal is to make sure OpenOakland projects are working towards creating the best possible experience and serve all Oakland residents. If you&#8217;re interested in user experience, or just like making things better, please reach out! <a href="https://docs.google.com/document/d/1VkSG9Amzq2759HACbFizSGAah4Q4byGG6R8cCxwcOO4/edit">Check out our current projects here.</a>
+    Civic User Testing (CUT) Group's goal is to make sure OpenOakland projects are working towards creating the best possible experience and serve all Oakland residents. If you're interested in user experience, or just like making things better, please reach out! <a href="https://docs.google.com/document/d/1VkSG9Amzq2759HACbFizSGAah4Q4byGG6R8cCxwcOO4/edit">Check out our current projects here.</a>
   </div>
   <br />  
   <h3>
@@ -97,7 +95,7 @@ OpenOakland projects are the core of our organization&#8217;s efforts to connect
   </div>
   
   <div class="col2">
-    Explaining to school communities what the Oakland Unified School District&#8217;s central office does and helping them weigh in on what its function should be in the future. Let’s reimagine what OUSD district office can look like!
+    Explaining to school communities what the Oakland Unified School District's central office does and helping them weigh in on what its function should be in the future. Let’s reimagine what OUSD district office can look like!
   </div>
   <br />  
   <h3>
@@ -109,7 +107,7 @@ OpenOakland projects are the core of our organization&#8217;s efforts to connect
   </div>
   
   <div class="col2">
-    Phase III (Delivery pending, ~End of Mar 2019): This is mainly focused on developing a survey design, and related questionnaire, to measure OTX impact across their tech literacy programs servicing individuals in public housing. The data team is going to fine-tune our deliveries in Phase II to be &#8220;publication-ready&#8221;. Meanwhile, our volunteers leading the survey design work are partnered with CUT group to assist with the survey design, implementation approach, and language of questions.
+    Phase III (Delivery pending, ~End of Mar 2019): This is mainly focused on developing a survey design, and related questionnaire, to measure OTX impact across their tech literacy programs servicing individuals in public housing. The data team is going to fine-tune our deliveries in Phase II to be "publication-ready". Meanwhile, our volunteers leading the survey design work are partnered with CUT group to assist with the survey design, implementation approach, and language of questions.
   </div>
   <br />
   <h3>
@@ -252,7 +250,7 @@ OpenOakland projects are the core of our organization&#8217;s efforts to connect
   </div>
   
   <div class="col2">
-    <strong>Our Backstory</strong>: Beginning for Oakland&#8217;s 2012 elections, we asked electoral candidates to take the <a href="http://oaklandcandidates.org/OpenGovPledge2012.pdf" target="_blank" rel="noopener noreferrer">Open Government Pledge</a> to support the following principles of Open Government:
+    <strong>Our Backstory</strong>: Beginning for Oakland's 2012 elections, we asked electoral candidates to take the <a href="http://oaklandcandidates.org/OpenGovPledge2012.pdf" target="_blank" rel="noopener noreferrer">Open Government Pledge</a> to support the following principles of Open Government:
     
     <ul>
       <li>
@@ -303,7 +301,7 @@ OpenOakland projects are the core of our organization&#8217;s efforts to connect
   </div>
   
   <div class="col2">
-    <strong>Our Backstory</strong>: Measure G is a city ballot measure that was passed by the citizens of Oakland in 2008 to improve the quality of education provided by Oakland public schools. Money is collected from Measure G via a special parcel tax, which amounts to about $20 million a year in additional funds for the Oakland Unified School District&#8217;s budget.Track G – Oakland’s Measure G publishes data on how funds collected from the Measure G parcel tax are spent. Track G allows spending to be seen by location, by program, and by school.
+    <strong>Our Backstory</strong>: Measure G is a city ballot measure that was passed by the citizens of Oakland in 2008 to improve the quality of education provided by Oakland public schools. Money is collected from Measure G via a special parcel tax, which amounts to about $20 million a year in additional funds for the Oakland Unified School District's budget.Track G – Oakland’s Measure G publishes data on how funds collected from the Measure G parcel tax are spent. Track G allows spending to be seen by location, by program, and by school.
   </div>
   
   <br />
@@ -316,6 +314,6 @@ OpenOakland projects are the core of our organization&#8217;s efforts to connect
   </div>
   
   <div class="col2">
-    <strong>Our Backstory</strong>: While gang signs and other graffiti are common to inner cities, East Oakland is suffering from a plague of illegal dumping—mostly from outside actors. Trash Talk is envisioned as a tool for help neighbors plan and execute cleanups and graffiti removal.The app will help neighbors report issues and work together with the Oakland City Public Works Agency to remove trash, dead animals, and other consequences of illegal dumping in East Oakland neighborhoods. Trash Talk will also eventually connect with the City&#8217;s existing tracking app, <a href="https://en.seeclickfix.com/oakland" target="_blank" rel="noopener noreferrer">SeeClickFix</a> for tracking volunteer time.
+    <strong>Our Backstory</strong>: While gang signs and other graffiti are common to inner cities, East Oakland is suffering from a plague of illegal dumping—mostly from outside actors. Trash Talk is envisioned as a tool for help neighbors plan and execute cleanups and graffiti removal.The app will help neighbors report issues and work together with the Oakland City Public Works Agency to remove trash, dead animals, and other consequences of illegal dumping in East Oakland neighborhoods. Trash Talk will also eventually connect with the City's existing tracking app, <a href="https://en.seeclickfix.com/oakland" target="_blank" rel="noopener noreferrer">SeeClickFix</a> for tracking volunteer time.
   </div>
 </div>

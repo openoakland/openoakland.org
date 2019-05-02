@@ -9,7 +9,7 @@ setup:
 	bundle install
 
 test:
-	bundle exec htmlproofer --check-html _site --url-ignore "https://adoptadrainoakland.com"
+	bundle exec htmlproofer --check-html _site --url-ignore "https://adoptadrainoakland.com,http://www.ckan.org"
 
 
 .PHONY: build serve setup test

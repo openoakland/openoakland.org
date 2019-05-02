@@ -1,11 +1,10 @@
 ---
-id: 133
 title: Our Values
 date: 2015-11-29T21:18:24-07:00
 author: elina
 layout: page
-guid: https://www.openoakland.org/?page_id=133
 ---
+
 **OpenOakland** was formed by people with a desire to build a community that can leverage modern tools and technology to transform our city. Part of the reason we created **OpenOakland**, initially as a [Code for America Brigade](http://brigade.codeforamerica.org/brigade/about/), was to connect local hackers with civic issues and city staff to work together to build tools and services that lower barriers for all to improve Oakland.  We’ve grown as an organization into a civic innovation nonprofit and we recently laid down our organizational values.
 
 <p dir="ltr">
