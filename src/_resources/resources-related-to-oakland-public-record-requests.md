@@ -33,4 +33,4 @@ layout: page
 - [OaklandWiki's take](https://localwiki.org/oakland/Sunshine_Ordinance)
 - [Marleen Sacks suit, 2010](https://oaklandnorth.net/2010/04/09/after-lawsuit-council-to-schedule-hearing-on-public-records-requests/)
 
-## [Talk slides and video recording from Public Records as OpenData Day (March 3, 2019)]({{site.baseurl}}/resources/resources-related-to-oakland-public-record-requests/public-records-as-opendata-day.html)
+## [Talk slides and video recording from Public Records as OpenData Day (March 3, 2019)]({{site.baseurl}}/resources/resources-related-to-oakland-public-record-requests/public-records-as-opendata-day/)
