@@ -21,4 +21,4 @@
     {% endif %}
 </div>
 
-<div class="col2">{{ project.description | smartify }}</div>
+<div class="col2">{{ project.description | markdownify | smartify }}</div>
