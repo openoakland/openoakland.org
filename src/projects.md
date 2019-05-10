@@ -7,7 +7,7 @@ layout: page
 active_projects:
   -
     name: Councilmatic
-    image: /assets/images/projects/councilmatic_300x118.png
+    image: councilmatic_300x118.png
     link: http://councilmatic.aws.openoakland.org/pc/
     leader: Howard Mattis
     slack_id: C0M89GTRT
@@ -15,7 +15,7 @@ active_projects:
     description: We make the Oakland City Council meetings easily accessible to the citizens of Oakland. Using our site citizens can learn when are the upcoming city council meetings, view the agenda, put the meeting on your calendar, and send an electronic comment to the Council. Plus you can see videos of past meetings.
   -
     name: Civic User Testing Group (CUT Group)
-    image: /assets/images/projects/cut-group_300x233.png
+    image: cut-group_300x233.png
     link: http://cutgroup.openoakland.org/
     leader: Mary Yeh
     slack_id: C02FYSFLK
@@ -23,7 +23,7 @@ active_projects:
     description: Civic User Testing (CUT) Group's goal is to make sure OpenOakland projects are working towards creating the best possible experience and serve all Oakland residents. If you're interested in user experience, or just like making things better, please reach out! <a href="https://docs.google.com/document/d/1VkSG9Amzq2759HACbFizSGAah4Q4byGG6R8cCxwcOO4/edit">Check out our current projects here.</a>
   -
     name: OakCrime
-    image: /assets/images/projects/oakcrime_300x233.png
+    image: oakcrime_300x233.png
     link: http://oakcrime.org
     leader: Rik Belew
     slack_id: C040ULV6C
@@ -31,7 +31,7 @@ active_projects:
     description: OakCrime.org seeks to increase transparency and understanding of data released by the Oakland Police Department (OPD) regarding crime. Our data goes back to 2007, and up to yesterday. We strive to make all public OPD data available to citizens ASAP, provide context for it with analytics and visualization, together with full provenance via open source repositories and solid documentation.
   -
     name: Open Budget
-    image: /assets/images/projects/openbudgetoakland_300x233.png
+    image: openbudgetoakland_300x233.png
     link: http://openbudgetoakland.org/
     leader: Felicia Betancourt
     slack_id: C02R4185B
@@ -39,7 +39,7 @@ active_projects:
     description: Every 2 years the city of Oakland releases a budget in a spreadsheet that has nearly 20,000 rows, which does not make for ideal reading. The mission of Open Budget Oakland is to transform this mountain of data into an interactive display of charts and diagrams that is easy and even fun to use. Our MVP is live, but could benefit from improvements and new features.
   -
     name: Open Disclosure
-    image: /assets/images/projects/opendisclosure_300x233.png
+    image: opendisclosure_300x233.png
     link: http://www.opendisclosure.io/
     leader: Elina Rubuliak, Suzanne Doran, and Tom Dooner
     slack_id: C02GKECTJ
@@ -47,7 +47,7 @@ active_projects:
     description: Open Disclosure helps Oaklanders understand the role of money in their local politics. By analyzing mandatory campaign finance disclosures for candidates seeking public office, Open Disclosure presents a user-friendly overview of who is raising money, from where, and how much. Open Disclosure is developed in partnership with the City of Oakland Public Ethics Commission.
   -
     name: West Oakland Air Quality (WOAQ)
-    image: /assets/images/projects/woaq_300x155.png
+    image: woaq_300x155.png
     link: 
     leader: Jess Sand
     slack_id: 
@@ -79,6 +79,32 @@ active_projects:
     description: Our project seeks to improve the safety of bike lanes for cyclists in Oakland. We are developing an app to generate aggregate data regarding infringements in the bike lane (ie. vehicles) via self-reporting cyclists. From this data, we will generate reports to drive improvements in problem areas.
 
 inactive_projects:
+  -
+    name: Adopt a Drain
+    image: 
+    established: 2011
+    link: https://adoptadrainoakland.com
+    description: Adopt a Drain is a platform for Oakland residents to volunteer to be responsible for keeping a nearby storm drain clear to decrease flooding from storms, protect water quality, and keep trash from storm drains and connected creeks and water bodies. Vigilant maintenance of the City’s storm drain infrastructure is important for reducing pollution in the Bay. Adopt a Drain was set up in partnership with <a href="http://www2.oaklandnet.com/government/o/PWA/o/FE/s/ID/OAK024735#Drain" target="_blank" rel="noopener noreferrer">City of Oakland’s Public Works Agency</a>.
+  -
+    name: CannaEquity.org
+    image: cannaequity_300x199.png
+    establish: 2017
+    link: http://cannaequity.org
+    leader: Angela Gennino and Richard Ng
+    slack_id: C67FNRY20
+    slack_channel: 
+    description: "<strong>Our Backstory</strong>: The City of Oakland is in the process of expanding their medical cannabis licensing to include regulation for cultivation and manufacturing. As part of this activity, the City also codified an Equity Licensing Program to address barriers to participation in the industry for members of disenfranchised communities in Oakland. This program includes a provision for “equity business incubators” to support new businesses in the industry. Equity businesses in the pipeline will be important to regular applicants, because regular licenses will only be issued on a one-to-one basis with equity licenses during the initial phase of the program. The incubator opportunity is intended to help new enterprises overcome the barrier of securing commercial space by incentivizing more established businesses to agree to share their existing space for a minimum of three years. By partnering with an equity business, a regular applicant will be moved to the top of the list for the next available non-equity cannabis business license.
+    <br/>
+    To support the Equity Licensing Program, OpenOakland is providing support to other volunteer technologists and cannabis entrepreneurs who are working with the City of Oakland’s City Administrator’s Office and the Department ofRace and Equity to develop <a href=\"http://cannaequity.org/\">CannaEquity.org</a>, an online“matchmaking” application that would assist interested equity and regularapplicants to locate each other efficiently. Applicants would create onlineaccounts to pre-screen for compatibility and control the pace of informationsharing and relationship building needed for the formation of space-sharingrelationships. Once built, the app will be maintained until the end of phaseone of licensing. This date will be determined by the collection of cannabistax revenue sufficient to launch the next phase of equity applicant supportservices (assumed to be within one year)."
+  -
+    name: CityCamp Oakland
+    image: 
+    established: 2013
+    link: 
+    leader: 
+    slack_id: 
+    slack_channel: 
+    description: '<strong>Our Backstory</strong>: The fifth annual CityCamp successfully took place on Saturday, March 25, 2017 at Oakland City Hall. CityCamp is an unstructured conference where municipal employees, civic leaders, technology folks, software developers, journalists, and engaged residents can meet and discuss the intersections of technology and local government—how innovative technology and data uses can improve civic engagement, increase efficiency and transparency, connect residents, and incubate the technology community in our city. Unconferences are not structured up-front; the agenda is completed on the day based on topics the attendees themselves suggest. This gives attendees control over the topics and discussion happening at the event, so residents can drive attention towards issues they think are most important.'
 ---
 
 OpenOakland projects are the core of our organization's efforts to connect citizens with impactful civic initiatives. **We're always seeking new projects and project leaders** to work on housing, transportation, education, health, or any area that can improve the lives of Oakland's residents. Please feel free to [join our Slack](https://docs.google.com/forms/d/e/1FAIpQLSee_qdE0qCmhufJC94MmSRVDLPAhhFJO4QMzuC31Kh0lxI_Mg/viewform?usp=sf_link) and reach out to members, leadership, or any project team for more information. You can contact project teams directly in their individual Slack channels. **Join or sign-in to Slack: <a href="http://slack.openoakland.org/" target="_blank" rel="noopener noreferrer">slack.openoakland.org</a>**
@@ -86,63 +112,21 @@ OpenOakland projects are the core of our organization's efforts to connect citiz
 ---
 
 <div id="projects">
-  <h2>
-    Active Projects
-  </h2>
+  <h2>Active Projects</h2>
 
   {% for project in page.active_projects %}
     {% include project.html %}
   {% endfor %}
+
+  <hr/>
   
-  <hr />
-  
-  <h2>
-    Inactive Projects
-  </h2>
+  <h2>Inactive Projects</h2>
   
   <p><em>These projects are some of OpenOakland’s original projects. They are no longer actively being developed and aren’t accepting volunteers.</em></p>
-  
-  <h3>
-    <a href="https://adoptadrainoakland.com" target="_blank" rel="noopener noreferrer">Adopt a Drain</a>
-  </h3>
-  
-  <div class="col1">
-    <strong>Established</strong>: 2011
-  </div>
-  
-  <div class="col2">
-    Adopt a Drain is a platform for Oakland residents to volunteer to be responsible for keeping a nearby storm drain clear to decrease flooding from storms, protect water quality, and keep trash from storm drains and connected creeks and water bodies. Vigilant maintenance of the City’s storm drain infrastructure is important for reducing pollution in the Bay. Adopt a Drain was set up in partnership with <a href="http://www2.oaklandnet.com/government/o/PWA/o/FE/s/ID/OAK024735#Drain" target="_blank" rel="noopener noreferrer">City of Oakland’s Public Works Agency</a>.
-  </div>
-  <br />
-  
-  <h3>
-    <a href="http://cannaequity.org">CannaEquity.org</a>
-  </h3>
-  
-  <div class="col1">
-    <strong>Established</strong>: 2017 <strong>Team Contact</strong>: Angela Gennino and Richard Ng on Slack channel <a href="https://openoakland.slack.com/messages/C67FNRY20/" target="_blank" rel="noopener noreferrer">#cannabis_equity</a>
-  </div>
-  
-  <div class="col2">
-    <strong>Our Backstory</strong>: The City of Oakland is in the process of expanding their medical cannabis licensing to include regulation for cultivation and manufacturing. As part of this activity, the City also codified an Equity Licensing Program to address barriers to participation in the industry for members of disenfranchised communities in Oakland. This program includes a provision for “equity business incubators” to support new businesses in the industry. Equity businesses in the pipeline will be important to regular applicants, because regular licenses will only be issued on a one-to-one basis with equity licenses during the initial phase of the program. The incubator opportunity is intended to help new enterprises overcome the barrier of securing commercial space by incentivizing more established businesses to agree to share their existing space for a minimum of three years. By partnering with an equity business, a regular applicant will be moved to the top of the list for the next available non-equity cannabis business license.
-  <br />
-    
-    To support the Equity Licensing Program, OpenOakland is providing support to other volunteer technologists and cannabis entrepreneurs who are working with the City of Oakland’s City Administrator’s Office and the Department ofRace and Equity to develop <a href="http://cannaequity.org/">CannaEquity.org</a>, an online“matchmaking” application that would assist interested equity and regularapplicants to locate each other efficiently. Applicants would create onlineaccounts to pre-screen for compatibility and control the pace of informationsharing and relationship building needed for the formation of space-sharingrelationships. Once built, the app will be maintained until the end of phaseone of licensing. This date will be determined by the collection of cannabistax revenue sufficient to launch the next phase of equity applicant supportservices (assumed to be within one year).
-  </div>
-  <br />
-  <!-- AL removed link to city camp page-->
-  <h3>
-    CityCamp Oakland
-  </h3>
-  
-  <div class="col1">
-   <strong>Established</strong>: 2013
-  </div>
-  
-  <div class="col2">
-    <strong>Our Backstory</strong>: The fifth annual CityCamp successfully took place on Saturday, March 25, 2017 at Oakland City Hall. CityCamp is an unstructured conference where municipal employees, civic leaders, technology folks, software developers, journalists, and engaged residents can meet and discuss the intersections of technology and local government—how innovative technology and data uses can improve civic engagement, increase efficiency and transparency, connect residents, and incubate the technology community in our city. Unconferences are not structured up-front; the agenda is completed on the day based on topics the attendees themselves suggest. This gives attendees control over the topics and discussion happening at the event, so residents can drive attention towards issues they think are most important.
-  </div>
-  <br />
+
+  {% for project in page.inactive_projects %}
+    {% include project.html %}
+  {% endfor %}
   
   <h3>
     Diversity, Equity, and Inclusion Group

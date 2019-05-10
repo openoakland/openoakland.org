@@ -4,7 +4,12 @@
 </h3>
 
 <div class="col1">
-    <img src="{{ project.image }}" alt="screenshot of {{ project.name }}">
+    {% if project.image %}
+    <img src="/assets/images/projects/{{ project.image }}" alt="screenshot of {{ project.name }}">
+    {% endif %}
+    {% if project.established %}
+    <strong>Established</strong>: {{ project.established }}
+    {% endif %}
     <strong>Team Contact</strong>: {{ project.leader }} on Slack channel <a
         href="https://openoakland.slack.com/messages/{{ project.slack_id }}" target="_blank"
         rel="noopener noreferrer">#{{ project.slack_channel }}</a>
