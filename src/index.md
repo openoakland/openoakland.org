@@ -17,7 +17,4 @@ As part of the [Code for America Brigade network](https://brigade.codeforamerica
 <div class="landing-page-image">
     <img alt="RSVP on Meetup" src="/assets/images/OO-on-Slack-300x128.png" />
 </div>
-<p>
-    OpenOakland members primarily use Slack for all communication. Please fill out <a href="https://tinyurl.com/y722n6ul">this contact form</a> to get an invitation to our slack channel.
-    OpenOakland members primarily use Slack for all communication. Please fill out [this contact form](https://tinyurl.com/y722n6ul) to get an invitation to our slack channel.
-</p>
+<p>OpenOakland members primarily use Slack for all communication. Please fill out <a href="https://tinyurl.com/y722n6ul">this contact form</a> to get an invitation to our slack channel.</p>
