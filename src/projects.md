@@ -7,7 +7,7 @@ layout: page
 active_projects:
   -
     name: Councilmatic
-    image: /assets/images/councilmatic_300x118.png
+    image: /assets/images/projects/councilmatic_300x118.png
     link: http://councilmatic.aws.openoakland.org/pc/
     leader: Howard Mattis
     slack_id: C0M89GTRT
@@ -15,7 +15,7 @@ active_projects:
     description: We make the Oakland City Council meetings easily accessible to the citizens of Oakland. Using our site citizens can learn when are the upcoming city council meetings, view the agenda, put the meeting on your calendar, and send an electronic comment to the Council. Plus you can see videos of past meetings.
   -
     name: Civic User Testing Group (CUT Group)
-    image: /assets/images/cut-group_300x233.png
+    image: /assets/images/projects/cut-group_300x233.png
     link: http://cutgroup.openoakland.org/
     leader: Mary Yeh
     slack_id: C02FYSFLK
@@ -23,12 +23,60 @@ active_projects:
     description: Civic User Testing (CUT) Group's goal is to make sure OpenOakland projects are working towards creating the best possible experience and serve all Oakland residents. If you're interested in user experience, or just like making things better, please reach out! <a href="https://docs.google.com/document/d/1VkSG9Amzq2759HACbFizSGAah4Q4byGG6R8cCxwcOO4/edit">Check out our current projects here.</a>
   -
     name: OakCrime
-    image: /assets/images/oakcrime_300x233.png
+    image: /assets/images/projects/oakcrime_300x233.png
     link: http://oakcrime.org
     leader: Rik Belew
     slack_id: C040ULV6C
     slack_channel: crime
     description: OakCrime.org seeks to increase transparency and understanding of data released by the Oakland Police Department (OPD) regarding crime. Our data goes back to 2007, and up to yesterday. We strive to make all public OPD data available to citizens ASAP, provide context for it with analytics and visualization, together with full provenance via open source repositories and solid documentation.
+  -
+    name: Open Budget
+    image: /assets/images/projects/openbudgetoakland_300x233.png
+    link: http://openbudgetoakland.org/
+    leader: Felicia Betancourt
+    slack_id: C02R4185B
+    slack_channel: openbudget
+    description: Every 2 years the city of Oakland releases a budget in a spreadsheet that has nearly 20,000 rows, which does not make for ideal reading. The mission of Open Budget Oakland is to transform this mountain of data into an interactive display of charts and diagrams that is easy and even fun to use. Our MVP is live, but could benefit from improvements and new features.
+  -
+    name: Open Disclosure
+    image: /assets/images/projects/opendisclosure_300x233.png
+    link: http://www.opendisclosure.io/
+    leader: Elina Rubuliak, Suzanne Doran, and Tom Dooner
+    slack_id: C02GKECTJ
+    slack_channel: open-disclosure
+    description: Open Disclosure helps Oaklanders understand the role of money in their local politics. By analyzing mandatory campaign finance disclosures for candidates seeking public office, Open Disclosure presents a user-friendly overview of who is raising money, from where, and how much. Open Disclosure is developed in partnership with the City of Oakland Public Ethics Commission.
+  -
+    name: West Oakland Air Quality (WOAQ)
+    image: /assets/images/projects/woaq_300x155.png
+    link: 
+    leader: Jess Sand
+    slack_id: 
+    slack_channel: woaq
+    description: We are creating a digital platform for West Oakland residents to collect, visualize, and act on the air quality data which affect them. We are partnered with the West Oakland Environmental Indicators Project, a community group who has collected Air Quality data from their neighborhood.
+  -
+    name: OUSD Budget
+    image: 
+    link: 
+    leader: John Baldo
+    slack_id: 
+    slack_channel: ousd-budget
+    description: Explaining to school communities what the Oakland Unified School District's central office does and helping them weigh in on what its function should be in the future. Let’s reimagine what OUSD district office can look like!
+  -
+    name: Open Oasis
+    image: 
+    link: 
+    leader: Andrew Tom
+    slack_id: 
+    slack_channel: openoasis
+    description: "Phase III (Delivery pending, ~End of Mar 2019): This is mainly focused on developing a survey design, and related questionnaire, to measure OTX impact across their tech literacy programs servicing individuals in public housing. The data team is going to fine-tune our deliveries in Phase II to be \"publication-ready\". Meanwhile, our volunteers leading the survey design work are partnered with CUT group to assist with the survey design, implementation approach, and language of questions."
+  -
+    name: LaneLookout
+    image: 
+    link: 
+    leader: 
+    slack_id: 
+    slack_channel: oak-dot-bikes
+    description: Our project seeks to improve the safety of bike lanes for cyclists in Oakland. We are developing an app to generate aggregate data regarding infringements in the bike lane (ie. vehicles) via self-reporting cyclists. From this data, we will generate reports to drive improvements in problem areas.
 
 inactive_projects:
 ---
@@ -46,88 +94,13 @@ OpenOakland projects are the core of our organization's efforts to connect citiz
     {% include project.html %}
   {% endfor %}
   
-  <h3>
-    <a href="http://openbudgetoakland.org/" target="_blank" rel="noopener noreferrer">Open Budget</a>
-  </h3>
-  <div class="col1">
-    <strong>Team Contact</strong>: Felicia Betancourt on Slack channel <a href="https://openoakland.slack.com/messages/C02R4185B/ target=" rel="noopener noreferrer">#openbudget</a>
-  </div>
-  
-  <div class="col2">
-    Every 2 years the city of Oakland releases a budget in a spreadsheet that has nearly 20,000 rows, which does not make for ideal reading. The mission of Open Budget Oakland is to transform this mountain of data into an interactive display of charts and diagrams that is easy and even fun to use. Our MVP is live, but could benefit from improvements and new features.
-  </div>
-  <br />
-  <h3>
-    <a href="http://www.opendisclosure.io/" target="_blank" rel="noopener noreferrer">Open Disclosure</a>
-  </h3>
-  
-  <div class="col1">
-    <strong>Team Contact</strong>: Elina Rubuliak, Suzanne Doran, and Tom Dooner on Slack channel <a href="https://openoakland.slack.com/messages/C02GKECTJ/">#open-disclosure</a>
-  </div>
-  
-  <div class="col2">
-    Open Disclosure helps Oaklanders understand the role of money in their local politics. By analyzing mandatory campaign finance disclosures for candidates seeking public office, Open Disclosure presents a user-friendly overview of who is raising money, from where, and how much. Open Disclosure is developed in partnership with the City of Oakland Public Ethics Commission.
-  </div>
-  <br />
-  <h3>
-    West Oakland Air Quality (WOAQ)
-  </h3>
-  
-  <div class="col1">
-    <strong>Team Contact</strong>: Jess Sand on Slack channel #woaq
-  </div>
-  
-  <div class="col2">
-    We are creating a digital platform for West Oakland residents to collect, visualize, and act on the air quality data which affect them. We are partnered with the West Oakland Environmental Indicators Project, a community group who has collected Air Quality data from their neighborhood.
-  </div>
-  <br />
-  <h3>
-    OUSD Budget
-  </h3>
-  
-  <div class="col1">
-    <strong>Team Contact</strong>: John Baldo on Slack channel #ousd-budget
-  </div>
-  
-  <div class="col2">
-    Explaining to school communities what the Oakland Unified School District's central office does and helping them weigh in on what its function should be in the future. Let’s reimagine what OUSD district office can look like!
-  </div>
-  <br />  
-  <h3>
-    Open Oasis
-  </h3>
-  
-  <div class="col1">
-    <strong>Team Contact</strong>: Andrew Tom on Slack channel #openoasis
-  </div>
-  
-  <div class="col2">
-    Phase III (Delivery pending, ~End of Mar 2019): This is mainly focused on developing a survey design, and related questionnaire, to measure OTX impact across their tech literacy programs servicing individuals in public housing. The data team is going to fine-tune our deliveries in Phase II to be "publication-ready". Meanwhile, our volunteers leading the survey design work are partnered with CUT group to assist with the survey design, implementation approach, and language of questions.
-  </div>
-  <br />
-  <h3>
-    LaneLookout
-  </h3>
-  
-  <div class="col1">
-    <strong>Team Contact</strong>: Slack channel #oak-dot-bikes
-  </div>
-  
-  <div class="col2">
-    Our project seeks to improve the safety of bike lanes for cyclists in Oakland. We are developing an app to generate aggregate data regarding infringements in the bike lane (ie. vehicles) via self-reporting cyclists. From this data, we will generate reports to drive improvements in problem areas.
-  </div>
-  <br />
-  
   <hr />
   
-  <br />
   <h2>
     Inactive Projects
   </h2>
   
-  <p>
-    <em>These projects are some of OpenOakland’s original projects. They are no longer actively being developed and aren’t accepting volunteers.</em>
-  </p>
+  <p><em>These projects are some of OpenOakland’s original projects. They are no longer actively being developed and aren’t accepting volunteers.</em></p>
   
   <h3>
     <a href="https://adoptadrainoakland.com" target="_blank" rel="noopener noreferrer">Adopt a Drain</a>
