@@ -51,4 +51,4 @@ layout: page
 
 [PDF](https://www.openoakland.org/wp-content/uploads/2017/03/OpenOakland-Projects-04.pdf)
 
-Come meet us and share your project ideas at [OpenOakland every Tuesday night]({{site.baseurl}}) in City Hall. [You can also email us.]({{site.baseurl}}/contact.html)
+Come meet us and share your project ideas at [OpenOakland every Tuesday night]({{site.baseurl}}) in City Hall. [You can also email us.]({{site.baseurl}}/contact/)

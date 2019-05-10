@@ -3,36 +3,17 @@ layout: home
 title: We are OpenOakland
 ---
 
- <h3>
-    OpenOakland bridges <b>technology</b> and <b>community</b> for a thriving
-    and equitable Oakland.
-  </h3>
+### OpenOakland bridges **technology** and **community** for a thriving and equitable Oakland.
 
-  <p>
-    As part of the
-    <a href="https://brigade.codeforamerica.org" target="_blank" rel="noopener"
-      >Code for America Brigade network</a
-    >, we are a welcoming and inclusive volunteer group of developers,
-    designers, data geeks, and citizen activists who use creative technology to
-    solve civic and social problems.
-  </p>
+As part of the [Code for America Brigade network](https://brigade.codeforamerica.org), we are a welcoming and inclusive volunteer group of developers, designers, data geeks, and citizen activists who use creative technology to solve civic and social problems.
 
-  <hr />
-  <br />
+<div class="landing-page-image">
+    <img alt="RSVP on Meetup" src="/assets/images/RSVP-on-meetup-300x200.png" />
+</div>
+<div>
+    We meet every Tuesday at 6:30pm at Oakland City Hall in Hearing Room 4. Food is provided. Join us by <a href="https://www.meetup.com/OpenOakland/">RSVPing on our Meetup page</a>.
+</div>
 
-  <!-- AL removed images -->
-  <p>
-    We meet every Tuesday at 6:30pm at Oakland City Hall in Hearing Room 4. Food
-    is provided. Join us by
-    <a href="https://www.meetup.com/OpenOakland/" target="_blank" rel="noopener">RSVPing on our Meetup page</a
-    >.
-  </p>
+<!-- AL removed images -->
 
-  <hr />
-  <br />
-
-  <p>
-    OpenOakland members primarily use Slack for all communication. Please fill
-    out <a href="https://tinyurl.com/y722n6ul" target="_blank" rel="noopener">this contact form</a> to get an
-    invitation to our slack channel.
-  </p>
+OpenOakland members primarily use Slack for all communication. Please fill out [this contact form](https://tinyurl.com/y722n6ul) to get an invitation to our slack channel.
