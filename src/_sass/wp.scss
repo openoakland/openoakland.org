@@ -44,6 +44,10 @@ a {
   padding-bottom: 20px;
 }
 
+#projects .col2 + hr:not([class*="col"]) {
+  clear: both;
+}
+
 #projects img,
 #projects a img {
   border: 1px #dadada solid;
