@@ -195,7 +195,7 @@ inactive_projects:
     link: 
     leader: 
     slack_id: C04AS7MKP
-    slack_channel: '???'
+    slack_channel: 
     description: "<strong>Our Backstory</strong>: Measure G is a city ballot measure that was passed by the citizens of Oakland in 2008 to improve the quality of education provided by Oakland public schools. Money is collected from Measure G via a special parcel tax, which amounts to about $20 million a year in additional funds for the Oakland Unified School District's budget.Track G – Oakland’s Measure G publishes data on how funds collected from the Measure G parcel tax are spent. Track G allows spending to be seen by location, by program, and by school."
   -
     name: Trash Talk
