@@ -10,9 +10,15 @@
     {% if project.established %}
     <strong>Established</strong>: {{ project.established }}
     {% endif %}
+    {% if project.leader %}
     <strong>Team Contact</strong>: {{ project.leader }} on Slack channel <a
         href="https://openoakland.slack.com/messages/{{ project.slack_id }}" target="_blank"
         rel="noopener noreferrer">#{{ project.slack_channel }}</a>
+    {% elsif project.slack_channel %}
+    <strong>Slack channel</strong>: <a
+        href="https://openoakland.slack.com/messages/{{ project.slack_id }}" target="_blank"
+        rel="noopener noreferrer">#{{ project.slack_channel }}</a>
+    {% endif %}
 </div>
 
 <div class="col2">{{ project.description | smartify }}</div>
