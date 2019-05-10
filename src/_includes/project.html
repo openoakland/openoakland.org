@@ -1,13 +1,13 @@
-<img src="{{ project.image }}" alt="screenshot of {{ project.name }}">
 
 <h3>
     <a href="{{ project.link }}">{{ project.name }}</a>
 </h3>
 
 <div class="col1">
+    <img src="{{ project.image }}" alt="screenshot of {{ project.name }}">
     <strong>Team Contact</strong>: {{ project.leader }} on Slack channel <a
-        href="https://openoakland.slack.com/messages/{{ project.slackLink }}" target="_blank"
-        rel="noopener noreferrer">{{ project.slackChannel }}</a>
+        href="https://openoakland.slack.com/messages/{{ project.slack_id }}" target="_blank"
+        rel="noopener noreferrer">#{{ project.slack_channel }}</a>
 </div>
 
 <div class="col2">{{ project.description }}</div>

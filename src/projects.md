@@ -4,16 +4,33 @@ date: 2015-11-03T02:55:22-07:00
 author: elina
 layout: page
 
-projects:
+active_projects:
   -
-    name:
-    image:
-    link:
-    leader:
-    slacklink:
-    slackchannel:
-    description:
+    name: Councilmatic
+    image: /assets/images/councilmatic_300x118.png
+    link: http://councilmatic.aws.openoakland.org/pc/
+    leader: Howard Mattis
+    slack_id: C0M89GTRT
+    slack_channel: councilmatic
+    description: We make the Oakland City Council meetings easily accessible to the citizens of Oakland. Using our site citizens can learn when are the upcoming city council meetings, view the agenda, put the meeting on your calendar, and send an electronic comment to the Council. Plus you can see videos of past meetings.
   -
+    name: Civic User Testing Group (CUT Group)
+    image: /assets/images/cut-group_300x233.png
+    link: http://cutgroup.openoakland.org/
+    leader: Mary Yeh
+    slack_id: C02FYSFLK
+    slack_channel: cut-group
+    description: Civic User Testing (CUT) Group's goal is to make sure OpenOakland projects are working towards creating the best possible experience and serve all Oakland residents. If you're interested in user experience, or just like making things better, please reach out! <a href="https://docs.google.com/document/d/1VkSG9Amzq2759HACbFizSGAah4Q4byGG6R8cCxwcOO4/edit">Check out our current projects here.</a>
+  -
+    name: OakCrime
+    image: /assets/images/oakcrime_300x233.png
+    link: http://oakcrime.org
+    leader: Rik Belew
+    slack_id: C040ULV6C
+    slack_channel: crime
+    description: OakCrime.org seeks to increase transparency and understanding of data released by the Oakland Police Department (OPD) regarding crime. Our data goes back to 2007, and up to yesterday. We strive to make all public OPD data available to citizens ASAP, provide context for it with analytics and visualization, together with full provenance via open source repositories and solid documentation.
+
+inactive_projects:
 ---
 
 OpenOakland projects are the core of our organization's efforts to connect citizens with impactful civic initiatives. **We're always seeking new projects and project leaders** to work on housing, transportation, education, health, or any area that can improve the lives of Oakland's residents. Please feel free to [join our Slack](https://docs.google.com/forms/d/e/1FAIpQLSee_qdE0qCmhufJC94MmSRVDLPAhhFJO4QMzuC31Kh0lxI_Mg/viewform?usp=sf_link) and reach out to members, leadership, or any project team for more information. You can contact project teams directly in their individual Slack channels. **Join or sign-in to Slack: <a href="http://slack.openoakland.org/" target="_blank" rel="noopener noreferrer">slack.openoakland.org</a>**
@@ -24,43 +41,10 @@ OpenOakland projects are the core of our organization's efforts to connect citiz
   <h2>
     Active Projects
   </h2>
-  
-  <h3>
-    <a href="http://councilmatic.aws.openoakland.org/pc/">Councilmatic</a>
-  </h3>
-  
-  <div class="col1">
-  <strong>Team Contact</strong>: Howard Mattis on Slack channel <a href="https://openoakland.slack.com/messages/C0M89GTRT/" target="_blank" rel="noopener noreferrer">#councilmatic</a>
-  </div>
-  
-  <div class="col2">
-    We make the Oakland City Council meetings easily accessible to the citizens of Oakland. Using our site citizens can learn when are the upcoming city council meetings, view the agenda, put the meeting on your calendar, and send an electronic comment to the Council. Plus you can see videos of past meetings.
-  </div>
-  <br />
-  <h3>
-    <a href="http://cutgroup.openoakland.org/" target="_blank" rel="noopener noreferrer">Civic User Testing Group (CUT Group)</a>
-  </h3>
-  
-  <div class="col1">
-    <strong>Team Contact</strong>: Mary Yeh on Slack channel <a href="https://openoakland.slack.com/messages/C02FYSFLK/" target="_blank" rel="noopener noreferrer">#cut-group<br /> </a>
-  </div>
-  
-  <div class="col2">
-    Civic User Testing (CUT) Group's goal is to make sure OpenOakland projects are working towards creating the best possible experience and serve all Oakland residents. If you're interested in user experience, or just like making things better, please reach out! <a href="https://docs.google.com/document/d/1VkSG9Amzq2759HACbFizSGAah4Q4byGG6R8cCxwcOO4/edit">Check out our current projects here.</a>
-  </div>
-  <br />  
-  <h3>
-    <a href="http://oakcrime.org" target="_blank" rel="noopener noreferrer">OakCrime</a>
-  </h3>
-  
-  <div class="col1">
-  <strong>Team Contact</strong>: Rik Belew on Slack channel <a href="https://openoakland.slack.com/messages/C040ULV6C/" target="_blank" rel="noopener noreferrer">#crime</a>
-  </div>
-  
-  <div class="col2">
-    OakCrime.org seeks to increase transparency and understanding of data released by the Oakland Police Department (OPD) regarding crime. Our data goes back to 2007, and up to yesterday. We strive to make all public OPD data available to citizens ASAP, provide context for it with analytics and visualization, together with full provenance via open source repositories and solid documentation.
-  </div>
-  <br />
+
+  {% for project in page.active_projects %}
+    {% include project.html %}
+  {% endfor %}
   
   <h3>
     <a href="http://openbudgetoakland.org/" target="_blank" rel="noopener noreferrer">Open Budget</a>
