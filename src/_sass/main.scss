@@ -1,3 +1,70 @@
+$base-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+  Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+  "Segoe UI Symbol" !default;
+$base-font-size: 16px !default;
+$base-font-weight: 400 !default;
+$small-font-size: $base-font-size * 0.875 !default;
+
+$spacing-unit: 24px !default;
+
+$text-color: #111 !default;
+$background-color: #fdfdfd !default;
+$brand-color: #21b890 !default;
+
+$grey-color: #828282 !default;
+$grey-color-light: lighten($grey-color, 40%) !default;
+$grey-color-dark: darken($grey-color, 25%) !default;
+
+// Width of the content area
+$content-width: 900px !default;
+
+body {
+  font: $base-font-weight $base-font-family;
+  color: $text-color;
+  background-color: $background-color;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin-bottom: $spacing-unit / 2;
+}
+
+a {
+  color: $brand-color;
+}
+
+main {
+  display: block; /* Default value of `display` of `main` element is 'inline' in IE 11. */
+  flex: 1;
+}
+
+.wrapper {
+  max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
+  max-width: calc(#{$content-width} - (#{$spacing-unit} * 2));
+  margin-right: auto;
+  margin-left: auto;
+  padding: $spacing-unit;
+}
+
+.site-header {
+  border-top: 5px solid $grey-color-dark;
+  border-bottom: 1px solid $grey-color-light;
+  min-height: $spacing-unit * 1.865;
+}
+
+.site-footer {
+  border-top: 1px solid $grey-color-light;
+}
+
+// OO custom styles
 .landing-page-image {
   display: inline-block;
   max-width: 100px;
@@ -9,11 +76,13 @@
   width: 100%;
   height: 0;
   padding-bottom: 56.25%;
+  margin-bottom: $spacing-unit / 2;
 }
 
 .iframe-container iframe {
   position: absolute;
-  top: 0; left: 0;
+  top: 0;
+  left: 0;
   width: 100%;
   height: 100%;
 }

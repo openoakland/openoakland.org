@@ -21,6 +21,8 @@ Letter declaring OpenOakland's relationship with Code for America for 501(c)(3) 
 [Public Interest Tech Job Board](https://jobs.codeforamerica.org)  
 Job openings in government and non-profit organizations
 
+[OpenOakland Style Guide](https://docs.google.com/document/d/1SvhwrQcu4mNMS05zE4AIXA8zsc7qpUeWVA9GvgiZaHo/edit#heading=h.dzo2keok5z7)
+
 ---
 
 #### Other Resources
