@@ -21,7 +21,7 @@ jobs:
           key: v1-bundle-{{ checksum "Gemfile.lock" }}
           paths:
             - vendor/bundle
-      - run: make build
+      - run: JEKYLL_ENV=production make build
       - run: make serve &
       - run: make test
       - persist_to_workspace:
@@ -32,9 +32,7 @@ jobs:
   deploy:
     docker:
       - image: circleci/python:3
-    environment:
-      - AWS_DEFAULT_REGION: us-west-2
-      - JEKYLL_ENV: production
+    environment: AWS_DEFAULT_REGION=us-west-2
     steps:
       - checkout
       - attach_workspace:
