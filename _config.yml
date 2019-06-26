@@ -30,6 +30,8 @@ plugins:
 
 source: src
 
+google_analytics: GTM-P4DRZ9C
+
 permalink: pretty
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
