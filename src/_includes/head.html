@@ -29,5 +29,6 @@
   ></script>
   <link rel="stylesheet" href="{{
     "/assets/main.css" | relative_url
-  }}" />
+  }}" /> {% if site.google_analytics and jekyll.environment == 'production' %}
+  {% include google-analytics.html %} {% endif %}
 </head>

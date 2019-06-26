@@ -21,7 +21,7 @@ jobs:
           key: v1-bundle-{{ checksum "Gemfile.lock" }}
           paths:
             - vendor/bundle
-      - run: make build
+      - run: JEKYLL_ENV=production make build
       - run: make serve &
       - run: make test
       - persist_to_workspace:
