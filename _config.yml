@@ -26,7 +26,6 @@ github_username: openoakland
 markdown: kramdown
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag
 
 source: src
 
