@@ -3,7 +3,7 @@
     {%- assign default_paths = site.data.navigation | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     <a class="navbar-brand" rel="author" href="{{ "/" | relative_url }}">
-      <img src="/assets/images/OpenOakland-logo-title.png" width="40" height="50" alt="OpenOakland Logo">
+      <img src="/assets/images/OpenOakland-logo.png" width="280" alt="OpenOakland Logo">
     </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -13,9 +13,10 @@
       {%- if page_paths -%}
         {%- for path in page_paths -%}
           {%- assign my_page = site.pages | where: "path", path | first -%}
-          {%- if my_page.title -%}
+          {%- assign title = my_page.nav_title | default: my_page.title -%}
+          {%- if title -%}
           <div class="navbar-nav mr-auto">
-              <a class="nav-link nav-item {% if my_page.url == page.url %}active{% endif %}" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+              <a class="nav-link nav-item {% if my_page.url == page.url %}active{% endif %}" href="{{ my_page.url | relative_url }}">{{ title | escape }}</a>
           </div>
           {%- endif -%}
         {%- endfor -%}
