@@ -157,7 +157,7 @@ Born out of [Code for America](http://codeforamerica.org/), a non-profit that se
 
 **[A Crowdsourced Hyperlocal City Guide, Coming To You Soon](http://www.fastcoexist.com/1680760/a-crowdsourced-hyperlocal-city-guide-coming-to-you-soon)**  
 _10/24/12 - Fast Company: Co.Exist, Emily Badger_  
-Thanks to a grant from the [Knight News Challenge](http://www.knightfoundation.org/grants/20094016/), LocalWiki has been further developing the software so that communities anywhere can replicate the idea. The Raleigh-Durham Triangle area launched one earlier this year. Now [Oakland](http://oaklandwiki.org/) and [Ann Arbor](http://arborwiki.org/) have wikis, too. As a sign of true global dominance, a LocalWiki project is even coming to [Antarctica].
+Thanks to a grant from the [Knight News Challenge](http://www.knightfoundation.org/grants/20094016/), LocalWiki has been further developing the software so that communities anywhere can replicate the idea. The Raleigh-Durham Triangle area launched one earlier this year. Now [Oakland](https://oaklandwiki.org/) and [Ann Arbor](http://arborwiki.org/) have wikis, too. As a sign of true global dominance, a LocalWiki project is even coming to [Antarctica].
 
 <!-- AL removed link -->
 

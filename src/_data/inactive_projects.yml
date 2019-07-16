@@ -26,6 +26,14 @@
   slack_channel: 
   description: "**Our Backstory**: The fifth annual CityCamp successfully took place on Saturday, March 25, 2017 at Oakland City Hall. CityCamp is an unstructured conference where municipal employees, civic leaders, technology folks, software developers, journalists, and engaged residents can meet and discuss the intersections of technology and local government—how innovative technology and data uses can improve civic engagement, increase efficiency and transparency, connect residents, and incubate the technology community in our city. Unconferences are not structured up-front; the agenda is completed on the day based on topics the attendees themselves suggest. This gives attendees control over the topics and discussion happening at the event, so residents can drive attention towards issues they think are most important."
 -
+  name: Civic User Testing Group (CUT Group)
+  image: cut-group_300x233.png
+  link: http://cutgroup.openoakland.org/
+  leader: Mary Yeh
+  slack_id: C02FYSFLK
+  slack_channel: cut-group
+  description: Civic User Testing (CUT) Group's goal is to make sure OpenOakland projects are working towards creating the best possible experience and serve all Oakland residents. If you're interested in user experience, or just like making things better, please reach out! <a href="https://docs.google.com/document/d/1VkSG9Amzq2759HACbFizSGAah4Q4byGG6R8cCxwcOO4/edit">Check out our current projects here.</a>
+-
   name: Diversity, Equity, and Inclusion Group
   image: 
   established: 2016
@@ -86,6 +94,14 @@
 
   - Collaboration: To more effectively fulfill its obligations to citizens, the city will enhance and expand its practices of cooperation among city departments, other governmental agencies, the public, and nonprofit and private organizations."
 -
+  name: Open Oasis
+  image:
+  link:
+  leader: Andrew Tom
+  slack_id:
+  slack_channel: openoasis
+  description: "Phase III (Delivery pending, ~End of Mar 2019): This is mainly focused on developing a survey design, and related questionnaire, to measure OTX impact across their tech literacy programs servicing individuals in public housing. The data team is going to fine-tune our deliveries in Phase II to be \"publication-ready\". Meanwhile, our volunteers leading the survey design work are partnered with CUT group to assist with the survey design, implementation approach, and language of questions."
+-
   name: RecordTrac
   image: 
   established: 2013
@@ -116,7 +132,7 @@
   name: Trash Talk
   image: trashtalk_300x233.png
   established: 2016
-  link: http://trashtalk-oakland.org/
+  link:
   leader: Howard Dyckoff and Tim Miller
   slack_id: C4R9JUW12
   slack_channel: trash-talk
