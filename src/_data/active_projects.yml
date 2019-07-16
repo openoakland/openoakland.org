@@ -7,14 +7,6 @@
   slack_channel: councilmatic
   description: We make the Oakland City Council meetings easily accessible to the citizens of Oakland. Using our site citizens can learn when are the upcoming city council meetings, view the agenda, put the meeting on your calendar, and send an electronic comment to the Council. Plus you can see videos of past meetings.
 -
-  name: Civic User Testing Group (CUT Group)
-  image: cut-group_300x233.png
-  link: http://cutgroup.openoakland.org/
-  leader: Mary Yeh
-  slack_id: C02FYSFLK
-  slack_channel: cut-group
-  description: Civic User Testing (CUT) Group's goal is to make sure OpenOakland projects are working towards creating the best possible experience and serve all Oakland residents. If you're interested in user experience, or just like making things better, please reach out! <a href="https://docs.google.com/document/d/1VkSG9Amzq2759HACbFizSGAah4Q4byGG6R8cCxwcOO4/edit">Check out our current projects here.</a>
--
   name: OakCrime
   image: oakcrime_300x233.png
   link: http://oakcrime.org
@@ -54,14 +46,6 @@
   slack_id: 
   slack_channel: ousd-budget
   description: Explaining to school communities what the Oakland Unified School District's central office does and helping them weigh in on what its function should be in the future. Let’s reimagine what OUSD district office can look like!
--
-  name: Open Oasis
-  image: 
-  link: 
-  leader: Andrew Tom
-  slack_id: 
-  slack_channel: openoasis
-  description: "Phase III (Delivery pending, ~End of Mar 2019): This is mainly focused on developing a survey design, and related questionnaire, to measure OTX impact across their tech literacy programs servicing individuals in public housing. The data team is going to fine-tune our deliveries in Phase II to be \"publication-ready\". Meanwhile, our volunteers leading the survey design work are partnered with CUT group to assist with the survey design, implementation approach, and language of questions."
 -
   name: LaneLookout
   image: lane-lookout_300x300.png
