@@ -132,7 +132,7 @@
   name: Trash Talk
   image: trashtalk_300x233.png
   established: 2016
-  link: http://trashtalk-oakland.org/
+  link:
   leader: Howard Dyckoff and Tim Miller
   slack_id: C4R9JUW12
   slack_channel: trash-talk
