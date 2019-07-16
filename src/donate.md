@@ -9,7 +9,7 @@ layout: page
 At OpenOakland, civic tech means so much more than helping communities understand and navigate local government. It also means working harder than ever to reach more people and communities.
 
 <p style="text-align: center;">
-  <a style="background-color: #33809e; color: #ffffff;" target="_blank" href="https://secure.codeforamerica.org/page/contribute/donate-to-a-brigade-today?source_codes=openoakland-website&brigade=Open%20Oakland">Donate Now!</a>
+  <a class="btn" style="background-color: #21b890; color: #ffffff;" target="_blank" href="https://secure.codeforamerica.org/page/contribute/donate-to-a-brigade-today?source_codes=openoakland-website&brigade=Open%20Oakland">Donate Now!</a>
 </p>
 
 Your generous gift will support our renewed efforts to connect to all of Oakland through hosting weekly community meetings, as well as events like CityCamp and the National Day of Civic Hacking. Your donation funds:
