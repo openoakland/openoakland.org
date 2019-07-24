@@ -31,6 +31,14 @@
   slack_channel: open-disclosure
   description: Open Disclosure helps Oaklanders understand the role of money in their local politics. By analyzing mandatory campaign finance disclosures for candidates seeking public office, Open Disclosure presents a user-friendly overview of who is raising money, from where, and how much. Open Disclosure is developed in partnership with the City of Oakland Public Ethics Commission.
 -
+  name: Water Quality
+  image: water_300x237.png
+  link: https://openoakland.github.io/clean-water/
+  leader: Aaron Hans
+  slack_id: UA0S0PNSZ
+  slack_channel: ca-water-challenge
+  description: Approximately one million California residents currently only have access to drinking water that does not meet state and federal standards.  The California Drinking Water project provides user-friendly online queries, charts, and maps to show which water systems have current and persistent drinking water contamination violations.  Partnering with the State Water Board and the Community Water Center non-profit organization, Open Oakland volunteers are developing tool features using the State’s bi-monthly Human Right to Water water quality reporting data on cities, communities, schools, and daycares.  The online features allow government officials, advocates, researchers, and residents to more easily understand which water systems have contamination problems and identify solutions that support clean water for all Californians.
+-
   name: West Oakland Air Quality (WOAQ)
   image: woaq_300x155.png
   link: 
