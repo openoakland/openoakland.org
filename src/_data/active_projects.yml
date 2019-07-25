@@ -33,7 +33,7 @@
 -
   name: Water Quality
   image: water_300x237.png
-  link: https://openoakland.github.io/clean-water/
+  link: http://water.openoakland.org/
   leader: Aaron Hans
   slack_id: UA0S0PNSZ
   slack_channel: ca-water-challenge
