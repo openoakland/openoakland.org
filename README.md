@@ -2,50 +2,31 @@
 
 # openoakland.org
 
-This site is a work in progress.
+OpenOakland is a volunteer organization, part [Code for America's brigade network](https://brigade.codeforamerica.org), that exists to bridge technology and community for a thriving and equitable Oakland. This project is OpenOakland’s website. [openoakland.org](https://openoakland.org) is a place for volunteers, leaders, community members, and anyone interested in the organization to learn more about us and find resources.
 
+## Technology used
 
-## Development
+- The site is a static [Jekyll](https://jekyllrb.com) site.
+- We use [Bootstrap](https://getbootstrap.com) as our CSS framework, in addition to some custom Sass.
+- Automatic builds and deploys are handled by [CircleCI](https://circleci.com).
+- The site is hosted on [AWS](https://aws.amazon.com).
+  - See more information in the [Deployment](https://github.com/openoakland/openoakland.org/blob/master/.github/contributing.md#deployment) section of our Contributing doc.
 
-Prerequisites:
+## How to Contribute
 
-- [GNU Make](https://www.gnu.org/software/make/)
-- [Ruby 2.5+](https://www.ruby-lang.org/en/)
-- [bundler](https://bundler.io/)
+- Join the team! OpenOakland [meets every Tuesday night](https://www.meetup.com/OpenOakland) in Oakland City Hall.
+- Join us on [slack](http://slack.openoakland.org) on the #oo-website channel.
 
+### Development Options
 
-### Setup
+- Open an [issue](https://github.com/openoakland/openoakland.org/issues), or comment on an existing one.
+- Clone the repo, run the site locally, create a branch, and get to work on any open issue. See [contributing.md](https://github.com/openoakland/openoakland.org/blob/master/.github/contributing.md) for full details.
 
-Install project dependencies.
+## Additional Project Information
 
-    $ make setup
+- [Why rebuild the site?](https://docs.google.com/document/d/1tOU2-d5VqrSlBov7Pc_XaBRcb0ajnMaXG9zkpNjyg3U/edit?usp=sharing)
 
-Build the site.
+## Contact info
 
-    $ make build
-
-Run some checks.
-
-    $ make test
-
-Start a local server.
-
-    $ make serve
-
-Open your web browser to [localhost:4000](http://localhost:4000/).
-
-
-## Deployment
-
-This site is deployed automatically from the `master` branch. [CircleCI](https:)
-watches for changes, verifies the site looks good, and then pushes the site to
-an AWS S3 bucket using an IAM account.
-
-[infra](https://github.com/openoakland/infra) creates the S3 bucket, DNS record,
-Cloud Front distribution, and IAM user to make it all work. Once created, the
-IAM credentials are generated from infra and must be added to
-[CircleCI](https://circleci.com/gh/openoakland/openoakland.org/edit#env-vars)
-for CircleCI to write to the S3 bucket:
-
-- `AWS_ACCESS_KEY_ID`
-- `AWS_SECRET_ACCES_KEY`
+Get in touch on OpenOakland’s [slack](http://slack.openoakland.org) at #oo-website.
+You can reach Alison at alison [at] openeoakland [dot] org.
