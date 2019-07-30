@@ -1,10 +1,10 @@
 # Contributing
 
-Welcome to OpenOakland's website contributing doc!
+Welcome to OpenOakland's website contributing guidelines!
 
 ### Code of Conduct
 
-Please be familiar with the OpenOakland’s [Code of Conduct](https://github.com/openoakland/openoakland.org/.github/code_of_conduct.md).
+Please be familiar with the OpenOakland’s [Code of Conduct](https://github.com/openoakland/openoakland.org/blob/master/.github/code_of_conduct.md).
 
 ## Installation instructions
 
