@@ -2,7 +2,7 @@
   {% if project.link %}
   <a target="_blank" href="{{ project.link }}">{{ project.name }}</a>
   {% elsif project.link == nil %}
-  {{ project.name }}
+  <span>{{ project.name }}</span>
   {% endif %}
 </h3>
 
