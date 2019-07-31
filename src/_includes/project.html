@@ -1,24 +1,36 @@
-
 <h3>
-    <a href="{{ project.link }}">{{ project.name }}</a>
+  {% if project.link %}
+  <a target="_blank" href="{{ project.link }}">{{ project.name }}</a>
+  {% elsif project.link == nil %}
+  <span>{{ project.name }}</span>
+  {% endif %}
 </h3>
 
 <div class="col1">
-    {% if project.image %}
-    <img src="/assets/images/projects/{{ project.image }}" alt="screenshot of {{ project.name }}">
-    {% endif %}
-    {% if project.established %}
-    <strong>Established</strong>: {{ project.established }}
-    {% endif %}
-    {% if project.leader %}
-    <strong>Team Contact</strong>: {{ project.leader }} on Slack channel <a
-        href="https://openoakland.slack.com/messages/{{ project.slack_id }}" target="_blank"
-        rel="noopener noreferrer">#{{ project.slack_channel }}</a>
-    {% elsif project.slack_channel %}
-    <strong>Slack channel</strong>: <a
-        href="https://openoakland.slack.com/messages/{{ project.slack_id }}" target="_blank"
-        rel="noopener noreferrer">#{{ project.slack_channel }}</a>
-    {% endif %}
+  {% if project.image %}
+  <img
+    src="/assets/images/projects/{{ project.image }}"
+    alt="screenshot of {{ project.name }}"
+  />
+  {% endif %} {% if project.established %}
+  <strong>Established</strong>: {{ project.established }}
+  {% endif %} {% if project.leader %}
+  <strong>Team Contact</strong>: {{ project.leader }} on Slack channel
+  <a
+    href="https://openoakland.slack.com/messages/{{ project.slack_id }}"
+    target="_blank"
+    rel="noopener noreferrer"
+    >#{{ project.slack_channel }}</a
+  >
+  {% elsif project.slack_channel %}
+  <strong>Slack channel</strong>:
+  <a
+    href="https://openoakland.slack.com/messages/{{ project.slack_id }}"
+    target="_blank"
+    rel="noopener noreferrer"
+    >#{{ project.slack_channel }}</a
+  >
+  {% endif %}
 </div>
 
 <div class="col2">{{ project.description | markdownify | smartify }}</div>

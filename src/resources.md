@@ -13,7 +13,9 @@ Resources and guidance for brigades in the<span style="font-weight: 400;">Code f
 
 <a href="https://docs.google.com/document/d/1TtEWZ1-XY3WHJ9dU4KaMIjDx7wcFGw3lbM8O8iUt2Sw/" target="_blank" rel="noopener noreferrer">Code for America Memorandum of Understanding</a>
 
-<a href="http://openoakland.org/wp-content/uploads/2018/01/Open-Oakland-Relationship-Letter.pdf" target="_blank" rel="noopener noreferrer">Open Oakland Relationship Letter</a> (PDF)  
+<!-- AL removed link -->
+
+Open Oakland Relationship Letter (PDF)  
 Letter declaring OpenOakland's relationship with Code for America for 501(c)(3) status tax exemption.
 
 [Code for America website](https://www.codeforamerica.org)
