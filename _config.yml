@@ -29,6 +29,12 @@ plugins:
   - jekyll-seo-tag
 
 source: src
+header_pages:
+  - about-us.md
+  - calendar.md
+  - projects.md
+  - resources.md
+  - donate.md
 
 google_analytics: GTM-P4DRZ9C
 

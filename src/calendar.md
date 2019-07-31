@@ -5,10 +5,12 @@ author: elina
 layout: page
 ---
 
-### Important 2019 Dates
+### Regular Meeting Schedule
 
-<a href="https://www.eventbrite.com/e/openoakland-day-of-service-2019-tickets-59979544432" target="_blank" rel="noopener"><strong>OpenOakland Day of Service</strong></a>: Saturday, May 11, 2019
+OpenOakland meets every Tuesday at Oakland City Hall. We welcome everyone to join our meetings, regardless of technology ability level. <a href="https://www.meetup.com/OpenOakland/events/" target="_blank">Find our next event on Meetup here.</a>
 
-<a href="https://www.codeforamerica.org/events/summit/brigade-day" target="_blank" rel="noopener"><b>Brigade Day (Pre-CfA Summit)</b></a>: May 29, 2019
+We encourage first-time attendees to join us during our <strong>monthly New Member Onboarding</strong> the last Tuesday night of the month.
 
-<a href="https://codeforamerica.us2.list-manage.com/track/click?u=d9acf2a4c694efbd76a48936f&id=9e08d8b603&e=d84a4279d8" target="_blank" rel="noopener"><strong>Code for America Summit</strong></a>: May 29 - 31, 2019
+### Upcoming Events
+
+<strong>National Brigade Day of Action</strong>: Saturday, September 21, 2019

@@ -82,9 +82,11 @@ _October 29, 2013 - The Sunlight Foundation, Rebecca Williams_
 _August 4, 2013 - The White House_  
 'This is the heart of civic hacking for me: building new solutions and processes to replace broken ones, sharing our lessons and our successes and allowing others to benefit from our knowledge, failures, and shared technology.'
 
-[**There's an app for that**](http://digital.bizjournals.com/launch.aspx?eid=487ba110-ea58-40b0-9b07-21be5f5f5672 "SF Business Times")  
+<!-- AL removed link -->
+
+[**There's an app for that**]( http://digital.bizjournals.com/launch.aspx?eid=487ba110-ea58-40b0-9b07-21be5f5f5672"SF Business Times")  
 _August 16, 2013 - San Francisco Business Times_  
-'OpenOakland.. brings together coders, designers, city staff and others to improve how Oakland's government serves its citizens.' [SFBusinessTimes8-16-2013 (PDF)](http://openoakland.org/wp-content/uploads/2012/11/SFBusinessTimes8-16-2013.pdf)
+'OpenOakland.. brings together coders, designers, city staff and others to improve how Oakland's government serves its citizens.'
 
 <!-- AL removed link -->
 
@@ -157,7 +159,7 @@ Born out of [Code for America](http://codeforamerica.org/), a non-profit that se
 
 **[A Crowdsourced Hyperlocal City Guide, Coming To You Soon](http://www.fastcoexist.com/1680760/a-crowdsourced-hyperlocal-city-guide-coming-to-you-soon)**  
 _10/24/12 - Fast Company: Co.Exist, Emily Badger_  
-Thanks to a grant from the [Knight News Challenge](http://www.knightfoundation.org/grants/20094016/), LocalWiki has been further developing the software so that communities anywhere can replicate the idea. The Raleigh-Durham Triangle area launched one earlier this year. Now [Oakland](http://oaklandwiki.org/) and [Ann Arbor](http://arborwiki.org/) have wikis, too. As a sign of true global dominance, a LocalWiki project is even coming to [Antarctica].
+Thanks to a grant from the [Knight News Challenge](http://www.knightfoundation.org/grants/20094016/), LocalWiki has been further developing the software so that communities anywhere can replicate the idea. The Raleigh-Durham Triangle area launched one earlier this year. Now [Oakland](https://oaklandwiki.org/) and [Ann Arbor](http://arborwiki.org/) have wikis, too. As a sign of true global dominance, a LocalWiki project is even coming to [Antarctica].
 
 <!-- AL removed link -->
 
