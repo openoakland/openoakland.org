@@ -1,5 +1,5 @@
 ##### _You may delete all the italicized instructional headings_
-##### _Please indicate which issue your Pull Request address_
+##### _Please indicate which issue your Pull Request addresses_
 closes #
 
 ##### _Please describe the changes this PR makes_
