@@ -17,7 +17,7 @@ Your generous gift will support our efforts to connect to all of Oakland through
   - The Day of Service and National Day of Civic Hacking
 - Website hosting and domain names
   - Openoakland.org and other [project sites]({{ site.baseurl }}/projects/)
-- Food offered to volunteers at hack nights and hack nights
+- Food offered to volunteers at hack nights and events
   - Volunteers build a sense of community through shared meals
   - They are well-fed and able to focus on creating great civic projects
 - Office supplies for meetings
