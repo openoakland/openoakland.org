@@ -6,40 +6,27 @@ author: Services @OpenOakland.org
 layout: page
 ---
 
-At OpenOakland, civic tech means so much more than helping communities understand and navigate local government. It also means working harder than ever to reach more people and communities.
+At OpenOakland, civic tech means helping communities understand and navigate local government. We are working harder than ever to reach more communities.
+Your generous gift will support our efforts to connect to all of Oakland through events and weekly meetings
 
-<p style="text-align: center;">
-  <a class="btn" style="background-color: #21b890; color: #ffffff;" target="_blank" href="https://secure.codeforamerica.org/page/contribute/donate-to-a-brigade-today?source_codes=openoakland-website&brigade=Open%20Oakland">Donate Now!</a>
-</p>
+{: style="text-align: center"}
+[Donate Now!](https://secure.codeforamerica.org/page/contribute/donate-to-a-brigade-today?source_codes=openoakland-website&brigade=Open%20Oakland){:target="_blank" .btn style="background-color: #21b890; color: #ffffff;"}
 
-Your generous gift will support our renewed efforts to connect to all of Oakland through hosting weekly community meetings, as well as events like CityCamp and the National Day of Civic Hacking. Your donation funds:
+## Donations Provide
+- Resources for outreach activities and events
+  - The Day of Service and National Day of Civic Hacking
+- Website hosting and domain names
+  - Openoakland.org and other [project sites]({{ site.baseurl }}/projects/)
+- Food offered to volunteers at hack nights and hack nights
+  - Volunteers build a sense of community through shared meals
+  - They are well-fed and able to focus on creating great civic projects
+- Office supplies for meetings
+  - Paper pads, name tags, markers, sticky notes, etc.
+- Publicity materials
+  - Business cards and custom branded stickers
+- Wish list for equiment:
+  - Projector and screen
 
-<ul>
-  <li>
-    Pizza we offer our volunteers at our weekly community meetings
-  </li>
-  <li>
-    Name tags, paper pads and other basic materials used at our meetings
-  </li>
-  <li>
-    Hosting for OpenOakland.org and other projects' Web sites
-  </li>
-  <li>
-    Business cards and Stickers
-  </li>
-  <li>
-    Basic resources used for annual events like CityCamp, National Day of Civic Hacking and other outreach activities
-  </li>
-</ul>
-
-Equipment Wish List:
-
-<ul>
-  <li>
-    Projector and screen
-  </li>
-</ul>
-
-If you prefer to write a check, make it out to Code for America with "OpenOakland" in the memo and given to one of our Steering Committee members at our weekly meetings. If you'd like to mail your check, [send us an email](mailto:fundraising@openoakland.org) for an address, or to explore other ways to sponsor us.
-
-Otherwise, use the Donate button above - which will take you to Code for America's Donate page where OpenOakland will be pre-populated to make sure the funds are earmarked for us. Thank you!
+## Ways to Donate
+The button above leads to Code for America's donate page. It will pre-populate with _OpenOakland_, to share directly with our brigade. If you prefer to use checks, you may address it to _Code for America_ and in the memo write _OpenOakland_. One of our [steering committee members]({{ site.baseurl }}/about-us/) can accept it at our weekly meetings. If you'd like to mail it, [contact us by email](mailto:fundraising@openoakland.org) for an address. If you would like to become a sponsor, you may contact us through the above email.
+Thank you!
