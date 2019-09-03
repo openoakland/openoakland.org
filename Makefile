@@ -9,7 +9,7 @@ setup:
 	bundle install
 
 test:
-	bundle exec htmlproofer --check-html _site --url-ignore "/adoptadrainoakland.com/,/www.ckan.org/,/oaklandwiki.org/,/theatlanticcities.com/"
+	bundle exec htmlproofer --check-html _site --disable-external
 
 
 .PHONY: build serve setup test
