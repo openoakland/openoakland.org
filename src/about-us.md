@@ -16,9 +16,9 @@ Check out our current [projects]({{ site.baseurl }}/projects/). Then get involve
 
 Our organization is led by an elected steering committee and [bylaws](https://docs.google.com/document/d/1QR-fr1WnmXkZoVNmWnZ9drzfmaZoPkodEOx-PkExt94/). We are fiscally sponsored by Code for America, a 501(c)3 nonprofit.
 
-<h3>Current Steering Committee:</h3>
+## Steering Committee
 {% include steering-committee.html %}
 
 A member from each [active project]({{ site.baseurl }}/projects/) team should also attend the Steering Committee meeting each month.
-It doesn't need to always be the same person, but it should be part of the core team. All OpenOakland members are welcome to sit in on leadership meetings. Responsibilities for each steering committee role is defined in the [OpenOakland Steering Committee
-Bylaws](https://docs.google.com/document/d/1QR-fr1WnmXkZoVNmWnZ9drzfmaZoPkodEOx-PkExt94/).
+It doesn't need to always be the same person, but it should be part of the core team. All OpenOakland members are welcome to sit in on leadership meetings. Responsibilities for each steering committee role is defined in the 
+[OpenOakland Steering Committee Bylaws](https://docs.google.com/document/d/1QR-fr1WnmXkZoVNmWnZ9drzfmaZoPkodEOx-PkExt94/).
