@@ -62,6 +62,30 @@ Open your web browser to [localhost:4000](http://localhost:4000/).
 - Wait for feedback, or for your branch to be merged!
 - We typically delete branches after the code has been merged to master, so feel free to make a new branch for each new issue you work on.
 
+## Updating project info
+To update project info that you see on the [openoakland.org/projects](openoakland.org/projects) page
+
+1. Find the project you want to update in `src/_data/active_projects.yml`
+
+Example:
+```yaml
+- name: Councilmatic
+  image: councilmatic_300x118.png
+  link: http://councilmatic.aws.openoakland.org/pc/
+  leader: Howard Mattis
+  slack_id: C0M89GTRT
+  slack_channel: councilmatic
+  description: We make the Oakland City Council meetings easily accessible to the citizens of Oakland. Using our site citizens can learn when are the upcoming city council meetings, view the agenda, put the meeting on your calendar, and send an electronic comment to the Council. Plus you can see videos of past meetings.
+```
+
+2. Edit the information you want to edit. Beware that certain characters, "-"
+
+#### To find the `slack_id` of a Slack Channel:
+
+1. Visit [openoakland.slack.com](openoakland.slack.com) in your browser
+2. Click on the channel you want to find the ID for. For example, [#oo-website](https://app.slack.com/client/T02FEGG84/CH1U5KJ48)
+3. The channel's ID is the last part of the URL, following the last `/`. For #oo-website, it's `CH1U5KJ48`
+
 ## Testing
 
 - Run `make test` in your terminal before making a pull request.
