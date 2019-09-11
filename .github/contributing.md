@@ -63,7 +63,7 @@ Open your web browser to [localhost:4000](http://localhost:4000/).
 - We typically delete branches after the code has been merged to master, so feel free to make a new branch for each new issue you work on.
 
 ## Updating project info
-To update project info that you see on the [openoakland.org/projects](openoakland.org/projects) page, find the project you want to update in `src/_data/active_projects.yml` and edit the content in the YAML block for the project.
+To update the project info, like description or project leader, on [openoakland.org/projects](openoakland.org/projects), find the project you want to update in `src/_data/active_projects.yml`. Edit the content in the YAML block for the project.
 
 Example project info YAML block:
 ```yaml
