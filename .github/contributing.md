@@ -63,7 +63,18 @@ Open your web browser to [localhost:4000](http://localhost:4000/).
 - We typically delete branches after the code has been merged to master, so feel free to make a new branch for each new issue you work on.
 
 ## Updating project info
-To update the project info, like description or project leader, on [openoakland.org/projects](openoakland.org/projects), find the project you want to update in `src/_data/active_projects.yml`. Edit the content in the YAML block for the project.
+To update the project info, like description or project leader, on [openoakland.org/projects](openoakland.org/projects), find the project you want to update in `src/_data/active_projects.yml`.
+
+### Editing on Github
+You can click through the folders in the **Code** tab on the [project repository](https://github.com/openoakland/openoakland.org) to navigate to the `active_projects.yml` file, [or click here to go straight to it](https://github.com/openoakland/openoakland.org/blob/master/src/_data/active_projects.yml). In the top-right corner of the file view area, you'll see a pencil logo, <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"></path></svg>. Click the pencil logo to go into editor mode. Make your edits.
+
+Below the editor you'll see a couple of fields with the heading **Commit changes**. Enter a brief message describing the changes you made, and click the radio button labeled <svg class="octicon octicon-git-pull-request text-gray mr-1 text-center" height="16" width="16" viewBox="0 0 12 16" version="1.1" aria-hidden="true"><path fill-rule="evenodd" d="M11 11.28V5c-.03-.78-.34-1.47-.94-2.06C9.46 2.35 8.78 2.03 8 2H7V0L4 3l3 3V4h1c.27.02.48.11.69.31.21.2.3.42.31.69v6.28A1.993 1.993 0 0 0 10 15a1.993 1.993 0 0 0 1-3.72zm-1 2.92c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zM4 3c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v6.56A1.993 1.993 0 0 0 2 15a1.993 1.993 0 0 0 1-3.72V4.72c.59-.34 1-.98 1-1.72zm-.8 10c0 .66-.55 1.2-1.2 1.2-.65 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"></path></svg> **Create a new branch for this commit and start a pull request**. Github will generate a branch name for you, or you can specify one. Click the green **Propose file changes** button.
+
+You will be take to a page titled **Open a pull request**. The message you entered on the previous page will be populated here. If your changes are to project content only, you can ignore or delete all the pull request template stuff below your pull request message.
+
+To make sure your pull request gets prompt attention, select @anlawyer in the **Reviewers** section of the righthand sidebar.
+
+Click the green **Create pull request** button, and you're all done! @anlawyer or one of her multitude of minions will review your pull request, and either offer feedback or accept your changes. Thank you for your contribution!
 
 Example project info YAML block:
 ```yaml
@@ -76,7 +87,7 @@ Example project info YAML block:
   description: We make the Oakland City Council meetings easily accessible to the citizens of Oakland. Using our site citizens can learn when are the upcoming city council meetings, view the agenda, put the meeting on your calendar, and send an electronic comment to the Council. Plus you can see videos of past meetings.
 ```
 
-#### How to find the `slack_id` of a Slack Channel:
+### How to find the `slack_id` of a Slack Channel:
 
 1. Visit [openoakland.slack.com](openoakland.slack.com) in your browser
 2. Click on the channel you want to find the ID for. For example, [#oo-website](https://app.slack.com/client/T02FEGG84/CH1U5KJ48)
