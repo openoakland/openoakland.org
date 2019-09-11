@@ -62,6 +62,37 @@ Open your web browser to [localhost:4000](http://localhost:4000/).
 - Wait for feedback, or for your branch to be merged!
 - We typically delete branches after the code has been merged to master, so feel free to make a new branch for each new issue you work on.
 
+## Updating project info
+To update the project info, like description or project leader, on [openoakland.org/projects](openoakland.org/projects), find the project you want to update in `src/_data/active_projects.yml`.
+
+### Editing on Github
+You can click through the folders in the **Code** tab on the [project repository](https://github.com/openoakland/openoakland.org) to navigate to the `active_projects.yml` file, [or click here to go straight there](https://github.com/openoakland/openoakland.org/blob/master/src/_data/active_projects.yml). In the top-right corner of the file view area, you'll see a pencil icon. Click the pencil icon to go into editor mode. Make your edits.
+
+Below the editor you'll see a couple of fields with the heading **Commit changes**. Enter a brief message describing the changes you made, and click the radio button labeled **Create a new branch for this commit and start a pull request**. Github will generate a branch name for you, or you can specify one. Click the green **Propose file changes** button.
+
+You will be taken to a page titled **Open a pull request**. The message you entered on the previous page will be populated here. If your changes are to project content only, you can ignore or delete all the pull request template stuff below your message.
+
+To make sure your pull request gets prompt attention, select @anlawyer in the **Reviewers** section of the righthand sidebar.
+
+Click the green **Create pull request** button, and you're all done! @anlawyer or one of her multitude of minions will review your pull request, and either offer feedback or accept your changes. Thank you for your contribution!
+
+Example project info YAML block:
+```yaml
+- name: Councilmatic
+  image: councilmatic_300x118.png
+  link: http://councilmatic.aws.openoakland.org/pc/
+  leader: Howard Mattis
+  slack_id: C0M89GTRT
+  slack_channel: councilmatic
+  description: We make the Oakland City Council meetings easily accessible to the citizens of Oakland. Using our site citizens can learn when are the upcoming city council meetings, view the agenda, put the meeting on your calendar, and send an electronic comment to the Council. Plus you can see videos of past meetings.
+```
+
+### How to find the `slack_id` of a Slack Channel:
+
+1. Visit [openoakland.slack.com](openoakland.slack.com) in your browser
+2. Click on the channel you want to find the ID for, for example, [#oo-website](https://app.slack.com/client/T02FEGG84/CH1U5KJ48)
+3. The channel's ID is the last part of the URL, following the last `/`. For #oo-website, it's `CH1U5KJ48`
+
 ## Testing
 
 - Run `make test` in your terminal before making a pull request.
