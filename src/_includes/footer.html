@@ -27,14 +27,15 @@
             href="https://www.twitter.com/{{
               site.twitter_username | cgi_escape | escape
             }}"
+            target="_blank"
           >
             <i class="fa fa-twitter"></i>
             <span>{{ site.twitter_username | escape }}</span></a
           >
           <br />
-          <a href="mailto:{{ site.email }}">
+          <a href="{{ '/newsletter' | relative_url }}" target="_blank">
             <i class="fa fa-envelope"></i>
-            <span>{{ site.email }}</span>
+            <span>Join our Newsletter</span>
           </a>
         </div>
       </div>

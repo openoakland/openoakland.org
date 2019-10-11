@@ -22,3 +22,5 @@ Our organization is led by an elected steering committee and [bylaws](https://do
 A member from each [active project]({{ site.baseurl }}/projects/) team should also attend the Steering Committee meeting each month.
 It doesn't need to always be the same person, but it should be part of the core team. All OpenOakland members are welcome to sit in on leadership meetings. Responsibilities for each steering committee role is defined in the 
 [OpenOakland Steering Committee Bylaws](https://docs.google.com/document/d/1QR-fr1WnmXkZoVNmWnZ9drzfmaZoPkodEOx-PkExt94/).
+
+To contact the steering committee, email <a target="_blank" href="mailto:{{ site.email }}">{{ site.email }}</a>.
