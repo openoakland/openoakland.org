@@ -68,3 +68,10 @@
   slack_id: C95U7371C
   slack_channel: woaq
   description: We are creating a digital platform for West Oakland residents to collect, visualize, and act on the air quality data which affect them. We are partnered with the West Oakland Environmental Indicators Project, a community group who has collected Air Quality data from their neighborhood.
+- name: Discount Mobility Share
+  image: discount_mobility_300x284.png
+  link: https://oaklandca.formstack.com/forms/shared_mobility_application_form
+  leader: Gaurav Kulkarni
+  slack_id: CLY606C2D
+  slack_channel: discount-scooter-share
+  description: In order for scooter share, bike share and car share companies to operate in Oakland, they must offer discount programs to low income residents. This helps make these new mobility options more accessible to all Oakland residents. This would be great news but the current state is that each company has a separate application process meaning that you need to go through several applications to get broad access to these services. The Oakland Department of Transportation (OakDOT) is working closely with Open Oakland to unify the different application processes. We're also working on an outreach strategy to make sure everyone is aware of the services that they are eligible for, should they want them.
