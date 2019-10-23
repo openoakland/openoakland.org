@@ -19,13 +19,6 @@
   slack_id: CLY606C2D
   slack_channel: discount-scooter-share
   description: We work to help low income residents get access to scooter share, bike share and car share programs. While every company has discount programs for low income residents, the application process is fragmented and these benefits aren't widely known. We're unifying application for these programs and engaging in outreach so people are aware of this benefit.
-- name: LaneLookout
-  image: lane-lookout_300x300.png
-  link: https://www.lanelookout.org
-  leader:
-  slack_id: C9Q7L8DPC
-  slack_channel: oak-dot-bikes
-  description: Our project seeks to improve the safety of bike lanes for cyclists in Oakland. We are developing an app to generate aggregate data regarding infringements in the bike lane (ie. vehicles) via self-reporting cyclists. From this data, we will generate reports to drive improvements in problem areas.
 - name: OakCrime
   image: oakcrime_300x233.png
   link: http://oakcrime.org
