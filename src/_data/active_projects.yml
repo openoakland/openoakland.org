@@ -7,7 +7,7 @@
   description: This landing page is intended to be a portal for the 2020 Census administered by Alameda County. It will be accessible at locations where a computer or tablet is provided to the public and is intended to introduce people to the Census and offer information in their native language about why the Census is important to complete, as well as resources and guides on how to complete the Census. It is intended to be welcoming to people for whom English is not their first language.
 - name: Councilmatic
   image: councilmatic_300x118.png
-  link: http://councilmatic.aws.openoakland.org/pc/
+  link: https://oaklandcouncil.net/
   leader: Howard Mattis
   slack_id: C0M89GTRT
   slack_channel: councilmatic
