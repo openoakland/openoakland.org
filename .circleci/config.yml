@@ -43,11 +43,22 @@ jobs:
 workflows:
   version: 2
   commit:
-    jobs:
+    jobs: &build_and_deploy_jobs
       - build
       - deploy:
           requires:
             - build
+          filters:
+            branches:
+              only:
+                - master
+
+  nightly_build:
+    jobs: *build_and_deploy_jobs
+    triggers:
+      - schedule:
+          # 13:00 UTC = 6:00 AM PDT
+          cron: "0 13 * * *"
           filters:
             branches:
               only:
