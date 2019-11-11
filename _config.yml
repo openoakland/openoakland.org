@@ -51,3 +51,6 @@ permalink: pretty
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+jekyll_get:
+  - data: events
+    json: https://api.meetup.com/OpenOakland/events?&page=2

@@ -70,36 +70,38 @@ main {
   border-top: 1px solid $grey-color-light;
 }
 
+// bootstrap overrides
+.btn-primary {
+  background-color: $brand-color;
+  border-color: $brand-color;
+
+  &:hover {
+    background-color: darken($brand-color, 10%);
+    border-color: darken($brand-color, 10%);
+  }
+
+  &:active {
+    background-color: darken($brand-color, 15%) !important;
+    border-color: darken($brand-color, 15%) !important;
+  }
+
+  &:focus {
+    box-shadow: 0 0 0 .2rem lighten($brand-color, 20%) !important;
+  }
+}
+
 // OO custom styles
 .page-section {
   clear: both;
   margin-bottom: $spacing-unit * 2;
 }
 
-.landing-page-image {
-  display: inline-block;
-  max-width: 100px;
-  margin-right: 20px;
-}
+.home__event-card {
+  margin-bottom: $spacing-unit;
 
-.landing-page-photo {
-  clear: both;
-  float: right;
-  width: 100%;
-
-  @include media($tablet-up) {
-    margin-bottom: $spacing-unit * 2;
-    margin-left: $spacing-unit * 2;
-    width: 300px;
-  }
-
-  img {
-    margin-bottom: .5rem;
-    width: 100%;
-  }
-
-  figcaption {
-    font-size: .8rem;
+  .card-img {
+    height: 100%;
+    object-fit: cover;
   }
 }
 
