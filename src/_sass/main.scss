@@ -69,6 +69,13 @@ main {
   min-height: $spacing-unit * 1.865;
 }
 
+.header-logo {
+  width: 280px;
+  @media (max-width: $mobile-up) {
+    width: 200px;
+  }
+}
+
 .site-footer {
   border-top: 1px solid $grey-color-light;
 }
