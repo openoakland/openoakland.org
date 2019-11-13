@@ -26,7 +26,7 @@
   slack_channel: councilmatic
   description: We make the Oakland City Council meetings easily accessible to the citizens of Oakland. Using our site citizens can learn when are the upcoming city council meetings, view the agenda, put the meeting on your calendar, and send an electronic comment to the Council. Plus you can see videos of past meetings.
 - name: Discount Mobility Share
-  image: discount_mobility_300x284.png
+  image: discount_mobility_300x213.png
   link: https://oaklandca.formstack.com/forms/shared_mobility_application_form
   leader: Gaurav Kulkarni
   slack_id: CLY606C2D
