@@ -45,6 +45,9 @@ p {
 
 a {
   color: $brand-color;
+  &:hover {
+    color: darken($brand-color, 20%);
+  }
 }
 
 main {
@@ -86,7 +89,7 @@ main {
   }
 
   &:focus {
-    box-shadow: 0 0 0 .2rem lighten($brand-color, 20%) !important;
+    box-shadow: 0 0 0 0.2rem lighten($brand-color, 20%) !important;
   }
 }
 

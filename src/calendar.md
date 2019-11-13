@@ -12,6 +12,8 @@ OpenOakland meets every Tuesday at Oakland City Hall. We welcome everyone to joi
 
 We encourage first-time attendees to join us during our **monthly New Member Onboarding** the last Tuesday night of the month.
 
-### Upcoming Events
+### Past Events
 
-**National Brigade Day of Action**  Saturday, September 21, 2019
+- [Open Data Day](https://www.meetup.com/OpenOakland/events/258831439/){:target="\_blank"} March 2, 2019
+- [Day of Service](https://www.eventbrite.com/e/openoakland-day-of-service-2019-tickets-59979544432){:target="\_blank"} May 11, 2019
+- [National Day of Civic Hacking](https://www.eventbrite.com/e/national-day-of-civic-hacking-2019-tickets-69928206147){:target="\_blank"} September 21, 2019
