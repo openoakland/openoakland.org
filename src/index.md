@@ -64,7 +64,7 @@ title: We are OpenOakland
   </div>
 
   <div class="col-8">
-    <p>OpenOakland members primarily use Slack for all communication. Please fill out <a href="https://tinyurl.com/y722n6ul">this contact form</a> to get an invitation to our slack channel.</p>
+    <p>OpenOakland members primarily use Slack for all communication. You can get an invite to join our slack <a href="http://slack.openoakland.org/">here</a>.</p>
   </div>
 
   <div class="col-4">
