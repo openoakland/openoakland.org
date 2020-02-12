@@ -63,7 +63,7 @@
 - name: Open Disclosure
   image: opendisclosure_300x233.png
   link: http://www.opendisclosure.io/
-  leader: Elina Rubuliak, Suzanne Doran, and Tom Dooner
+  leader: Alison Lawyer, Colin King-Bailey, and Suzanne Doran
   slack_id: C02GKECTJ
   slack_channel: open-disclosure
   description: Open Disclosure helps Oaklanders understand the role of money in their local politics. By analyzing mandatory campaign finance disclosures for candidates seeking public office, Open Disclosure presents a user-friendly overview of who is raising money, from where, and how much. Open Disclosure is developed in partnership with the City of Oakland Public Ethics Commission.
