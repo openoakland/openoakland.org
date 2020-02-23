@@ -55,7 +55,7 @@ Open your web browser to [localhost:4000](http://localhost:4000/).
 ## Working with pull requests and reviews
 
 - Follow the pull request template. If there are design changes, please include screenshots.
-- Add [Alison](https://github.com/anlawyer) as a reviewer on the pull request.
+- Add the [website-admins](https://github.com/orgs/openoakland/teams/website-admins) team as a reviewer on the pull request.
 - Add anyone else who may have relevant knowledge, or anyone you worked or spoke with, if applicable.
 - Make sure the CircleCI builds and tests pass. If they don’t, go ahead and continue to work and push up additional commits. The build must be successful before your work is merged.
   - To build your code locally before pushing up your commits, run the following command in your terminal: `circleci local execute --job build`.
