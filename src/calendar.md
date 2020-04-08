@@ -13,7 +13,8 @@ OpenOakland meets every Tuesday at Oakland City Hall. We welcome everyone to joi
 We encourage first-time attendees to join us during our **monthly New Member Onboarding** the last Tuesday night of the month.
 
 ### Upcoming Events
-- [Open Data Day 2020](https://www.eventbrite.com/e/bay-area-open-data-day-census-2020-tickets-90723860509){:target="\_blank"} March 7, 2020
+
+- Join us on Zoom for our [Hack Nights](https://www.meetup.com/OpenOakland/events/){:target="\_blank"} every Tuesday evening!
 
 ### Past Events
 
