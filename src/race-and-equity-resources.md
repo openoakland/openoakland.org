@@ -1,0 +1,11 @@
+- [Oakland Equity Indicators](http://www2.oaklandnet.com/oakca1/groups/cityadministrator/documents/report/oak071073.pdf) Measuring change toward greater equity in Oakland
+- [Police Score Card](https://policescorecard.org/?city=oakland)
+- [Open Data Portal for Oakland Police](https://www.oaklandca.gov/topics/police-data)
+- [OPD Personnel Data](https://www.oaklandca.gov/resources/opd-personnel-hiring-attrition-and-demographic-data-reports)
+- [Oakland Police Commission](https://www.oaklandca.gov/boards-commissions/police-commission)
+- [Allied Media](https://www.alliedmedia.org/) Intersection of art and media for social change
+- [Discotech](https://www.alliedmedia.org/ddjc/discotech) Toolkit for community workshop resource
+- [Design Justice](https://designjustice.org/)
+- [Ways You Can Help, from Black Lives Matter](https://blacklivesmatters.carrd.co/)
+- [Form Letter for Engaging Senior Leadership with Your Organization](https://docs.google.com/document/d/1JZxm5z_JjKY_HrOhx5S_2lYEK9OTi7u4COL1UJkr9TE/edit?usp=sharing)
+- [Anti-Racism Resources](http://bit.ly/ANTIRACISMRESOURCES)
