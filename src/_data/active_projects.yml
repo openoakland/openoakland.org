@@ -10,14 +10,6 @@
     learn more about the first all-digital census through these events, even
     finding locations where they can get assistance to complete the census.
     Residents can search for events based on date, location, and language.
-
-- name: Alameda County Census 2020 Landing Page
-  image:
-  link:
-  leader: Lydia Kats
-  slack_id: CJJ9B9A3S
-  slack_channel: census-projects
-  description: This landing page is intended to be a portal for the 2020 Census administered by Alameda County. It will be accessible at locations where a computer or tablet is provided to the public and is intended to introduce people to the Census and offer information in their native language about why the Census is important to complete, as well as resources and guides on how to complete the Census. It is intended to be welcoming to people for whom English is not their first language.
 - name: Councilmatic
   image: councilmatic_300x118.png
   link: https://oaklandcouncil.net/

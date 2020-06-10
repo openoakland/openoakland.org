@@ -4,6 +4,13 @@
   established: 2011
   link: https://adoptadrainoakland.com
   description: Adopt a Drain is a platform for Oakland residents to volunteer to be responsible for keeping a nearby storm drain clear to decrease flooding from storms, protect water quality, and keep trash from storm drains and connected creeks and water bodies. Vigilant maintenance of the City’s storm drain infrastructure is important for reducing pollution in the Bay. Adopt a Drain was set up in partnership with [City of Oakland’s Public Works Agency](http://www2.oaklandnet.com/government/o/PWA/o/FE/s/ID/OAK024735#Drain).
+- name: Alameda County Census 2020 Landing Page
+  image:
+  link: https://llkats.github.io/dos-acccc/
+  leader: Lydia Kats
+  slack_id: CJJ9B9A3S
+  slack_channel: census-projects
+  description: This landing page is intended to be a portal for the 2020 Census administered by Alameda County. It will be accessible at locations where a computer or tablet is provided to the public and is intended to introduce people to the Census and offer information in their native language about why the Census is important to complete, as well as resources and guides on how to complete the Census. It is intended to be welcoming to people for whom English is not their first language.
 -
   name: CannaEquity.org
   image: cannaequity_300x199.png
