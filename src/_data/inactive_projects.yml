@@ -1,6 +1,6 @@
 -
   name: Adopt a Drain
-  image: 
+  image:
   established: 2011
   link: https://adoptadrainoakland.com
   description: Adopt a Drain is a platform for Oakland residents to volunteer to be responsible for keeping a nearby storm drain clear to decrease flooding from storms, protect water quality, and keep trash from storm drains and connected creeks and water bodies. Vigilant maintenance of the City’s storm drain infrastructure is important for reducing pollution in the Bay. Adopt a Drain was set up in partnership with [City of Oakland’s Public Works Agency](http://www2.oaklandnet.com/government/o/PWA/o/FE/s/ID/OAK024735#Drain).
@@ -18,7 +18,7 @@
   link: http://cannaequity.org
   leader: Angela Gennino and Richard Ng
   slack_id: C67FNRY20
-  slack_channel: 
+  slack_channel:
   description: "**Our Backstory**: The City of Oakland is in the process of expanding their medical cannabis licensing to include regulation for cultivation and manufacturing. As part of this activity, the City also codified an Equity Licensing Program to address barriers to participation in the industry for members of disenfranchised communities in Oakland. This program includes a provision for \"equity business incubators\" to support new businesses in the industry. Equity businesses in the pipeline will be important to regular applicants, because regular licenses will only be issued on a one-to-one basis with equity licenses during the initial phase of the program. The incubator opportunity is intended to help new enterprises overcome the barrier of securing commercial space by incentivizing more established businesses to agree to share their existing space for a minimum of three years. By partnering with an equity business, a regular applicant will be moved to the top of the list for the next available non-equity cannabis business license.
 
 
@@ -27,10 +27,10 @@
   name: CityCamp Oakland
   image: citycamp_300x150.png
   established: 2013
-  link: 
-  leader: 
-  slack_id: 
-  slack_channel: 
+  link:
+  leader:
+  slack_id:
+  slack_channel:
   description: "**Our Backstory**: The fifth annual CityCamp successfully took place on Saturday, March 25, 2017 at Oakland City Hall. CityCamp is an unstructured conference where municipal employees, civic leaders, technology folks, software developers, journalists, and engaged residents can meet and discuss the intersections of technology and local government—how innovative technology and data uses can improve civic engagement, increase efficiency and transparency, connect residents, and incubate the technology community in our city. Unconferences are not structured up-front; the agenda is completed on the day based on topics the attendees themselves suggest. This gives attendees control over the topics and discussion happening at the event, so residents can drive attention towards issues they think are most important."
 -
   name: Civic User Testing Group (CUT Group)
@@ -42,23 +42,23 @@
   description: Civic User Testing (CUT) Group's goal is to make sure OpenOakland projects are working towards creating the best possible experience and serve all Oakland residents. If you're interested in user experience, or just like making things better, please reach out! <a href="https://docs.google.com/document/d/1VkSG9Amzq2759HACbFizSGAah4Q4byGG6R8cCxwcOO4/edit">Check out our current projects here.</a>
 -
   name: Diversity, Equity, and Inclusion Group
-  image: 
+  image:
   established: 2016
-  link: 
-  leader: 
-  slack_id: 
-  slack_channel: 
+  link:
+  leader:
+  slack_id:
+  slack_channel:
   description: "**Our Backstory**: The Diversity, Equity, and Inclusion Group was created to codify OpenOakland’s DEI organizational principles and to lead through action, OpenOakland’s commitment to making the technology space representative of Oakland’s diverse and multicultural community."
 -
   name: Early Oakland
-  image: 
+  image:
   established: 2011
-  link: 
-  leader: 
-  slack_id: 
-  slack_channel: 
+  link:
+  leader:
+  slack_id:
+  slack_channel:
   description: "**Our Backstory**: Built in partnership with the Oak Education Cabinet, Early Oakland provides information on early learning programs that are state subsidized and federally supported Head Start programs in Oakland, including Bananas Child Care Resource and Referral, Oakland Head Start and the Unity Council Preschool, as well as Oakland Unified School District Early Childhood Education Department. This includes part day and full day programs for three and four year olds; a few programs also serve younger children."
-- 
+-
   name: LaneLookout
   image: lane-lookout_300x300.png
   link: https://www.lanelookout.org
@@ -68,39 +68,47 @@
   description: Our project seeks to improve the safety of bike lanes for cyclists in Oakland. We are developing an app to generate aggregate data regarding infringements in the bike lane (ie. vehicles) via self-reporting cyclists. From this data, we will generate reports to drive improvements in problem areas.
 -
   name: Oakland Beats
-  image: 
+  image:
   established: 2011
-  link: 
-  leader: 
-  slack_id: 
-  slack_channel: 
+  link:
+  leader:
+  slack_id:
+  slack_channel:
   description: "**Our Backstory**: This tool helps visitors determine which Community Police Beat they live in. In Oakland, [Neighborhood Councils](http://www2.oaklandnet.com/government/o/OPD/s/NSD/s/ncpc/index.htm) (formerly known as Neighborhood Crime Prevention Council (NCPC)) operate for each of the 53 Community Police Beats. The Neighborhood Council system provides a way for residents to gather and discuss local crime problems with a city and OPD representative on a monthly basis."
 -
+  name: Oakland Gov 101
+  image:
+  link: https://invis.io/8NUX0LPSBMG#/394226187_Overview
+  leader: Thomas Deckert
+  slack_id: CNTPFR7JA
+  slack_channel: oakland-gov-101
+  description: This project is a partnership with the League of Women Voters of Oakland to add educational content to their site describing the structure and function of local government.
+-
   name: Oakland Open Data Portal
-  image: 
+  image:
   established: 2011
   link: http://data.openoakland.org/
-  leader: 
-  slack_id: 
-  slack_channel: 
+  leader:
+  slack_id:
+  slack_channel:
   description: "**Our Backstory**: This platform is an open data catalog built by the OpenOakland Brigade as a community resource and our first example of what can be achieved using opensource tools in strategic ways for our city. This site uses the opensource [CKAN](http://www.ckan.org) platform—the same free software behind the UK government’s [Data.Gov.UK](http://data.gov.uk) resource. This site has been populated with data found on various Oakland government websites and from the huge data warehouse operated by [Urban Strategies Council](http://www.urbanstrategies.org) and its public web mapping platform [InfoAlamedaCounty.org](http://infoalamedacounty.org)."
 -
   name: Oakland Wiki
-  image: 
+  image:
   established: 2013
   link: https://oaklandwiki.org
-  leader: 
-  slack_id: 
-  slack_channel: 
+  leader:
+  slack_id:
+  slack_channel:
   description: "**Our Backstory**: Oakland Wiki is built on the [LocalWiki](https://oaklandwiki.org/about/) platform, a grassroots effort to collect, share, and open the world’s local knowledge. Anyone can edit this wiki, so contribute what you know about your local community for others to use and enjoy!"
 -
   name: Open Government Pledge
-  image: 
+  image:
   established: 2012
-  link: 
-  leader: 
-  slack_id: 
-  slack_channel: 
+  link:
+  leader:
+  slack_id:
+  slack_channel:
   description: "**Our Backstory**: Beginning for Oakland‘s 2012 elections, we asked electoral candidates to take the [Open Government Pledge](http://oaklandcandidates.org/OpenGovPledge2012.pdf) to support the following principles of Open Government:
 
   - Transparency: To increase accountability, promote informed public participation, and create economic development opportunities, the city shall expand access to information.
@@ -118,30 +126,30 @@
   description: "Phase III (Delivery pending, ~End of Mar 2019): This is mainly focused on developing a survey design, and related questionnaire, to measure OTX impact across their tech literacy programs servicing individuals in public housing. The data team is going to fine-tune our deliveries in Phase II to be \"publication-ready\". Meanwhile, our volunteers leading the survey design work are partnered with CUT group to assist with the survey design, implementation approach, and language of questions."
 -
   name: RecordTrac
-  image: 
+  image:
   established: 2013
-  link: 
-  leader: 
-  slack_id: 
-  slack_channel: 
+  link:
+  leader:
+  slack_id:
+  slack_channel:
   description: "**Our Backstory**: RecordTrac is a simple way for individuals to submit public record requests to a governmental agency online. The application also allows government employees manage, respond to, and fulfill incoming requests. By displaying all [submitted records requests](http://records.oaklandnet.com/view_requests), members of the public may find what they need without having to create a new public record request."
 -
   name: Soft Story
-  image: 
+  image:
   established: 2013
-  link: 
-  leader: 
-  slack_id: 
-  slack_channel: 
+  link:
+  leader:
+  slack_id:
+  slack_channel:
   description: "**Our Backstory**: Soft Story is a simple interactive map of potential soft-story buildings in Oakland. Soft-story buildings are multi-unit, wood-frame, residential buildings with a first story that lacks adequate strength or stiffness to prevent leaning or collapse in an earthquake. These buildings pose a safety risk to tenants and occupants, a financial risk to owners, and risk the recovery of the city and region. This data shows the results of a screening program for potential soft-story buildings in Oakland. In 2008 Oakland surveyed its multi-family buildings with five or more units, and in 2009 passed an ordinance that required the owners of these buildings to complete a simple evaluation of the ground floor. This data shows the results of these screenings as of early 2013."
 -
   name: Track G – Oakland’s Measure G
   image: trackg_300x233.png
   established: 2014
-  link: 
-  leader: 
+  link:
+  leader:
   slack_id: C04AS7MKP
-  slack_channel: 
+  slack_channel:
   description: "**Our Backstory**: Measure G is a city ballot measure that was passed by the citizens of Oakland in 2008 to improve the quality of education provided by Oakland public schools. Money is collected from Measure G via a special parcel tax, which amounts to about $20 million a year in additional funds for the Oakland Unified School District's budget.Track G – Oakland’s Measure G publishes data on how funds collected from the Measure G parcel tax are spent. Track G allows spending to be seen by location, by program, and by school."
 -
   name: Trash Talk
