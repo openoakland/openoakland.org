@@ -10,6 +10,13 @@
     learn more about the first all-digital census through these events, even
     finding locations where they can get assistance to complete the census.
     Residents can search for events based on date, location, and language.
+- name: Community Foods
+  image: Community-Foods-Exterior-300x206.png
+  link:
+  leader: Thomas Deckert
+  slack_id: C0165NXC2F2
+  slack_channel: community-foods
+  description: In partnership with West Oakland's Community Foods Market this project aims to support the adoption and use of food assistance benefits (EBT). The main objectives are to provide support for in-store EBT applications and to improve EBT checkout process.
 - name: Councilmatic
   image: councilmatic_300x118.png
   link: https://oaklandcouncil.net/
@@ -38,13 +45,6 @@
   slack_id: CJL45MU0P
   slack_channel: dos-oakartmurmur
   description: This project is in partnership with Oakland Art Murmur and is about building tools that art enthusiasts can use to promote Oakland art. We are looking for folks who are passionate about improving the accessibility of art in Oakland or have experience with geo-spatial mapping.
-- name: Oakland Gov 101
-  image: 
-  link: https://invis.io/8NUX0LPSBMG#/394226187_Overview
-  leader: Thomas Deckert
-  slack_id: CNTPFR7JA
-  slack_channel: oakland-gov-101
-  description: This project is a partnership with the League of Women Voters of Oakland to add educational content to their site describing the structure and function of local government.
 - name: Open Budget
   image: openbudgetoakland_300x233.png
   link: http://openbudgetoakland.org/
