@@ -25,6 +25,17 @@ Job openings in government and non-profit organizations
 
 ---
 
+#### Project Resources
+
+Project Canvas
+- [Discovery](c4a.me/canvas-discovery)
+- [Technology](c4a.me/canvas-technology)
+- [User Testing](c4a.me/canvas-user-testing)
+
+[Project Planning Worksheet](oakca.us/project-planning)
+
+---
+
 #### Other Resources
 
 [_The Open Data Handbook_](http://opendatahandbook.org)  
