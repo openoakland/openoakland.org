@@ -28,11 +28,15 @@ Job openings in government and non-profit organizations
 #### Project Resources
 
 Project Canvas
-- [Discovery](c4a.me/canvas-discovery)
-- [Technology](c4a.me/canvas-technology)
-- [User Testing](c4a.me/canvas-user-testing)
 
-[Project Planning Worksheet](oakca.us/project-planning)
+Use the questionnaire specific to your project type to help you plan or document a new project, pivot an existing project, or reboot an old project.
+- [Discovery canvas](https://c4a.me/canvas-discovery)
+- [Technology canvas](https://c4a.me/canvas-technology)
+- [User testing canvas](https://c4a.me/canvas-user-testing)
+
+[Project Planning Worksheet](http://oakca.us/project-planning)
+
+This doc will help you think through some critical questions as you plan your OpenOakland project. Complete it with your team to spark conversation, and keep it updated to ensure you’re staying on track. 
 
 ---
 
