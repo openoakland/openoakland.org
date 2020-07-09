@@ -1,7 +1,7 @@
 ---
 title: Code of Conduct
-date: 2017-01-10T16:56:49-07:00
-author: elina
+date: 2020-07-08T23:00:00-07:00
+author: heph
 layout: page
 ---
 
@@ -13,28 +13,22 @@ This document is adapted from Code for America's Code of Conduct and [Anti-Haras
 
 Our Code of Conduct aims to produce an environment that is inclusive and collaborative by guarding each person’s dignity and sense of security.
 
-The OpenOakland community expects that  OpenOakland activities, events, and digital forums:
+The OpenOakland community expects that OpenOakland activities, events, and digital forums:
 
-1. OpenOakland is a professional environment. Behaviors that are inappropriate around your boss are inappropriate here.
-2. Respect personal space. As a policy, we discourage hugs and other physical contact
-3. Err on the side of political correctness. Don’t say or write anything that can be misunderstood as insensitive
+1. Are a safe and respectful environment for all participants.
+2. Are a place where people are free to fully express their identities.
+3. Presume the value of others. Everyone’s ideas, skills, and contributions have value.
+4. Don’t assume everyone has the same context, and encourage questions.
+5. Find a way for people to be productive with their skills (technical and not) and energy. Use language such as “yes/and”, not “no/but.”
+6. Encourage members and participants to listen as much as they speak.
+7. Strive to build tools that are open and free technology for public use. Activities that aim to foster public use, not private gain, are prioritized.
+8. Prioritize access for and input from those who are traditionally excluded from the civic process.
+9. Work to ensure that the community is well-represented in the planning, design, and implementation of civic tech. This includes encouraging participation from women, minorities, and traditionally marginalized groups.
+10. Actively involve community groups and those with subject matter expertise in the decision-making process.
+11. Ensure that the relationships and conversations between community members, the local government staff and community partners remain respectful, participatory, and productive.
+12. Provide an environment where people are free from discrimination or harassment.
 
-OpenOakland reserves the right to ask anyone in violation of these policies not to participate in OpenOakland network activities, events, and digital forums
-
-We have put together a toolbox for achieving the environment set out above.
-
-For interpersonal interactions:
-
-1. Presume the value of others. Differing ideas, skills and contributions all play a crucial role in the operation of each project
-2. Endeavor to include technical and non technica skill set in your project
-3. Encourage members and participants to listen as much as they speak.
-
-When considering a new project or working on a current one:
-
-1. Strive to build tools that are open and free technology for public use.
-2. Consider access for and input from those who are traditionally excluded from the civic process.
-3. Encourage participation from all community members in the planning, design, and implementation of civic tech
-4. Create and maintain positive relationships with community partners, community members and local government staff and actively involve them in the decision making process.
+OpenOakland reserves the right to ask anyone in violation of these policies not to participate in OpenOakland network activities, events, and digital forums.
 
 ## OpenOakland's Anti-Harassment Policy
 
