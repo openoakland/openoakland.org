@@ -10,7 +10,7 @@ At OpenOakland, civic tech means helping communities understand and navigate loc
 Your generous gift will support our efforts to connect to all of Oakland through events and weekly meetings
 
 {: style="text-align: center"}
-[Donate Now!](https://secure.codeforamerica.org/page/contribute/donate-to-a-brigade-today?source_codes=openoakland-website&brigade=Open%20Oakland){:target="_blank" .btn style="background-color: #21b890; color: #ffffff;"}
+[Donate Now!](https://www.codeforamerica.org/donate-to-a-brigade?utm_campaign=Open%20Oakland&utm_source=OpenOakland%20site){:target="_blank" .btn style="background-color: #21b890; color: #ffffff;"}
 
 ## Donations Provide
 - Resources for outreach activities and events
