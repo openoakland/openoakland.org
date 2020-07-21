@@ -13,7 +13,7 @@ This handbook is a guide on how to access all the resources that the Code for Am
 [Code for America Memorandum of Understanding](https://docs.google.com/document/d/1TtEWZ1-XY3WHJ9dU4KaMIjDx7wcFGw3lbM8O8iUt2Sw/){: target="_blank" rel="noopener noreferrer"}
 
 <!-- AL removed link -->
-Open Oakland Relationship Letter (PDF)  
+[Open Oakland Relationship Letter](https://drive.google.com/file/d/1i6BzWwVQHYSPD_Aa9HwqCpc8MEtpcqC2/view?usp=sharing){: target="_blank" rel="noopener noreferrer"} (PDF)
 Letter declaring OpenOakland's relationship with Code for America for 501(c)(3) status tax exemption.
 
 [Code for America website](https://www.codeforamerica.org)
