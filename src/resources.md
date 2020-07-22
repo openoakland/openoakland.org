@@ -12,8 +12,7 @@ This handbook is a guide on how to access all the resources that the Code for Am
 
 [Code for America Memorandum of Understanding](https://docs.google.com/document/d/1TtEWZ1-XY3WHJ9dU4KaMIjDx7wcFGw3lbM8O8iUt2Sw/){: target="_blank" rel="noopener noreferrer"}
 
-<!-- AL removed link -->
-Open Oakland Relationship Letter (PDF)  
+[Open Oakland Relationship Letter](https://drive.google.com/file/d/1i6BzWwVQHYSPD_Aa9HwqCpc8MEtpcqC2/view?usp=sharing){: target="_blank" rel="noopener noreferrer"} (PDF)
 Letter declaring OpenOakland's relationship with Code for America for 501(c)(3) status tax exemption.
 
 [Code for America website](https://www.codeforamerica.org)
@@ -22,6 +21,21 @@ Letter declaring OpenOakland's relationship with Code for America for 501(c)(3) 
 Job openings in government and non-profit organizations
 
 [OpenOakland Style Guide](https://docs.google.com/document/d/1SvhwrQcu4mNMS05zE4AIXA8zsc7qpUeWVA9GvgiZaHo/edit#heading=h.dzo2keok5z7)
+
+---
+
+#### Project Resources
+
+Project Canvas
+
+Use the questionnaire specific to your project type to help you plan or document a new project, pivot an existing project, or reboot an old project.
+- [Discovery canvas](https://c4a.me/canvas-discovery)
+- [Technology canvas](https://c4a.me/canvas-technology)
+- [User testing canvas](https://c4a.me/canvas-user-testing)
+
+[Project Planning Worksheet](http://oakca.us/project-planning)
+
+This doc will help you think through some critical questions as you plan your OpenOakland project. Complete it with your team to spark conversation, and keep it updated to ensure you’re staying on track. 
 
 ---
 
