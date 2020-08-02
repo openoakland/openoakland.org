@@ -17,7 +17,7 @@ OpenOakland bridges technology and community for a thriving and equitable Oaklan
 - **Empowering Oaklanders.**  
     We recognize that Oakland has a rich history of activism. We seek to empower all Oaklanders to keep advocating for our community‘s collective well-being.
 
-We're a fiscally-sponsored project of [Code for America](codeforamerica.org/), a 501(c)3 nonprofit. Donations to OpenOakland are tax-deductible and can be [made through Code for America](https://www.codeforamerica.org/donate-to-a-brigade?utm_campaign=Open%20Oakland&utm_source=OpenOakland%20site) (be sure to select OpenOakland from the menu after choosing the amount).
+We're a fiscally-sponsored project of [Code for America](https://www.codeforamerica.org/), a 501(c)3 nonprofit. Donations to OpenOakland are tax-deductible and can be [made through Code for America](https://www.codeforamerica.org/donate-to-a-brigade?utm_campaign=Open%20Oakland&utm_source=OpenOakland%20site) (be sure to select OpenOakland from the menu after choosing the amount).
 
  <div class="iframe-container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/mYzMl_HnEZU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -39,7 +39,7 @@ Formal decision-making is done by the Steering Committee, which meets monthly. E
 
 ![Organization chart depicting the Steering Committee, consisting of elected leadership plus one project representative per project.](/src/assets/images/OpenOakland-governance.png)
 
-To contact the steering committee, email [mailto:steering@openoakland.org](steering@openoakland.org) or join the #leadership channel in [Slack](http://slack.openoakland.org/).
+To contact the steering committee, email [steering@openoakland.org](mailto:steering@openoakland.org) or join the #leadership channel in [Slack](http://slack.openoakland.org/).
 
 ## How you can get involved
 
