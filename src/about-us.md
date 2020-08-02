@@ -45,7 +45,6 @@ OpenOakland is a fiscally-sponsored project of [Code for America](codeforamerica
 
 We're led by a leadership team elected by membership each year, whose primary means of decision-making is via a monthly Steering Committee meeting. A member from each [active project](/projects/) team should also attend the Steering Committee meeting each month. It doesn’t need to always be the same person, but it should be part of the core team. All OpenOakland members are welcome to sit in on these meetings.
 
-![Organization chart depicting the Steering Committee, consisting of elected leadership plus one project representative per project.](https://openoakland.org/assets/images/OpenOakland-governance.png)
+![Organization chart depicting the Steering Committee, consisting of elected leadership plus one project representative per project.](/src/assets/images/OpenOakland-governance.png)
 
 To contact the steering committee, email [mailto:steering@openoakland.org](steering@openoakland.org).
-
