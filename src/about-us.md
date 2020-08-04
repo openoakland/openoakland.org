@@ -1,7 +1,7 @@
 ---
 title: About Us
-date: 2015-11-29T21:06:02-07:00
-author: elina
+date: 2020-08-03T23:03:27+0000
+author: Jess Sand
 layout: page
 ---
 
@@ -37,7 +37,7 @@ We're governed by a set of [bylaws](https://docs.google.com/document/d/1QR-fr1Wn
 
 Formal decision-making is done by the Steering Committee, which meets monthly. Each elected officer has one vote, as does each [active project](/projects/) team. Projects are expected to send a representative to the monthly Steering Committee meetings to exercise their vote. It doesn’t need to be the same person each month, but they should be part of the core team. If a project team doesn't send a rep, they're considered to be abstaining from any vote that month. **All OpenOakland members are welcome to sit in on these meetings.**
 
-![Organization chart depicting the Steering Committee, consisting of elected leadership plus one project representative per project.](/src/assets/images/OpenOakland-governance.png)
+![Organization chart depicting the Steering Committee, consisting of elected leadership plus one project representative per project.](/assets/images/OpenOakland-governance.png)
 
 To contact the steering committee, email [steering@openoakland.org](mailto:steering@openoakland.org) or join the #leadership channel in [Slack](http://slack.openoakland.org/).
 
