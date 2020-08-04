@@ -5,7 +5,7 @@ author: elina
 layout: page
 ---
 
-OpenOakland projects are the core of our organization's efforts to connect citizens with impactful civic initiatives. **We're always seeking new projects and project leaders** to work on housing, transportation, education, health, or any area that can improve the lives of Oakland's residents. Please feel free to [join our Slack](https://docs.google.com/forms/d/e/1FAIpQLSee_qdE0qCmhufJC94MmSRVDLPAhhFJO4QMzuC31Kh0lxI_Mg/viewform?usp=sf_link) and reach out to members, leadership, or any project team for more information. You can contact project teams directly in their individual Slack channels. **Join or sign-in to Slack:**  [**slack.openoakland.org**](http://slack.openoakland.org/){: target="_blank" rel="noopener noreferrer"}
+In response to member feedback, OpenOakland is reevaluating how our projects are vetted and adopted, with a focus on ensuring all projects are aligned with [OpenOakland’s values](https://openoakland.org/our-values) and are truly serving the communities they impact. The projects listed here are currently active but will be going through this new process as it’s developed. If you’d like to contribute to or provide feedback on any of these projects or the evaluation process itself, consider attending our [next Hack Night](https://www.meetup.com/OpenOakland/events/), joining the conversation in our [Slack workspace](http://slack.openoakland.org/), or emailing our [Steering Committee](mailto:steering@openoakland.org).
 
 ---
 
