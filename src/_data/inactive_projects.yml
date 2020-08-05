@@ -52,6 +52,13 @@
   slack_id: C02FYSFLK
   slack_channel: cut-group
   description: Civic User Testing (CUT) Group's goal is to make sure OpenOakland projects are working towards creating the best possible experience and serve all Oakland residents. If you're interested in user experience, or just like making things better, please reach out! <a href="https://docs.google.com/document/d/1VkSG9Amzq2759HACbFizSGAah4Q4byGG6R8cCxwcOO4/edit">Check out our current projects here.</a>
+- name: Discount Mobility Share
+  image: discount_mobility_300x213.png
+  link: https://oaklandca.formstack.com/forms/shared_mobility_application_form
+  leader: Gaurav Kulkarni
+  slack_id: CLY606C2D
+  slack_channel: discount-mobility
+  description: We work to help low income residents get access to scooter share, bike share and car share programs. While every company has discount programs for low income residents, the application process is fragmented and these benefits aren't widely known. We're unifying application for these programs and engaging in outreach so people are aware of this benefit.
 -
   name: Diversity, Equity, and Inclusion Group
   image:

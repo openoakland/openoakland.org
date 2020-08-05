@@ -12,13 +12,6 @@
   slack_id: C0M89GTRT
   slack_channel: councilmatic
   description: We make the Oakland City Council meetings easily accessible to the citizens of Oakland. Using our site citizens can learn when are the upcoming city council meetings, view the agenda, put the meeting on your calendar, and send an electronic comment to the Council. Plus you can see videos of past meetings.
-- name: Discount Mobility Share
-  image: discount_mobility_300x213.png
-  link: https://oaklandca.formstack.com/forms/shared_mobility_application_form
-  leader: Gaurav Kulkarni
-  slack_id: CLY606C2D
-  slack_channel: discount-mobility
-  description: We work to help low income residents get access to scooter share, bike share and car share programs. While every company has discount programs for low income residents, the application process is fragmented and these benefits aren't widely known. We're unifying application for these programs and engaging in outreach so people are aware of this benefit.
 - name: OakCrime
   image: oakcrime_300x233.png
   link: http://oakcrime.org
