@@ -4,6 +4,18 @@
   established: 2011
   link: https://adoptadrainoakland.com
   description: Adopt a Drain is a platform for Oakland residents to volunteer to be responsible for keeping a nearby storm drain clear to decrease flooding from storms, protect water quality, and keep trash from storm drains and connected creeks and water bodies. Vigilant maintenance of the City’s storm drain infrastructure is important for reducing pollution in the Bay. Adopt a Drain was set up in partnership with [City of Oakland’s Public Works Agency](http://www2.oaklandnet.com/government/o/PWA/o/FE/s/ID/OAK024735#Drain).
+- name: Alameda County Census 2020 Events
+  image:
+  link: https://github.com/openoakland/dos-census-events
+  leader: "@mikeubell"
+  slack_id: CJJ9B9A3S
+  slack_channel: census-projects
+  description: |-
+    Census partners can submit events (workshops, tabling, drop-in centers,
+    etc) and resources around the 2020 census. Alameda County residents can
+    learn more about the first all-digital census through these events, even
+    finding locations where they can get assistance to complete the census.
+    Residents can search for events based on date, location, and language.
 - name: Alameda County Census 2020 Landing Page
   image:
   link: https://llkats.github.io/dos-acccc/
@@ -11,6 +23,13 @@
   slack_id: CJJ9B9A3S
   slack_channel: census-projects
   description: This landing page is intended to be a portal for the 2020 Census administered by Alameda County. It will be accessible at locations where a computer or tablet is provided to the public and is intended to introduce people to the Census and offer information in their native language about why the Census is important to complete, as well as resources and guides on how to complete the Census. It is intended to be welcoming to people for whom English is not their first language.
+- name: Oakland Art Murmur
+  image: oakland-art-murmur_300x240.png
+  link:
+  leader: Andy Guenthner
+  slack_id: CJL45MU0P
+  slack_channel: dos-oakartmurmur
+  description: This project is in partnership with Oakland Art Murmur and is about building tools that art enthusiasts can use to promote Oakland art. We are looking for folks who are passionate about improving the accessibility of art in Oakland or have experience with geo-spatial mapping.
 -
   name: CannaEquity.org
   image: cannaequity_300x199.png
@@ -40,6 +59,13 @@
   slack_id: C02FYSFLK
   slack_channel: cut-group
   description: Civic User Testing (CUT) Group's goal is to make sure OpenOakland projects are working towards creating the best possible experience and serve all Oakland residents. If you're interested in user experience, or just like making things better, please reach out! <a href="https://docs.google.com/document/d/1VkSG9Amzq2759HACbFizSGAah4Q4byGG6R8cCxwcOO4/edit">Check out our current projects here.</a>
+- name: Discount Mobility Share
+  image: discount_mobility_300x213.png
+  link: https://oaklandca.formstack.com/forms/shared_mobility_application_form
+  leader: Gaurav Kulkarni
+  slack_id: CLY606C2D
+  slack_channel: discount-mobility
+  description: We work to help low income residents get access to scooter share, bike share and car share programs. While every company has discount programs for low income residents, the application process is fragmented and these benefits aren't widely known. We're unifying application for these programs and engaging in outreach so people are aware of this benefit.
 -
   name: Diversity, Equity, and Inclusion Group
   image:
