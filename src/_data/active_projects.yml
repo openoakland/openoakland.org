@@ -1,15 +1,3 @@
-- name: Alameda County Census 2020 Events
-  image:
-  link: https://github.com/openoakland/dos-census-events
-  leader: "@mikeubell"
-  slack_id: CJJ9B9A3S
-  slack_channel: census-projects
-  description: |-
-    Census partners can submit events (workshops, tabling, drop-in centers,
-    etc) and resources around the 2020 census. Alameda County residents can
-    learn more about the first all-digital census through these events, even
-    finding locations where they can get assistance to complete the census.
-    Residents can search for events based on date, location, and language.
 - name: Community Foods
   image: Community-Foods-Exterior-300x206.png
   link:
@@ -24,13 +12,6 @@
   slack_id: C0M89GTRT
   slack_channel: councilmatic
   description: We make the Oakland City Council meetings easily accessible to the citizens of Oakland. Using our site citizens can learn when are the upcoming city council meetings, view the agenda, put the meeting on your calendar, and send an electronic comment to the Council. Plus you can see videos of past meetings.
-- name: Discount Mobility Share
-  image: discount_mobility_300x213.png
-  link: https://oaklandca.formstack.com/forms/shared_mobility_application_form
-  leader: Gaurav Kulkarni
-  slack_id: CLY606C2D
-  slack_channel: discount-mobility
-  description: We work to help low income residents get access to scooter share, bike share and car share programs. While every company has discount programs for low income residents, the application process is fragmented and these benefits aren't widely known. We're unifying application for these programs and engaging in outreach so people are aware of this benefit.
 - name: OakCrime
   image: oakcrime_300x233.png
   link: http://oakcrime.org
@@ -38,13 +19,6 @@
   slack_id: C040ULV6C
   slack_channel: crime
   description: OakCrime.org seeks to increase transparency and understanding of data released by the Oakland Police Department (OPD) regarding crime. Our data goes back to 2007, and up to yesterday. We strive to make all public OPD data available to citizens ASAP, provide context for it with analytics and visualization, together with full provenance via open source repositories and solid documentation.
-- name: Oakland Art Murmur
-  image: oakland-art-murmur_300x240.png
-  link:
-  leader: Andy Guenthner
-  slack_id: CJL45MU0P
-  slack_channel: dos-oakartmurmur
-  description: This project is in partnership with Oakland Art Murmur and is about building tools that art enthusiasts can use to promote Oakland art. We are looking for folks who are passionate about improving the accessibility of art in Oakland or have experience with geo-spatial mapping.
 - name: Open Budget
   image: openbudgetoakland_300x233.png
   link: http://openbudgetoakland.org/
