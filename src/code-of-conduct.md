@@ -1,7 +1,7 @@
 ---
 title: Code of Conduct
-date: 2020-07-08T23:00:00-07:00
-author: heph
+date: 2020-08-18T23:00:00-07:00
+author: llkats
 layout: page
 ---
 
