@@ -40,7 +40,7 @@ This policy is based on several other policies, including the Ohio LinuxFest ant
 
 All OpenOakland network activities, events, and digital forums and their staff, presenters, and participants are held to an anti-harassment policy, included below.
 
-OpenOakland is dedicated to providing a harassment-free experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, or religion. We do not tolerate harassment of staff, presenters, and participants in any form. Sexual language and imagery is not appropriate for any OpenOakland event or network activity, including talks. Anyone in violation of these policies may expelled from OpenOakland network activities, events, and digital forums, at the discretion of the event organizer or forum administrator.
+OpenOakland is dedicated to providing a harassment-free experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, or religion. We do not tolerate harassment of staff, presenters, and participants in any form. Sexual language and imagery is not appropriate for any OpenOakland event or network activity, including talks. Anyone in violation of these policies may be expelled from OpenOakland network activities, events, and digital forums, at the discretion of the event organizer or forum administrator.
 
 Harassment includes but is not limited to: offensive verbal or written comments related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, religion; sexual images in public spaces; deliberate intimidation; stalking; following; harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact; unwelcome sexual attention; unwarranted exclusion; and patronizing language or action.
 
@@ -50,7 +50,7 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 If you cannot reach an event organizer or forum administrator and/or it is an emergency, please call 911 and/or remove yourself from the situation.
 
-You can also contact OpenOakland about harassment at _safespace@openoakland.org_ and feel free to use the email template below.  The OpenOakland Core Team acknowledge that we are not always in a position to evaluate a given situation due to the number of events and the fact that our team is not always present. However, we are hopeful that by providing these guidelines we are establishing a community that jointly adheres to these values and can provide an environment that is welcoming to all.
+You can also contact OpenOakland about harassment at _safespace@openoakland.org_ and feel free to use the email template below.  The OpenOakland Core Team acknowledges that we are not always in a position to evaluate a given situation due to the number of events and the fact that our team is not always present. However, we are hopeful that by providing these guidelines we are establishing a community that jointly adheres to these values and can provide an environment that is welcoming to all.
 
 We value your attendance and hope that by communicating these expectations widely we can all enjoy a harassment-free environment.
 
