@@ -14,7 +14,7 @@ Please be familiar with the OpenOakland’s [Code of Conduct](https://github.com
 - [Ruby 2.5+](https://www.ruby-lang.org/en/)
 - [bundler](https://bundler.io/)
 
-### Setup
+### Setup (Local)
 
 Clone or fork the repository and navigate to the project folder.
 
@@ -33,6 +33,14 @@ Run some checks.
 Start a local server.
 
     $ make serve
+
+Open your web browser to [localhost:4000](http://localhost:4000/).
+
+### Setup (Docker)
+
+With [Docker](https://www.docker.com/) installed, navigate to the project folder and run:
+
+    $ make docker_serve
 
 Open your web browser to [localhost:4000](http://localhost:4000/).
 
@@ -101,7 +109,7 @@ Example project info YAML block:
 
 ## Testing
 
-- Run `make test` in your terminal before making a pull request.
+- Run `make test` in your terminal (or `make docker_test`) before making a pull request.
 
 ## Deployment
 
