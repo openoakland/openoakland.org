@@ -43,12 +43,23 @@ p {
   margin-bottom: $spacing-unit / 2;
 }
 
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin-top: $spacing-unit / 3;
+}
+
 a {
   color: $brand-color;
   &:hover {
     color: darken($brand-color, 20%);
   }
 }
+
+img { max-width:100% }
 
 main {
   display: block; /* Default value of `display` of `main` element is 'inline' in IE 11. */
