@@ -1,7 +1,7 @@
 ---
 title: Code of Conduct
-date: 2017-01-10T16:56:49-07:00
-author: elina
+date: 2020-08-18T23:00:00-07:00
+author: llkats
 layout: page
 ---
 
@@ -13,28 +13,22 @@ This document is adapted from Code for America's Code of Conduct and [Anti-Haras
 
 Our Code of Conduct aims to produce an environment that is inclusive and collaborative by guarding each person’s dignity and sense of security.
 
-The OpenOakland community expects that  OpenOakland activities, events, and digital forums:
+The OpenOakland community expects that OpenOakland activities, events, and digital forums:
 
-1. OpenOakland is a professional environment. Behaviors that are inappropriate around your boss are inappropriate here.
-2. Respect personal space. As a policy, we discourage hugs and other physical contact
-3. Err on the side of political correctness. Don’t say or write anything that can be misunderstood as insensitive
+1. Are a safe and respectful environment for all participants.
+2. Are a place where people are free to fully express their identities.
+3. Presume the value of others. Everyone’s ideas, skills, and contributions have value.
+4. Don’t assume everyone has the same context, and encourage questions.
+5. Find a way for people to be productive with their skills (technical and not) and energy. Use language such as “yes/and”, not “no/but.”
+6. Encourage members and participants to listen as much as they speak.
+7. Strive to build tools that are open and free technology for public use. Activities that aim to foster public use, not private gain, are prioritized.
+8. Prioritize access for and input from those who are traditionally excluded from the civic process.
+9. Work to ensure that the community is well-represented in the planning, design, and implementation of civic tech. This includes encouraging participation from women, minorities, and traditionally marginalized groups.
+10. Actively involve community groups and those with subject matter expertise in the decision-making process.
+11. Ensure that the relationships and conversations between community members, the local government staff and community partners remain respectful, participatory, and productive.
+12. Provide an environment where people are free from discrimination or harassment.
 
-OpenOakland reserves the right to ask anyone in violation of these policies not to participate in OpenOakland network activities, events, and digital forums
-
-We have put together a toolbox for achieving the environment set out above.
-
-For interpersonal interactions:
-
-1. Presume the value of others. Differing ideas, skills and contributions all play a crucial role in the operation of each project
-2. Endeavor to include technical and non technica skill set in your project
-3. Encourage members and participants to listen as much as they speak.
-
-When considering a new project or working on a current one:
-
-1. Strive to build tools that are open and free technology for public use.
-2. Consider access for and input from those who are traditionally excluded from the civic process.
-3. Encourage participation from all community members in the planning, design, and implementation of civic tech
-4. Create and maintain positive relationships with community partners, community members and local government staff and actively involve them in the decision making process.
+OpenOakland reserves the right to ask anyone in violation of these policies not to participate in OpenOakland network activities, events, and digital forums.
 
 ## OpenOakland's Anti-Harassment Policy
 
@@ -46,7 +40,7 @@ This policy is based on several other policies, including the Ohio LinuxFest ant
 
 All OpenOakland network activities, events, and digital forums and their staff, presenters, and participants are held to an anti-harassment policy, included below.
 
-OpenOakland is dedicated to providing a harassment-free experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, or religion. We do not tolerate harassment of staff, presenters, and participants in any form. Sexual language and imagery is not appropriate for any OpenOakland event or network activity, including talks. Anyone in violation of these policies may expelled from OpenOakland network activities, events, and digital forums, at the discretion of the event organizer or forum administrator.
+OpenOakland is dedicated to providing a harassment-free experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, or religion. We do not tolerate harassment of staff, presenters, and participants in any form. Sexual language and imagery is not appropriate for any OpenOakland event or network activity, including talks. Anyone in violation of these policies may be expelled from OpenOakland network activities, events, and digital forums, at the discretion of the event organizer or forum administrator.
 
 Harassment includes but is not limited to: offensive verbal or written comments related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, religion; sexual images in public spaces; deliberate intimidation; stalking; following; harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact; unwelcome sexual attention; unwarranted exclusion; and patronizing language or action.
 
@@ -56,7 +50,7 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 If you cannot reach an event organizer or forum administrator and/or it is an emergency, please call 911 and/or remove yourself from the situation.
 
-You can also contact OpenOakland about harassment at _safespace@openoakland.org_ and feel free to use the email template below.  The OpenOakland Core Team acknowledge that we are not always in a position to evaluate a given situation due to the number of events and the fact that our team is not always present. However, we are hopeful that by providing these guidelines we are establishing a community that jointly adheres to these values and can provide an environment that is welcoming to all.
+You can also contact OpenOakland about harassment at _safespace@openoakland.org_ and feel free to use the email template below.  The OpenOakland Core Team acknowledges that we are not always in a position to evaluate a given situation due to the number of events and the fact that our team is not always present. However, we are hopeful that by providing these guidelines we are establishing a community that jointly adheres to these values and can provide an environment that is welcoming to all.
 
 We value your attendance and hope that by communicating these expectations widely we can all enjoy a harassment-free environment.
 

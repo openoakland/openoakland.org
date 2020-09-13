@@ -1,26 +1,56 @@
 ---
 title: About Us
-date: 2015-11-29T21:06:02-07:00
-author: elina
+date: 2020-08-03T23:03:27+0000
+author: Jess Sand
 layout: page
 ---
 
-<div class="iframe-container">
+
+OpenOakland bridges technology and community for a thriving and equitable Oakland. We do this by:
+
+- **Cultivating meaningful relationships.**  
+    By partnering with the city and the community we foster a more inclusive, equitable, and engaged Oakland.
+
+- **Inspiring civic engagement.**  
+    We co-create tools and events that educate Oaklanders on how the city works and inspires them to effect civic change.
+
+- **Empowering Oaklanders.**  
+    We recognize that Oakland has a rich history of activism. We seek to empower all Oaklanders to keep advocating for our community‘s collective well-being.
+
+We're a fiscally-sponsored project of [Code for America](https://www.codeforamerica.org/), a 501(c)3 nonprofit. Donations to OpenOakland are tax-deductible and can be [made through Code for America](https://www.codeforamerica.org/donate-to-a-brigade?utm_campaign=Open%20Oakland&utm_source=OpenOakland%20site) (be sure to select OpenOakland from the menu after choosing the amount).
+
+ <div class="iframe-container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/mYzMl_HnEZU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-OpenOakland is a non-profit civic innovation organization that brings together coders, designers, data geeks, journalists, and city staff to collaborate on solutions to improve the lives of Oaklanders. We are part of Code for America’s Brigade program and hold frequent events for community, local government and tech folks to work together. Our focus is on both community technology and open
-government projects that we support through community partnerships and engaged volunteers.
 
-Check out our current [projects]({{ site.baseurl }}/projects/). Then get involved by coming to our next virtual [Meetup](https://www.meetup.com/OpenOakland/), every Tuesday, 6:30–9 pm. We look forward to meeting you!
+## Current leadership team
+The leadership team is elected by membership annually.
 
-Our organization is led by an elected steering committee and [bylaws](https://docs.google.com/document/d/1QR-fr1WnmXkZoVNmWnZ9drzfmaZoPkodEOx-PkExt94/). We are fiscally sponsored by Code for America, a 501(c)3 nonprofit.
-
-## Steering Committee
 {% include steering-committee.html %}
 
-A member from each [active project]({{ site.baseurl }}/projects/) team should also attend the Steering Committee meeting each month.
-It doesn't need to always be the same person, but it should be part of the core team. All OpenOakland members are welcome to sit in on leadership meetings. Responsibilities for each steering committee role is defined in the
-[OpenOakland Steering Committee Bylaws](https://docs.google.com/document/d/1QR-fr1WnmXkZoVNmWnZ9drzfmaZoPkodEOx-PkExt94/).
 
-To contact the steering committee, email <a target="_blank" href="mailto:{{ site.email }}">{{ site.email }}</a>.
+
+### Governance and decision-making
+
+We're governed by a set of [bylaws](https://docs.google.com/document/d/1QR-fr1WnmXkZoVNmWnZ9drzfmaZoPkodEOx-PkExt94/) that outline leadership roles, project requirements, decision-making processes, and additional brigade policies.
+
+Formal decision-making is done by the Steering Committee, which meets monthly. Each elected officer has one vote, as does each [active project](/projects/) team. Projects are expected to send a representative to the monthly Steering Committee meetings to exercise their vote. It doesn’t need to be the same person each month, but they should be part of the core team. If a project team doesn't send a rep, they're considered to be abstaining from any vote that month. **All OpenOakland members are welcome to sit in on these meetings.**
+
+![Organization chart depicting the Steering Committee, consisting of elected leadership plus one project representative per project.](/assets/images/OpenOakland-governance.png)
+
+To contact the steering committee, email [steering@openoakland.org](mailto:steering@openoakland.org) or join the #leadership channel in [Slack](http://slack.openoakland.org/).
+
+## How you can get involved
+
+- **Join us at Hack Night.**  
+    Every Tuesday from 6:30-9:00pm PST, we meet on Zoom (normally, we meet in City Hall but are working remotely during the coronavirus pandemic). After intros on Zoom, we break off into Slack channels to work and you can bounce around to introduce yourself. Don't be shy about joining in; we're friendly folk. [RSVP on Meetup](https://www.meetup.com/OpenOakland/).
+
+- **Join us on Slack.**  
+    Simply [request an invite](http://slack.openoakland.org/) and introduce yourself in #intros. We look forward to meeting you!
+
+- **Contribute to an existing project.**  
+    Check out our [active projects](/projects/). You're welcome to contact project leads directly or jump into their Github repos but if you're not a coder or are unsure how you might contribute, we suggest attending Hack Night to get to know our project teams.
+
+
+**We hope to see you soon!**
