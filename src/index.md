@@ -64,7 +64,7 @@ title: We are OpenOakland
   </div>
 
   <div class="col-8">
-    <p>OpenOakland members primarily use Slack for all communication. You can join our slack <a href="http://slack.openoakland.org/">here</a>.</p>
+    <p>OpenOakland members primarily use Slack for all communication. You can join our Slack <a href="http://slack.openoakland.org/">here</a>.</p>
   </div>
 
   <div class="col-4">
