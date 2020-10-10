@@ -24,7 +24,7 @@ title: We are OpenOakland
   <div class="card home__event-card">
     <div class="row no-gutters">
       <div class="col-md-4">
-        <img class="card-img" src="/assets/images/DMVStrikeTeam.jpg" alt="OpenOakland members performing a user test of a government website." />
+        <img class="card-img" src="/assets/images/Zoom-Group_Photo-2020-04-14.jpg" alt="OpenOakland members at a virtual hack night." />
       </div>
       <div class="col-md-8">
         <div class="card-body">
@@ -49,11 +49,11 @@ title: We are OpenOakland
   </div>
 
   <p>
-  All OpenOakland meetings are open the public, regardless of technical ability.
+  All OpenOakland meetings are open to the public, regardless of technical ability.
   </p>
 
   <p>
-  We hope you'll join us! If you can't make this event, <a href="https://meetup.com/{{ event.group.urlname}}" target="_blank">check our Meetup group for our future events</a>. You'll find us most Tuesdays nights at Oakland City Hall in Hearing Room 4. Food is provided.
+  We hope you'll join us! If you can't make this event, <a href="https://www.meetup.com/OpenOakland{{ event.group.urlname}}" target="_blank">check our Meetup group for our future events</a>. You'll find us every Tuesday night on Zoom at .
   </p>
 
 </section>
@@ -64,7 +64,7 @@ title: We are OpenOakland
   </div>
 
   <div class="col-8">
-    <p>OpenOakland members primarily use Slack for all communication. You can get an invite to join our slack <a href="http://slack.openoakland.org/">here</a>.</p>
+    <p>OpenOakland members primarily use Slack for all communication. You can join our Slack <a href="http://slack.openoakland.org/">here</a>.</p>
   </div>
 
   <div class="col-4">
