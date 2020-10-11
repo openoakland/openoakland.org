@@ -1,6 +1,7 @@
 -
   name: OakCrime
   image: oakcrime_300x233.png
+  decommisioned: Decommissioned September 2020
   link: http://oakcrime.org
   leader: Rik Belew
   slack_id: C040ULV6C
