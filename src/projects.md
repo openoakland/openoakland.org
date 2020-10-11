@@ -14,12 +14,11 @@ layout: page
 ---
 ---
 
-<div id="projects">
 
   ## Ongoing projects that support OpenOakland's operation
   These projects are a great way to get your feet wet as you get to know OpenOakland.
 
-  {% for project in site.data.active_projects %}
+  {% for project in site.data.openoakland_projects %}
     {% include project.html %}
   {% endfor %}
 

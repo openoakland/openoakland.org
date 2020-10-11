@@ -1,0 +1,8 @@
+-
+  name: openoakland.org
+  image: water_300x237.png
+  link: https://openoakland.org
+  leader: Jess Sand
+  slack_id: C95U7371C
+  slack_channel: oo-website
+  description: As the digital face of OpenOakland, our website serves new and existing members, community and government partners, and members of the larger Oakland and civic tech communities. The site was recently migrated from a Wordpress install to a static Jekyll site hosted on AWS. The migration focused primarily on moving the codebase, and we now are working on improving site architecture and visual design.
