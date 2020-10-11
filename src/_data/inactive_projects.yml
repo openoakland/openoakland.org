@@ -206,11 +206,4 @@
   slack_id: CBB52CFU2
   slack_channel: ca-water-challenge
   description: Approximately one million California residents currently only have access to drinking water that does not meet state and federal standards.  The California Drinking Water project provides user-friendly online queries, charts, and maps to show which water systems have current and persistent drinking water contamination violations.  Partnering with the State Water Board and the Community Water Center non-profit organization, Open Oakland volunteers are developing tool features using the State’s bi-monthly Human Right to Water water quality reporting data on cities, communities, schools, and daycares.  The online features allow government officials, advocates, researchers, and residents to more easily understand which water systems have contamination problems and identify solutions that support clean water for all Californians.
-  -
-    name: OakCrime
-    image: oakcrime_300x233.png
-    link: http://oakcrime.org
-    leader: Rik Belew
-    slack_id: C040ULV6C
-    slack_channel: crime
-    description: OakCrime.org seeks to increase transparency and understanding of data released by the Oakland Police Department (OPD) regarding crime. Our data goes back to 2007, and up to yesterday. We strive to make all public OPD data available to citizens ASAP, provide context for it with analytics and visualization, together with full provenance via open source repositories and solid documentation.
+  
