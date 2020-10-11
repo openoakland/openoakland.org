@@ -5,15 +5,15 @@ author: Jess Sand
 layout: page
 ---
 
-- [Active projects](Ongoing-projects-that-support-OpenOakland's-operation)
-- [Inactive projects](#Inactive-projects)
-- [Decommissioned projects](#Decommissioned-projects)
-- [Becoming an OpenOakland project](#Becoming-an-OpenOakland-project)
-- [Providing feedback](#Providing-feedback)
+ - [Active projects](Ongoing-projects-that-support-OpenOakland's-operation)
+ - [Decommissioned projects](#Decommissioned-projects)
+ - [Becoming an OpenOakland project](#Becoming-an-OpenOakland-project)
+ - [Providing feedback](#Providing-feedback)
 
 ---
 ---
 
+<div id="projects">
 
   ## Ongoing projects that support OpenOakland's operation
   These projects are a great way to get your feet wet as you get to know OpenOakland.
@@ -83,7 +83,7 @@ We generally consider the following types of projects:
 
   In the spirit of continuous improvement and self-reflection, we welcome any and all feedback.
 
-  If you’d like to contribute to or provide feedback on the project evaluation process or on any individual projects, we invite you to share your thoughts at our [next Hack Night](https://www.meetup.com/OpenOakland/events/), join the conversation in our [Slack workspace](http://slack.openoakland.org/), or email our [Steering Committee](mailto:steering@openoakland.org). You may also email concerns or comments to [safespace@openoakland.org](mailto:safespace@openoakland.org), which is staffed by two OpenOakland [ombudspeople](https://docs.google.com/document/d/1QR-fr1WnmXkZoVNmWnZ9drzfmaZoPkodEOx-PkExt94/edit#heading=h.3t0te9n2wr7m).
+  If you’d like to contribute to or provide feedback on the project evaluation process or on any individual projects, we invite you to share your thoughts at our [next Hack Night](https://www.meetup.com/OpenOakland/events/), join the conversation in our [Slack workspace](http://slack.openoakland.org/), or email our [Steering Committee](mailto:steering@openoakland.org). You may also email concerns or comments to <safespace@openoakland.org>, which is staffed by two OpenOakland [ombudspeople](https://docs.google.com/document/d/1QR-fr1WnmXkZoVNmWnZ9drzfmaZoPkodEOx-PkExt94/edit#heading=h.3t0te9n2wr7m).
 
 
 </div>
