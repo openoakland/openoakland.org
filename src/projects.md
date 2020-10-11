@@ -5,17 +5,17 @@ author: Jess Sand
 layout: page
 ---
 
- - [Active projects](Ongoing-projects-that-support-OpenOakland's-operation)
- - [Decommissioned projects](#Decommissioned-projects)
- - [Becoming an OpenOakland project](#Becoming-an-OpenOakland-project)
- - [Providing feedback](#Providing-feedback)
+ - [Active projects](#openoakland-projects)
+ - [Decommissioned projects](#decommissioned-projects)
+ - [Becoming an OpenOakland project](#becoming-a-project)
+ - [Providing feedback](#feedback)
 
 ---
 ---
 
 <div id="projects">
 
-  ## Ongoing projects that support OpenOakland's operation
+  ## <a id="openoakland-projects"></a>Ongoing projects that support OpenOakland's operation
   These projects are a great way to get your feet wet as you get to know OpenOakland.
 
   {% for project in site.data.openoakland_projects %}
@@ -24,7 +24,7 @@ layout: page
 
 ---
 
-  ## Active projects
+  ## <a id="active-projects"></a>Active projects
   The following projects are official OpenOakland projects that are being actively supported by an existing project team. If you see something that interests you, there are a couple of ways you can get involved:
   - Join us for our Tuesday [Hack Nights](https://www.meetup.com/OpenOakland/events/) to connect with the project team.
   - Join our [Slack workspace](http://slack.openoakland.org/) and introduce yourself in the project's channel listed in the description.
@@ -35,7 +35,7 @@ layout: page
 
 ---
 
-  ## Inactive projects
+  ## <a id="inactive-projects"></a>Inactive projects
   The following projects aren’t currently being worked on by a project team and are considered dormant. If you're interested in resuming one of these projects, you'll need to start by updating or completing a new [Project Brief](https://docs.google.com/document/d/1k24P9JiAUEzJLPFRDjVh7aRZexax6NUhfPFLSI3R80M/edit?usp=sharing) (most of these projects were developed prior to our current project development process and will need to go through the new process to resume).
 
   {% for project in site.data.inactive_projects %}
@@ -44,7 +44,7 @@ layout: page
 
 ---
 
-  ## Decommissioned projects
+  ## <a id="decommissioned-projects"></a>Decommissioned projects
   Decommissioned projects are projects that the Steering Committee has formally reviewed and deemed no longer a good fit for OpenOakland based on our 2020 project evaluation pilot. These projects may not be reinstated without submitting a new [Project Brief](https://docs.google.com/document/d/1k24P9JiAUEzJLPFRDjVh7aRZexax6NUhfPFLSI3R80M/edit?usp=sharing) that substantively addresses the original reasons for discontinuation. Project briefs that are declined by the Steering Committee twice may not be resubmitted without substantive changes.
 
   {% for project in site.data.decommissioned_projects %}
@@ -54,7 +54,7 @@ layout: page
 ---
 ---
 
-  ## Becoming an OpenOakland project
+  ## <a id="becoming-a-project"></a>Becoming an OpenOakland project
   In response to member feedback that has resulted in an ongoing effort to address issues of equity and inclusion in our work, OpenOakland is reevaluating how our projects are vetted, adopted, and developed. This is an ongoing pilot that we continue to iterate on in an effort to ensure that projects serve their intended communities, consider potential unintended consequences, and foster greater inclusion of community voices—particularly those from underrepresented and underserved Oakland communities.
 
   If you have a new idea for an OpenOakland project:
@@ -79,7 +79,7 @@ We generally consider the following types of projects:
 - Conducting user research to understand the needs of the community the project serves
 
 ---
-  ## Providing feedback
+  ## <a id="feedback"></a>Providing feedback
 
   In the spirit of continuous improvement and self-reflection, we welcome any and all feedback.
 
