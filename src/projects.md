@@ -5,14 +5,15 @@ author: Jess Sand
 layout: page
 ---
 
-## Quick links
 - [Active projects](Ongoing-projects-that-support-OpenOakland's-operation)
 - [Inactive projects](#Inactive-projects)
 - [Decommissioned projects](#Decommissioned-projects)
 - [Becoming an OpenOakland project](#Becoming-an-OpenOakland-project)
 - [Providing feedback](#Providing-feedback)
+
 ---
 ---
+
 <div id="projects">
 
   ## Ongoing projects that support OpenOakland's operation
