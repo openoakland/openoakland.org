@@ -4,7 +4,16 @@
   established: 2011
   link: https://adoptadrainoakland.com
   description: Adopt a Drain is a platform for Oakland residents to volunteer to be responsible for keeping a nearby storm drain clear to decrease flooding from storms, protect water quality, and keep trash from storm drains and connected creeks and water bodies. Vigilant maintenance of the City’s storm drain infrastructure is important for reducing pollution in the Bay. Adopt a Drain was set up in partnership with [City of Oakland’s Public Works Agency](http://www2.oaklandnet.com/government/o/PWA/o/FE/s/ID/OAK024735#Drain).
-- name: Alameda County Census 2020 Events
+-
+  name: Alameda County Census 2020 Landing Page
+  image:
+  link: https://llkats.github.io/dos-acccc/
+  leader: Lydia Kats
+  slack_id: CJJ9B9A3S
+  slack_channel: census-projects
+  description: This landing page is intended to be a portal for the 2020 Census administered by Alameda County. It will be accessible at locations where a computer or tablet is provided to the public and is intended to introduce people to the Census and offer information in their native language about why the Census is important to complete, as well as resources and guides on how to complete the Census. It is intended to be welcoming to people for whom English is not their first language.
+-
+  name: Alameda County Census 2020 Events
   image:
   link: https://github.com/openoakland/dos-census-events
   leader: "@mikeubell"
@@ -16,20 +25,6 @@
     learn more about the first all-digital census through these events, even
     finding locations where they can get assistance to complete the census.
     Residents can search for events based on date, location, and language.
-- name: Alameda County Census 2020 Landing Page
-  image:
-  link: https://llkats.github.io/dos-acccc/
-  leader: Lydia Kats
-  slack_id: CJJ9B9A3S
-  slack_channel: census-projects
-  description: This landing page is intended to be a portal for the 2020 Census administered by Alameda County. It will be accessible at locations where a computer or tablet is provided to the public and is intended to introduce people to the Census and offer information in their native language about why the Census is important to complete, as well as resources and guides on how to complete the Census. It is intended to be welcoming to people for whom English is not their first language.
-- name: Oakland Art Murmur
-  image: oakland-art-murmur_300x240.png
-  link:
-  leader: Andy Guenthner
-  slack_id: CJL45MU0P
-  slack_channel: dos-oakartmurmur
-  description: This project is in partnership with Oakland Art Murmur and is about building tools that art enthusiasts can use to promote Oakland art. We are looking for folks who are passionate about improving the accessibility of art in Oakland or have experience with geo-spatial mapping.
 -
   name: CannaEquity.org
   image: cannaequity_300x199.png
@@ -59,7 +54,16 @@
   slack_id: C02FYSFLK
   slack_channel: cut-group
   description: Civic User Testing (CUT) Group's goal is to make sure OpenOakland projects are working towards creating the best possible experience and serve all Oakland residents. If you're interested in user experience, or just like making things better, please reach out! <a href="https://docs.google.com/document/d/1VkSG9Amzq2759HACbFizSGAah4Q4byGG6R8cCxwcOO4/edit">Check out our current projects here.</a>
-- name: Discount Mobility Share
+-
+  name: Community Foods
+  image: Community-Foods-Exterior-300x206.png
+  link:
+  leader: Thomas Deckert
+  slack_id: C0165NXC2F2
+  slack_channel: community-foods
+  description: In partnership with West Oakland's Community Foods Market this project aims to support the adoption and use of food assistance benefits (EBT). The main objectives are to provide support for in-store EBT applications and to improve EBT checkout process.
+-
+  name: Discount Mobility Share
   image: discount_mobility_300x213.png
   link: https://oaklandca.formstack.com/forms/shared_mobility_application_form
   leader: Gaurav Kulkarni
@@ -92,6 +96,14 @@
   slack_id: C9Q7L8DPC
   slack_channel: oak-dot-bikes
   description: Our project seeks to improve the safety of bike lanes for cyclists in Oakland. We are developing an app to generate aggregate data regarding infringements in the bike lane (ie. vehicles) via self-reporting cyclists. From this data, we will generate reports to drive improvements in problem areas.
+-
+  name: Oakland Art Murmur
+  image: oakland-art-murmur_300x240.png
+  link:
+  leader: Andy Guenthner
+  slack_id: CJL45MU0P
+  slack_channel: dos-oakartmurmur
+  description: This project is in partnership with Oakland Art Murmur and is about building tools that art enthusiasts can use to promote Oakland art. We are looking for folks who are passionate about improving the accessibility of art in Oakland or have experience with geo-spatial mapping.
 -
   name: Oakland Beats
   image:
@@ -186,3 +198,19 @@
   slack_id: C4R9JUW12
   slack_channel: trash-talk
   description: "**Our Backstory**: While gang signs and other graffiti are common to inner cities, East Oakland is suffering from a plague of illegal dumping—mostly from outside actors. Trash Talk is envisioned as a tool for help neighbors plan and execute cleanups and graffiti removal.The app will help neighbors report issues and work together with the Oakland City Public Works Agency to remove trash, dead animals, and other consequences of illegal dumping in East Oakland neighborhoods. Trash Talk will also eventually connect with the City‘s existing tracking app, [SeeClickFix](https://en.seeclickfix.com/oakland) for tracking volunteer time."
+-
+  name: Water Quality
+  image: water_300x237.png
+  link: http://water.openoakland.org/
+  leader: Aaron Hans
+  slack_id: CBB52CFU2
+  slack_channel: ca-water-challenge
+  description: Approximately one million California residents currently only have access to drinking water that does not meet state and federal standards.  The California Drinking Water project provides user-friendly online queries, charts, and maps to show which water systems have current and persistent drinking water contamination violations.  Partnering with the State Water Board and the Community Water Center non-profit organization, Open Oakland volunteers are developing tool features using the State’s bi-monthly Human Right to Water water quality reporting data on cities, communities, schools, and daycares.  The online features allow government officials, advocates, researchers, and residents to more easily understand which water systems have contamination problems and identify solutions that support clean water for all Californians.
+  -
+    name: OakCrime
+    image: oakcrime_300x233.png
+    link: http://oakcrime.org
+    leader: Rik Belew
+    slack_id: C040ULV6C
+    slack_channel: crime
+    description: OakCrime.org seeks to increase transparency and understanding of data released by the Oakland Police Department (OPD) regarding crime. Our data goes back to 2007, and up to yesterday. We strive to make all public OPD data available to citizens ASAP, provide context for it with analytics and visualization, together with full provenance via open source repositories and solid documentation.
