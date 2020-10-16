@@ -15,7 +15,10 @@ layout: page
 
 <div id="projects">
 
-  ## <a id="openoakland-projects"></a>Ongoing projects that support OpenOakland's operation
+  ## Ongoing projects that support OpenOakland's operation
+
+  {% include openoakland-projects.html heading="Ongoing projects that support OpenOakland's operation" level=2 %}
+
 
   These projects are a great way to get your feet wet as you get to know OpenOakland.
 
@@ -82,7 +85,7 @@ layout: page
   - **OpenOakland sustainability projects:** efforts to improve and sustain OpenOakland as an organization.
 
   Projects must demonstrate alignment to OpenOakland’s mission and values. Some ways a project might do so include:
-  
+
   - Partnering with organizations to serve as domain experts in the needs of the community it serves
   - Forming a project team which has lived experience with the issue the project is focused on
   - Conducting user research to understand the needs of the community the project serves
