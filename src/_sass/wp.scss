@@ -10,11 +10,14 @@
   padding-bottom: 20px;
 }
 
-#projects .col2  {
+/* Commenting out for now while troubleshooting
+
+#projects .col2 + hr:not([class*="col"]) {
   clear: both;
 }
+*/
 
-
+#projects { clear:both;}
 
 #projects img,
 #projects a img {

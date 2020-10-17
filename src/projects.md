@@ -5,9 +5,9 @@ author: Jess Sand
 layout: page
 ---
 
- - [Active projects](#ongoing-projects-that-support-openoakland-s-operation)
+ - [Active projects](#operational-projects)
  - [Inactive projects](#inactive-projects)
-- [Decommissioned projects](#decommissioned-projects)
+ - [Decommissioned projects](#decommissioned-projects)
  - [Becoming an OpenOakland project](#becoming-an-openoakland-project)
  - [Providing feedback](#providing-feedback)
 
@@ -16,8 +16,9 @@ layout: page
 
 <div id="projects">
 
-  {% include linkedHeading.html heading="Ongoing projects that support OpenOakland's operation" level=2 %}
+<!--  {% include linkedHeading.html heading="Ongoing projects that support OpenOakland's operation" level=2 %} -->
 
+  ## Ongoing projects that support OpenOakland's operation 
 
   These projects are a great way to get your feet wet as you get to know OpenOakland.
 
@@ -96,3 +97,5 @@ layout: page
   In the spirit of continuous improvement and self-reflection, we welcome any and all feedback.
 
   If you’d like to contribute to or provide feedback on the project evaluation process or on any individual projects, we invite you to share your thoughts at our [next Hack Night](https://www.meetup.com/OpenOakland/events/), join the conversation in our [Slack workspace](http://slack.openoakland.org/), or email our [Steering Committee](mailto:steering@openoakland.org). You may also email concerns or comments to <safespace@openoakland.org>, which is staffed by two OpenOakland [ombudspeople](https://docs.google.com/document/d/1QR-fr1WnmXkZoVNmWnZ9drzfmaZoPkodEOx-PkExt94/edit#heading=h.3t0te9n2wr7m).
+
+  </div>
