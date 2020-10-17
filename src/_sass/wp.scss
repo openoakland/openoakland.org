@@ -10,9 +10,11 @@
   padding-bottom: 20px;
 }
 
-#projects .col2 + hr:not([class*="col"]) {
+#projects .col2  {
   clear: both;
 }
+
+
 
 #projects img,
 #projects a img {
@@ -32,6 +34,7 @@
   font-weight: bold;
   line-height: 1;
   padding: 12px;
+  border-radius:5px;
 }
 
 .steeering-committee-image {

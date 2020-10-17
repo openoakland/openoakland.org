@@ -1,34 +1,33 @@
 ---
 title: Our Projects
-date: 2020-10-11T01:15:35+00:00
+date: 2020-10-16T01:15:35+00:00
 author: Jess Sand
 layout: page
 ---
 
- - [Active projects](#openoakland-projects)
- - [Decommissioned projects](#decommissioned-projects)
- - [Becoming an OpenOakland project](#becoming-a-project)
- - [Providing feedback](#feedback)
+ - [Active projects](#ongoing-projects-that-support-openoakland-s-operation)
+ - [Inactive projects](#inactive-projects)
+- [Decommissioned projects](#decommissioned-projects)
+ - [Becoming an OpenOakland project](#becoming-an-openoakland-project)
+ - [Providing feedback](#providing-feedback)
 
 ---
----
+
 
 <div id="projects">
 
-  ## Ongoing projects that support OpenOakland's operation
-
-  {% include openoakland-projects.html heading="Ongoing projects that support OpenOakland's operation" level=2 %}
+  {% include linkedHeading.html heading="Ongoing projects that support OpenOakland's operation" level=2 %}
 
 
   These projects are a great way to get your feet wet as you get to know OpenOakland.
 
   {% for project in site.data.openoakland_projects %}
     {% include project.html %}
-  {% endfor %}
+  {% endfor %}   
 
----
+  ---
 
-  ## <a id="active-projects"></a>Active projects
+  {% include linkedHeading.html heading="Active projects" level=2 %}
 
   The following projects are official OpenOakland projects that are being actively supported by an existing project team. If you see something that interests you, there are a couple of ways you can get involved:
 
@@ -41,7 +40,7 @@ layout: page
 
 ---
 
-  ## <a id="inactive-projects"></a>Inactive projects
+{% include linkedHeading.html heading="Inactive projects" level=2 %}
 
   The following projects aren’t currently being worked on by a project team and are considered dormant. If you're interested in resuming one of these projects, you'll need to start by updating or completing a new [Project Brief](https://docs.google.com/document/d/1k24P9JiAUEzJLPFRDjVh7aRZexax6NUhfPFLSI3R80M/edit?usp=sharing) (most of these projects were developed prior to our current project development process and will need to go through the new process to resume).
 
@@ -51,7 +50,7 @@ layout: page
 
 ---
 
-  ## <a id="decommissioned-projects"></a>Decommissioned projects
+{% include linkedHeading.html heading="Decommissioned projects" level=2 %}
 
   Decommissioned projects are projects that the Steering Committee has formally reviewed and deemed no longer a good fit for OpenOakland based on our 2020 project evaluation pilot. These projects may not be reinstated without submitting a new [Project Brief](https://docs.google.com/document/d/1k24P9JiAUEzJLPFRDjVh7aRZexax6NUhfPFLSI3R80M/edit?usp=sharing) that substantively addresses the original reasons for discontinuation. Project briefs that are declined by the Steering Committee twice may not be resubmitted without substantive changes.
 
@@ -62,7 +61,7 @@ layout: page
 ---
 ---
 
-  ## <a id="becoming-a-project"></a>Becoming an OpenOakland project
+{% include linkedHeading.html heading="Becoming an OpenOakland project" level=2 %}
 
   In response to member feedback that has resulted in an ongoing effort to address issues of equity and inclusion in our work, OpenOakland is reevaluating how our projects are vetted, adopted, and developed. This is an ongoing pilot that we continue to iterate on in an effort to ensure that projects serve their intended communities, consider potential unintended consequences, and foster greater inclusion of community voices—particularly those from underrepresented and underserved Oakland communities.
 
@@ -92,11 +91,8 @@ layout: page
 
 ---
 
-  ## <a id="feedback"></a>Providing feedback
+{% include linkedHeading.html heading="Providing feedback" level=2 %}
 
   In the spirit of continuous improvement and self-reflection, we welcome any and all feedback.
 
   If you’d like to contribute to or provide feedback on the project evaluation process or on any individual projects, we invite you to share your thoughts at our [next Hack Night](https://www.meetup.com/OpenOakland/events/), join the conversation in our [Slack workspace](http://slack.openoakland.org/), or email our [Steering Committee](mailto:steering@openoakland.org). You may also email concerns or comments to <safespace@openoakland.org>, which is staffed by two OpenOakland [ombudspeople](https://docs.google.com/document/d/1QR-fr1WnmXkZoVNmWnZ9drzfmaZoPkodEOx-PkExt94/edit#heading=h.3t0te9n2wr7m).
-
-
-</div>
