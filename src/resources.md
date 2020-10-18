@@ -7,6 +7,7 @@ layout: page
 
 ## Tools for running your OpenOakland project
 
+
 ### OpenOakland Project Brief  
 The [Project Brief](https://docs.google.com/document/d/1k24P9JiAUEzJLPFRDjVh7aRZexax6NUhfPFLSI3R80M/edit?usp=sharing) is designed to help project teams tackle real needs in the community, ensure impacted voices are reflected in project design, and explore potential unintended consequences. All projects must submit a Project Brief for Steering Committee approval to become an OpenOakland project. For more information, see the [Project Evaluation Pilot Intro](https://drive.google.com/file/d/1ivtFcFTtXg33paMLCCMkdxKOZ9hpGVJf/view?usp=sharing) (PDF).
 
@@ -19,7 +20,7 @@ Explore technology considerations for your project using this Code for America [
 ### Code for America User Testing Canvas  
 Map out your user testing approach with this Code for America [worksheet](https://c4a.me/canvas-user-testing).
 
-**OakData**  
+### OakData
 The City of Oakland’s [open data portal](http://data.oaklandnet.com/), populated and managed by the city.
 
 ### Free Software for Brigades  

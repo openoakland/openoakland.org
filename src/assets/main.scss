@@ -3,3 +3,89 @@
 
 @import "main";
 @import "wp";
+
+
+
+/** Type styles **/
+
+* {
+  margin: 0;
+  padding: 0;
+  font-size: 1.1rem;
+  font-family: inherit;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  font-family: 'Open Sans', Helvetica, sans-serif;
+  color: #000;
+}
+
+p {
+  line-height:1.5;
+  margin-top:20px;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: 'Open Sans', Helvetica, sans-serif;
+}
+
+h1, h4, h5 {
+  color: #013743;
+  margin-top:1.9rem;
+}
+
+h1 {
+  font-weight: bold;
+  color: #000;
+  font-size: 2rem;
+  line-height: 1;
+  margin-top: 0;
+}
+
+h2 {
+  color: #013743;
+  font-weight: bold;
+  font-size: 1.6rem;
+  line-height: 1.2;
+  margin-top: 3rem;
+}
+
+h3 {
+  font-weight: bold;
+  font-size: 1.3rem;
+  line-height: 1.1;
+  margin-top:1.9rem;
+}
+
+h4 {
+  font-size: 1.2rem;
+  line-height: 1.5;
+}
+
+h5 {
+  font-style: italic;
+  font-size: 1.1rem;
+  line-height: 1.4;
+}
+
+ul {
+  margin-top: 1.6rem;
+  line-height:1.5;
+  margin-top: 1.3rem;
+  list-style-type: disc;
+}
+
+li {
+  margin-left:1rem;
+}
+
+.caption {
+  color: #013743;
+  font-size: .7rem;
+  line-height: 1;
+  margin-top:1.3rem;
+}
+
+
+/** Header adjustments **/
