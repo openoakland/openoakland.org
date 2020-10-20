@@ -5,7 +5,7 @@ author: Jess Sand
 layout: page
 ---
 
- - [Active projects](#operational-projects)
+ - [Active projects](#ongoing-projects-that-support-OpenOakland-s-operation)
  - [Inactive projects](#inactive-projects)
  - [Decommissioned projects](#decommissioned-projects)
  - [Becoming an OpenOakland project](#becoming-an-openoakland-project)
@@ -15,9 +15,9 @@ layout: page
 
 <div id="projects">
 
-<!--  {% include linkedHeading.html heading="Ongoing projects that support OpenOakland's operation" level=2 %} -->
+{% include linkedHeading.html heading="Ongoing projects that support OpenOakland's operation" level=2 %}
 
-## Ongoing projects that support OpenOakland's operation {operational-projects}
+## Ongoing projects that support OpenOakland's operation
 
 These projects are a great way to get your feet wet as you get to know OpenOakland.
 
