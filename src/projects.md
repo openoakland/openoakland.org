@@ -5,7 +5,7 @@ author: Jess Sand
 layout: page
 ---
 
- - [Active projects](#ongoing-projects-that-support-OpenOakland-s-operation)
+ - [Active projects](#ongoing-projects-that-support-openoakland-s-operation)
  - [Inactive projects](#inactive-projects)
  - [Decommissioned projects](#decommissioned-projects)
  - [Becoming an OpenOakland project](#becoming-an-openoakland-project)
