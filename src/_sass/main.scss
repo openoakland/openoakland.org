@@ -59,7 +59,9 @@ a {
   }
 }
 
-img { max-width:100% }
+img {
+  max-width:100%;
+}
 
 main {
   display: block; /* Default value of `display` of `main` element is 'inline' in IE 11. */
@@ -78,10 +80,12 @@ main {
   border-top: 5px solid $grey-color-dark;
   border-bottom: 1px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
+  margin-bottom: 40px;
 }
 
 .header-logo {
-  width: 280px;
+  width: 240px;
+  margin-right: 80px;
   @media (max-width: $mobile-up) {
     width: 200px;
   }
@@ -131,13 +135,13 @@ main {
   width: 100%;
   height: 0;
   padding-bottom: 56.25%;
-  margin-bottom: $spacing-unit / 2;
+  margin-bottom: $spacing-unit * 3;
 }
 
 .iframe-container iframe {
   position: absolute;
-  top: 0;
-  left: 0;
+  margin-top: 20px;
+  margin-bottom: 20px;
   width: 100%;
   height: 100%;
 }
