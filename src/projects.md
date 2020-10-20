@@ -13,17 +13,16 @@ layout: page
 
 ---
 
-<div id="projects">
 
 {% include linkedHeading.html heading="Ongoing projects that support OpenOakland's operation" level=2 %}
 
-## Ongoing projects that support OpenOakland's operation
-
 These projects are a great way to get your feet wet as you get to know OpenOakland.
 
+<div id="projects">
 {% for project in site.data.openoakland_projects %}
 {% include project.html %}
 {% endfor %}   
+</div>
 
 ---
 
@@ -34,9 +33,11 @@ The following projects are official OpenOakland projects that are being actively
 - Join us for our Tuesday [Hack Nights](https://www.meetup.com/OpenOakland/events/) to connect with the project team.
 - Join our [Slack workspace](http://slack.openoakland.org/) and introduce yourself in the project's channel listed in the description.
 
+<div id="projects">
 {% for project in site.data.active_projects %}
 {% include project.html %}
 {% endfor %}
+</div>
 
 ---
 
@@ -44,21 +45,24 @@ The following projects are official OpenOakland projects that are being actively
 
 The following projects aren’t currently being worked on by a project team and are considered dormant. If you're interested in resuming one of these projects, you'll need to start by updating or completing a new [Project Brief](https://docs.google.com/document/d/1k24P9JiAUEzJLPFRDjVh7aRZexax6NUhfPFLSI3R80M/edit?usp=sharing) (most of these projects were developed prior to our current project development process and will need to go through the new process to resume).
 
+<div id="projects">
 {% for project in site.data.inactive_projects %}
   {% include project.html %}
 {% endfor %}
+</div>
 
 ---
 
 {% include linkedHeading.html heading="Decommissioned projects" level=2 %}
 
-  Decommissioned projects are projects that the Steering Committee has formally reviewed and deemed no longer a good fit for OpenOakland based on our 2020 project evaluation pilot. These projects may not be reinstated without submitting a new [Project Brief](https://docs.google.com/document/d/1k24P9JiAUEzJLPFRDjVh7aRZexax6NUhfPFLSI3R80M/edit?usp=sharing) that substantively addresses the original reasons for discontinuation. Project briefs that are declined by the Steering Committee twice may not be resubmitted without substantive changes.
+Decommissioned projects are projects that the Steering Committee has formally reviewed and deemed no longer a good fit for OpenOakland based on our 2020 project evaluation pilot. These projects may not be reinstated without submitting a new [Project Brief](https://docs.google.com/document/d/1k24P9JiAUEzJLPFRDjVh7aRZexax6NUhfPFLSI3R80M/edit?usp=sharing) that substantively addresses the original reasons for discontinuation. Project briefs that are declined by the Steering Committee twice may not be resubmitted without substantive changes.
 
-  {% for project in site.data.decommissioned_projects %}
-    {% include project.html %}
-  {% endfor %}
+<div id="projects">
+{% for project in site.data.decommissioned_projects %}
+  {% include project.html %}
+{% endfor %}
+</div>
 
----
 ---
 
 {% include linkedHeading.html heading="Becoming an OpenOakland project" level=2 %}
@@ -96,5 +100,3 @@ Projects must demonstrate alignment to OpenOakland’s mission and values. Some 
 In the spirit of continuous improvement and self-reflection, we welcome any and all feedback.
 
 If you’d like to contribute to or provide feedback on the project evaluation process or on any individual projects, we invite you to share your thoughts at our [next Hack Night](https://www.meetup.com/OpenOakland/events/), join the conversation in our [Slack workspace](http://slack.openoakland.org/), or email our [Steering Committee](mailto:steering@openoakland.org). You may also email concerns or comments to <safespace@openoakland.org>, which is staffed by two OpenOakland [ombudspeople](https://docs.google.com/document/d/1QR-fr1WnmXkZoVNmWnZ9drzfmaZoPkodEOx-PkExt94/edit#heading=h.3t0te9n2wr7m).
-
-</div>

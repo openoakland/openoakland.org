@@ -12,9 +12,12 @@
     src="/assets/images/projects/{{ project.image }}"
     alt="screenshot of {{ project.name }}"
   />
-  {% endif %} {% if project.established %}
+  {% endif %}
+
+  {% if project.established %}
   <strong>Established</strong>: {{ project.established }}
-  {% endif %} {% if project.leader %}
+  {% endif %}
+  {% if project.leader %}
   <strong>Team Contact</strong>: {{ project.leader }} on Slack channel
   <a
     href="https://openoakland.slack.com/messages/{{ project.slack_id }}"
@@ -23,13 +26,23 @@
     >#{{ project.slack_channel }}</a
   >
   {% elsif project.slack_channel %}
-  <strong>Slack channel</strong>:
+  <strong>Slack channel:</strong>:
   <a
     href="https://openoakland.slack.com/messages/{{ project.slack_id }}"
     target="_blank"
     rel="noopener noreferrer"
     >#{{ project.slack_channel }}</a
   >
+  {% endif %}
+
+  {% if project.decommissionedDate %}
+  <strong>Decommissioned:</strong>: {{ project.decommissionedDate }}
+  {% endif %}
+  {% if project.decommissionedReason %}
+  <strong>Reason for decommission:</strong> {{ project.decommissionedReason }}
+  {% endif %}
+  {% if project.decommissionedDate %}
+  <strong>To be reinstated:</strong>: {{ project.decommissionedSolution }}
   {% endif %}
 </div>
 
