@@ -2,7 +2,7 @@
   name: OakCrime
   image: oakcrime_300x233.png
   decommisionedDate: September 2020
-  decommissionedReason: Failure of project team to submit a Project Brief
+  decommissionedReason: Lack of Project Brief
   decomissionedSolution:
   slack_id: C040ULV6C
   slack_channel: crime

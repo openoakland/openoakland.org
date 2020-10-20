@@ -23,12 +23,11 @@
     href="https://openoakland.slack.com/messages/{{ project.slack_id }}"
     target="_blank"
     rel="noopener noreferrer"
-    >#{{ project.slack_channel }}</a
-  >
+    >#{{ project.slack_channel }}</a>
+
   {% elsif project.slack_channel %}
-  <strong>Slack channel:</strong>:
-  <a
-    href="https://openoakland.slack.com/messages/{{ project.slack_id }}"
+  <strong>Slack channel:</strong>
+  <a href="https://openoakland.slack.com/messages/{{ project.slack_id }}"
     target="_blank"
     rel="noopener noreferrer"
     >#{{ project.slack_channel }}</a
