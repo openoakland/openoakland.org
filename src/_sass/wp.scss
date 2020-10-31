@@ -1,4 +1,10 @@
-#projects-openoakland, #projects-active, #projects-inactive, #projects-decommissioned .col1 {
+
+#projects {
+  float: left;
+  margin-bottom:2rem;
+}
+
+#projects .col1 {
   float: left;
   margin-right: 20px;
   padding-top:1rem;
@@ -6,31 +12,31 @@
   width: 35%;
 }
 
-#projects-openoakland, #projects-active, #projects-inactive, #projects-decommissioned .col2 {
+#projects .col2 {
   display: table-row-group;
   padding-bottom: 20px;
 }
 
 
-#projects-openoakland, #projects-active, #projects-inactive, #projects-decommissioned .col2 + hr:not([class*="col"]) {
+#projects .col2 + hr:not([class*="col"]) {
   clear: both;
 }
 
-#projects-openoakland, #projects-active, #projects-inactive, #projects-decommissioned { clear:both;}
+#projects { clear:both;}
 
-#projects-openoakland, #projects-active, #projects-inactive, #projects-decommissioned img,
-#projects-openoakland, #projects-active, #projects-inactive, #projects-decommissioned a img {
+#projects img,
+#projects a img {
   border: 1px #dadada solid;
   width: 100%;
 }
 
-#projects-openoakland, #projects-active, #projects-inactive, #projects-decommissioned a img:hover {
+#projects a img:hover {
   border: 1px #1ab890 solid;
   opacity: 0.9;
   padding: 0px;
 }
 
-#projects-openoakland, #projects-active, #projects-inactive, #projects-decommissioned h3 {
+#projects h3 {
   background-color: #f5f5f5;
   clear: both;
   font-weight: bold;
@@ -38,6 +44,8 @@
   padding: 12px;
   border-radius:5px;
 }
+
+#projects .projectMeta { font-size: .8rem; }
 
 .steeering-committee-image {
   margin: 0 3rem 0 0;

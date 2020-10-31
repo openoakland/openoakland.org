@@ -1,4 +1,5 @@
-<h3>
+<div id="projects">
+  <h3>
   {% if project.link %}
   <a target="_blank" href="{{ project.link }}">{{ project.name }}</a>
   {% elsif project.link == nil %}
@@ -15,23 +16,18 @@
   {% endif %}
 
   {% if project.established %}
-  <strong>Established</strong>: {{ project.established }}
+  <strong>Established</strong>: {{ project.established }}<br/>
   {% endif %}
+
   {% if project.leader %}
-  <strong>Team Contact</strong>: {{ project.leader }} on Slack channel
-  <a
+  <strong>Team Contact</strong>: {{ project.leader }}<br/>
+    {% endif %}
+
+  {% if project.slack_channel %}
+  <strong>Slack channel:</strong> <a
     href="https://openoakland.slack.com/messages/{{ project.slack_id }}"
     target="_blank"
-    rel="noopener noreferrer"
-    >#{{ project.slack_channel }}</a>
-
-  {% elsif project.slack_channel %}
-  <strong>Slack channel:</strong>
-  <a href="https://openoakland.slack.com/messages/{{ project.slack_id }}"
-    target="_blank"
-    rel="noopener noreferrer"
-    >#{{ project.slack_channel }}</a
-  >
+    rel="noopener noreferrer">#{{ project.slack_channel }}</a>
   {% endif %}
 
   {% if project.decommissionedDate %}
@@ -46,3 +42,5 @@
 </div>
 
 <div class="col2">{{ project.description | markdownify | smartify }}</div>
+
+</div>

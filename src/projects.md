@@ -1,6 +1,6 @@
 ---
 title: Our Projects
-date: 2020-10-16T01:15:35+00:00
+date: 2020-10-20T01:15:35+00:00
 author: Jess Sand
 layout: page
 ---
@@ -14,60 +14,52 @@ layout: page
 ---
 
 
-{% include linkedHeading.html heading="Ongoing projects that support OpenOakland's operation" level=2 %}
+## Ongoing projects that support OpenOakland's operation
 
 These projects are a great way to get your feet wet as you get to know OpenOakland.
 
-<div id="projects-openoakland">
 {% for project in site.data.openoakland_projects %}
 {% include project.html %}
 {% endfor %}   
-</div>
 
 ---
 
-{% include linkedHeading.html heading="Active projects" level=2 %}
+## Active projects
 
-The following projects are official OpenOakland projects that are being actively supported by an existing project team. If you see something that interests you, there are a couple of ways you can get involved:
+The following are official OpenOakland projects that are being actively supported by an existing team. If you see something that interests you, there are a couple of ways you can get involved:
 
 - Join us for our Tuesday [Hack Nights](https://www.meetup.com/OpenOakland/events/) to connect with the project team.
 - Join our [Slack workspace](http://slack.openoakland.org/) and introduce yourself in the project's channel listed in the description.
 
-<div id="projects-active">
 {% for project in site.data.active_projects %}
 {% include project.html %}
 {% endfor %}
-</div>
 
 ---
 
-{% include linkedHeading.html heading="Inactive projects" level=2 %}
+## On-hold projects
 
-The following projects aren’t currently being worked on by a project team and are considered dormant. If you're interested in resuming one of these projects, you'll need to start by updating or completing a new [Project Brief](https://docs.google.com/document/d/1k24P9JiAUEzJLPFRDjVh7aRZexax6NUhfPFLSI3R80M/edit?usp=sharing) (most of these projects were developed prior to our current project development process and will need to go through the new process to resume).
+These projects have either served their purpose or are otherwise no longer actively supported. If you'd like to resume or adapt one of these, check out [Becoming an OpenOakland Project](#becoming-an-openoakland-project) and submit a [project brief](https://docs.google.com/document/d/1k24P9JiAUEzJLPFRDjVh7aRZexax6NUhfPFLSI3R80M/edit?usp=sharing) at an upcoming Hack Night or in Slack's #leadership channel.
 
-<div id="projects-inactive">
 {% for project in site.data.inactive_projects %}
-  {% include project.html %}
+{% include project.html %}
 {% endfor %}
-</div>
 
 ---
 
-{% include linkedHeading.html heading="Decommissioned projects" level=2 %}
+## Decommissioned projects
 
 Decommissioned projects are projects that the Steering Committee has formally reviewed and deemed no longer a good fit for OpenOakland based on our 2020 project evaluation pilot. These projects may not be reinstated without submitting a new [Project Brief](https://docs.google.com/document/d/1k24P9JiAUEzJLPFRDjVh7aRZexax6NUhfPFLSI3R80M/edit?usp=sharing) that substantively addresses the original reasons for discontinuation. Project briefs that are declined by the Steering Committee twice may not be resubmitted without substantive changes.
 
-<div id="projects-decommissioned">
 {% for project in site.data.decommissioned_projects %}
-  {% include project.html %}
+{% include project.html %}
 {% endfor %}
-</div>
 
 ---
 
-{% include linkedHeading.html heading="Becoming an OpenOakland project" level=2 %}
+## Becoming an OpenOakland project
 
-In response to member feedback that has resulted in an ongoing effort to address issues of equity and inclusion in our work, OpenOakland is reevaluating how our projects are vetted, adopted, and developed. This is an ongoing pilot that we continue to iterate on in an effort to ensure that projects serve their intended communities, consider potential unintended consequences, and foster greater inclusion of community voices—particularly those from underrepresented and underserved Oakland communities.
+OpenOakland is reevaluating how our projects are vetted, adopted, and developed. This is an ongoing pilot that we continue to iterate on in an effort to ensure that projects serve their intended communities, consider potential unintended consequences, and foster greater inclusion of community voices—particularly those from underrepresented and underserved Oakland communities.
 
 If you have a new idea for an OpenOakland project:
 
@@ -95,7 +87,7 @@ Projects must demonstrate alignment to OpenOakland’s mission and values. Some 
 
 ---
 
-{% include linkedHeading.html heading="Providing feedback" level=2 %}
+## Providing feedback
 
 In the spirit of continuous improvement and self-reflection, we welcome any and all feedback.
 

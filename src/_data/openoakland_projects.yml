@@ -1,7 +1,8 @@
 -
   name: openoakland.org
   image: water_300x237.png
-  link: https://openoakland.org
+  website: https://openoakland.org
+  github: https://github.com/openoakland/openoakland.org
   leader: Jess Sand
   slack_id: CH1U5KJ48
   slack_channel: oo-website
