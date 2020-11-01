@@ -5,11 +5,16 @@ author: Jess Sand
 layout: page
 ---
 
+
  - [Active projects](#ongoing-projects-that-support-openoakland-s-operation)
- - [Inactive projects](#inactive-projects)
- - [Decommissioned projects](#decommissioned-projects)
  - [Becoming an OpenOakland project](#becoming-an-openoakland-project)
- - [Providing feedback](#providing-feedback)
+ - [Providing feedback](#providing-feedback)  
+
+
+**Archives**
+ - [On-hold projects](#on-hold-projects)
+ - [Decommissioned projects](#decommissioned-projects)
+
 
 ---
 
@@ -36,24 +41,6 @@ The following are official OpenOakland projects that are being actively supporte
 {% endfor %}
 
 ---
-
-## On-hold projects
-
-These projects have either served their purpose or are otherwise no longer actively supported. If you'd like to resume or adapt one of these, check out [Becoming an OpenOakland Project](#becoming-an-openoakland-project) and submit a [project brief](https://docs.google.com/document/d/1k24P9JiAUEzJLPFRDjVh7aRZexax6NUhfPFLSI3R80M/edit?usp=sharing) at an upcoming Hack Night or in Slack's #leadership channel.
-
-{% for project in site.data.inactive_projects %}
-{% include project.html %}
-{% endfor %}
-
----
-
-## Decommissioned projects
-
-Decommissioned projects are projects that the Steering Committee has formally reviewed and deemed no longer a good fit for OpenOakland based on our 2020 project evaluation pilot. These projects may not be reinstated without submitting a new [Project Brief](https://docs.google.com/document/d/1k24P9JiAUEzJLPFRDjVh7aRZexax6NUhfPFLSI3R80M/edit?usp=sharing) that substantively addresses the original reasons for discontinuation. Project briefs that are declined by the Steering Committee twice may not be resubmitted without substantive changes.
-
-{% for project in site.data.decommissioned_projects %}
-{% include project.html %}
-{% endfor %}
 
 ---
 
@@ -92,3 +79,23 @@ Projects must demonstrate alignment to OpenOakland’s mission and values. Some 
 In the spirit of continuous improvement and self-reflection, we welcome any and all feedback.
 
 If you’d like to contribute to or provide feedback on the project evaluation process or on any individual projects, we invite you to share your thoughts at our [next Hack Night](https://www.meetup.com/OpenOakland/events/), join the conversation in our [Slack workspace](http://slack.openoakland.org/), or email our [Steering Committee](mailto:steering@openoakland.org). You may also email concerns or comments to <safespace@openoakland.org>, which is staffed by two OpenOakland [ombudspeople](https://docs.google.com/document/d/1QR-fr1WnmXkZoVNmWnZ9drzfmaZoPkodEOx-PkExt94/edit#heading=h.3t0te9n2wr7m).
+
+---
+
+## On-hold projects
+
+These projects have either served their purpose or are otherwise no longer actively supported. If you'd like to resume or adapt one of these, check out [Becoming an OpenOakland Project](#becoming-an-openoakland-project) and submit a [project brief](https://docs.google.com/document/d/1k24P9JiAUEzJLPFRDjVh7aRZexax6NUhfPFLSI3R80M/edit?usp=sharing) at an upcoming Hack Night or in Slack's #leadership channel.
+
+{% for project in site.data.inactive_projects %}
+{% include project.html %}
+{% endfor %}
+
+---
+
+## Decommissioned projects
+
+Decommissioned projects are projects that the Steering Committee has formally reviewed and deemed no longer a good fit for OpenOakland based on our 2020 project evaluation pilot. These projects may not be reinstated without submitting a new [Project Brief](https://docs.google.com/document/d/1k24P9JiAUEzJLPFRDjVh7aRZexax6NUhfPFLSI3R80M/edit?usp=sharing) that substantively addresses the original reasons for discontinuation. Project briefs that are declined by the Steering Committee twice may not be resubmitted without substantive changes.
+
+{% for project in site.data.decommissioned_projects %}
+{% include project.html %}
+{% endfor %}

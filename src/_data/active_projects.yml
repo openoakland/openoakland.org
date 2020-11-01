@@ -34,12 +34,12 @@
   description: Open Disclosure helps Oaklanders understand the role of money in their local politics. By analyzing mandatory campaign finance disclosures for candidates seeking public office, Open Disclosure presents a user-friendly overview of who is raising money, from where, and how much. Open Disclosure is developed in partnership with the City of Oakland Public Ethics Commission.
 -
   name: OpenOUSD
-  image:
-  link:
+  image: OpenOUSD.png
+  link: https://openousd.org/
   leader: John Baldo
   slack_id: CEDNVVCRG
   slack_channel: project-open-ousd
-  description: Explaining to school communities what the Oakland Unified School District's central office does and helping them weigh in on what its function should be in the future. Let’s reimagine what OUSD district office can look like!
+  description: OpenOUSD aims to bring greater transparency to the Oakland Unified School District's central office so that the community can fully participate in discussions about how it can best serve our students. OpenOUSD is a project of OpenOakland, a volunteer run group with the mission of increasing access to government through technology. OpenOUSD receives no public or private funds and is not an official OUSD website.
 
 -
   name: West Oakland Air Quality (WOAQ)

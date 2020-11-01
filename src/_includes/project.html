@@ -1,10 +1,10 @@
-<div id="projects" class="wrapper">
+<div class="projects wrapper-clear">
 
   {% if project.name %}
   <h3>{{ project.name }}</h3>
   {% endif %}
 
-<div class="col1">
+<div class="projects-col1">
   {% if project.image %}
   <img
     src="/assets/images/projects/{{ project.image }}"
@@ -52,6 +52,6 @@
 </p>
 </div>
 
-<div class="col2">{{ project.description | markdownify | smartify }}</div>
+<div class="projects-col2">{{ project.description | markdownify | smartify }}</div>
 
 </div>
