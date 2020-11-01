@@ -1,8 +1,8 @@
 -
   name: openoakland.org
-  image: OpenOakland-logo.png
+  image: OpenOakland-home.png
   website: https://openoakland.org
-  github: https://github.com/openoakland/openoakland.org
+  repo: https://github.com/openoakland/openoakland.org
   leader: Jess Sand
   slack_id: CH1U5KJ48
   slack_channel: project-oo-website

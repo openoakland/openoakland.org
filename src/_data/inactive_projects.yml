@@ -2,12 +2,14 @@
   name: Adopt a Drain
   image:
   established: 2011
-  link: https://adoptadrainoakland.com
+  website: https://adoptadrainoakland.com
+  repo:
   description: Adopt a Drain is a platform for Oakland residents to volunteer to be responsible for keeping a nearby storm drain clear to decrease flooding from storms, protect water quality, and keep trash from storm drains and connected creeks and water bodies. Vigilant maintenance of the City’s storm drain infrastructure is important for reducing pollution in the Bay. Adopt a Drain was set up in partnership with [City of Oakland’s Public Works Agency](http://www2.oaklandnet.com/government/o/PWA/o/FE/s/ID/OAK024735#Drain).
 -
   name: Alameda County Census 2020 Landing Page
   image:
-  link: https://llkats.github.io/dos-acccc/
+  website: https://llkats.github.io/dos-acccc/
+  repo:
   leader: Lydia Kats
   slack_id: CJJ9B9A3S
   slack_channel: census-projects
@@ -15,7 +17,8 @@
 -
   name: Alameda County Census 2020 Events
   image:
-  link: https://github.com/openoakland/dos-census-events
+  website: https://github.com/openoakland/dos-census-events
+  repo:
   leader: "@mikeubell"
   slack_id: CJJ9B9A3S
   slack_channel: census-projects
@@ -29,7 +32,8 @@
   name: CannaEquity.org
   image: cannaequity_300x199.png
   establish: 2017
-  link: http://cannaequity.org
+  website: http://cannaequity.org
+  repo:
   leader: Angela Gennino and Richard Ng
   slack_id: C67FNRY20
   slack_channel:
@@ -41,7 +45,8 @@
   name: CityCamp Oakland
   image: citycamp_300x150.png
   established: 2013
-  link:
+  website:
+  repo:
   leader:
   slack_id:
   slack_channel:
@@ -49,7 +54,8 @@
 -
   name: Civic User Testing Group (CUT Group)
   image: cut-group_300x233.png
-  link: http://cutgroup.openoakland.org/
+  website: http://cutgroup.openoakland.org/
+  repo:
   leader: Mary Yeh
   slack_id: C02FYSFLK
   slack_channel: cut-group
@@ -57,7 +63,8 @@
 -
   name: Community Foods
   image: Community-Foods-Exterior-300x206.png
-  link:
+  website:
+  repo:
   leader: Thomas Deckert
   slack_id: C0165NXC2F2
   slack_channel: community-foods
@@ -65,7 +72,8 @@
 -
   name: Discount Mobility Share
   image: discount_mobility_300x213.png
-  link: https://oaklandca.formstack.com/forms/shared_mobility_application_form
+  website: https://oaklandca.formstack.com/forms/shared_mobility_application_form
+  repo:
   leader: Gaurav Kulkarni
   slack_id: CLY606C2D
   slack_channel: discount-mobility
@@ -74,7 +82,8 @@
   name: Diversity, Equity, and Inclusion Group
   image:
   established: 2016
-  link:
+  website:
+  repo:
   leader:
   slack_id:
   slack_channel:
@@ -83,7 +92,8 @@
   name: Early Oakland
   image:
   established: 2011
-  link:
+  website:
+  repo:
   leader:
   slack_id:
   slack_channel:
@@ -91,7 +101,8 @@
 -
   name: LaneLookout
   image: lane-lookout_300x300.png
-  link: https://www.lanelookout.org
+  website: https://www.lanelookout.org
+  repo:
   leader:
   slack_id: C9Q7L8DPC
   slack_channel: oak-dot-bikes
@@ -99,16 +110,18 @@
 -
   name: Oakland Art Murmur
   image: oakland-art-murmur_300x240.png
-  link:
+  website:
+  repo:
   leader: Andy Guenthner
   slack_id: CJL45MU0P
-  slack_channel: dos-oakartmurmur
+  slack_channel: project-artmap
   description: This project is in partnership with Oakland Art Murmur and is about building tools that art enthusiasts can use to promote Oakland art. We are looking for folks who are passionate about improving the accessibility of art in Oakland or have experience with geo-spatial mapping.
 -
   name: Oakland Beats
   image:
   established: 2011
-  link:
+  website:
+  repo:
   leader:
   slack_id:
   slack_channel:
@@ -116,7 +129,8 @@
 -
   name: Oakland Gov 101
   image:
-  link: https://invis.io/8NUX0LPSBMG#/394226187_Overview
+  website: https://invis.io/8NUX0LPSBMG#/394226187_Overview
+  repo:
   leader: Thomas Deckert
   slack_id: CNTPFR7JA
   slack_channel: oakland-gov-101
@@ -125,7 +139,8 @@
   name: Oakland Open Data Portal
   image:
   established: 2011
-  link: http://data.openoakland.org/
+  website: http://data.openoakland.org/
+  repo:
   leader:
   slack_id:
   slack_channel:
@@ -134,7 +149,7 @@
   name: Oakland Wiki
   image:
   established: 2013
-  link: https://oaklandwiki.org
+  website: https://oaklandwiki.org
   leader:
   slack_id:
   slack_channel:
@@ -143,7 +158,8 @@
   name: Open Government Pledge
   image:
   established: 2012
-  link:
+  website:
+  repo:
   leader:
   slack_id:
   slack_channel:
@@ -157,7 +173,8 @@
 -
   name: Open Oasis
   image:
-  link:
+  website:
+  repo:
   leader: Andrew Tom
   slack_id:
   slack_channel: openoasis
@@ -166,7 +183,8 @@
   name: RecordTrac
   image:
   established: 2013
-  link:
+  website:
+  repo:
   leader:
   slack_id:
   slack_channel:
@@ -175,7 +193,8 @@
   name: Soft Story
   image:
   established: 2013
-  link:
+  website:
+  repo:
   leader:
   slack_id:
   slack_channel:
@@ -184,7 +203,8 @@
   name: Track G – Oakland’s Measure G
   image: trackg_300x233.png
   established: 2014
-  link:
+  website:
+  repo:
   leader:
   slack_id: C04AS7MKP
   slack_channel:
@@ -193,15 +213,17 @@
   name: Trash Talk
   image: trashtalk_300x233.png
   established: 2016
-  link:
-  leader: Howard Dyckoff and Tim Miller
+  website:
+  repo:
+  leader: Tim Miller
   slack_id: C4R9JUW12
   slack_channel: trash-talk
   description: "**Our Backstory**: While gang signs and other graffiti are common to inner cities, East Oakland is suffering from a plague of illegal dumping—mostly from outside actors. Trash Talk is envisioned as a tool for help neighbors plan and execute cleanups and graffiti removal.The app will help neighbors report issues and work together with the Oakland City Public Works Agency to remove trash, dead animals, and other consequences of illegal dumping in East Oakland neighborhoods. Trash Talk will also eventually connect with the City‘s existing tracking app, [SeeClickFix](https://en.seeclickfix.com/oakland) for tracking volunteer time."
 -
   name: Water Quality
   image: water_300x237.png
-  link: http://water.openoakland.org/
+  website: http://water.openoakland.org/
+  repo:
   leader: Aaron Hans
   slack_id: CBB52CFU2
   slack_channel: ca-water-challenge

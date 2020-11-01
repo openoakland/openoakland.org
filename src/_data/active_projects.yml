@@ -1,7 +1,9 @@
 -
   name: Councilmatic (Steering Committee approval pending)
   image: councilmatic_300x118.png
-  link: https://oaklandcouncil.net/
+  website: https://oaklandcouncil.net/
+  repo:
+  github:
   leader: Open role
   slack_id: C0M89GTRT
   slack_channel: project-councilmatic
@@ -9,7 +11,8 @@
 -
   name: La Escuelita
   image:
-  link:
+  website:
+  repo:
   established: 2019
   leader: Laurel Adams
   slack_id: UNSGF8W06
@@ -19,7 +22,8 @@
 -
   name: Open Budget Oakland
   image: openbudgetoakland_300x233.png
-  link: http://openbudgetoakland.org/
+  website: http://openbudgetoakland.org/
+  repo:
   leader: Felicia Betancourt
   slack_id: C02R4185B
   slack_channel: project-open-budget-oakland
@@ -27,7 +31,8 @@
 -
   name: Open Disclosure Oakland
   image: opendisclosure_300x233.png
-  link: http://www.opendisclosure.io/
+  website: http://www.opendisclosure.io/
+  repo:
   leader: Alison Lawyer, Colin King-Bailey, and Suzanne Doran
   slack_id: C02GKECTJ
   slack_channel: project-open-disclosure
@@ -35,7 +40,8 @@
 -
   name: OpenOUSD
   image: OpenOUSD.png
-  link: https://openousd.org/
+  website: https://openousd.org/
+  repo:
   leader: John Baldo
   slack_id: CEDNVVCRG
   slack_channel: project-open-ousd
@@ -44,7 +50,8 @@
 -
   name: West Oakland Air Quality (WOAQ)
   image: woaq_300x155.png
-  link: https://woaq.org
+  website: https://woaq.org
+  repo:
   leader: Jess Sand
   slack_id: C95U7371C
   slack_channel: project-woaq

@@ -1,4 +1,4 @@
-<div class="projects wrapper-clear">
+<div class="projects clear">
 
   {% if project.name %}
   <h3>{{ project.name }}</h3>
@@ -12,7 +12,20 @@
   />
   {% endif %}
 
-  <p class="projectMeta">
+  <p>
+    {% if project.website %}
+    <a href="https://openoakland.slack.com/messages/{{ project.website }}"
+      target="_blank"
+      rel="noopener noreferrer">Visit website</a><br/>
+      {% if project.repo %}
+      <a href="https://openoakland.slack.com/messages/{{ project.repo }}"
+        target="_blank"
+        rel="noopener noreferrer">Visit GitHub repo</a>
+      {% endif %}
+    {% endif %}
+  </p>
+
+  <p>
   {% if project.established %}
   <strong>Established</strong><br/>
   {{ project.established }}
@@ -34,6 +47,7 @@
     rel="noopener noreferrer">#{{ project.slack_channel }}</a>
   {% endif %}
 </p>
+
 <p>
   {% if project.decommissionedDate %}
   <strong>Decommissioned</strong><br/>
@@ -53,5 +67,7 @@
 </div>
 
 <div class="projects-col2">{{ project.description | markdownify | smartify }}</div>
+
+<div class="clear"></div>
 
 </div>

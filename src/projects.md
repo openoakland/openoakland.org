@@ -6,7 +6,7 @@ layout: page
 ---
 
 
- - [Active projects](#ongoing-projects-that-support-openoakland-s-operation)
+ - [Active projects](#ongoing-projects-that-support-openoaklands-operation)
  - [Becoming an OpenOakland project](#becoming-an-openoakland-project)
  - [Providing feedback](#providing-feedback)  
 
@@ -42,8 +42,6 @@ The following are official OpenOakland projects that are being actively supporte
 
 ---
 
----
-
 ## Becoming an OpenOakland project
 
 OpenOakland is reevaluating how our projects are vetted, adopted, and developed. This is an ongoing pilot that we continue to iterate on in an effort to ensure that projects serve their intended communities, consider potential unintended consequences, and foster greater inclusion of community voices—particularly those from underrepresented and underserved Oakland communities.
@@ -76,9 +74,14 @@ Projects must demonstrate alignment to OpenOakland’s mission and values. Some 
 
 ## Providing feedback
 
-In the spirit of continuous improvement and self-reflection, we welcome any and all feedback.
+In the spirit of continuous improvement and self-reflection, we welcome any and all feedback on OpenOakland projects past and present, as well as the overall project management process. Ways you can share your input include:
 
-If you’d like to contribute to or provide feedback on the project evaluation process or on any individual projects, we invite you to share your thoughts at our [next Hack Night](https://www.meetup.com/OpenOakland/events/), join the conversation in our [Slack workspace](http://slack.openoakland.org/), or email our [Steering Committee](mailto:steering@openoakland.org). You may also email concerns or comments to <safespace@openoakland.org>, which is staffed by two OpenOakland [ombudspeople](https://docs.google.com/document/d/1QR-fr1WnmXkZoVNmWnZ9drzfmaZoPkodEOx-PkExt94/edit#heading=h.3t0te9n2wr7m).
+- Open an issue in the project's GitHub repository (listed with its project description).
+- Join the project's channel in our [Slack workspace](http://slack.openoakland.org/) and introduce yourself.
+- Join our next [Hack Night](https://www.meetup.com/OpenOakland/events/) and meet the team.
+- Email our [Steering Committee](mailto:steering@openoakland.org) with your input.
+
+You may also email concerns or comments to <safespace@openoakland.org>, which is staffed by two OpenOakland [ombudspeople](https://docs.google.com/document/d/1QR-fr1WnmXkZoVNmWnZ9drzfmaZoPkodEOx-PkExt94/edit#heading=h.3t0te9n2wr7m).
 
 ---
 
