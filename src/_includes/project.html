@@ -14,7 +14,7 @@
 
   <p>
     {% if project.website %}
-    <a href="https://openoakland.slack.com/messages/{{ project.website }}"
+    <a href="{{ project.website }}"
       target="_blank"
       rel="noopener noreferrer">Visit website</a><br/>
       {% if project.repo %}

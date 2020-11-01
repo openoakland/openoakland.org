@@ -12,9 +12,8 @@ layout: page
 
 
 **Archives**
- - [On-hold projects](#on-hold-projects)
+ - [On-hold projects](#past-projects)
  - [Decommissioned projects](#decommissioned-projects)
-
 
 ---
 
@@ -76,7 +75,7 @@ Projects must demonstrate alignment to OpenOakland’s mission and values. Some 
 
 In the spirit of continuous improvement and self-reflection, we welcome any and all feedback on OpenOakland projects past and present, as well as the overall project management process. Ways you can share your input include:
 
-- Open an issue in the project's GitHub repository (listed with its project description).
+- Open an issue in the project's GitHub repository (listed in the project description).
 - Join the project's channel in our [Slack workspace](http://slack.openoakland.org/) and introduce yourself.
 - Join our next [Hack Night](https://www.meetup.com/OpenOakland/events/) and meet the team.
 - Email our [Steering Committee](mailto:steering@openoakland.org) with your input.
@@ -85,7 +84,7 @@ You may also email concerns or comments to <safespace@openoakland.org>, which is
 
 ---
 
-## On-hold projects
+## Past projects
 
 These projects have either served their purpose or are otherwise no longer actively supported. If you'd like to resume or adapt one of these, check out [Becoming an OpenOakland Project](#becoming-an-openoakland-project) and submit a [project brief](https://docs.google.com/document/d/1k24P9JiAUEzJLPFRDjVh7aRZexax6NUhfPFLSI3R80M/edit?usp=sharing) at an upcoming Hack Night or in Slack's #leadership channel.
 

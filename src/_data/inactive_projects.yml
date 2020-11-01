@@ -2,8 +2,8 @@
   name: Adopt a Drain
   image:
   established: 2011
-  website: https://adoptadrainoakland.com
-  repo:
+  website:
+  repo: https://github.com/openoakland/adopt-a-drain
   description: Adopt a Drain is a platform for Oakland residents to volunteer to be responsible for keeping a nearby storm drain clear to decrease flooding from storms, protect water quality, and keep trash from storm drains and connected creeks and water bodies. Vigilant maintenance of the City’s storm drain infrastructure is important for reducing pollution in the Bay. Adopt a Drain was set up in partnership with [City of Oakland’s Public Works Agency](http://www2.oaklandnet.com/government/o/PWA/o/FE/s/ID/OAK024735#Drain).
 -
   name: Alameda County Census 2020 Landing Page
@@ -17,8 +17,8 @@
 -
   name: Alameda County Census 2020 Events
   image:
-  website: https://github.com/openoakland/dos-census-events
-  repo:
+  website:
+  repo: https://github.com/openoakland/dos-census-events
   leader: "@mikeubell"
   slack_id: CJJ9B9A3S
   slack_channel: census-projects
