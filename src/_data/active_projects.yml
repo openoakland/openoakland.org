@@ -4,7 +4,7 @@
   website: https://oaklandcouncil.net/
   repo:
   github:
-  leader: Open role
+  leader: Open
   slack_id: C0M89GTRT
   slack_channel: project-councilmatic
   description: We make the Oakland City Council meetings easily accessible to the citizens of Oakland. Using our site citizens can learn when are the upcoming city council meetings, view the agenda, put the meeting on your calendar, and send an electronic comment to the Council. Plus you can see videos of past meetings.
