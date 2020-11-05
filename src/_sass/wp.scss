@@ -1,38 +1,56 @@
-#projects .col1 {
+
+.projects {
+  float: left;
+  margin-bottom:2rem;
+}
+
+.clear {
+  clear:both;
+}
+
+.projects-col1 {
   float: left;
   margin-right: 20px;
+  padding-top:1rem;
   padding-bottom: 20px;
   width: 35%;
 }
 
-#projects .col2 {
+.projects-col2 {
   display: table-row-group;
   padding-bottom: 20px;
 }
 
-#projects .col2 + hr:not([class*="col"]) {
+
+.projects-col2 + hr:not([class*="col"]) {
   clear: both;
 }
 
-#projects img,
-#projects a img {
+
+.projects img,
+.projects a img {
   border: 1px #dadada solid;
   width: 100%;
+  margin-bottom: 1rem;
 }
 
-#projects a img:hover {
+.projects a img:hover {
   border: 1px #1ab890 solid;
   opacity: 0.9;
   padding: 0px;
 }
 
-#projects h3 {
+.projects h3 {
   background-color: #f5f5f5;
   clear: both;
   font-weight: bold;
   line-height: 1;
   padding: 12px;
+  border-radius:5px;
+  margin: 1rem -1rem 0rem -1rem;
 }
+
+
 
 .steeering-committee-image {
   margin: 0 3rem 0 0;

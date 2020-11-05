@@ -1,36 +1,73 @@
-<h3>
-  {% if project.link %}
-  <a target="_blank" href="{{ project.link }}">{{ project.name }}</a>
-  {% elsif project.link == nil %}
-  <span>{{ project.name }}</span>
-  {% endif %}
-</h3>
+<div class="project clear">
 
-<div class="col1">
+  {% if project.name %}
+  <h3>{{ project.name }}</h3>
+  {% endif %}
+
+<div class="projects-col1">
   {% if project.image %}
   <img
     src="/assets/images/projects/{{ project.image }}"
     alt="screenshot of {{ project.name }}"
   />
-  {% endif %} {% if project.established %}
-  <strong>Established</strong>: {{ project.established }}
-  {% endif %} {% if project.leader %}
-  <strong>Team Contact</strong>: {{ project.leader }} on Slack channel
-  <a
-    href="https://openoakland.slack.com/messages/{{ project.slack_id }}"
-    target="_blank"
-    rel="noopener noreferrer"
-    >#{{ project.slack_channel }}</a
-  >
-  {% elsif project.slack_channel %}
-  <strong>Slack channel</strong>:
-  <a
-    href="https://openoakland.slack.com/messages/{{ project.slack_id }}"
-    target="_blank"
-    rel="noopener noreferrer"
-    >#{{ project.slack_channel }}</a
-  >
   {% endif %}
+
+
+    {% if project.website %}
+    <p><a href="{{ project.website }}"
+      target="_blank"
+      rel="noopener noreferrer">Visit website</a><br/>
+      {% if project.repo %}
+      <a href="https://openoakland.slack.com/messages/{{ project.repo }}"
+        target="_blank"
+        rel="noopener noreferrer">Visit GitHub repo</a>
+      {% endif %}</p>
+    {% endif %}
+
+
+
+  {% if project.established %}
+  <p><strong>Established</strong><br/>
+  {{ project.established }}</p>
+  {% endif %}
+
+
+
+  {% if project.leader %}
+  <p><strong>Project lead</strong><br/>
+  {{ project.leader }}</p>
+    {% endif %}
+
+
+
+  {% if project.slack_channel %}
+  <p><strong>Slack channel</strong><br/>
+  <a href="https://openoakland.slack.com/messages/{{ project.slack_id }}"
+    target="_blank"
+    rel="noopener noreferrer">#{{ project.slack_channel }}</a></p>
+  {% endif %}
+
+
+
+  {% if project.decommissionedDate %}
+  <p><strong>Decommissioned</strong><br/>
+  {{ project.decommissionedDate }}<br/>
+  {% endif %}
+
+  {% if project.decommissionedReason %}
+  <strong>Reason for decommission</strong><br/>
+  {{ project.decommissionedReason }}<br/>
+  {% endif %}
+
+  {% if project.decommissionedDate %}
+  <strong>To be reinstated:</strong><br/>
+  {{ project.decommissionedSolution }}</p>
+  {% endif %}
+
 </div>
 
-<div class="col2">{{ project.description | markdownify | smartify }}</div>
+<div class="projects-col2">{{ project.description | markdownify | smartify }}</div>
+
+<div class="clear"></div>
+
+</div>
