@@ -1,18 +1,31 @@
 ---
 title: Calendar
-date: 2016-12-19T17:18:17-07:00
-author: elina
+date:  2020-11-05T02:09:11+00:00
+author: Jess Sand
 layout: page
 ---
 
-### Regular Meeting Schedule
+## Join us every Tuesday on Zoom
+6:30-9:00 pm PST
 
-OpenOakland meets every Tuesday at Oakland City Hall. We welcome everyone to join our meetings, regardless of technology ability level.
-[Find our next event on Meetup.](https://www.meetup.com/OpenOakland/events/)
+We welcome folks of all skill levels and disciplines. Normally, we meet in Oakland City Hall ([directions](https://goo.gl/maps/YTNkpZcb7Sy936w88)) but we're fully remote during the pandemic. If you need accessibility assistance, please email steering@openoakland.org.
 
-We encourage first-time attendees to join us during our **monthly New Member Onboarding** the last Tuesday night of the month.
+[RSVP on Meetup](https://www.meetup.com/OpenOakland/events/){: class="btn btn-primary btn-lg"}
 
-### Past Events
+
+## Recurring meetings
+The following events happen during Tuesday's Hack Night on the following dates:
+
+- **First Tues of each month**  
+Demo night: See the latest updates from active projects.  
+- **Third Tues of each month**  
+Steering committee meeting: Decision-making body for OpenOakland (open to membership; agenda is posted 1 week prior in #leadership on Slack).  
+- **Last Tues of each month**  
+New member orientation: Get a personal introduction to OpenOakland.
+
+
+## Past Events
+
 
 - [Open Data Day 2019](https://www.meetup.com/OpenOakland/events/258831439/){:target="\_blank"} March 2, 2019
 - [Day of Service](https://www.eventbrite.com/e/openoakland-day-of-service-2019-tickets-59979544432){:target="\_blank"} May 11, 2019

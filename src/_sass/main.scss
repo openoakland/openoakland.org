@@ -52,6 +52,10 @@ p {
   margin-top: $spacing-unit / 3;
 }
 
+ul {margin-top:1.6rem;}
+
+li {margin-top:1.3rem;}
+
 a {
   color: $brand-color;
   &:hover {
@@ -128,6 +132,15 @@ main {
     height: 100%;
     object-fit: cover;
   }
+}
+
+.card-event {
+  width:30%;
+}
+
+h4 .card-subtitle {
+  font-weight:normal;
+  font-style: italic;
 }
 
 .iframe-container {
