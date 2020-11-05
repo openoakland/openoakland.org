@@ -1,0 +1,29 @@
+<div class="row">
+
+  <div class="col-sm-6">
+    <div class="card">
+      <div class="card-body">
+        <h3 class="card-title">{% if event.title %}{{ event.title }}{% endif %}</h3>
+        <h4 class="card-subtitle">{% if event.subtitle-guest %}{{ event.subtitle-guest }}{% endif %}</h4>
+        <p class="card-text">{% if event.description-sentence %}{{ event.description-sentence }}{% endif %}</p>
+        <a href="#" class="btn btn-primary btn-sm">{% if event.link %}{{ event.link }}{% endif %}</a>
+      </div>
+      <div class="card-footer text-muted">{% if event.mon-dd-yyyy %}{{ event.mon-dd-yyyy }}{% endif %}
+      </div>
+    </div>
+  </div>
+
+  <div class="col-sm-6">
+    <div class="card">
+      <div class="card-body">
+        <h3 class="card-title">{% if event.title %}{{ event.title }}{% endif %}</h3>
+        <h4 class="card-subtitle">{% if event.subtitle-guest %}{{ event.subtitle-guest }}{% endif %}</h4>
+        <p class="card-text">{% if event.description-sentence %}{{ event.description-sentence }}{% endif %}</p>
+        <a href="#" class="btn btn-primary btn-sm">{% if event.link %}{{ event.link }}{% endif %}</a>
+      </div>
+      <div class="card-footer text-muted">{% if event.mon-dd-yyyy %}{{ event.mon-dd-yyyy }}{% endif %}
+      </div>
+    </div>
+  </div>
+
+</div>

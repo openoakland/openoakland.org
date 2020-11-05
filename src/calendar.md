@@ -16,17 +16,30 @@ We welcome folks of all skill levels and disciplines. Normally, we meet in Oakla
 ## Recurring meetings
 The following events happen during Tuesday's Hack Night on the following dates:
 
-- **First Tues of each month**  
+- **First Tuesday of each month**  
 Demo night: See the latest updates from active projects.  
-- **Third Tues of each month**  
+- **Third Tuesday of each month**  
 Steering committee meeting: Decision-making body for OpenOakland (open to membership; agenda is posted 1 week prior in #leadership on Slack).  
-- **Last Tues of each month**  
+- **Last Tuesday of each month**  
 New member orientation: Get a personal introduction to OpenOakland.
 
 
 ## Past Events
+{% for event in site.data.events %}
+  {% include event.html %}
+{% endfor %}
+
+<div class="card card-body card-event" markdown="1">
+![video thumbnail](../images/events/OpenOakland-Hack-Night-Darlene-Flynn-Oakland-Equity-Analysis-Framework.png){: class="card-img-top"}
+### Hack Night: Oakland's Equity Analysis Framework
+#### with Darlene Flynn, Oakland's Dir. of Race & Equity {:class: .card-subtitle}
+xx {: .card-text}
+
+[Watch the video](https://youtu.be/OzbMX_J_4yI){: class="btn btn-primary btn-sm"}
+</div>
 
 
+- [Hack Night: Oakland's Equity Analysis Framework](https://youtu.be/OzbMX_J_4yI) with Darlene Flynn, Dir. of Race & Equity, City of Oakland (Sept. 22, 2020)
 - [Open Data Day 2019](https://www.meetup.com/OpenOakland/events/258831439/){:target="\_blank"} March 2, 2019
 - [Day of Service](https://www.eventbrite.com/e/openoakland-day-of-service-2019-tickets-59979544432){:target="\_blank"} May 11, 2019
 - [National Day of Civic Hacking](https://www.eventbrite.com/e/national-day-of-civic-hacking-2019-tickets-69928206147){:target="\_blank"} September 21, 2019
