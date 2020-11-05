@@ -1,8 +1,11 @@
+# Add your new event at the top, separated by a hyphen.
+# Do not altar the labels (which tells event.html which data to pull).
+# If your entry includes a colon, wrap the entire entry in single quotes.
 -
-  image: OpenOakland-Hack-Night-Darlene-Flynn-Oakland-Equity-Analysis-Framework.png
-  title: Hack Night: Oakland's Equity Analysis Framework
-  subtitle-guest: with Darlene Flynn, Dir. of Race & Equity, City of Oakland
-  description-sentence: Darlene shares her work on the city's Equity Analysis framework, followed by a Q&A and member discussion about how to apply these principles to our work.
-  link: https://youtu.be/OzbMX_J_4yI
-  mon-dd-yyyy: Sep. 22, 2020
+ image: OpenOakland-Hack-Night-Darlene-Flynn-Oakland-Equity-Analysis-Framework.png
+ title: 'Hack Night: Oakland's Equity Analysis Framework'
+ subtitleGuest: with Darlene Flynn, Director of Race & Equity, City of Oakland
+ descriptionSentence: Darlene shares her work on the city's Equity Analysis framework, followed by a Q&A and member discussion about how to apply these principles to our work.
+ link: https://youtu.be/OzbMX_J_4yI
+ mon-dd-yyyy: Sep. 22, 2020
 -

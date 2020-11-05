@@ -25,9 +25,11 @@ New member orientation: Get a personal introduction to OpenOakland.
 
 
 ## Past Events
+
 {% for event in site.data.events %}
   {% include event.html %}
 {% endfor %}
+
 
 <div class="card card-body card-event" markdown="1">
 ![video thumbnail](../images/events/OpenOakland-Hack-Night-Darlene-Flynn-Oakland-Equity-Analysis-Framework.png){: class="card-img-top"}
