@@ -1,7 +1,7 @@
 ---
 title: Calendar
-date:  2020-11-05T02:09:11+00:00
-author: Jess Sand
+date:  2020-11-07T02:09:11+00:00
+author: Jess S.
 layout: page
 ---
 
@@ -23,22 +23,13 @@ Steering committee meeting: Decision-making body for OpenOakland (open to member
 - **Last Tuesday of each month**  
 New member orientation: Get a personal introduction to OpenOakland.
 
+---
 
 ## Past Events
 
 {% for event in site.data.events %}
   {% include event.html %}
 {% endfor %}
-
-
-<div class="card card-body card-event" markdown="1">
-![video thumbnail](../images/events/OpenOakland-Hack-Night-Darlene-Flynn-Oakland-Equity-Analysis-Framework.png){: class="card-img-top"}
-### Hack Night: Oakland's Equity Analysis Framework
-#### with Darlene Flynn, Oakland's Dir. of Race & Equity {:class: .card-subtitle}
-xx {: .card-text}
-
-[Watch the video](https://youtu.be/OzbMX_J_4yI){: class="btn btn-primary btn-sm"}
-</div>
 
 
 - [Hack Night: Oakland's Equity Analysis Framework](https://youtu.be/OzbMX_J_4yI) with Darlene Flynn, Dir. of Race & Equity, City of Oakland (Sept. 22, 2020)
