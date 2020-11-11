@@ -27,12 +27,8 @@ New member orientation: Get a personal introduction to OpenOakland.
 
 ## Past Events
 
+<div id="events">
 {% for event in site.data.events %}
   {% include event.html %}
 {% endfor %}
-
-
-- [Hack Night: Oakland's Equity Analysis Framework](https://youtu.be/OzbMX_J_4yI) with Darlene Flynn, Dir. of Race & Equity, City of Oakland (Sept. 22, 2020)
-- [Open Data Day 2019](https://www.meetup.com/OpenOakland/events/258831439/){:target="\_blank"} March 2, 2019
-- [Day of Service](https://www.eventbrite.com/e/openoakland-day-of-service-2019-tickets-59979544432){:target="\_blank"} May 11, 2019
-- [National Day of Civic Hacking](https://www.eventbrite.com/e/national-day-of-civic-hacking-2019-tickets-69928206147){:target="\_blank"} September 21, 2019
+</div>
