@@ -1,56 +1,58 @@
-- name: Community Foods
-  image: Community-Foods-Exterior-300x206.png
-  link:
-  leader: Thomas Deckert
-  slack_id: C0165NXC2F2
-  slack_channel: community-foods
-  description: In partnership with West Oakland's Community Foods Market this project aims to support the adoption and use of food assistance benefits (EBT). The main objectives are to provide support for in-store EBT applications and to improve EBT checkout process.
-- name: Councilmatic
+-
+  name: Councilmatic (Steering Committee approval pending)
   image: councilmatic_300x118.png
-  link: https://oaklandcouncil.net/
-  leader: Howard Mattis
+  website: https://oaklandcouncil.net/
+  repo:
+  github:
+  leader: Open
   slack_id: C0M89GTRT
-  slack_channel: councilmatic
+  slack_channel: project-councilmatic
   description: We make the Oakland City Council meetings easily accessible to the citizens of Oakland. Using our site citizens can learn when are the upcoming city council meetings, view the agenda, put the meeting on your calendar, and send an electronic comment to the Council. Plus you can see videos of past meetings.
-- name: OakCrime
-  image: oakcrime_300x233.png
-  link: http://oakcrime.org
-  leader: Rik Belew
-  slack_id: C040ULV6C
-  slack_channel: crime
-  description: OakCrime.org seeks to increase transparency and understanding of data released by the Oakland Police Department (OPD) regarding crime. Our data goes back to 2007, and up to yesterday. We strive to make all public OPD data available to citizens ASAP, provide context for it with analytics and visualization, together with full provenance via open source repositories and solid documentation.
-- name: Open Budget
+-
+  name: La Escuelita
+  image:
+  website:
+  repo:
+  established: 2019
+  leader: Laurel Adams
+  slack_id: UNSGF8W06
+  slack_channel: project-la-escuelita
+  description: OUSD doesn’t provide resources for school websites, but many parents (and parents of prospective students) expect them to. La Escuelita, a K-8 elementary school in the Lake Merritt area, wants help developing a simple website that goes live in Fall 2020 term; houses essential info like announcements, schedule changes (currently rely on paper fliers students bring home) and contact info; offers easy-to-use technology and a layout that non-technical staff can easily update and maintain.
+
+-
+  name: Open Budget Oakland
   image: openbudgetoakland_300x233.png
-  link: http://openbudgetoakland.org/
+  website: http://openbudgetoakland.org/
+  repo:
   leader: Felicia Betancourt
   slack_id: C02R4185B
-  slack_channel: openbudget
+  slack_channel: project-open-budget-oakland
   description: Every 2 years the city of Oakland releases a budget in a spreadsheet that has nearly 20,000 rows, which does not make for ideal reading. The mission of Open Budget Oakland is to transform this mountain of data into an interactive display of charts and diagrams that is easy and even fun to use. Our MVP is live, but could benefit from improvements and new features.
-- name: Open Disclosure
+-
+  name: Open Disclosure Oakland
   image: opendisclosure_300x233.png
-  link: http://www.opendisclosure.io/
+  website: http://www.opendisclosure.io/
+  repo:
   leader: Alison Lawyer, Colin King-Bailey, and Suzanne Doran
   slack_id: C02GKECTJ
-  slack_channel: open-disclosure
+  slack_channel: project-open-disclosure
   description: Open Disclosure helps Oaklanders understand the role of money in their local politics. By analyzing mandatory campaign finance disclosures for candidates seeking public office, Open Disclosure presents a user-friendly overview of who is raising money, from where, and how much. Open Disclosure is developed in partnership with the City of Oakland Public Ethics Commission.
-- name: OUSD Budget
-  image:
-  link:
+-
+  name: OpenOUSD
+  image: OpenOUSD.png
+  website: https://openousd.org/
+  repo:
   leader: John Baldo
   slack_id: CEDNVVCRG
-  slack_channel: ousd-budget
-  description: Explaining to school communities what the Oakland Unified School District's central office does and helping them weigh in on what its function should be in the future. Let’s reimagine what OUSD district office can look like!
-- name: Water Quality
-  image: water_300x237.png
-  link: http://water.openoakland.org/
-  leader: Aaron Hans
-  slack_id: CBB52CFU2
-  slack_channel: ca-water-challenge
-  description: Approximately one million California residents currently only have access to drinking water that does not meet state and federal standards.  The California Drinking Water project provides user-friendly online queries, charts, and maps to show which water systems have current and persistent drinking water contamination violations.  Partnering with the State Water Board and the Community Water Center non-profit organization, Open Oakland volunteers are developing tool features using the State’s bi-monthly Human Right to Water water quality reporting data on cities, communities, schools, and daycares.  The online features allow government officials, advocates, researchers, and residents to more easily understand which water systems have contamination problems and identify solutions that support clean water for all Californians.
-- name: West Oakland Air Quality (WOAQ)
+  slack_channel: project-open-ousd
+  description: OpenOUSD aims to bring greater transparency to the Oakland Unified School District's central office so that the community can fully participate in discussions about how it can best serve our students. OpenOUSD is a project of OpenOakland, a volunteer run group with the mission of increasing access to government through technology. OpenOUSD receives no public or private funds and is not an official OUSD website.
+
+-
+  name: West Oakland Air Quality (WOAQ)
   image: woaq_300x155.png
-  link:
+  website: https://woaq.org
+  repo:
   leader: Jess Sand
   slack_id: C95U7371C
-  slack_channel: woaq
-  description: We are creating a digital platform for West Oakland residents to collect, visualize, and act on the air quality data which affect them. We are partnered with the West Oakland Environmental Indicators Project, a community group who has collected Air Quality data from their neighborhood.
+  slack_channel: project-woaq
+  description: The WOAQ team is building an air quality database with the nonprofit West Oakland Environmental Indicators Project (WOEIP), who has been collecting local air quality data for over a decade. Our initial effort is focused on a volunteer-friendly database for WOEIP staff and volunteers to manage and explore the local AQ data they collect through the organization’s citizen science program. We’ll then build on this to create a neighborhood-friendly platform that allows residents to act on this data through self-education, self-empowerment, and civic engagement.
