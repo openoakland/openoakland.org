@@ -12,13 +12,6 @@ We welcome folks of all skill levels and disciplines. Normally, we meet in Oakla
 
 [RSVP on Meetup](https://www.meetup.com/OpenOakland/events/){: class="btn btn-primary btn-lg"}
 
-<div id="announcement">
-{% for announcement in site.data.announcement %}
-  {% include announcement.html %}
-{% endfor %}
-</div>
-
-
 ## Recurring meetings
 The following events happen during Tuesday's Hack Night on the following dates:
 
@@ -29,7 +22,11 @@ Steering committee meeting: Decision-making body for OpenOakland (open to member
 - **Last Tuesday of each month**  
 New member orientation: Get a personal introduction to OpenOakland.
 
----
+<div id="announcement">
+{% for announcement in site.data.announcement %}
+  {% include announcement.html %}
+{% endfor %}
+</div>
 
 ## Past Events
 

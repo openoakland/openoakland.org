@@ -23,8 +23,15 @@ We're a fiscally-sponsored project of [Code for America](https://www.codeforamer
   <iframe width="560" height="315" src="https://www.youtube.com/embed/mYzMl_HnEZU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+<div id="announcement">
+{% for announcement in site.data.announcement %}
+  {% include announcement.html %}
+{% endfor %}
+</div>
 
-## Current leadership team
+
+## 2020 leadership team
+
 The leadership team is elected by membership annually.
 
 {% include steering-committee.html %}
