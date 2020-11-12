@@ -27,8 +27,8 @@ New member orientation: Get a personal introduction to OpenOakland.
 
 ## Past Events
 
-<div id="events">
-{% for event in site.data.events %}
-  {% include event.html %}
+<div id="calendar">
+{% for calendar in site.data.calendar %}
+  {% include calendarEvent.html %}
 {% endfor %}
 </div>

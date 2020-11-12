@@ -7,31 +7,44 @@
  title: "Hack Night: Oakland's Equity Analysis Framework"
  subtitleGuest: with Darlene Flynn, Director of Race & Equity, City of Oakland
  descriptionSentence: "Darlene shares her work on the city's Equity Analysis framework, followed by a Q&A and member discussion about how to apply these principles to our work."
- buttonText: View on YouTube
  link: "https://youtu.be/OzbMX_J_4yI"
+ buttonText: View on YouTube
  mon-dd-yyyy: Sep. 22, 2020
 -
  image:
  title: Alameda County Ballot Drop-off & OpenOakland access
  subtitleGuest: National Day of Civic Hacking 2020
  descriptionSentence: OpenOakland and area brigade members focused on <emphasis>access</emphasis> this year, documenting drop-off voting locations across Alameda County and making openoakland.org more accessible to those interested in engaging with our brigade.
- buttonText: Read the recap
  link: "https://docs.google.com/document/d/17_0O4QRnFS705npB-bo4xuLtfJHGF5yAdNdd2HMe5SI/edit?usp=sharing"
+ buttonText: Read the recap
  mon-dd-yyyy: Sept. 12, 2020
 -
- image:
+ image: OpenOakland-Open-Data-Day-2019.png
  title: Public Record Requests as Open Data
  subtitleGuest: National Open Data Day 2019
  descriptionSentence: Our panel discusses how to file a data request in California and Oakland, and the Sunshine laws that govern requests and data retention.
- buttonText: View on YouTube
  link: "https://youtu.be/zpkj53kjpMs"
+ buttonText: View on YouTube
+ secondaryLink: "https://www.meetup.com/OpenOakland/events/258831439/"
+ secondaryLinkText: Event Details
  mon-dd-yyyy: Mar. 2, 2020
 -
- image:
+ image: OpenOakland-Day-of-Service-2019.jpg
  title: Civic Engagement in the Digital Age
  subtitleGuest: OpenOakland Day of Service 2019
  descriptionSentence: "Oakland residents, students, community leaders, city staff, artists, developers and designers, and journalists spent the day tackling our partners' tech challenges through collaborationa and service delivery."
- buttonText:
  link:
+ buttonText:
+ secondaryLink: "https://www.eventbrite.com/e/openoakland-day-of-service-2019-tickets-59979544432#"
+ secondaryLinkText: Event details
  mon-dd-yyyy: May 11, 2019
 -
+ image: OpenOakland-NDoCH-workinggroup.jpg
+ title: Civic Action for Justice
+ subtitleGuest: National Day of Civic Hacking 2019
+ descriptionSentence: Oaklanders of all stripes joined OpenOakland and the Code for America brigade network to help improve the experience of those impacted directly by the criminal justice system. We conducted usability reviews of Alameda County's and California's records clearance process and developed Know Your Rights guides.
+ link: "https://twitter.com/OpenOakland/status/1175584902416236545"
+ buttonText: View the Recap
+ secondaryLink: "https://www.eventbrite.com/e/national-day-of-civic-hacking-2019-tickets-69928206147"
+ secondaryLinkText: Event details
+ mon-dd-yyyy: Sept. 21, 2019

@@ -127,21 +127,13 @@ main {
 
 .home__event-card {
   margin-bottom: $spacing-unit;
+}
 
-  .card-img {
+.card-img {
     height: 100%;
     object-fit: cover;
   }
-}
 
-.card-event {
-  width:30%;
-}
-
-.card-subtitle {
-  font-weight:normal;
-  font-style: italic;
-}
 
 .iframe-container {
   position: relative;

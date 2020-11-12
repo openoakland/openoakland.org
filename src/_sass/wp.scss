@@ -40,7 +40,18 @@
   width: 150px;
 }
 
-#events .card {
-  float: left;
+#calendar .card {
   margin-bottom: 1rem;
+  width: 45%;
+  margin-right:5%;
+  float:left;
+}
+
+#calendar .card-subtitle {
+    font-weight:normal;
+    font-style: italic;
+  }
+
+#calendar .card-link {
+  margin-left:.5rem;
 }
