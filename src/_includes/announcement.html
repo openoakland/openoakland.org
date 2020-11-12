@@ -1,0 +1,27 @@
+<div id="announcement">
+
+  <div class="jumbotron jumbotron-fluid">
+  <div class="container">
+
+    <h3 class="display-4">{{ announcement.title }}</h3>
+    <p class="lead">{{ announcement.subhead }}</p>
+    <hr class="my-4">
+    <p class="supportingCopy"> {{ announcement.description }}
+    {% if announcement.list %}
+      <ul class="supportingCopy">
+      {% if announcement.itemOne %}<li> {{ announcement.itemOne }}</li>{% endif %}
+      {% if announcement.itemTwo %}<li> {{ announcement.itemTwo }}</li>{% endif %}
+      {% if announcement.itemThree %}<li> {{ announcement.itemThree }}</li>{% endif %}
+      {% if announcement.itemFour %}<li> {{ announcement.itemFour }}</li>{% endif %}
+      {% if announcement.itemFive %}<li> {{ announcement.itemFive }}</li>{% endif %}
+      </ul>
+    {% endif %}
+    </p>
+
+    {% if announcement.link %}<a href="{{ announcement.link }}" class="btn btn-primary btn-md" role="button">{{ announcement.buttonText }}</a>{% endif %} {% if announcement.secondaryLink %}<a href="{{ announcement.secondaryLink }}" class="secondaryLink">{{ announcement.secondaryLinkText }}</a>{% endif %}
+
+  </div>
+  </div>
+
+</div>
+<div class="clear"></div>

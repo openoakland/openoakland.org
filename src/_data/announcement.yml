@@ -1,0 +1,18 @@
+# Use this for adding *temporary* announcements to the site via includes. Note that this doc should hold only one announcement at a time.
+# There may be a better way to do this but for now, if we want more than one announcement to appear on the site, just create a second include and accompanying yml/html file pair.
+# This include uses the Bootstrap "jumbotron" component with custom css styles in wp.scss.
+# Do not alter the labels (which tells event.html which data to pull).
+# If your entry includes a colon or other special characters not allowed in yml, wrap the entire entry in double quotes.
+-
+ title: "Leadership nominations are now open"
+ subhead: "Help shape the future of OpenOakland by nominating yourself or another member for the 2021 leadership term. Nominations are due by Nov. 24."
+ list: yes
+ itemOne:
+ itemTwo:
+ itemThree:
+ itemFour:
+ itemFive:
+ link: "https://openoakland.slack.com/archives/C02FEGG8C/p1605065269121600"
+ buttonText: View details in Slack
+ secondaryLink: "https://docs.google.com/document/d/1QR-fr1WnmXkZoVNmWnZ9drzfmaZoPkodEOx-PkExt94/edit?usp=sharing"
+ secondaryLinkText: Read about the process in our bylaws
