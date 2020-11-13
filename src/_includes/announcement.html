@@ -1,6 +1,5 @@
-<div id="announcement">
+<div id="announcement" class="jumbotron jumbotron-fluid">
 
-  <div class="jumbotron jumbotron-fluid">
   <div class="container">
 
     <h3 class="display-4">{{ announcement.title }}</h3>
@@ -20,7 +19,6 @@
 
     {% if announcement.link %}<a href="{{ announcement.link }}" class="btn btn-primary btn-md" role="button">{{ announcement.buttonText }}</a>{% endif %} {% if announcement.secondaryLink %}<a href="{{ announcement.secondaryLink }}" class="secondaryLink">{{ announcement.secondaryLinkText }}</a>{% endif %}
 
-  </div>
   </div>
 
 </div>
