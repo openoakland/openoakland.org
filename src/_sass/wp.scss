@@ -56,3 +56,37 @@
   height: 150px;
   width: 150px;
 }
+
+.calendar-card {
+  margin-bottom: 1rem;
+  float:left;
+}
+
+.calendar-card-subtitle {
+    font-weight:normal;
+    font-style: italic;
+  }
+
+.calendar-card-link {
+  margin-left:.5rem;
+}
+
+
+#announcement {
+  margin-top: 3rem;
+  margin-bottom:3rem;
+}
+
+#announcement .container {
+  padding: 0rem 2rem 0rem 2rem;
+}
+
+#announcement h3 {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-top: -1.5rem;
+}
+
+#announcement .secondaryLink {
+  margin-left:.5rem;
+}

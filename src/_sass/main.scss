@@ -52,6 +52,10 @@ p {
   margin-top: $spacing-unit / 3;
 }
 
+ul {margin-top:1.6rem;}
+
+li {margin-top:1.3rem;}
+
 a {
   color: $brand-color;
   &:hover {
@@ -123,12 +127,13 @@ main {
 
 .home__event-card {
   margin-bottom: $spacing-unit;
+}
 
-  .card-img {
+.card-img {
     height: 100%;
     object-fit: cover;
   }
-}
+
 
 .iframe-container {
   position: relative;
