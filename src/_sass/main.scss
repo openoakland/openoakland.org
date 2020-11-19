@@ -52,11 +52,15 @@ p {
   margin-top: $spacing-unit / 3;
 }
 
+ol {
+  margin-top:1.6rem;
+  margin-left:1rem;
+}
 
 
 ul {
   margin-top:1.6rem;
-  list-style-position: inside;
+  margin-left:1rem;
 }
 
 li {margin-top:1.1rem;}
