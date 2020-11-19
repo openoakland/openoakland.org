@@ -1,6 +1,6 @@
 ---
 title: Our Projects
-date: 2020-10-20T01:15:35+00:00
+date:  2020-11-19T07:50:52+00:00
 author: Jess Sand
 layout: page
 ---
@@ -16,7 +16,6 @@ layout: page
 
 ---
 
-
 ## Ongoing projects that support OpenOakland's operation
 
 These projects are a great way to get your feet wet as you get to know OpenOakland.
@@ -24,7 +23,6 @@ These projects are a great way to get your feet wet as you get to know OpenOakla
 {::comment}
 This comment element is here to "trick" Jekyll's markdown parser, called kramdown, into closing the above list without inserting any content between the list and the next element
 {:/comment}
-
 
 {% for project in site.data.openoakland_projects %}
 {% include project.html %}
@@ -95,6 +93,10 @@ You may also email concerns or comments to <safespace@openoakland.org>, which is
 ## Past projects
 
 These projects have either served their purpose or are otherwise no longer actively supported. If you'd like to resume or adapt one of these, check out [Becoming an OpenOakland Project](#becoming-an-openoakland-project) and submit a [project exploration worksheet](https://docs.google.com/document/d/1k24P9JiAUEzJLPFRDjVh7aRZexax6NUhfPFLSI3R80M/edit?usp=sharing) at an upcoming Hack Night or in Slack's #leadership channel.
+
+{::comment}
+This comment element is here to "trick" Jekyll's markdown parser, called kramdown, into closing the above list without inserting any content between the list and the next element
+{:/comment}
 
 {% for project in site.data.inactive_projects %}
 {% include project.html %}
