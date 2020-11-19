@@ -108,6 +108,10 @@ This comment element is here to "trick" Jekyll's markdown parser, called kramdow
 
 Decommissioned projects are projects that the Steering Committee has formally reviewed and deemed no longer a good fit for OpenOakland based on our 2020 project evaluation pilot. These projects may not be reinstated without submitting a new [project exploration worksheet](https://docs.google.com/document/d/1k24P9JiAUEzJLPFRDjVh7aRZexax6NUhfPFLSI3R80M/edit?usp=sharing) that substantively addresses the original reasons for discontinuation. Project briefs that are declined by the Steering Committee twice may not be resubmitted without substantive changes.
 
+{::comment}
+This comment element is here to "trick" Jekyll's markdown parser, called kramdown, into closing the above list without inserting any content between the list and the next element
+{:/comment}
+
 {% for project in site.data.decommissioned_projects %}
 {% include project.html %}
 {% endfor %}
