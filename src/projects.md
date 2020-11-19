@@ -34,6 +34,10 @@ The following are official OpenOakland projects that are being actively supporte
 - Join us for our Tuesday [Hack Nights](https://www.meetup.com/OpenOakland/events/) to connect with the project team.
 - Join our [Slack workspace](http://slack.openoakland.org/) and introduce yourself in the project's channel listed in the description.
 
+{::comment}
+This comment element is here to "trick" Jekyll's markdown parser, called kramdown, into closing the above list without inserting any content between the list and the next element
+{:/comment}
+
 {% for project in site.data.active_projects %}
 {% include project.html %}
 {% endfor %}
