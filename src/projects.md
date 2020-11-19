@@ -6,14 +6,13 @@ layout: page
 ---
 
 
- - [Active projects](#ongoing-projects-that-support-openoaklands-operation)
- - [Becoming an OpenOakland project](#becoming-an-openoakland-project)
- - [Providing feedback](#providing-feedback)  
+[Active projects](#ongoing-projects-that-support-openoaklands-operation)  
+[Becoming an OpenOakland project](#becoming-an-openoakland-project)  
+[Providing feedback](#providing-feedback)  
 
-
-**Archives**
- - [Past projects](#past-projects)
- - [Decommissioned projects](#decommissioned-projects)
+**Archives**  
+[Past projects](#past-projects)  
+[Decommissioned projects](#decommissioned-projects)  
 
 ---
 

@@ -4,16 +4,16 @@
   established: 2011
   website:
   repo: https://github.com/openoakland/adopt-a-drain
-  description: Adopt a Drain is a platform for Oakland residents to volunteer to be responsible for keeping a nearby storm drain clear to decrease flooding from storms, protect water quality, and keep trash from storm drains and connected creeks and water bodies. Vigilant maintenance of the City’s storm drain infrastructure is important for reducing pollution in the Bay. Adopt a Drain was set up in partnership with [City of Oakland’s Public Works Agency](http://www2.oaklandnet.com/government/o/PWA/o/FE/s/ID/OAK024735#Drain).
+  description: Adopt a Drain was a platform for Oakland residents to volunteer to be responsible for keeping a nearby storm drain clear to decrease flooding from storms, protect water quality, and keep trash from storm drains and connected creeks and water bodies. Vigilant maintenance of the City’s storm drain infrastructure is important for reducing pollution in the Bay. Adopt a Drain was set up in partnership with [City of Oakland’s Public Works Agency](http://www2.oaklandnet.com/government/o/PWA/o/FE/s/ID/OAK024735#Drain).
 -
   name: Alameda County Census 2020 Landing Page
-  image:
+  image: OpenOakland-Census-Guide.png
   website: https://llkats.github.io/dos-acccc/
-  repo:
-  leader: Lydia Kats
+  repo: https://github.com/llkats/dos-acccc
+  leader: Formerly Lydia Kats
   slack_id: CJJ9B9A3S
   slack_channel: census-projects
-  description: This landing page is intended to be a portal for the 2020 Census administered by Alameda County. It will be accessible at locations where a computer or tablet is provided to the public and is intended to introduce people to the Census and offer information in their native language about why the Census is important to complete, as well as resources and guides on how to complete the Census. It is intended to be welcoming to people for whom English is not their first language.
+  description: This landing page was a portal for the 2020 Census administered by Alameda County. It will be accessible at locations where a computer or tablet is provided to the public and is intended to introduce people to the Census and offer information in their native language about why the Census is important to complete, as well as resources and guides on how to complete the Census. It is intended to be welcoming to people for whom English is not their first language.
 -
   name: Alameda County Census 2020 Events
   image:
@@ -22,25 +22,19 @@
   leader: "@mikeubell"
   slack_id: CJJ9B9A3S
   slack_channel: census-projects
-  description: |-
-    Census partners can submit events (workshops, tabling, drop-in centers,
-    etc) and resources around the 2020 census. Alameda County residents can
-    learn more about the first all-digital census through these events, even
-    finding locations where they can get assistance to complete the census.
-    Residents can search for events based on date, location, and language.
+  description: Census partners can submit events (workshops, tabling, drop-in centers, etc) and resources around the 2020 census. Alameda County residents can learn more about the first all digital census through these events, even finding locations where they can get assistance to complete the census. Residents can search for events based on date, location, and language.
 -
   name: CannaEquity.org
   image: cannaequity_300x199.png
-  establish: 2017
-  website: http://cannaequity.org
+  established: 2017
+  website:
   repo:
-  leader: Angela Gennino and Richard Ng
+  leader: Formerly Angela Gennino and Richard Ng
   slack_id: C67FNRY20
   slack_channel:
-  description: "**Our Backstory**: The City of Oakland is in the process of expanding their medical cannabis licensing to include regulation for cultivation and manufacturing. As part of this activity, the City also codified an Equity Licensing Program to address barriers to participation in the industry for members of disenfranchised communities in Oakland. This program includes a provision for \"equity business incubators\" to support new businesses in the industry. Equity businesses in the pipeline will be important to regular applicants, because regular licenses will only be issued on a one-to-one basis with equity licenses during the initial phase of the program. The incubator opportunity is intended to help new enterprises overcome the barrier of securing commercial space by incentivizing more established businesses to agree to share their existing space for a minimum of three years. By partnering with an equity business, a regular applicant will be moved to the top of the list for the next available non-equity cannabis business license.
+  description: "In 2017, City of Oakland expanded their medical cannabis licensing to include regulation for cultivation and manufacturing. As part of this activity, the City also codified an Equity Licensing Program to address barriers to participation in the industry for members of disenfranchised communities in Oakland. This program includes a provision for \"equity business incubators\" to support new businesses in the industry. Equity businesses in the pipeline will be importantant to regular applicants, because regular licenses will only be issued on a one-to-one basis with equity licenses during the initial phase of the program. The incubator opportunity is intended to help new enterprises overcome the barrier of securing commercial space by incentivizing more established businesses to agree to share their existing space for a minimum of three years. By partnering with an equity business, a regular applicant will be moved to the top of the list for the next available non-equity cannabis business license.
 
-
-  To support the Equity Licensing Program, OpenOakland is providing support to other volunteer technologists and cannabis entrepreneurs who are working with the City of Oakland’s City Administrator’s Office and the Department ofRace and Equity to develop [CannaEquity.org](http://cannaequity.org/), an online \"matchmaking\" application that would assist interested equity and regularapplicants to locate each other efficiently. Applicants would create onlineaccounts to pre-screen for compatibility and control the pace of informationsharing and relationship building needed for the formation of space-sharingrelationships. Once built, the app will be maintained until the end of phaseone of licensing. This date will be determined by the collection of cannabistax revenue sufficient to launch the next phase of equity applicant supportservices (assumed to be within one year)."
+  To support the Equity Licensing Program, OpenOakland provided support to other volunteer technologists and cannabis entrepreneurs working with the City of Oakland’s City Administrator’s Office and the Department of Race and Equity to develop [CannaEquity.org](http://cannaequity.org/), an online \"matchmaking\" application that would assist interested equity and regular applicants to locate each other efficiently. Applicants would create online accounts to pre-screen for compatibility and control the pace of information sharing and relationship building needed for the formation of space-sharing relationships. The app will be maintained until the end of phase one of licensing. This date will be determined by the collection of cannabis tax revenue sufficient to launch the next phase of equity applicant support services (assumed to be within one year)."
 -
   name: CityCamp Oakland
   image: citycamp_300x150.png
@@ -48,103 +42,94 @@
   website:
   repo:
   leader:
-  slack_id:
-  slack_channel:
-  description: "**Our Backstory**: The fifth annual CityCamp successfully took place on Saturday, March 25, 2017 at Oakland City Hall. CityCamp is an unstructured conference where municipal employees, civic leaders, technology folks, software developers, journalists, and engaged residents can meet and discuss the intersections of technology and local government—how innovative technology and data uses can improve civic engagement, increase efficiency and transparency, connect residents, and incubate the technology community in our city. Unconferences are not structured up-front; the agenda is completed on the day based on topics the attendees themselves suggest. This gives attendees control over the topics and discussion happening at the event, so residents can drive attention towards issues they think are most important."
+  slack_id: C4GRVQBU2
+  slack_channel: event-citycampoakland
+  description: "The fifth annual CityCamp successfully took place on Saturday, March 25, 2017 at Oakland City Hall. CityCamp is an unstructured conference where municipal employees, civic leaders, technology folks, software developers, journalists, and engaged residents can meet and discuss the intersections of technology and local government—how innovative technology and data uses can improve civic engagement, increase efficiency and transparency, connect residents, and incubate the technology community in our city. Unconferences are not structured up-front; the agenda is completed on the day based on topics the attendees themselves suggest. This gives attendees control over the topics and discussion happening at the event, so residents can drive attention towards issues they think are most important."
 -
   name: Civic User Testing Group (CUT Group)
   image: cut-group_300x233.png
-  website: http://cutgroup.openoakland.org/
-  repo:
-  leader: Mary Yeh
+  website:
+  repo: https://github.com/openoakland/cutgroup
+  leader: Open, formerly Mary Yeh
   slack_id: C02FYSFLK
   slack_channel: cut-group
-  description: Civic User Testing (CUT) Group's goal is to make sure OpenOakland projects are working towards creating the best possible experience and serve all Oakland residents. If you're interested in user experience, or just like making things better, please reach out! <a href="https://docs.google.com/document/d/1VkSG9Amzq2759HACbFizSGAah4Q4byGG6R8cCxwcOO4/edit">Check out our current projects here.</a>
--
-  name: Community Foods
-  image: Community-Foods-Exterior-300x206.png
-  website:
-  repo:
-  leader: Thomas Deckert
-  slack_id: C0165NXC2F2
-  slack_channel: community-foods
-  description: In partnership with West Oakland's Community Foods Market this project aims to support the adoption and use of food assistance benefits (EBT). The main objectives are to provide support for in-store EBT applications and to improve EBT checkout process.
+  description: Civic User Testing (CUT) Group's goal is to make sure OpenOakland projects are working towards creating the best possible experience and serve all Oakland residents. If you're interested in user experience, or just like making things better, please reach out! Check out our <a href="https://docs.google.com/document/d/1VkSG9Amzq2759HACbFizSGAah4Q4byGG6R8cCxwcOO4/edit">most recent projects.</a>
 -
   name: Discount Mobility Share
   image: discount_mobility_300x213.png
-  website: https://oaklandca.formstack.com/forms/shared_mobility_application_form
+  website:
   repo:
-  leader: Gaurav Kulkarni
+  leader: Open, formerly Gaurav Kulkarni
   slack_id: CLY606C2D
   slack_channel: discount-mobility
-  description: We work to help low income residents get access to scooter share, bike share and car share programs. While every company has discount programs for low income residents, the application process is fragmented and these benefits aren't widely known. We're unifying application for these programs and engaging in outreach so people are aware of this benefit.
+  description: Discount Mobility helped low income residents get access to scooter share, bike share and car share programs. While every company has discount programs for low income residents, the application process is fragmented and these benefits aren't widely known. We unified the application for these programs and engaged in outreach so people were aware of this benefit.
 -
   name: Diversity, Equity, and Inclusion Group
   image:
   established: 2016
   website:
   repo:
-  leader:
-  slack_id:
-  slack_channel:
-  description: "**Our Backstory**: The Diversity, Equity, and Inclusion Group was created to codify OpenOakland’s DEI organizational principles and to lead through action, OpenOakland’s commitment to making the technology space representative of Oakland’s diverse and multicultural community."
+  leader: Open (see Jess Sand)
+  slack_id: C3SA2U3KP
+  slack_channel: oo-diversity-equity
+  description: "The Diversity, Equity, and Inclusion Group was created in 2016 to codify OpenOakland’s DEI organizational principles and to lead through action, OpenOakland’s commitment to making the technology space representative of Oakland’s diverse and multicultural community. In 2020, it's become very clear that this foundational shift must extend beyond a single working group. We welcome those who might want to formalize the process through an active working group. In the meantime, please visit us in Slack to connect and continue the work."
 -
   name: Early Oakland
   image:
   established: 2011
   website:
-  repo:
+  repo: https://github.com/openoakland/EarlyOakland
   leader:
   slack_id:
   slack_channel:
-  description: "**Our Backstory**: Built in partnership with the Oak Education Cabinet, Early Oakland provides information on early learning programs that are state subsidized and federally supported Head Start programs in Oakland, including Bananas Child Care Resource and Referral, Oakland Head Start and the Unity Council Preschool, as well as Oakland Unified School District Early Childhood Education Department. This includes part day and full day programs for three and four year olds; a few programs also serve younger children."
+  description: "Built in partnership with the Oak Education Cabinet in 2011, Early Oakland provided information on early learning programs that were state subsidized and federally supported Head Start programs in Oakland, including Bananas Child Care Resource and Referral, Oakland Head Start and the Unity Council Preschool, as well as Oakland Unified School District Early Childhood Education Department. It included part-day and full-day programs for three- and four-year-olds, and a few programs also served younger children."
 -
   name: LaneLookout
   image: lane-lookout_300x300.png
   website: https://www.lanelookout.org
   repo:
-  leader:
+  leader: Open
   slack_id: C9Q7L8DPC
   slack_channel: oak-dot-bikes
   description: Our project seeks to improve the safety of bike lanes for cyclists in Oakland. We are developing an app to generate aggregate data regarding infringements in the bike lane (ie. vehicles) via self-reporting cyclists. From this data, we will generate reports to drive improvements in problem areas.
 -
   name: Oakland Art Murmur
   image: oakland-art-murmur_300x240.png
-  website:
-  repo:
-  leader: Andy Guenthner
+  website: https://oaklandartmurmur.org/venues/walking-tours/
+  repo: https://github.com/openoakland/artmap
+  leader: Open, formerly Andy Guenthner
   slack_id: CJL45MU0P
   slack_channel: project-artmap
-  description: This project is in partnership with Oakland Art Murmur and is about building tools that art enthusiasts can use to promote Oakland art. We are looking for folks who are passionate about improving the accessibility of art in Oakland or have experience with geo-spatial mapping.
+  description: OpenOakland partnered with Oakland Art Murmur to build tools that art enthusiasts can use to promote Oakland art. At the heart of this partership was Art Murmur's interactive Art Map. The map features a series of curated walking tours. Clicking along the tour route reveals photographs of public art in Oakland with accompanying information about the artwork. The team built a submission form that allows anyone to submit new art to the map by leveraging [Oakland Wiki](https://localwiki.org/oakland/Murals).
 -
   name: Oakland Beats
   image:
   established: 2011
   website:
-  repo:
+  repo: https://github.com/openoakland/FindYourBeat
   leader:
-  slack_id:
-  slack_channel:
-  description: "**Our Backstory**: This tool helps visitors determine which Community Police Beat they live in. In Oakland, [Neighborhood Councils](http://www2.oaklandnet.com/government/o/OPD/s/NSD/s/ncpc/index.htm) (formerly known as Neighborhood Crime Prevention Council (NCPC)) operate for each of the 53 Community Police Beats. The Neighborhood Council system provides a way for residents to gather and discuss local crime problems with a city and OPD representative on a monthly basis."
+  slack_id: C040ULV6C
+  slack_channel: project-oak-crime
+  description: "This tool helps visitors determine which Community Police Beat they live in. In Oakland, [Neighborhood Councils](https://www.oaklandca.gov/topics/neighborhood-councils) (formerly known as Neighborhood Crime Prevention Council or NCPC), operate for each of the 53 Community Police Beats. The Neighborhood Council system provides a way for residents to gather and discuss local crime problems with a city and OPD representative on a monthly basis."
 -
   name: Oakland Gov 101
   image:
-  website: https://invis.io/8NUX0LPSBMG#/394226187_Overview
-  repo:
-  leader: Thomas Deckert
+  website:
+  repo: https://invis.io/8NUX0LPSBMG#/394226187_Overview
+  leader: Formerly Thomas Deckert
   slack_id: CNTPFR7JA
-  slack_channel: oakland-gov-101
-  description: This project is a partnership with the League of Women Voters of Oakland to add educational content to their site describing the structure and function of local government.
+  slack_channel: project-oakland-gov-101
+  description: This project was a partnership with the League of Women Voters of Oakland to add educational content to their site describing the structure and function of local government.
 -
   name: Oakland Open Data Portal
   image:
   established: 2011
   website: http://data.openoakland.org/
   repo:
-  leader:
+  leader: Open
   slack_id:
   slack_channel:
-  description: "**Our Backstory**: This platform is an open data catalog built by the OpenOakland Brigade as a community resource and our first example of what can be achieved using opensource tools in strategic ways for our city. This site uses the opensource [CKAN](http://www.ckan.org) platform—the same free software behind the UK government’s [Data.Gov.UK](http://data.gov.uk) resource. This site has been populated with data found on various Oakland government websites and from the huge data warehouse operated by [Urban Strategies Council](http://www.urbanstrategies.org) and its public web mapping platform [InfoAlamedaCounty.org](http://infoalamedacounty.org)."
+  description: "Since 2011, this platform has served as an open data catalog built by the OpenOakland brigade as a community resource and our first example of what can be achieved using open source tools in strategic ways for our city. This site uses the opensource [CKAN](http://www.ckan.org) platform—the same free software behind the UK government’s [Data.Gov.UK](http://data.gov.uk) resource. This site has been populated with data found on various Oakland government websites and from the huge data warehouse operated by [Urban Strategies Council](http://www.urbanstrategies.org)."
 -
   name: Oakland Wiki
   image:
@@ -153,30 +138,24 @@
   leader:
   slack_id:
   slack_channel:
-  description: "**Our Backstory**: Oakland Wiki is built on the [LocalWiki](https://oaklandwiki.org/about/) platform, a grassroots effort to collect, share, and open the world’s local knowledge. Anyone can edit this wiki, so contribute what you know about your local community for others to use and enjoy!"
+  description: "Oakland Wiki is built on the [LocalWiki](https://oaklandwiki.org/about/) platform, a grassroots effort to collect, share, and open the world’s local knowledge. Anyone can edit this wiki, so contribute what you know about your local community for others to use and enjoy!"
 -
   name: Open Government Pledge
   image:
   established: 2012
-  website:
-  repo:
+  website: http://oaklandcandidates.org/
+  repo: https://github.com/openoakland/oaklandcandidates
   leader:
   slack_id:
   slack_channel:
-  description: "**Our Backstory**: Beginning for Oakland‘s 2012 elections, we asked electoral candidates to take the [Open Government Pledge](http://oaklandcandidates.org/OpenGovPledge2012.pdf) to support the following principles of Open Government:
-
-  - Transparency: To increase accountability, promote informed public participation, and create economic development opportunities, the city shall expand access to information.
-
-  - Participation: To create more informed and effective policies, the city shall enhance and expand opportunities for the public to participate throughout decision-making processes.
-
-  - Collaboration: To more effectively fulfill its obligations to citizens, the city will enhance and expand its practices of cooperation among city departments, other governmental agencies, the public, and nonprofit and private organizations."
+  description: "During Oakland‘s 2012 elections, OpenOakland asked electoral candidates to take the [Open Government Pledge](http://oaklandcandidates.org/OpenGovPledge2012.pdf) to support three core principles of Open Government: transparency, participation, and collaboration. By the end of the elections, four of the six winners had signed onto the pledge."
 -
   name: Open Oasis
   image:
   website:
-  repo:
+  repo: https://docs.google.com/presentation/d/1A34p8Cbifhfn4uGpqG0MTBC89fR_EsFjRFtQR21fEnk/edit?usp=sharing
   leader: Andrew Tom
-  slack_id:
+  slack_id: C040ULV6C
   slack_channel: openoasis
   description: "Phase III (Delivery pending, ~End of Mar 2019): This is mainly focused on developing a survey design, and related questionnaire, to measure OTX impact across their tech literacy programs servicing individuals in public housing. The data team is going to fine-tune our deliveries in Phase II to be \"publication-ready\". Meanwhile, our volunteers leading the survey design work are partnered with CUT group to assist with the survey design, implementation approach, and language of questions."
 -
@@ -188,7 +167,7 @@
   leader:
   slack_id:
   slack_channel:
-  description: "**Our Backstory**: RecordTrac is a simple way for individuals to submit public record requests to a governmental agency online. The application also allows government employees manage, respond to, and fulfill incoming requests. By displaying all [submitted records requests](http://records.oaklandnet.com/view_requests), members of the public may find what they need without having to create a new public record request."
+  description: "RecordTrac was a simple way for individuals to submit public record requests to a governmental agency online. The application, built in 2013, also allowed government employees to manage, respond to, and fulfill incoming requests. By displaying all submitted records requests, members of the public can find what they need without having to create a new public record request."
 -
   name: Soft Story
   image:
@@ -196,35 +175,35 @@
   website:
   repo:
   leader:
-  slack_id:
-  slack_channel:
-  description: "**Our Backstory**: Soft Story is a simple interactive map of potential soft-story buildings in Oakland. Soft-story buildings are multi-unit, wood-frame, residential buildings with a first story that lacks adequate strength or stiffness to prevent leaning or collapse in an earthquake. These buildings pose a safety risk to tenants and occupants, a financial risk to owners, and risk the recovery of the city and region. This data shows the results of a screening program for potential soft-story buildings in Oakland. In 2008 Oakland surveyed its multi-family buildings with five or more units, and in 2009 passed an ordinance that required the owners of these buildings to complete a simple evaluation of the ground floor. This data shows the results of these screenings as of early 2013."
+  slack_id: C040ULV6C
+  slack_channel: project-soft-story
+  description: "Soft Story is a simple interactive map of potential soft-story buildings in Oakland. Soft-story buildings are multi-unit, wood-frame, residential buildings with a first story that lacks adequate strength or stiffness to prevent leaning or collapse in an earthquake. These buildings pose a safety risk to tenants and occupants, a financial risk to owners, and risk the recovery of the city and region. This data shows the results of a screening program for potential soft-story buildings in Oakland. In 2008 Oakland surveyed its multi-family buildings with five or more units, and in 2009 passed an ordinance that required the owners of these buildings to complete a simple evaluation of the ground floor. This data shows the results of these screenings as of early 2013."
 -
   name: Track G – Oakland’s Measure G
   image: trackg_300x233.png
   established: 2014
-  website:
-  repo:
-  leader:
+  website: https://trackg.org/
+  repo: https://github.com/openoakland/measure-g
+  leader: Formerly John Baldo, Erin Hancock
   slack_id: C04AS7MKP
-  slack_channel:
-  description: "**Our Backstory**: Measure G is a city ballot measure that was passed by the citizens of Oakland in 2008 to improve the quality of education provided by Oakland public schools. Money is collected from Measure G via a special parcel tax, which amounts to about $20 million a year in additional funds for the Oakland Unified School District's budget.Track G – Oakland’s Measure G publishes data on how funds collected from the Measure G parcel tax are spent. Track G allows spending to be seen by location, by program, and by school."
+  slack_channel: project-track-g
+  description: "Measure G is a city ballot measure that was passed by the citizens of Oakland in 2008 to improve the quality of education provided by Oakland public schools. Money is collected from Measure G via a special parcel tax, which amounts to about $20 million a year in additional funds for the Oakland Unified School District's budget. [Track G – Oakland’s Measure G](https://trackg.org/) publishes data on how funds collected from the Measure G parcel tax are spent. Track G allows spending to be seen by location, by program, and by school."
 -
   name: Trash Talk
   image: trashtalk_300x233.png
   established: 2016
   website:
-  repo:
-  leader: Tim Miller
+  repo: https://github.com/openoakland/TrashTalk
+  leader: Formerly Tim Miller
   slack_id: C4R9JUW12
-  slack_channel: trash-talk
-  description: "**Our Backstory**: While gang signs and other graffiti are common to inner cities, East Oakland is suffering from a plague of illegal dumping—mostly from outside actors. Trash Talk is envisioned as a tool for help neighbors plan and execute cleanups and graffiti removal.The app will help neighbors report issues and work together with the Oakland City Public Works Agency to remove trash, dead animals, and other consequences of illegal dumping in East Oakland neighborhoods. Trash Talk will also eventually connect with the City‘s existing tracking app, [SeeClickFix](https://en.seeclickfix.com/oakland) for tracking volunteer time."
+  slack_channel: project-trash-talk
+  description: "With East Oakland facing illegal dumping, mostly from outside actors, Trash Talk was envisioned in 2016 as a tool to help neighbors plan and execute cleanups and graffiti removal. The app was intended to help neighbors report issues and work together with the Oakland City Public Works Agency to remove trash, dead animals, and other consequences of illegal dumping in East Oakland neighborhoods. The goal was for Trash Talk to eventually connect with the City‘s existing tracking app, [SeeClickFix](https://en.seeclickfix.com/oakland) for tracking volunteer time."
 -
   name: Water Quality
   image: water_300x237.png
   website: http://water.openoakland.org/
-  repo:
-  leader: Aaron Hans
+  repo: https://github.com/openoakland/clean-water
+  leader: Open, formerly Aaron Hans
   slack_id: CBB52CFU2
-  slack_channel: ca-water-challenge
-  description: Approximately one million California residents currently only have access to drinking water that does not meet state and federal standards.  The California Drinking Water project provides user-friendly online queries, charts, and maps to show which water systems have current and persistent drinking water contamination violations.  Partnering with the State Water Board and the Community Water Center non-profit organization, Open Oakland volunteers are developing tool features using the State’s bi-monthly Human Right to Water water quality reporting data on cities, communities, schools, and daycares.  The online features allow government officials, advocates, researchers, and residents to more easily understand which water systems have contamination problems and identify solutions that support clean water for all Californians.
+  slack_channel: project-ca-water-challenge
+  description: Approximately one million California residents currently only have access to drinking water that does not meet state and federal standards. The California Drinking Water project provides user-friendly online queries, charts, and maps to show which water systems have current and persistent drinking water contamination violations. Partnering with the State Water Board and the Community Water Center non-profit organization, Open Oakland volunteers developed a tool features using the State’s bi-monthly Human Right to Water water quality reporting data on cities, communities, schools, and daycares. The online features allow government officials, advocates, researchers, and residents to more easily understand which water systems have contamination problems and identify solutions that support clean water for all Californians. Used daily by local grassroots organizations, the site won awards at two consecutive Water Data Challenges.

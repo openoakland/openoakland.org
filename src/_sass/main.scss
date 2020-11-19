@@ -52,9 +52,14 @@ p {
   margin-top: $spacing-unit / 3;
 }
 
-ul {margin-top:1.6rem;}
 
-li {margin-top:1.3rem;}
+
+ul {
+  margin-top:1.6rem;
+  list-style-position: inside;
+}
+
+li {margin-top:1.1rem;}
 
 a {
   color: $brand-color;

@@ -1,13 +1,23 @@
 -
+  name: Community Foods
+  image: Community-Foods-Exterior-300x206.png
+  website:
+  repo:
+  leader: Thomas Deckert
+  slack_id: C0165NXC2F2
+  slack_channel: project-community-foods
+  description: In partnership with West Oakland's Community Foods Market this project aims to support the adoption and use of food assistance benefits (EBT). The main objectives are to provide support for in-store EBT applications and to improve the EBT checkout process.
+  tech: TBD
+-
   name: Councilmatic (Steering Committee approval pending)
   image: councilmatic_300x118.png
   website: https://oaklandcouncil.net/
-  repo:
-  github:
+  repo: https://github.com/openoakland/councilmatic
   leader: Open
   slack_id: C0M89GTRT
   slack_channel: project-councilmatic
   description: We make the Oakland City Council meetings easily accessible to the citizens of Oakland. Using our site citizens can learn when are the upcoming city council meetings, view the agenda, put the meeting on your calendar, and send an electronic comment to the Council. Plus you can see videos of past meetings.
+  tech:
 -
   name: La Escuelita
   image:
@@ -18,41 +28,44 @@
   slack_id: UNSGF8W06
   slack_channel: project-la-escuelita
   description: OUSD doesn’t provide resources for school websites, but many parents (and parents of prospective students) expect them to. La Escuelita, a K-8 elementary school in the Lake Merritt area, wants help developing a simple website that goes live in Fall 2020 term; houses essential info like announcements, schedule changes (currently rely on paper fliers students bring home) and contact info; offers easy-to-use technology and a layout that non-technical staff can easily update and maintain.
-
+  tech: Google Sites
 -
   name: Open Budget Oakland
   image: openbudgetoakland_300x233.png
   website: http://openbudgetoakland.org/
-  repo:
+  repo: https://github.com/openoakland/openbudgetoakland
   leader: Felicia Betancourt
   slack_id: C02R4185B
   slack_channel: project-open-budget-oakland
   description: Every 2 years the city of Oakland releases a budget in a spreadsheet that has nearly 20,000 rows, which does not make for ideal reading. The mission of Open Budget Oakland is to transform this mountain of data into an interactive display of charts and diagrams that is easy and even fun to use. Our MVP is live, but could benefit from improvements and new features.
+  tech: Harp using Node.js, jade, Sass, Bootstrap, React
 -
   name: Open Disclosure Oakland
   image: opendisclosure_300x233.png
   website: http://www.opendisclosure.io/
-  repo:
+  repo: https://github.com/caciviclab
   leader: Alison Lawyer, Colin King-Bailey, and Suzanne Doran
   slack_id: C02GKECTJ
   slack_channel: project-open-disclosure
   description: Open Disclosure helps Oaklanders understand the role of money in their local politics. By analyzing mandatory campaign finance disclosures for candidates seeking public office, Open Disclosure presents a user-friendly overview of who is raising money, from where, and how much. Open Disclosure is developed in partnership with the City of Oakland Public Ethics Commission.
+  tech: Jekyll, PostgreSQL
 -
   name: OpenOUSD
   image: OpenOUSD.png
   website: https://openousd.org/
-  repo:
+  repo: https://github.com/openoakland/openousd-site
   leader: John Baldo
   slack_id: CEDNVVCRG
   slack_channel: project-open-ousd
   description: OpenOUSD aims to bring greater transparency to the Oakland Unified School District's central office so that the community can fully participate in discussions about how it can best serve our students. OpenOUSD is a project of OpenOakland, a volunteer run group with the mission of increasing access to government through technology. OpenOUSD receives no public or private funds and is not an official OUSD website.
-
+  tech: Gatsby, Postgres, Node.js
 -
   name: West Oakland Air Quality (WOAQ)
-  image: woaq_300x155.png
-  website: https://woaq.org
-  repo:
+  image: OpenOakland-West-Oakland-Air-Quality.png
+  website:
+  repo: https://github.com/openoakland/woeip
   leader: Jess Sand
   slack_id: C95U7371C
   slack_channel: project-woaq
   description: The WOAQ team is building an air quality database with the nonprofit West Oakland Environmental Indicators Project (WOEIP), who has been collecting local air quality data for over a decade. Our initial effort is focused on a volunteer-friendly database for WOEIP staff and volunteers to manage and explore the local AQ data they collect through the organization’s citizen science program. We’ll then build on this to create a neighborhood-friendly platform that allows residents to act on this data through self-education, self-empowerment, and civic engagement.
+  tech: React front-end using Semantic UI, python, django, PostGIS, MapBox
