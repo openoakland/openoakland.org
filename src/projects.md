@@ -20,11 +20,9 @@ layout: page
 
 These projects are a great way to get your feet wet as you get to know OpenOakland.
 
-{::nomarkdown}
 {% for project in site.data.openoakland_projects %}
 {% include project.html %}
 {% endfor %}   
-{:/nomarkdown}
 
 ---
 
@@ -35,11 +33,9 @@ The following are official OpenOakland projects that are being actively supporte
 - Join us for our Tuesday [Hack Nights](https://www.meetup.com/OpenOakland/events/) to connect with the project team.
 - Join our [Slack workspace](http://slack.openoakland.org/) and introduce yourself in the project's channel listed in the description.
 
-{::nomarkdown}
 {% for project in site.data.active_projects %}
 {% include project.html %}
 {% endfor %}
-{:/nomarkdown}
 
 ---
 
@@ -90,11 +86,9 @@ You may also email concerns or comments to <safespace@openoakland.org>, which is
 
 These projects have either served their purpose or are otherwise no longer actively supported. If you'd like to resume or adapt one of these, check out [Becoming an OpenOakland Project](#becoming-an-openoakland-project) and submit a [project exploration worksheet](https://docs.google.com/document/d/1k24P9JiAUEzJLPFRDjVh7aRZexax6NUhfPFLSI3R80M/edit?usp=sharing) at an upcoming Hack Night or in Slack's #leadership channel.
 
-{::nomarkdown}
 {% for project in site.data.inactive_projects %}
 {% include project.html %}
 {% endfor %}
-{:/nomarkdown}
 
 ---
 
@@ -103,8 +97,6 @@ These projects have either served their purpose or are otherwise no longer activ
 Decommissioned projects are projects that the Steering Committee has formally reviewed and deemed no longer a good fit for OpenOakland based on our 2020 project evaluation pilot. These projects may not be reinstated without submitting a new [project exploration worksheet](https://docs.google.com/document/d/1k24P9JiAUEzJLPFRDjVh7aRZexax6NUhfPFLSI3R80M/edit?usp=sharing) that substantively addresses the original reasons for discontinuation. Project briefs that are declined by the Steering Committee twice may not be resubmitted without substantive changes.
 
 
-{::nomarkdown}
 {% for project in site.data.decommissioned_projects %}
 {% include project.html %}
 {% endfor %}
-{:/nomarkdown}

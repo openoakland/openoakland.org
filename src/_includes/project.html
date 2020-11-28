@@ -17,7 +17,7 @@
       <div class="col-md-4">
         <div class="card-body">
 
-          {% if project.image %}
+          <p>{% if project.image %}
           <img class="projects" src="/assets/images/projects/{{ project.image }}" alt="screenshot of {{ project.name }}" />
           {% endif %}
 
@@ -26,6 +26,7 @@
           {% if project.repo %}<a href="{{ project.repo }}" class="btn btn-outline-secondary btn-sm projects-btn">View code</a>{% endif %}
 
           {% if project.leader %}
+          </p>
           <p class="card-text"><small><b>Project lead</b></small><br/>
           {{ project.leader }}</p>
           {% endif %}
