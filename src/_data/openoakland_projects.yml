@@ -3,7 +3,8 @@
   image: OpenOakland-home.png
   website: https://openoakland.org
   repo: https://github.com/openoakland/openoakland.org
-  leader: Open (Jess Sand, temporary)
+  leader: Open (see Jess Sand)
   slack_id: CH1U5KJ48
   slack_channel: project-oo-website
-  description: As the digital face of OpenOakland, our website serves new and existing members, community and government partners, and members of the larger Oakland and civic tech communities. The site was recently migrated from a Wordpress install to a static Jekyll site hosted on AWS. The migration focused primarily on moving the codebase, and we now are working on improving site architecture and visual design.
+  description: As the digital face of OpenOakland, our website serves new and existing members, community and government partners, and members of the larger Oakland and civic tech communities. The site was recently migrated from a Wordpress install to a static Jekyll site hosted on AWS. The migration focused primarily on moving the codebase, and we now are working on improving site architecture and visual design. Issues in GutHub marked "Good First Issue" are great for first-timers.
+  tech: Jekyll, Kramdown, AWS hosting, Bootstrap
