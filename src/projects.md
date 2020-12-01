@@ -24,6 +24,10 @@ These projects are a great way to get your feet wet as you get to know OpenOakla
 {% include project.html %}
 {% endfor %}   
 
+{::comment}
+This comment element is here to "trick" Jekyll's markdown parser, called kramdown, into closing the above list without inserting any content between the list and the next element
+{:/comment}
+
 ---
 
 ## Active projects
@@ -37,10 +41,6 @@ The following are official OpenOakland projects that are being actively supporte
 {% for project in site.data.active_projects %}
 {% include project.html %}
 {% endfor %}
-
-{::comment}
-This comment element is here to "trick" Jekyll's markdown parser, called kramdown, into closing the above list without inserting any content between the list and the next element
-{:/comment}
 
 ---
 
