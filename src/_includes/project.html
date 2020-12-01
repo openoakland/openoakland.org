@@ -21,9 +21,9 @@
           <p><img class="projects" src="/assets/images/projects/{{ project.image }}" alt="screenshot of {{ project.name }}" /></p>
           {% endif %}
 
-          {% if project.website %}<div markdown="1"><a href="{{ project.website }}" class="btn btn-primary btn-sm projects-btn">Visit site</a></div>{% endif %}
+          {% if project.website %}<a href="{{ project.website }}" class="btn btn-primary btn-sm projects-btn">Visit site</a>{% endif %}
 
-          {% if project.repo %}<div markdown="1"><a href="{{ project.repo }}" class="btn btn-outline-secondary btn-sm projects-btn">View code</a></div>{% endif %}
+          {% if project.repo %}<a href="{{ project.repo }}" class="btn btn-outline-secondary btn-sm projects-btn">View code</a>{% endif %}
 
           {% if project.leader %}
           <p class="card-text"><small><b>Project lead</b></small><br/>
