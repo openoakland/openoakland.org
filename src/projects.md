@@ -38,10 +38,11 @@ The following are official OpenOakland projects that are being actively supporte
 {% include project.html %}
 {% endfor %}
 
----
 {::comment}
 This comment element is here to "trick" Jekyll's markdown parser, called kramdown, into closing the above list without inserting any content between the list and the next element
 {:/comment}
+
+---
 
 ## Becoming an OpenOakland project
 
