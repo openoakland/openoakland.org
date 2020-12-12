@@ -4,15 +4,15 @@
 # Do not alter the labels (which tells event.html which data to pull).
 # If your entry includes a colon or other special characters not allowed in yml, wrap the entire entry in double quotes.
 -
- title: "Leadership nominations are now open"
- subhead: "Help shape the future of OpenOakland by nominating yourself or another member for the 2021 leadership term. Nominations are due by Nov. 24."
+ title: "2021 leadership voting ends Dec. 15"
+ subhead: "OpenOakland members who would like to vote for 2021 leadership have until the end of Hack Night on Dec. 15. Winners will be announced that evening."
  list: yes
  itemOne:
  itemTwo:
  itemThree:
  itemFour:
  itemFive:
- link: "https://openoakland.slack.com/archives/C02FEGG8C/p1605065269121600"
+ link: "https://openoakland.slack.com/archives/C02FEGG8C/p1607484316187200"
  buttonText: View details in Slack
  secondaryLink: "https://docs.google.com/document/d/1QR-fr1WnmXkZoVNmWnZ9drzfmaZoPkodEOx-PkExt94/edit?usp=sharing"
  secondaryLinkText: Read about the process in our bylaws
