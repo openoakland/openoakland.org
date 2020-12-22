@@ -22,13 +22,6 @@ Steering committee meeting: Decision-making body for OpenOakland (open to member
 - **Last Tuesday of each month**  
 New member orientation: Get a personal introduction to OpenOakland.
 
-{::comment}
-This comment element is here to "trick" Jekyll's markdown parser, called kramdown, into closing the above list without inserting any content between the list and the next element
-{:/comment}
-
-{% for announcement in site.data.announcement %}
-  {% include announcement.html %}
-{% endfor %}
 
 ## Past Events
 
