@@ -3,44 +3,48 @@ title: Our Projects
 date:  2020-11-19T07:50:52+00:00
 author: Jess Sand
 layout: page
+scripts: ["/assets/js/project_filter.js"]
 ---
 
-
-[Active projects](#ongoing-projects-that-support-openoaklands-operation)  
+[Projects](#projects)  
 [Becoming an OpenOakland project](#becoming-an-openoakland-project)  
 [Providing feedback](#providing-feedback)  
 
-**Archives**  
-[Past projects](#past-projects)  
-[Decommissioned projects](#decommissioned-projects)  
-
 ---
 
-## Ongoing projects that support OpenOakland's operation
-
-These projects are a great way to get your feet wet as you get to know OpenOakland.
-
-{% for project in site.data.openoakland_projects %}
-{% include project.html %}
-{% endfor %}   
-
-{::comment}
-This comment element is here to "trick" Jekyll's markdown parser, called kramdown, into closing the above list without inserting any content between the list and the next element
-{:/comment}
-
----
-
-## Active projects
+## Projects
 
 The following are official OpenOakland projects that are being actively supported by an existing team. If you see something that interests you, there are a couple of ways you can get involved:
 
 - Join us for our Tuesday [Hack Nights](https://www.meetup.com/OpenOakland/events/) to connect with the project team.
 - Join our [Slack workspace](http://slack.openoakland.org/) and introduce yourself in the project's channel listed in the description.
 
+<project-filter>
+  <div class="project-filter__toolbar"></div>
+  <!-- Ongoing -->
+  {% for project in site.data.openoakland_projects %}
+  {% assign tags = 'ongoing' %}
+  {% include project.html %}
+  {% endfor %}
 
-{% for project in site.data.active_projects %}
-{% include project.html %}
-{% endfor %}
+  <!-- Active -->
+  {% for project in site.data.active_projects %}
+  {% assign tags = 'active' %}
+  {% include project.html %}
+  {% endfor %}
+
+  <!-- Inactive -->
+  {% for project in site.data.inactive_projects %}
+  {% assign tags = 'inactive' %}
+  {% include project.html %}
+  {% endfor %}
+
+  <!-- Decommissioned -->
+  {% for project in site.data.decommissioned_projects %}
+  {% assign tags = 'decommissioned' %}
+  {% include project.html %}
+  {% endfor %}
+</project-filter>
 
 ---
 
@@ -84,24 +88,3 @@ In the spirit of continuous improvement and self-reflection, we welcome any and 
 - Email our [Steering Committee](mailto:steering@openoakland.org) with your input.
 
 You may also email concerns or comments to <safespace@openoakland.org>, which is staffed by two OpenOakland [ombudspeople](https://docs.google.com/document/d/1QR-fr1WnmXkZoVNmWnZ9drzfmaZoPkodEOx-PkExt94/edit#heading=h.3t0te9n2wr7m).
-
----
-
-## Past projects
-
-These projects have either served their purpose or are otherwise no longer actively supported. If you'd like to resume or adapt one of these, check out [Becoming an OpenOakland Project](#becoming-an-openoakland-project) and submit a [project exploration worksheet](https://docs.google.com/document/d/1k24P9JiAUEzJLPFRDjVh7aRZexax6NUhfPFLSI3R80M/edit?usp=sharing) at an upcoming Hack Night or in Slack's #leadership channel.
-
-{% for project in site.data.inactive_projects %}
-{% include project.html %}
-{% endfor %}
-
----
-
-## Decommissioned projects
-
-Decommissioned projects are projects that the Steering Committee has formally reviewed and deemed no longer a good fit for OpenOakland based on our 2020 project evaluation pilot. These projects may not be reinstated without submitting a new [project exploration worksheet](https://docs.google.com/document/d/1k24P9JiAUEzJLPFRDjVh7aRZexax6NUhfPFLSI3R80M/edit?usp=sharing) that substantively addresses the original reasons for discontinuation. Project briefs that are declined by the Steering Committee twice may not be resubmitted without substantive changes.
-
-
-{% for project in site.data.decommissioned_projects %}
-{% include project.html %}
-{% endfor %}
