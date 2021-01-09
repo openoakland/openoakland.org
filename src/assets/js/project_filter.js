@@ -29,7 +29,35 @@ class ProjectFilter extends HTMLElement {
 
   constructor() {
     super();
+
     this._filters = new Set();
+
+    this._statuses = {
+      label: 'Status',
+      options: {
+        'Ongoing': true, // true indicates the filter should be on by default.
+        'Active': true,
+        'Inactive': false,
+        'Decommissioned': false,
+      }
+    };
+
+    this._topics = {
+      label: 'Topics',
+      options: {
+        'Education': false,
+        'Art': false,
+      }
+    };
+
+    this._technologies = {
+      label: 'Technology',
+      options: {
+        'Ruby': false,
+        'Node.js': false,
+      }
+    };
+
     // Bind the onChange handler to this custom element.
     // If we didn't do this, then onChange would be bound to the checkboxes themselves.
     this.onChange = this.onChange.bind(this);
@@ -52,41 +80,43 @@ class ProjectFilter extends HTMLElement {
     this.removeEventListener('change', this.onChange);
   }
 
-  update() {
-    const template = html`
+  dropdown(filter) {
+    const {label, options} = filter;
+
+    function renderOptions(options) {
+      const out = [];
+      for (const [key, value] of Object.entries(options)) {
+        out.push(html`
+          <div class="form-check">
+            <input type="checkbox" ?checked=${value} class="form-check-input" id="option-${key}" data-tag="${key.toLowerCase()}">
+            <label class="form-check-label" for="option-${key}">
+              ${key}
+            </label>
+          </div>
+        `);
+      }
+      return out;
+    }
+
+    return html`
       <div class="dropdown">
         <button class="btn btn-primary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          Status
+          ${label}
         </button>
         <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
           <div class="px-3 py-1">
-            <div class="form-check">
-              <input type="checkbox" checked class="form-check-input" id="dropdownCheck" data-tag="ongoing">
-              <label class="form-check-label" for="dropdownCheck">
-                Ongoing
-              </label>
-            </div>
-            <div class="form-check">
-              <input type="checkbox" checked class="form-check-input" id="dropdownCheck" data-tag="active">
-              <label class="form-check-label" for="dropdownCheck">
-                Active
-              </label>
-            </div>
-            <div class="form-check">
-              <input type="checkbox" class="form-check-input" id="dropdownCheck" data-tag="inactive">
-              <label class="form-check-label" for="dropdownCheck">
-                Inactive
-              </label>
-            </div>
-            <div class="form-check">
-              <input type="checkbox" class="form-check-input" id="dropdownCheck" data-tag="decommissioned">
-              <label class="form-check-label" for="dropdownCheck">
-                Decommissioned
-              </label>
-            </div>
+            ${renderOptions(options)}
           </div>
         </div>
       </div>
+    `;
+  }
+
+  update() {
+    const template = html`
+      ${this.dropdown(this._statuses)}
+      ${this.dropdown(this._topics)}
+      ${this.dropdown(this._technologies)}
     `;
 
     render(template, this.querySelector('.project-filter__toolbar'));

@@ -163,3 +163,12 @@ main {
   width: 100%;
   height: 100%;
 }
+
+.project-filter__toolbar {
+  display: flex;
+  align-items: start;
+
+  .dropdown:not(:first-of-type) {
+    margin-left: 0.5rem;
+  }
+}
