@@ -3,10 +3,11 @@ import {html, render} from 'https://unpkg.com/lit-html@^1?module';
 /**
  * @fileoverview
  * 
- * A custom element which wraps the project section of the /projects page.
- * The /projects page contains dropdown buttons with checkboxes to enable or disable tag filters.
- * This element listens for when the user clicks on any of those checkboxes. It then looks
- * at each project and checks to see if the project's card matches any of the enabled filters.
+ * A custom element that wraps the project section of the /projects page. The
+ * /projects page contains dropdown buttons with checkboxes to enable or disable
+ * tag filters. This element listens for when the user clicks on any of those
+ * checkboxes. It then looks at each project and checks to see if the project's
+ * data-tags="" attribute matches any of the enabled filters.
  */
 class ProjectFilter extends HTMLElement {
 
@@ -42,24 +43,8 @@ class ProjectFilter extends HTMLElement {
       }
     };
 
-    this._topics = {
-      label: 'Topics',
-      options: {
-        'Education': false,
-        'Art': false,
-      }
-    };
-
-    this._technologies = {
-      label: 'Technology',
-      options: {
-        'Ruby': false,
-        'Node.js': false,
-      }
-    };
-
-    // Bind the onChange handler to this custom element.
-    // If we didn't do this, then onChange would be bound to the checkboxes themselves.
+    // Bind the onChange handler to this custom element. If we didn't do this,
+    // then onChange would be bound to the checkboxes themselves.
     this.onChange = this.onChange.bind(this);
   }
 
@@ -115,8 +100,6 @@ class ProjectFilter extends HTMLElement {
   update() {
     const template = html`
       ${this.dropdown(this._statuses)}
-      ${this.dropdown(this._topics)}
-      ${this.dropdown(this._technologies)}
     `;
 
     render(template, this.querySelector('.project-filter__toolbar'));
@@ -140,9 +123,9 @@ class ProjectFilter extends HTMLElement {
     // Find every project card
     const projects = Array.from(this.querySelectorAll('.card.projects'));
 
-    // For each project card, grab its data-tags attribute and convert it into an array of tags.
-    // The data-tags attribute should be a comma separated string.
-    // example: data-tags="active,node.js,education"
+    // For each project card, grab its data-tags attribute and convert it into
+    // an array of tags. The data-tags attribute should be a comma separated
+    // string. example: data-tags="active,node.js,education"
     //
     // Check to see if ANY of the project's tags have been enabled in this.filters.
     // If a project does not match any of the filters, then mark it as hidden.
