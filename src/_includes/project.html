@@ -1,12 +1,17 @@
-<div class="d-flex col-sm-12 cols-md-12">
-<div class="card projects" data-tags="{{ tags }}">
+<div class="d-flex">
+<div class="card projects" data-tags="{{ status }}">
 
   <div class="row no-gutters">
 
       <div class="col-md-8">
         <div class="card-body">
-
-          {% if project.name %}<h3 class="projects-h3">{{ project.name }}</h3>{% endif %}
+          <div>
+            {% if project.name %}
+              <h3 class="projects-h3">{{ project.name }} 
+                <span class="badge badge-{{ page.badges[status] }} ml-2">{{ status | capitalize }}</span>
+              </h3>
+            {% endif %}
+          </div>
 
           <div class="card-text">{% if project.description %}{{ project.description | smartify }}{% endif %}</div>
 

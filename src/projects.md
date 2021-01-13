@@ -4,6 +4,11 @@ date:  2020-11-19T07:50:52+00:00
 author: Jess Sand
 layout: page
 scripts: ["/assets/js/project_filter.js"]
+badges:
+  ongoing: 'primary'
+  active: 'success'
+  inactive: 'secondary'
+  decommissioned: 'dark'
 ---
 
 [Projects](#projects)  
@@ -23,25 +28,25 @@ The following are official OpenOakland projects that are being actively supporte
   <div class="project-filter__toolbar"></div>
   <!-- Ongoing -->
   {% for project in site.data.openoakland_projects %}
-  {% assign tags = 'ongoing' %}
+  {% assign status = 'ongoing' %}
   {% include project.html %}
   {% endfor %}
 
   <!-- Active -->
   {% for project in site.data.active_projects %}
-  {% assign tags = 'active' %}
+  {% assign status = 'active' %}
   {% include project.html %}
   {% endfor %}
 
   <!-- Inactive -->
   {% for project in site.data.inactive_projects %}
-  {% assign tags = 'inactive' %}
+  {% assign status = 'inactive' %}
   {% include project.html %}
   {% endfor %}
 
   <!-- Decommissioned -->
   {% for project in site.data.decommissioned_projects %}
-  {% assign tags = 'decommissioned' %}
+  {% assign status = 'decommissioned' %}
   {% include project.html %}
   {% endfor %}
 </project-filter>
