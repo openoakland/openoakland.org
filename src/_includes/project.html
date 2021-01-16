@@ -11,6 +11,9 @@
                 <span class="badge badge-{{ page.badges[status] }} ml-2">{{ status | capitalize }}</span>
               </h3>
             {% endif %}
+            {% if status == 'inactive' or status == 'decommissioned' %}
+              <p class="mt-0"><a class="text-small" href="#{{ status }}-projects">What does {{ status }} mean?</a></p>
+            {% endif %}
           </div>
 
           <div class="card-text">{% if project.description %}{{ project.description | smartify }}{% endif %}</div>

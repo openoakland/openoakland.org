@@ -81,6 +81,14 @@ Projects must demonstrate alignment to OpenOakland’s mission and values. Some 
 - Forming a project team which has lived experience with the issue the project is focused on
 - Conducting user research to understand the needs of the community the project serves
 
+### Inactive projects
+
+Projects with the <span class="badge badge-{{ page.badges['inactive'] }}">Inactive</span> label have either served their purpose or are otherwise no longer actively supported. If you'd like to resume or adapt one of these, submit a [project exploration worksheet](https://docs.google.com/document/d/1k24P9JiAUEzJLPFRDjVh7aRZexax6NUhfPFLSI3R80M/edit?usp=sharing) at an upcoming Hack Night or in Slack's #leadership channel.
+
+### Decommissioned projects
+
+Projoects with the <span class="badge badge-{{ page.badges['decommissioned'] }}">Decommissioned</span> label are projects that the Steering Committee has formally reviewed and deemed no longer a good fit for OpenOakland based on our 2020 project evaluation pilot. These projects may not be reinstated without submitting a new [project exploration worksheet](https://docs.google.com/document/d/1k24P9JiAUEzJLPFRDjVh7aRZexax6NUhfPFLSI3R80M/edit?usp=sharing) that substantively addresses the original reasons for discontinuation. Project briefs that are declined by the Steering Committee twice may not be resubmitted without substantive changes.
+
 ---
 
 ## Providing feedback
