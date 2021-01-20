@@ -37,6 +37,7 @@ The following are official OpenOakland projects that are being actively supporte
 - Join us for our Tuesday [Hack Nights](https://www.meetup.com/OpenOakland/events/) to connect with the project team.
 - Join our [Slack workspace](http://slack.openoakland.org/) and introduce yourself in the project's channel listed in the description.
 
+New to Slack? Take a look at our [OpenOakland Slack Guide](https://docs.google.com/document/d/1VWZQ_3ehP5j0IOTY0nJClvQPll3ivSkuAdh5YsOhO_U/edit) to get started.
 
 {% for project in site.data.active_projects %}
 {% include project.html %}

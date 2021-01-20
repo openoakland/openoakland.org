@@ -53,6 +53,7 @@ To contact the steering committee, email [steering@openoakland.org](mailto:steer
 
 - **Join us on Slack.**  
     Simply [request an invite](http://slack.openoakland.org/) and introduce yourself in #intros. We look forward to meeting you!
+    New to Slack? Take a look at our [OpenOakland Slack Guide](https://docs.google.com/document/d/1VWZQ_3ehP5j0IOTY0nJClvQPll3ivSkuAdh5YsOhO_U/edit) to get started.
 
 - **Contribute to an existing project.**  
     Check out our [active projects](/projects/). You're welcome to contact project leads directly or jump into their Github repos but if you're not a coder or are unsure how you might contribute, we suggest attending Hack Night to get to know our project teams.

@@ -65,6 +65,7 @@ title: We are OpenOakland
 
   <div class="col-8">
     <p>OpenOakland members primarily use Slack for all communication. You can join our Slack <a href="http://slack.openoakland.org/">here</a>.</p>
+    <p>New to Slack? Take a look at our <a href="https://docs.google.com/document/d/1VWZQ_3ehP5j0IOTY0nJClvQPll3ivSkuAdh5YsOhO_U/edit">OpenOakland Slack Guide</a> to get started.</p>
   </div>
 
   <div class="col-4">
