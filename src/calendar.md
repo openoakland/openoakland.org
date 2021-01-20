@@ -22,9 +22,8 @@ Steering committee meeting: Decision-making body for OpenOakland (open to member
 - **Last Tuesday of each month**  
 New member orientation: Get a personal introduction to OpenOakland.
 
+{% include next-meeting.html %}
 
 ## Past Events
 
-{% for calendar in site.data.calendar %}
-  {% include calendarEvent.html %}
-{% endfor %}
+{% include calendar-events.html %}

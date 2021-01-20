@@ -21,34 +21,7 @@ title: We are OpenOakland
 {% include announcement-home.html %}
 
 <section class="page-section">
-  <h2>Our Next Meeting</h2>
-  {% assign next_event = site.data.events[0] %}
-  <div class="card home__event-card">
-    <div class="row no-gutters">
-      <div class="col-md-4">
-        <img class="card-img" src="/assets/images/Zoom-Group_Photo-2020-04-14.jpg" alt="OpenOakland members at a virtual hack night." />
-      </div>
-      <div class="col-md-8">
-        <div class="card-body">
-          <h3 class="card-title">
-            <a href="{{ next_event.link }}" target="_blank">{{ next_event.name }}</a>
-          </h3>
-          <p class="card-text">
-            {{ next_event.description | strip_html | truncatewords: 30 }}
-          </p>
-          <a href="{{ next_event.link }}" target="_blank" class="card-link btn btn-primary">RSVP on Meetup</a>
-        </div>
-      </div>
-      <div class="col-12 px-4 card-footer d-flex justify-content-between">
-        <span>
-        <i class="fa fa-calendar"></i> {{ next_event.local_date | date: "%A, %B %d, %Y" }}
-        </span>
-        <span>
-        <i class="fa fa-clock-o"></i> {{ next_event.local_time | date: "%l:%M %p" }}
-        </span>
-      </div>
-    </div>
-  </div>
+  {% include next-meeting.html %}
 
   <p>
   All OpenOakland meetings are open to the public, regardless of technical ability.
