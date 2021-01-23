@@ -5,9 +5,9 @@ title: We are OpenOakland
 
 <section class="row page-section">
   <div class="col-sm-8">
-    <h5>OpenOakland bridges <b>technology</b> and <b>community</b> for a thriving and equitable Oakland.</h5>
+    <p class="h5 mt-1">OpenOakland bridges <b>technology</b> and <b>community</b> for a thriving and equitable Oakland.</p>
 
-    <p>As part of the <a href="https://brigade.codeforamerica.org" target="_blank">Code for America Brigade network</a>, we are a welcoming and inclusive volunteer group of developers, designers, data geeks, and citizen activists who use creative technology to solve civic and social problems.</p>
+    <p>As part of the <a href="https://brigade.codeforamerica.org" target="_blank">Code for America brigade network</a>, we are a welcoming and inclusive volunteer group of developers, designers, data geeks, and citizen activists who use creative technology to solve civic and social problems.</p>
   </div>
 
   <div class="col-sm-4">
@@ -17,6 +17,8 @@ title: We are OpenOakland
     </figure>
   </div>
 </section>
+
+{% include announcement-home.html %}
 
 <section class="page-section">
   <h2>Our Next Meeting</h2>
@@ -53,7 +55,7 @@ title: We are OpenOakland
   </p>
 
   <p>
-  We hope you'll join us! If you can't make this event, <a href="https://www.meetup.com/OpenOakland{{ event.group.urlname}}" target="_blank">check our Meetup group for our future events</a>. You'll find us every Tuesday night on Zoom at .
+  We hope you'll join us! If you can't make this event, <a href="https://www.meetup.com/OpenOakland" target="_blank">check our Meetup group for our future events</a>. You'll find us every Tuesday night on Zoom at <a href="http://oakca.us/hack-night" target="_blank">http://oakca.us/hack-night</a>.
   </p>
 
 </section>

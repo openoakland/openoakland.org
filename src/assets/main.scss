@@ -30,7 +30,7 @@ h1, h2, h3, h4, h5 {
   font-family: 'Open Sans', Helvetica, sans-serif;
 }
 
-h1, h4, h5 {
+h1, h4, h5, .h5 {
   color: #013743;
   margin-top:1.9rem;
 }
@@ -64,7 +64,7 @@ h4 {
   font-weight: bold;
 }
 
-h5 {
+h5, .h5 {
   font-style: italic;
   font-size: 1.1rem;
   line-height: 1.4;

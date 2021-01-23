@@ -65,10 +65,14 @@ ul {
 
 li {margin-top:1.1rem;}
 
-a {
-  color: $brand-color;
+a:not([class]),
+.brand-link {
+  color: darken($brand-color, 20%);
+  text-decoration: underline;
+
   &:hover {
-    color: darken($brand-color, 20%);
+    background-color: darken($brand-color, 20%);
+    color: white;
   }
 }
 

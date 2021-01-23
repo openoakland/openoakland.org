@@ -15,7 +15,7 @@ OpenOakland is a volunteer organization, part [Code for America's brigade networ
 ## How to Contribute
 
 - Join the team! OpenOakland [meets every Tuesday night](https://www.meetup.com/OpenOakland) in Oakland City Hall.
-- Join us on [slack](http://slack.openoakland.org) on the #oo-website channel.
+- Join us on [slack](http://slack.openoakland.org) on the #project-oo-website channel.
 
 New to Slack? Take a look at our [OpenOakland Slack Guide](https://docs.google.com/document/d/1VWZQ_3ehP5j0IOTY0nJClvQPll3ivSkuAdh5YsOhO_U/edit) to get started.
 
