@@ -18,6 +18,8 @@ title: We are OpenOakland
   </div>
 </section>
 
+{% include announcement-home.html %}
+
 <section class="page-section">
   <h2>Our Next Meeting</h2>
   {% assign next_event = site.data.events[0] %}
