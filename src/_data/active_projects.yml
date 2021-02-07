@@ -13,15 +13,15 @@
   image: councilmatic_300x118.png
   website: https://oaklandcouncil.net/
   repo: https://github.com/openoakland/councilmatic
-  leader: Tom Thiemer
+  leader: Tom Theimer
   slack_id: C0M89GTRT
   slack_channel: project-councilmatic
   description: We make the Oakland City Council meetings easily accessible to the citizens of Oakland. Using our site citizens can learn when are the upcoming city council meetings, view the agenda, put the meeting on your calendar, and send an electronic comment to the Council. Plus you can see videos of past meetings.
-  tech:
+  tech:  BASH, Python, JSON, Jinja2 templating
 -
   name: La Escuelita
-  image:
-  website:
+  image: OpenOakland-project-laescuelita.png
+  website: https://www.laescuelita.org/
   repo:
   established: 2019
   leader: Laurel Adams
