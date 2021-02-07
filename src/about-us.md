@@ -44,7 +44,7 @@ Formal decision-making is done by the Steering Committee, which meets monthly. E
 
 ![Organization chart depicting the Steering Committee, consisting of elected Treasurer/Recorder, Hack Night Lead, Communications Lead, and Community Organizer, plus one project representative per project. Appointed roles include two ombuds people and one steering committee chairperson.](/assets/images/OpenOakland-leadership-structure.png)
 
-To contact the steering committee, email [steering@openoakland.org](mailto:steering@openoakland.org) or join the #leadership channel in [Slack](http://slack.openoakland.org/).
+To contact the steering committee, email [steering@openoakland.org](mailto:steering@openoakland.org) or join the #oo-leadership channel in [Slack](http://slack.openoakland.org/).
 
 ## How you can get involved
 

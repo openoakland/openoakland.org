@@ -31,6 +31,9 @@
     integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
     crossorigin="anonymous"
   ></script>
+  {% for item in page.scripts %}
+  <script src="{{item}}" type="module"></script>
+  {% endfor %}
   <link rel="stylesheet" href="{{
     "/assets/main.css" | relative_url
   }}" />

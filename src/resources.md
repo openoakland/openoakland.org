@@ -11,6 +11,9 @@ layout: page
 ### OpenOakland Project Brief  
 The [Project Brief](https://docs.google.com/document/d/1k24P9JiAUEzJLPFRDjVh7aRZexax6NUhfPFLSI3R80M/edit?usp=sharing) is designed to help project teams tackle real needs in the community, ensure impacted voices are reflected in project design, and explore potential unintended consequences. All projects must submit a Project Brief for Steering Committee approval to become an OpenOakland project. For more information, see the [Project Evaluation Pilot Intro](https://drive.google.com/file/d/1ivtFcFTtXg33paMLCCMkdxKOZ9hpGVJf/view?usp=sharing) (PDF).
 
+### OpenOakland Style Guide
+The OpenOakland [style guide](https://docs.google.com/document/d/1SvhwrQcu4mNMS05zE4AIXA8zsc7qpUeWVA9GvgiZaHo/edit?usp=sharing) should be used to help ensure that projects and communications have a consistent look and tone.
+
 ### Code for America Discovery Canvas  
 Code for America's [worksheet](https://c4a.me/canvas-discovery) to help you develop a research plan for learning about community needs.
 
