@@ -5,6 +5,8 @@ author: Jess S.
 layout: page
 ---
 
+{% include next-meeting.html %}
+
 ## Join us every Tuesday on Zoom
 6:30-9:00 pm PST
 
@@ -21,8 +23,6 @@ Demo night: See the latest updates from active projects.
 Steering committee meeting: Decision-making body for OpenOakland (open to membership; agenda is posted 1 week prior in #oo-leadership on Slack).  
 - **Last Tuesday of each month**  
 New member orientation: Get a personal introduction to OpenOakland.
-
-{% include next-meeting.html %}
 
 ## Past Events
 
