@@ -20,7 +20,7 @@
   tech:  BASH, Python, JSON, Jinja2 templating
 -
   name: La Escuelita
-  image:
+  image: OpenOakland-project-laescuelita.png
   website: https://www.laescuelita.org/
   repo:
   established: 2019
