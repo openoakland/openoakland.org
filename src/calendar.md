@@ -5,6 +5,8 @@ author: Jess S.
 layout: page
 ---
 
+{% include next-meeting.html %}
+
 ## Join us every Tuesday on Zoom
 6:30-9:00 pm PST
 
@@ -22,9 +24,6 @@ Steering committee meeting: Decision-making body for OpenOakland (open to member
 - **Last Tuesday of each month**  
 New member orientation: Get a personal introduction to OpenOakland.
 
-
 ## Past Events
 
-{% for calendar in site.data.calendar %}
-  {% include calendarEvent.html %}
-{% endfor %}
+{% include calendar-events.html %}
