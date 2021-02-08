@@ -1,0 +1,24 @@
+<div class="row">
+  {%- for calendar in site.data.calendar -%}
+    <div class="d-flex col-sm-6 cols-md-12">
+
+      <div class="card calendar-card">
+
+        {% if calendar.image %}<img src="/assets/images/events/{{ calendar.image }}" alt="video thumbnail"/>{% endif %}
+
+        <div class="card-body">
+          <h3 class="card-title">{% if calendar.title %}{{ calendar.title }}{% endif %}</h3>
+          <h4 class="card-subtitle calendar-card-subtitle">{% if calendar.subtitleGuest %}{{ calendar.subtitleGuest }}{% endif %}</h4>
+          <p class="card-text">{% if calendar.descriptionSentence %}{{ calendar.descriptionSentence }}{% endif %}</p>
+          {% if calendar.link %}<a href="{{ calendar.link }}" class="btn btn-primary btn-sm">{{ calendar.buttonText }}</a>{% endif %} {% if calendar.secondaryLink %}<a href="{{ calendar.secondaryLink }}" class="card-link calendar-card-link brand-link">{{ calendar.secondaryLinkText }}</a>{% endif %}
+        </div>
+
+        <div class="card-footer text-muted">
+          {% if calendar.mon-dd-yyyy %}{{ calendar.mon-dd-yyyy }}{% endif %}
+        </div>
+
+      </div>
+
+    </div>
+  {%- endfor -%}
+</div>
