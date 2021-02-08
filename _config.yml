@@ -32,8 +32,9 @@ plugins:
 source: src
 header_pages:
   - about-us.md
-  - calendar.md
+  - how-we-work.md
   - projects.md
+  - calendar.md
   - resources.md
   - donate.md
 

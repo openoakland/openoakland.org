@@ -23,6 +23,7 @@ We're a fiscally-sponsored project of [Code for America](https://www.codeforamer
   <iframe width="560" height="315" src="https://www.youtube.com/embed/mYzMl_HnEZU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+Brigade membership is open to all, regardless of expertise or skill level. The brigade is led by core team of elected leads. Activities and formal decision-making are overseen by a Steering Committee, which meets monthly and consists of the elected leads plus project representatives.
 
 [More about how we work](/how-we-work){: .btn .btn-primary } [Browse our projects](/projects){: .btn .btn-primary }
 
