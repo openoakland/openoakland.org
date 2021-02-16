@@ -5,14 +5,28 @@ author: elina
 layout: page
 ---
 
-Contacts:
+**Media Contact:** Jess Sand at jess[at]openoakland.org
 
-- Alison Lawyer at alison[at]openoakland.org
+## 2020
+
+[**Are you missing out by waiting until your org is ‘ready for design’?**](https://uxdesign.cc/are-you-missing-out-by-waiting-until-your-org-is-ready-for-design-6069eebe3760)  
+_June 21, 2020 - Medium, Alissa Rubin_ [From the Network](){: .badge .badge-secondary }
+
+[**Digital Disaster Response: Creating Tech-based Resources**](https://jessicasand.com/ux/creating-tech-resources-for-disaster-response/)  
+_March 18, 2020 - jessicasand.com, Jess Sand_ [From the Network](){: .badge .badge-secondary }
+
+## 2019
+
+[**How Civic Engagement Is Unlocking California’s DMV Web Services**](https://medium.com/code-california/how-civic-engagement-is-unlocking-californias-dmv-web-services-e71339879bf0)  
+_August 21, 2019 - Medium, Jacob Roper_
 
 ## 2018
 
 [**Follow the money: Updated website makes Oakland election data accessible**](https://oaklandnorth.net/2018/10/10/follow-the-money-updated-website-makes-oakland-election-data-accessible/)  
 _October 10, 2018 - Oakland North, Maria Sestito_
+
+[**The Environmental and Personal Benefits of Adopting Storm Drains**](https://bayareamonitor.org/article/adopting-storm-drains/)  
+_Feb-Mar, 2018 - Bay Area Monitor, Robin Meadows_
 
 ## 2017
 

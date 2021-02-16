@@ -23,28 +23,20 @@ We're a fiscally-sponsored project of [Code for America](https://www.codeforamer
   <iframe width="560" height="315" src="https://www.youtube.com/embed/mYzMl_HnEZU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-{% for announcement in site.data.announcement %}
-  {% include announcement.html %}
-{% endfor %}
+Brigade membership is open to all, regardless of expertise or skill level. The brigade is led by core team of elected leads. Activities and formal decision-making are overseen by a Steering Committee, which meets monthly and consists of the elected leads plus project representatives.
+
+[More about how we work](/how-we-work){: .btn .btn-primary } [Browse our projects](/projects){: .btn .btn-primary }
 
 
-## 2020 leadership team
 
-The leadership team is elected by membership annually.
+## 2021 leadership team
+
+The leadership team is elected by membership annually and generally are members who have been actively engaged in OpenOakland activities for an extended period of time.
 
 {% include steering-committee.html %}
 
+If you're interested in joining the leadership team, join us for Hack Night and introduce yourself. In the interest of greater representation, our Communications Lead has committed to sharing or turning the role over if you're interested and identify as Black, Indigenous, or a person of color.
 
-
-### Governance and decision-making
-
-We're governed by a set of [bylaws](https://docs.google.com/document/d/1QR-fr1WnmXkZoVNmWnZ9drzfmaZoPkodEOx-PkExt94/) that outline leadership roles, project requirements, decision-making processes, and additional brigade policies.
-
-Formal decision-making is done by the Steering Committee, which meets monthly. Each elected officer has one vote, as does each [active project](/projects/) team. Projects are expected to send a representative to the monthly Steering Committee meetings to exercise their vote. It doesn’t need to be the same person each month, but they should be part of the core team. If a project team doesn't send a rep, they're considered to be abstaining from any vote that month. **All OpenOakland members are welcome to sit in on these meetings.**
-
-![Organization chart depicting the Steering Committee, consisting of elected Treasurer/Recorder, Hack Night Lead, Communications Lead, and Community Organizer, plus one project representative per project. Appointed roles include two ombuds people and one steering committee chairperson.](/assets/images/OpenOakland-leadership-structure.png)
-
-To contact the steering committee, email [steering@openoakland.org](mailto:steering@openoakland.org) or join the #oo-leadership channel in [Slack](http://slack.openoakland.org/).
 
 ## How you can get involved
 
