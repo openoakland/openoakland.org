@@ -7,7 +7,7 @@ layout: page
 
 OpenOakland subscribes to Code for America's [tenet](https://www.codeforamerica.org/values) that _no one is coming; it's up to us_. We strive for consensus as much as possible and are continually working to build a collaborative community where members have the flexibility to lean into action, while maintaining accountability to each other and our broader Oakland community.
 
-[Our Values] [Our Code of Conduct]
+[Our Values](/our-values){: .btn .btn-primary } [Code of Conduct](/code-of-conduct){: .btn .btn-primary }
 
 
 ## Brigade structure
