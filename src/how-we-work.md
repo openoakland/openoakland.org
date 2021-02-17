@@ -23,6 +23,6 @@ The brigade has two Ombudspeople (available at <a href="mailto:safespace@openoak
 
 The Steering Committee follows a set of [bylaws](https://docs.google.com/document/d/1QR-fr1WnmXkZoVNmWnZ9drzfmaZoPkodEOx-PkExt94/) that outline leadership roles, project requirements, decision-making processes, and additional brigade policies. _All OpenOakland members are welcome to sit in on the committee's monthly meetings._
 
-{% include steering-faq.html %}
+{% include steering-faq.html %}  
 
 You can reach Steering Committee members by emailing steering@openoakland.org.
