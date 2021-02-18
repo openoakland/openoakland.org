@@ -71,3 +71,11 @@
 }
 
 #clear { clear:both; }
+
+// Adjust typography in Bootstrap accordions
+
+#steering-faq h3 {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-top: .5rem;
+}
