@@ -20,6 +20,7 @@ OpenOakland, an all-volunteer brigade of [Code for America's brigade network](ht
 ### Development Options
 
 - Open an [issue](https://github.com/openoakland/openoakland.org/issues), or comment on an existing one.
+- Explore open issues in our [ongoing backlog](https://github.com/openoakland/openoakland.org/projects/2).
 - Clone the repo, run the site locally, create a branch, and get to work on any open issue. See [contributing.md](https://github.com/openoakland/openoakland.org/blob/master/.github/contributing.md) for full details.
 
 **Note:** As of Feb. 20, 2021 we've renamed the default branch from `master` to `main`. According to GitHub instructions, if you had a local clone prior to this date, you can update it using the following instructions:
