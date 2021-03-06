@@ -20,7 +20,7 @@ Describe the issue, question, or request in as much detail as you can.
 
 
 ### Bug reports
-Please add the following:
+Please add the following...
 
 #### Steps you took when encountering the bug
 1. 
