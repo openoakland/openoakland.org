@@ -6,8 +6,34 @@ labels: ''
 assignees: ''
 
 ---
+## What are you submitting?
+Place an x in the appropriate bracket:
 
-### Describe your issue
+- [ ] Bug (something's broken)
+- [ ] Feature request or improvement
+- [ ] Content update
+- [ ] Question
+- [ ] Other
 
-#### If you are working on this issue, consider the following ongoing issues:
-- [ ] "Purify" Jekyll source files. Make the file you're working on all markdown, or all HTML, and not both.
+## Description
+Describe the issue, question, or request in as much detail as you can.
+
+
+### Bug reports
+Please add the following:
+
+#### Steps you took when encountering the bug
+1. 
+2.
+3.
+
+
+#### What you expected to happen
+Add your answer.
+
+#### The operating system and browser versions you were using
+- Operating system:
+- Browser:
+
+
+##### Thank you!
