@@ -34,15 +34,17 @@ title: We are OpenOakland
 </section>
 
 <section class="row page-section">
-  <div class="col-12">
+  <div class="col-2">
+    <img class="img-fluid" alt="Slack logo" src="/assets/images/OO-on-Slack-300x128.png" width="100" style="margin-top:50px;" />
+  </div>
+
+  <div class="col-10">
     <h2>Join us in Slack</h2>
   </div>
 
-  <div class="col-8">
-    <p>OpenOakland members primarily use Slack for all communication. You can join our Slack <a href="http://slack.openoakland.org/">here</a>.</p>
+  <div class="col-12">
+    <p>OpenOakland members primarily use Slack for connecting and communicating. By joining our Slack space, you agree to our <a href="/code-of-conduct">Code of Conduct</a> (upshot: be cool to each other; don't spam).</p>
+    <p><a href="https://join.slack.com/t/openoakland/shared_invite/zt-n4d7tx2t-UVIN7a769e4oc9j7PgM3HA">Join us in Slack</a>.</p>
   </div>
 
-  <div class="col-4">
-    <img class="img-fluid" alt="RSVP on Meetup" src="/assets/images/OO-on-Slack-300x128.png" width="100" />
-  </div>
 </section>
