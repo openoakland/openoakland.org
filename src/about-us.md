@@ -35,7 +35,7 @@ The leadership team is elected by membership annually and generally are members 
 
 {% include steering-committee.html %}
 
-If you're interested in joining the leadership team, join us for Hack Night and introduce yourself. In the interest of greater representation, our Communications Lead has committed to sharing or turning the role over if you're interested and identify as Black, Indigenous, or a person of color.
+If you're interested in joining the leadership team, join us for Hack Night and introduce yourself. In the interest of greater representation, our Communications Lead has committed to sharing or turning the role over if you're interested and identify as Black, Indigenous, or a person of color (reach out in #oo-steering-committee if interested).
 
 
 ## How you can get involved

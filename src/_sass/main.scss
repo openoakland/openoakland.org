@@ -52,6 +52,14 @@ p {
   margin-top: $spacing-unit / 3;
 }
 
+.image-caption {
+  font-size:.9rem;
+}
+
+.bold {
+  font-weight: bold;
+}
+
 ol {
   margin-top:1.6rem;
   margin-left:1rem;
@@ -64,6 +72,7 @@ ul {
 }
 
 li {margin-top:1.1rem;}
+
 
 a:not([class]),
 .brand-link {

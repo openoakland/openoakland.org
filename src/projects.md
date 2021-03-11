@@ -61,7 +61,7 @@ If you have a new idea for an OpenOakland project:
 
 1. **Fill out the [project exploration worksheet](https://docs.google.com/document/d/1k24P9JiAUEzJLPFRDjVh7aRZexax6NUhfPFLSI3R80M/edit?usp=sharing)**. We encourage you to join our [Slack workspace](http://slack.openoakland.org/) and share your draft with our membership, so we can collaborate together as you develop your idea.
 
-2. **Submit your draft brief to the #oo-leadership channel** on Slack for formal consideration. Provided your brief is submitted at least two weeks in advance, it will be reviewed at the next Steering Committee meeting (a group of elected leadership and existing project reps), and you'll get some initial feedback and be asked to make adjustments accordingly.
+2. **Submit your draft brief to the #oo-steering-committee channel** on Slack for formal consideration. Provided your brief is submitted at least two weeks in advance, it will be reviewed at the next Steering Committee meeting (a group of elected leadership and existing project reps), and you'll get some initial feedback and be asked to make adjustments accordingly.
 
 3. **Make any requested adjustments** based on the Steering Committee's feedback and resubmit the final brief.
 

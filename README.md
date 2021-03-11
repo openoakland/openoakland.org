@@ -2,7 +2,7 @@
 
 # openoakland.org
 
-OpenOakland is a volunteer organization, part [Code for America's brigade network](https://brigade.codeforamerica.org), that exists to bridge technology and community for a thriving and equitable Oakland. This project is OpenOakland’s website. [openoakland.org](https://openoakland.org) is a place for volunteers, leaders, community members, and anyone interested in the organization to learn more about us and find resources.
+OpenOakland, an all-volunteer brigade of [Code for America's brigade network](https://brigade.codeforamerica.org), bridges technology and community for a thriving and equitable Oakland. This project is OpenOakland’s website. [openoakland.org](https://openoakland.org) is a place for volunteers, leaders, community members, and anyone interested in the organization to learn more about us and find resources.
 
 ## Technology used
 
@@ -14,13 +14,23 @@ OpenOakland is a volunteer organization, part [Code for America's brigade networ
 
 ## How to Contribute
 
-- Join the team! OpenOakland [meets every Tuesday night](https://www.meetup.com/OpenOakland) in Oakland City Hall.
-- Join us on [slack](http://slack.openoakland.org) on the #project-oo-website channel.
+- Join the team! OpenOakland [meets every Tuesday night](https://www.meetup.com/OpenOakland) (currently on Zoom during the pandemic, usually in Oakland City Hall).
+- Join us on [Slack](http://slack.openoakland.org) in the #project-oo-website channel.
 
 ### Development Options
 
 - Open an [issue](https://github.com/openoakland/openoakland.org/issues), or comment on an existing one.
 - Clone the repo, run the site locally, create a branch, and get to work on any open issue. See [contributing.md](https://github.com/openoakland/openoakland.org/blob/main/.github/contributing.md) for full details.
+- Explore open issues in our [ongoing backlog](https://github.com/openoakland/openoakland.org/projects/2).
+
+
+**Note:** As of Feb. 20, 2021 we've renamed the default branch from `master` to `main`. According to GitHub instructions, if you had a local clone prior to this date, you can update it using the following instructions:
+
+```
+git branch -m master main
+git fetch origin
+git branch -u origin/main main
+```
 
 ## Additional Project Information
 
@@ -28,5 +38,5 @@ OpenOakland is a volunteer organization, part [Code for America's brigade networ
 
 ## Contact info
 
-Get in touch on OpenOakland’s [slack](http://slack.openoakland.org) at #oo-website.
-You can reach Alison at alison [at] openeoakland [dot] org.
+Get in touch on OpenOakland’s [Slack](http://slack.openoakland.org) at #oo-project-website.
+You can reach Jess, our Communications Lead at jess [at] openeoakland [dot] org.
