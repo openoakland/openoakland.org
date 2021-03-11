@@ -1,6 +1,6 @@
 # Code of Conduct
 
-This document is adapted from Code for America’s [Code of Conduct](https://github.com/codeforamerica/codeofconduct/blob/master/README.md) and Anti-Harassment Policy.
+This document is adapted from Code for America’s [Code of Conduct](https://github.com/codeforamerica/codeofconduct/blob/main/README.md) and Anti-Harassment Policy.
 
 ## [OpenOakland’s Code of Conduct](http://openoakland.org/code-of-conduct/)
 
