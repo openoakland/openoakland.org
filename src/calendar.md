@@ -8,7 +8,8 @@ layout: page
 {% include next-meeting.html %}
 
 ## Join us every Tuesday on Zoom
-6:30-9:00 pm PST
+**6:00-6:30** Intro for newcomers  
+**6:30-8:30** Brigade-wide activities for everyone
 
 We welcome folks of all skill levels and disciplines. Normally, we meet in Oakland City Hall ([directions](https://goo.gl/maps/YTNkpZcb7Sy936w88)) but we're fully remote during the pandemic. If you need accessibility assistance, please email steering@openoakland.org.
 
