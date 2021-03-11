@@ -51,7 +51,7 @@ workflows:
           filters:
             branches:
               only:
-                - master
+                - main
 
   nightly_build:
     jobs: *build_and_deploy_jobs
@@ -62,4 +62,4 @@ workflows:
           filters:
             branches:
               only:
-                - master
+                - main

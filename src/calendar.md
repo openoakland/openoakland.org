@@ -21,7 +21,7 @@ The following events happen during Tuesday's Hack Night on the following dates:
 - **First Tuesday of each month**  
 Demo night: See the latest updates from active projects.  
 - **Third Tuesday of each month**  
-Steering committee meeting: Decision-making body for OpenOakland (open to membership; agenda is posted 1 week prior in #oo-leadership on Slack).  
+Steering committee meeting: Decision-making body for OpenOakland (open to membership; agenda is posted 1 week prior in #oo-steering-committee on Slack).  
 - **Last Tuesday of each month**  
 New member orientation: Get a personal introduction to OpenOakland.
 
