@@ -28,6 +28,9 @@ Code for America makes [certain software free to brigades](https://brigade.codef
 
 ## General brigade and civic tech resources
 
+### New to Slack?
+OpenOakland uses the Slack app as our primary way of communicating with each other. [Check out our OpenOakland Slack Guide](https://docs.google.com/document/d/1VWZQ_3ehP5j0IOTY0nJClvQPll3ivSkuAdh5YsOhO_U/edit?usp=sharing) to get started.
+
 ### The Open Data Handbook  
 This [guide](http://opendatahandbook.org/) discusses the legal, social and technical aspects of open data. It can be used by anyone but is especially designed for those seeking to open up data. It discusses why to go open, what open is, and the how to ‘open’ data (author: Open Knowledge International).
 
