@@ -1,9 +1,9 @@
-<h2>Our Next Meeting</h2>
+<h2>Our next meeting</h2>
 {% assign next_event = site.data.events[0] %}
 <div class="card home__event-card">
   <div class="row no-gutters">
     <div class="col-md-4">
-      <img class="card-img" src="/assets/images/Zoom-Group_Photo-2020-04-14.jpg" alt="OpenOakland members at a virtual hack night." />
+      <img class="card-img" src="/assets/images/OpenOakland-Next-Meeting.png" alt="Five OpenOakland members sit together at a meetup" />
     </div>
     <div class="col-md-8">
       <div class="card-body">
@@ -11,7 +11,7 @@
           <a href="{{ next_event.link }}" target="_blank">{{ next_event.name }}</a>
         </h3>
         <p class="card-text">
-          {{ next_event.description | strip_html | truncatewords: 30 }}
+          {{ next_event.description | strip_html | truncatewords: 28 }}
         </p>
         <a href="{{ next_event.link }}" target="_blank" class="card-link btn btn-primary">RSVP on Meetup</a>
       </div>
