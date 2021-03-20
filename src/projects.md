@@ -22,7 +22,7 @@ badges:
 The following are official OpenOakland projects that are being actively supported by an existing team. If you see something that interests you, there are a couple of ways you can get involved:
 
 - Join us for our Tuesday [Hack Nights](https://www.meetup.com/OpenOakland/events/) to connect with the project team.
-- Join our [Slack workspace](http://slack.openoakland.org/) and introduce yourself in the project's channel listed in the description.
+- Join our [Slack workspace](https://join.slack.com/t/openoakland/shared_invite/zt-n4d7tx2t-UVIN7a769e4oc9j7PgM3HA) and introduce yourself in the project's channel listed in the description (see our [OpenOakland Slack Guide](https://docs.google.com/document/d/1VWZQ_3ehP5j0IOTY0nJClvQPll3ivSkuAdh5YsOhO_U/edit?usp=sharing) for help).
 
 <project-filter>
   <div class="project-filter__toolbar"></div>
@@ -96,7 +96,7 @@ Projoects with the <span class="badge badge-{{ page.badges['decommissioned'] }}"
 In the spirit of continuous improvement and self-reflection, we welcome any and all feedback on OpenOakland projects past and present, as well as the overall project management process. Ways you can share your input include:
 
 - Open an issue in the project's GitHub repository (listed in the project description).
-- Join the project's channel in our [Slack workspace](http://slack.openoakland.org/) and introduce yourself.
+- Join the project's channel in our [Slack workspace](https://join.slack.com/t/openoakland/shared_invite/zt-n4d7tx2t-UVIN7a769e4oc9j7PgM3HA) and introduce yourself (see our [OpenOakland Slack Guide](https://docs.google.com/document/d/1VWZQ_3ehP5j0IOTY0nJClvQPll3ivSkuAdh5YsOhO_U/edit?usp=sharing) for help).
 - Join our next [Hack Night](https://www.meetup.com/OpenOakland/events/) and meet the team.
 - Email our [Steering Committee](mailto:steering@openoakland.org) with your input.
 
