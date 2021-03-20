@@ -15,22 +15,12 @@ OpenOakland, an all-volunteer brigade of [Code for America's brigade network](ht
 ## How to Contribute
 
 - Join the team! OpenOakland [meets every Tuesday night](https://www.meetup.com/OpenOakland) (currently on Zoom during the pandemic, usually in Oakland City Hall).
-- Join us on [Slack](http://slack.openoakland.org) in the #project-oo-website channel.
+- Join us on [Slack](https://join.slack.com/t/openoakland/shared_invite/zt-n4d7tx2t-UVIN7a769e4oc9j7PgM3HA) in the #project-oo-website channel.
 
 ### Development Options
 
 - Open an [issue](https://github.com/openoakland/openoakland.org/issues), or comment on an existing one.
 - Clone the repo, run the site locally, create a branch, and get to work on any open issue. See [contributing.md](https://github.com/openoakland/openoakland.org/blob/main/.github/contributing.md) for full details.
-- Explore open issues in our [ongoing backlog](https://github.com/openoakland/openoakland.org/projects/2).
-
-
-**Note:** As of Feb. 20, 2021 we've renamed the default branch from `master` to `main`. According to GitHub instructions, if you had a local clone prior to this date, you can update it using the following instructions:
-
-```
-git branch -m master main
-git fetch origin
-git branch -u origin/main main
-```
 
 ## Additional Project Information
 
@@ -38,5 +28,5 @@ git branch -u origin/main main
 
 ## Contact info
 
-Get in touch on OpenOakland’s [Slack](http://slack.openoakland.org) at #oo-project-website.
+Get in touch on OpenOakland’s [Slack](https://join.slack.com/t/openoakland/shared_invite/zt-n4d7tx2t-UVIN7a769e4oc9j7PgM3HA) at #oo-project-website.
 You can reach Jess, our Communications Lead at jess [at] openeoakland [dot] org.

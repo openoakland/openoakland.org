@@ -14,6 +14,9 @@ The [Project Brief](https://docs.google.com/document/d/1k24P9JiAUEzJLPFRDjVh7aRZ
 ### OpenOakland Style Guide
 The OpenOakland [style guide](https://docs.google.com/document/d/1SvhwrQcu4mNMS05zE4AIXA8zsc7qpUeWVA9GvgiZaHo/edit?usp=sharing) should be used to help ensure that projects and communications have a consistent look and tone.
 
+### OpenOakland Slack Guide
+Check out the [OpenOakland Slack Guide](https://docs.google.com/document/d/1VWZQ_3ehP5j0IOTY0nJClvQPll3ivSkuAdh5YsOhO_U/edit?usp=sharing) to get up and running in Slack, our primary communication tool.
+
 ### Code for America Discovery Canvas  
 Code for America's [worksheet](https://c4a.me/canvas-discovery) to help you develop a research plan for learning about community needs.
 

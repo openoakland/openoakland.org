@@ -44,5 +44,5 @@ https://en.wikipedia.org/wiki/Civic_technology
 
 - Meetup (CfA pays)
 - Google Groups
-- Slack (http://slack.openoakland.org)
+- Slack (https://join.slack.com/t/openoakland/shared_invite/zt-n4d7tx2t-UVIN7a769e4oc9j7PgM3HA)
 - Trello for some projects
