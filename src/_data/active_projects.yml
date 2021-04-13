@@ -1,15 +1,5 @@
 -
-  name: Community Foods
-  image: Community-Foods-Exterior-300x206.png
-  website:
-  repo:
-  leader: Thomas Deckert
-  slack_id: C0165NXC2F2
-  slack_channel: project-community-foods
-  description: In partnership with West Oakland's Community Foods Market this project aims to support the adoption and use of food assistance benefits (EBT). The main objectives are to provide support for in-store EBT applications and to improve the EBT checkout process.
-  tech: TBD
--
-  name: Councilmatic (Steering Committee approval pending)
+  name: Councilmatic
   image: councilmatic_300x118.png
   website: https://oaklandcouncil.net/
   repo: https://github.com/openoakland/councilmatic
@@ -18,17 +8,6 @@
   slack_channel: project-councilmatic
   description: We make the Oakland City Council meetings easily accessible to the citizens of Oakland. Using our site citizens can learn when are the upcoming city council meetings, view the agenda, put the meeting on your calendar, and send an electronic comment to the Council. Plus you can see videos of past meetings.
   tech:  BASH, Python, JSON, Jinja2 templating
--
-  name: La Escuelita
-  image: OpenOakland-project-laescuelita.png
-  website: https://www.laescuelita.org/
-  repo:
-  established: 2019
-  leader: Laurel Adams
-  slack_id: UNSGF8W06
-  slack_channel: project-la-escuelita
-  description: OUSD doesn’t provide resources for school websites, but many parents (and parents of prospective students) expect them to. La Escuelita, a K-8 elementary school in the Lake Merritt area, wants help developing a simple website that goes live in Fall 2020 term; houses essential info like announcements, schedule changes (currently rely on paper fliers students bring home) and contact info; offers easy-to-use technology and a layout that non-technical staff can easily update and maintain.
-  tech: Google Sites
 -
   name: Open Budget Oakland
   image: openbudgetoakland_300x233.png

@@ -7,6 +7,7 @@ scripts: ["/assets/js/project_filter.js"]
 badges:
   ongoing: 'primary'
   active: 'success'
+  incubating: 'incubating'
   inactive: 'secondary'
   decommissioned: 'dark'
 ---
@@ -35,6 +36,12 @@ The following are official OpenOakland projects that are being actively supporte
   <!-- Active -->
   {% for project in site.data.active_projects %}
   {% assign status = 'active' %}
+  {% include project.html %}
+  {% endfor %}
+
+  <!-- Incubating -->
+  {% for project in site.data.incubating_projects %}
+  {% assign status = 'incubating' %}
   {% include project.html %}
   {% endfor %}
 
@@ -80,6 +87,10 @@ Projects must demonstrate alignment to OpenOakland’s mission and values. Some 
 - Partnering with organizations to serve as domain experts in the needs of the community it serves
 - Forming a project team which has lived experience with the issue the project is focused on
 - Conducting user research to understand the needs of the community the project serves
+
+### Incubating projects
+
+Projects with the <span class="badge badge-{{ page.badges['incubating'] }}">Incubating</span> label are not official OpenOakland project yet. To be listed as an incubating project, ideas must have a draft [project exploration worksheet](https://docs.google.com/document/d/1k24P9JiAUEzJLPFRDjVh7aRZexax6NUhfPFLSI3R80M/edit?usp=sharing) completed, an acting lead shepherding the idea, and be actively recruiting collaborators. Placement on the website is at the discretion of the Steering Committee.
 
 ### Inactive projects
 

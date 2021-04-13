@@ -84,6 +84,17 @@
   slack_channel:
   description: "Built in partnership with the Oak Education Cabinet in 2011, Early Oakland provided information on early learning programs that were state subsidized and federally supported Head Start programs in Oakland, including Bananas Child Care Resource and Referral, Oakland Head Start and the Unity Council Preschool, as well as Oakland Unified School District Early Childhood Education Department. It included part-day and full-day programs for three- and four-year-olds, and a few programs also served younger children."
 -
+  name: La Escuelita
+  image: OpenOakland-project-laescuelita.png
+  website: https://www.laescuelita.org/
+  repo:
+  established: 2019
+  leader: Laurel Adams
+  slack_id: UNSGF8W06
+  slack_channel: project-la-escuelita
+  description: OUSD doesn’t provide resources for school websites, but many parents (and parents of prospective students) expect them to. La Escuelita, a K-8 elementary school in the Lake Merritt area, wants help developing a simple website that goes live in Fall 2020 term; houses essential info like announcements, schedule changes (currently rely on paper fliers students bring home) and contact info; offers easy-to-use technology and a layout that non-technical staff can easily update and maintain.
+  tech: Google Sites
+-
   name: LaneLookout
   image: lane-lookout_300x300.png
   website: https://www.lanelookout.org

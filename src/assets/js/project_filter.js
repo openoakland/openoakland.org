@@ -2,7 +2,7 @@ import {html, render} from 'https://unpkg.com/lit-html@^1?module';
 
 /**
  * @fileoverview
- * 
+ *
  * A custom element that wraps the project section of the /projects page. The
  * /projects page contains dropdown buttons with checkboxes to enable or disable
  * tag filters. This element listens for when the user clicks on any of those
@@ -38,6 +38,7 @@ class ProjectFilter extends HTMLElement {
       options: {
         'Ongoing': true, // true indicates the filter should be on by default.
         'Active': true,
+        'Incubating': true,
         'Inactive': false,
         'Decommissioned': false,
       }
