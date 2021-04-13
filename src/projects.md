@@ -7,7 +7,7 @@ scripts: ["/assets/js/project_filter.js"]
 badges:
   ongoing: 'primary'
   active: 'success'
-  incubating: 'incubating'
+  incubating: 'info'
   inactive: 'secondary'
   decommissioned: 'dark'
 ---
