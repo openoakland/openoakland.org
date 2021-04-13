@@ -28,7 +28,7 @@ title: We are OpenOakland
   </p>
 
   <p>
-  We hope you'll join us! If you can't make this event, <a href="https://www.meetup.com/OpenOakland" target="_blank">check our Meetup group for our future events</a>. You'll find us every Tuesday night on Zoom at <a href="http://oakca.us/hack-night" target="_blank">http://oakca.us/hack-night</a>.
+  We hope you'll join us! If you can't make this event, <a href="https://www.meetup.com/OpenOakland" target="_blank">check our Meetup group for our future events</a>. 
   </p>
 
 </section>
