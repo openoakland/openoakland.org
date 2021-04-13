@@ -13,7 +13,7 @@ badges:
 ---
 
 [Projects](#projects)  
-[Becoming an OpenOakland project](#becoming-an-openoakland-project)  
+[Starting an OpenOakland project](#becoming-an-openoakland-project)  
 [Providing feedback](#providing-feedback)  
 
 ---
@@ -60,7 +60,7 @@ The following are official OpenOakland projects that are being actively supporte
 
 ---
 
-## Becoming an OpenOakland project
+## Starting an OpenOakland project
 
 OpenOakland is reevaluating how our projects are vetted, adopted, and developed. This is an ongoing pilot that we continue to iterate on in an effort to ensure that projects serve their intended communities, consider potential unintended consequences, and foster greater inclusion of community voices—particularly those from underrepresented and underserved Oakland communities.
 
@@ -90,7 +90,7 @@ Projects must demonstrate alignment to OpenOakland’s mission and values. Some 
 
 ### Incubating projects
 
-Projects with the <span class="badge badge-{{ page.badges['incubating'] }}">Incubating</span> label are not official OpenOakland project yet. To be listed as an incubating project, ideas must have a draft [project exploration worksheet](https://docs.google.com/document/d/1k24P9JiAUEzJLPFRDjVh7aRZexax6NUhfPFLSI3R80M/edit?usp=sharing) completed, an acting lead shepherding the idea, and be actively recruiting collaborators. Placement on the website is at the discretion of the Steering Committee.
+Projects with the <span class="badge badge-{{ page.badges['incubating'] }}">Incubating</span> label are not official OpenOakland projects yet. To be listed as an incubating project, ideas must have a draft [project exploration worksheet](https://docs.google.com/document/d/1k24P9JiAUEzJLPFRDjVh7aRZexax6NUhfPFLSI3R80M/edit?usp=sharing) completed, an acting lead shepherding the idea, and be actively recruiting collaborators. Placement on the website is at the discretion of the Steering Committee.
 
 ### Inactive projects
 

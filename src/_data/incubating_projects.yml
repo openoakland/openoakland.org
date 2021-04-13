@@ -1,14 +1,4 @@
 -
-  name: Community Foods
-  image: Community-Foods-Exterior-300x206.png
-  website:
-  repo:
-  leader: TBD
-  slack_id: C0165NXC2F2
-  slack_channel: project-community-foods
-  description: In partnership with West Oakland's Community Foods Market this project aims to support the adoption and use of food assistance benefits (EBT). The main objectives are to provide support for in-store EBT applications and to improve the EBT checkout process.
-  tech: TBD
--
   name: OpenOakland RADAR Program (Research and Data Assistance Request)
   image:
   website:
@@ -18,4 +8,3 @@
   slack_channel: project-incubating-radar
   description: RADAR is exploring how we can use OpenOakland's particular data expertise to further the needs of our community and government partners by supplementing their own internal capacity, thereby amplifying their impact. Our hypothesis is that creating an off-the-shelf request service for well-scoped, time-bound, data-centric projects can help potential partners make better use of OpenOakland's services, create a more consistent pipeline of mission-aligned projects for the brigade, and allow us to more directly serve our mission through the strength of our volunteers. OpenOakland RADAR is inspired by BetaNYC's existing program.
   tech: TBD
--

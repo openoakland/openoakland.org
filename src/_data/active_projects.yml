@@ -1,4 +1,14 @@
 -
+  name: openoakland.org
+  image: OpenOakland-home.png
+  website: https://openoakland.org
+  repo: https://github.com/openoakland/openoakland.org
+  leader: Jess Sand
+  slack_id: CH1U5KJ48
+  slack_channel: project-oo-website
+  description: As the digital face of OpenOakland, our website serves new and existing members, community and government partners, and members of the larger Oakland and civic tech communities. The site was recently migrated from a Wordpress install to a static Jekyll site hosted on AWS. The migration focused primarily on moving the codebase, and we now are working on improving site architecture and visual design. Issues in GutHub marked "Good First Issue" are great for first-timers.
+  tech: Jekyll, Kramdown, Bootstrap UI
+-
   name: Councilmatic
   image: councilmatic_300x118.png
   website: https://oaklandcouncil.net/
@@ -23,7 +33,7 @@
   image: opendisclosure_300x233.png
   website: http://www.opendisclosure.io/
   repo: https://github.com/caciviclab
-  leader: Alison Lawyer, Colin King-Bailey, and Suzanne Doran
+  leader: Elina Rubuliak, Colin King-Bailey, and Suzanne Doran
   slack_id: C02GKECTJ
   slack_channel: project-open-disclosure
   description: Open Disclosure helps Oaklanders understand the role of money in their local politics. By analyzing mandatory campaign finance disclosures for candidates seeking public office, Open Disclosure presents a user-friendly overview of who is raising money, from where, and how much. Open Disclosure is developed in partnership with the City of Oakland Public Ethics Commission.

@@ -55,6 +55,16 @@
   slack_channel: cut-group
   description: Civic User Testing (CUT) Group's goal is to make sure OpenOakland projects are working towards creating the best possible experience and serve all Oakland residents. If you're interested in user experience, or just like making things better, please reach out! Check out our <a href="https://docs.google.com/document/d/1VkSG9Amzq2759HACbFizSGAah4Q4byGG6R8cCxwcOO4/edit">most recent projects.</a>
 -
+  name: Community Foods
+  image: Community-Foods-Exterior-300x206.png
+  website:
+  repo:
+  leader: TBD
+  slack_id: C0165NXC2F2
+  slack_channel: project-community-foods
+  description: In partnership with West Oakland's Community Foods Market this project aims to support the adoption and use of food assistance benefits (EBT). The main objectives are to provide support for in-store EBT applications and to improve the EBT checkout process.
+  tech: TBD
+-
   name: Discount Mobility Share
   image: discount_mobility_300x213.png
   website:
@@ -218,3 +228,4 @@
   slack_id: CBB52CFU2
   slack_channel: project-ca-water-challenge
   description: Approximately one million California residents currently only have access to drinking water that does not meet state and federal standards. The California Drinking Water project provides user-friendly online queries, charts, and maps to show which water systems have current and persistent drinking water contamination violations. Partnering with the State Water Board and the Community Water Center non-profit organization, Open Oakland volunteers developed a tool features using the State’s bi-monthly Human Right to Water water quality reporting data on cities, communities, schools, and daycares. The online features allow government officials, advocates, researchers, and residents to more easily understand which water systems have contamination problems and identify solutions that support clean water for all Californians. Used daily by local grassroots organizations, the site won awards at two consecutive Water Data Challenges.
+-
