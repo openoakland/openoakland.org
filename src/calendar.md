@@ -8,6 +8,8 @@ layout: page
 {% include next-meeting.html %}
 
 ## Join us every Tuesday on Zoom
+{% include zoom-link.html %}
+
 **6:00-6:30** Intro for newcomers  
 **6:30-8:30** Brigade-wide activities for everyone
 
