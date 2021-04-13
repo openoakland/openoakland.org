@@ -13,7 +13,7 @@ badges:
 ---
 
 [Projects](#projects)  
-[Starting an OpenOakland project](#becoming-an-openoakland-project)  
+[Starting an OpenOakland project](#starting-an-openoakland-project)  
 [Providing feedback](#providing-feedback)  
 
 ---
@@ -27,12 +27,6 @@ The following are official OpenOakland projects that are being actively supporte
 
 <project-filter>
   <div class="project-filter__toolbar"></div>
-  <!-- Ongoing -->
-  {% for project in site.data.openoakland_projects %}
-  {% assign status = 'ongoing' %}
-  {% include project.html %}
-  {% endfor %}
-
   <!-- Active -->
   {% for project in site.data.active_projects %}
   {% assign status = 'active' %}
