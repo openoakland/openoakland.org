@@ -15,7 +15,7 @@ OpenOakland, an all-volunteer brigade of [Code for America's brigade network](ht
 ## How to Contribute
 
 - Join the team! OpenOakland [meets every Tuesday night](https://www.meetup.com/OpenOakland) (currently on Zoom during the pandemic, usually in Oakland City Hall).
-- Join us on [Slack](http://slack.openoakland.org) in the #project-oo-website channel.
+- Join us on [Slack](https://join.slack.com/t/openoakland/shared_invite/zt-n4d7tx2t-UVIN7a769e4oc9j7PgM3HA) in the #project-oo-website channel.
 
 ### Development Options
 
@@ -28,5 +28,5 @@ OpenOakland, an all-volunteer brigade of [Code for America's brigade network](ht
 
 ## Contact info
 
-Get in touch on OpenOakland’s [Slack](http://slack.openoakland.org) at #oo-project-website.
+Get in touch on OpenOakland’s [Slack](https://join.slack.com/t/openoakland/shared_invite/zt-n4d7tx2t-UVIN7a769e4oc9j7PgM3HA) at #oo-project-website.
 You can reach Jess, our Communications Lead at jess [at] openeoakland [dot] org.

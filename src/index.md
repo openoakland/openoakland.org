@@ -43,8 +43,8 @@ title: We are OpenOakland
   </div>
 
   <div class="col-12">
-    <p>OpenOakland members primarily use Slack for connecting and communicating. By joining our Slack space, you agree to our <a href="/code-of-conduct">Code of Conduct</a> (upshot: be cool to each other; don't spam).</p>
-    <p><a href="https://join.slack.com/t/openoakland/shared_invite/zt-n4d7tx2t-UVIN7a769e4oc9j7PgM3HA">Join us in Slack</a>.</p>
+    <p>OpenOakland members primarily use Slack for connecting and communicating. By joining our Slack space, you agree to our <a href="/code-of-conduct">Code of Conduct</a> (upshot: be cool to each other and don't spam).</p>
+    <p><strong><a class="btn btn-primary" href="https://join.slack.com/t/openoakland/shared_invite/zt-n4d7tx2t-UVIN7a769e4oc9j7PgM3HA">Join us in Slack</a></strong> <a class="btn btn-link brand-link" href="https://docs.google.com/document/d/1VWZQ_3ehP5j0IOTY0nJClvQPll3ivSkuAdh5YsOhO_U/edit?usp=sharing">OpenOakland Slack Guide</a></p>
   </div>
 
 </section>
