@@ -28,6 +28,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-redirect-from
+  - jekyll-get-json
 
 source: src
 header_pages:
@@ -52,6 +53,6 @@ permalink: pretty
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-jekyll_get:
+jekyll_get_json:
   - data: events
-    json: https://api.meetup.com/OpenOakland/events?&page=2
+    json: 'https://api.meetup.com/OpenOakland/events?&page=2'
