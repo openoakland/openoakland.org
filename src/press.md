@@ -9,6 +9,9 @@ layout: page
 
 ## 2020
 
+[**The Ins and Outs of Your City Budget**](https://www.bloomberg.com/news/articles/2020-06-25/how-to-understand-your-city-budget)  
+_June 25, 2020 Bloomberg CityLab, Ariel Aberg-Riger_
+
 [**Are you missing out by waiting until your org is ‘ready for design’?**](https://uxdesign.cc/are-you-missing-out-by-waiting-until-your-org-is-ready-for-design-6069eebe3760)  
 _June 21, 2020 - Medium, Alissa Rubin_ [From the Network](){: .badge .badge-secondary }
 

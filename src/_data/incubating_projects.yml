@@ -1,0 +1,10 @@
+-
+  name: OpenOakland RADAR Program (Research and Data Assistance Request)
+  image:
+  website:
+  repo: https://docs.google.com/document/d/1NroAgRtaa6W12UKSCBimhzRICwBfhe9sWy-FWhiRZ0Y/edit?usp=sharing
+  leader: Open
+  slack_id: C01RVMKBF5X
+  slack_channel: project-incubating-radar
+  description: RADAR is exploring how we can use OpenOakland's particular data expertise to further the needs of our community and government partners by supplementing their own internal capacity, thereby amplifying their impact. Our hypothesis is that creating an off-the-shelf request service for well-scoped, time-bound, data-centric projects can help potential partners make better use of OpenOakland's services, create a more consistent pipeline of mission-aligned projects for the brigade, and allow us to more directly serve our mission through the strength of our volunteers. OpenOakland RADAR is inspired by BetaNYC's existing program.
+  tech: TBD

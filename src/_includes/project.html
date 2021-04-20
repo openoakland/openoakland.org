@@ -7,11 +7,11 @@
         <div class="card-body">
           <div>
             {% if project.name %}
-              <h3 class="projects-h3">{{ project.name }} 
+              <h3 class="projects-h3">{{ project.name }}
                 <span class="badge badge-{{ page.badges[status] }} ml-2">{{ status | capitalize }}</span>
               </h3>
             {% endif %}
-            {% if status == 'inactive' or status == 'decommissioned' %}
+            {% if status == 'inactive' or status == 'decommissioned' or status == 'incubating' %}
               <p class="mt-0"><a class="text-small brand-link" href="#{{ status }}-projects">What does {{ status }} mean?</a></p>
             {% endif %}
           </div>
