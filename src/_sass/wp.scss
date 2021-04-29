@@ -44,10 +44,15 @@
     font-style: italic;
   }
 
+.calendar-card-h3 {
+  margin-top: .8rem;
+}
+
 // Give the calendar-card-link left margin only if it's
 // the second child.
 .btn + .calendar-card-link {
   margin-left: .5rem;
+  font-size: .9rem;
 }
 
 
