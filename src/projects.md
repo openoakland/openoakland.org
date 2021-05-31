@@ -5,11 +5,11 @@ author: Jess Sand
 layout: page
 scripts: ["/assets/js/project_filter.js"]
 badges:
-  ongoing: 'primary'
+  ops: 'primary'
   active: 'success'
   incubating: 'info'
-  inactive: 'secondary'
-  decommissioned: 'dark'
+  idle: 'secondary'
+  delivered: 'dark'
 ---
 
 [Projects](#projects)  
@@ -27,6 +27,12 @@ The following are official OpenOakland projects that are being actively supporte
 
 <project-filter>
   <div class="project-filter__toolbar"></div>
+  <!-- Ops -->
+  {% for project in site.data.ops_projects %}
+  {% assign status = 'ops' %}
+  {% include project.html %}
+  {% endfor %}
+
   <!-- Active -->
   {% for project in site.data.active_projects %}
   {% assign status = 'active' %}
@@ -39,17 +45,18 @@ The following are official OpenOakland projects that are being actively supporte
   {% include project.html %}
   {% endfor %}
 
-  <!-- Inactive -->
-  {% for project in site.data.inactive_projects %}
-  {% assign status = 'inactive' %}
+  <!-- Idle -->
+  {% for project in site.data.idle_projects %}
+  {% assign status = 'idle' %}
   {% include project.html %}
   {% endfor %}
 
-  <!-- Decommissioned -->
-  {% for project in site.data.decommissioned_projects %}
-  {% assign status = 'decommissioned' %}
+  <!-- Delivered -->
+  {% for project in site.data.delivered_projects %}
+  {% assign status = 'delivered' %}
   {% include project.html %}
   {% endfor %}
+
 </project-filter>
 
 ---
