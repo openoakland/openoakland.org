@@ -3,3 +3,6 @@ _site
 .jekyll-metadata
 .DS_Store
 .ruby-version
+
+_src
+.jekyll-cache/
