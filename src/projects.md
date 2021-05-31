@@ -54,7 +54,7 @@ Browse the projects below to see what we're currently working on. You can filter
 </project-filter>
 
 ---
-[<i class="fas fa-arrow-alt-circle-up"></i> Top](#){: .caption .float-right}
+[<i class="fas fa-arrow-alt-circle-up"></i> Top](#top){: .caption .float-right}
 
 ## Status definitions
 
@@ -84,7 +84,7 @@ These are projects the Steering Committee has formally reviewed and deemed no lo
 
 ---
 
-[<i class="fas fa-arrow-alt-circle-up"></i> Top](#){: .caption .float-right}
+[<i class="fas fa-arrow-alt-circle-up"></i> Top](#top){: .caption .float-right}
 
 ## Get involved
 There are several ways to contribute to an existing project:
@@ -124,7 +124,7 @@ Projects must demonstrate alignment to OpenOakland’s mission and values. Some 
 
 ---
 
-[<i class="fas fa-arrow-alt-circle-up"></i> Top](#){: .caption .float-right}
+[<i class="fas fa-arrow-alt-circle-up"></i> Top](#top){: .caption .float-right}
 
 ## Provide feedback
 

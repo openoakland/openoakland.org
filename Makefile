@@ -12,7 +12,7 @@ setup:
 	bundle install
 
 test:
-	bundle exec htmlproofer --check-html _site --disable-external --href-ignore "#"
+	bundle exec htmlproofer --check-html _site --disable-external
 
 docker_test:
 	docker-compose run --rm site make test
