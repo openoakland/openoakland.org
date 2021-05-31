@@ -36,9 +36,9 @@ class ProjectFilter extends HTMLElement {
     this._statuses = {
       label: 'Filter by status',
       options: {
-        'Ops': true, // true indicates the filter should be on by default.
-        'Active': true,
+        'Active': true, // true indicates the filter should be on by default.
         'Incubating': true,
+        'Brigade ops': false,
         'Idle': false,
         'Delivered': false,
       }

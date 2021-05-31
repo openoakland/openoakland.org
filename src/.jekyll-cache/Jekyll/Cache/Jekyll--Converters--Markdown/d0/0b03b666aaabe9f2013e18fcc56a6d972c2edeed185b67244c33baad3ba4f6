@@ -1,0 +1,2067 @@
+I"<p><a href="#status-definitions">Status definitions</a><br />
+<a href="#get-involved">Get involved</a><br />
+<a href="#starting-an-openoakland-project">Starting an OpenOakland project</a><br />
+<a href="#providing-feedback">Provide feedback</a></p>
+
+<hr />
+<p>OpenOakland projects are one of the main ways we serve our city. Browse the projects below to see what we’re currently working on. You can filter the list to see past projects, too.</p>
+
+<project-filter>
+  <div class="project-filter__toolbar"></div>
+
+  <!-- Active -->
+  
+  
+  <div class="d-flex">
+<div class="card projects" data-tags="active">
+
+  <div class="row no-gutters">
+
+      <div class="col-md-8">
+        <div class="card-body">
+          <div>
+            <p><span class="badge badge-success  project-badge">Active</span></p>
+            
+              <h3 class="projects-h3">openoakland.org</h3>
+            
+            
+          </div>
+
+          <div class="card-text">As the digital face of OpenOakland, our website serves new and existing members, community and government partners, and members of the larger Oakland and civic tech communities. The site was recently migrated from a Wordpress install to a static Jekyll site hosted on AWS. The migration focused primarily on moving the codebase, and we now are working on improving site architecture and visual design. Issues in GutHub marked “Good First Issue” are great for first-timers.</div>
+
+
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="card-body">
+
+          
+          <p><img class="projects" src="/assets/images/projects/OpenOakland-home.png" alt="screenshot of openoakland.org" /></p>
+          
+
+          <a href="https://openoakland.org" class="btn btn-primary btn-sm projects-btn">Visit site</a>
+
+          <a href="https://github.com/openoakland/openoakland.org" class="btn btn-outline-secondary btn-sm projects-btn">View code</a>
+
+          
+          <p class="card-text"><small><b>Project lead</b></small><br />
+          Jess Sand</p>
+          
+
+          
+          <p class="card-text"><small><b>Connect on Slack</b></small><br />
+          <a href="https://openoakland.slack.com/messages/CH1U5KJ48" target="_blank" rel="noopener noreferrer">#project-oo-website</a></p>
+          
+
+        </div>
+      </div>
+
+  </div>
+
+  <div class="card-footer text-muted">
+    
+    <b>Technology:</b> Jekyll, Kramdown, Bootstrap UI
+    
+  </div>
+
+</div>
+</div>
+
+  
+  
+  <div class="d-flex">
+<div class="card projects" data-tags="active">
+
+  <div class="row no-gutters">
+
+      <div class="col-md-8">
+        <div class="card-body">
+          <div>
+            <p><span class="badge badge-success  project-badge">Active</span></p>
+            
+              <h3 class="projects-h3">Councilmatic</h3>
+            
+            
+          </div>
+
+          <div class="card-text">We make the Oakland City Council meetings easily accessible to the citizens of Oakland. Using our site citizens can learn when are the upcoming city council meetings, view the agenda, put the meeting on your calendar, and send an electronic comment to the Council. Plus you can see videos of past meetings.</div>
+
+
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="card-body">
+
+          
+          <p><img class="projects" src="/assets/images/projects/councilmatic_300x118.png" alt="screenshot of Councilmatic" /></p>
+          
+
+          <a href="https://oaklandcouncil.net/" class="btn btn-primary btn-sm projects-btn">Visit site</a>
+
+          <a href="https://github.com/openoakland/councilmatic" class="btn btn-outline-secondary btn-sm projects-btn">View code</a>
+
+          
+          <p class="card-text"><small><b>Project lead</b></small><br />
+          Tom Theimer</p>
+          
+
+          
+          <p class="card-text"><small><b>Connect on Slack</b></small><br />
+          <a href="https://openoakland.slack.com/messages/C0M89GTRT" target="_blank" rel="noopener noreferrer">#project-councilmatic</a></p>
+          
+
+        </div>
+      </div>
+
+  </div>
+
+  <div class="card-footer text-muted">
+    
+    <b>Technology:</b> BASH, Python, JSON, Jinja2 templating
+    
+  </div>
+
+</div>
+</div>
+
+  
+  
+  <div class="d-flex">
+<div class="card projects" data-tags="active">
+
+  <div class="row no-gutters">
+
+      <div class="col-md-8">
+        <div class="card-body">
+          <div>
+            <p><span class="badge badge-success  project-badge">Active</span></p>
+            
+              <h3 class="projects-h3">Open Budget Oakland</h3>
+            
+            
+          </div>
+
+          <div class="card-text">Every 2 years the city of Oakland releases a budget in a spreadsheet that has nearly 20,000 rows, which does not make for ideal reading. The mission of Open Budget Oakland is to transform this mountain of data into an interactive display of charts and diagrams that is easy and even fun to use. Our MVP is live, but could benefit from improvements and new features.</div>
+
+
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="card-body">
+
+          
+          <p><img class="projects" src="/assets/images/projects/openbudgetoakland_300x233.png" alt="screenshot of Open Budget Oakland" /></p>
+          
+
+          <a href="http://openbudgetoakland.org/" class="btn btn-primary btn-sm projects-btn">Visit site</a>
+
+          <a href="https://github.com/openoakland/openbudgetoakland" class="btn btn-outline-secondary btn-sm projects-btn">View code</a>
+
+          
+          <p class="card-text"><small><b>Project lead</b></small><br />
+          Felicia Betancourt</p>
+          
+
+          
+          <p class="card-text"><small><b>Connect on Slack</b></small><br />
+          <a href="https://openoakland.slack.com/messages/C02R4185B" target="_blank" rel="noopener noreferrer">#project-open-budget-oakland</a></p>
+          
+
+        </div>
+      </div>
+
+  </div>
+
+  <div class="card-footer text-muted">
+    
+    <b>Technology:</b> Harp using Node.js, jade, Sass, Bootstrap, React
+    
+  </div>
+
+</div>
+</div>
+
+  
+  
+  <div class="d-flex">
+<div class="card projects" data-tags="active">
+
+  <div class="row no-gutters">
+
+      <div class="col-md-8">
+        <div class="card-body">
+          <div>
+            <p><span class="badge badge-success  project-badge">Active</span></p>
+            
+              <h3 class="projects-h3">Open Disclosure Oakland</h3>
+            
+            
+          </div>
+
+          <div class="card-text">Open Disclosure helps Oaklanders understand the role of money in their local politics. By analyzing mandatory campaign finance disclosures for candidates seeking public office, Open Disclosure presents a user-friendly overview of who is raising money, from where, and how much. Open Disclosure is developed in partnership with the City of Oakland Public Ethics Commission.</div>
+
+
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="card-body">
+
+          
+          <p><img class="projects" src="/assets/images/projects/opendisclosure_300x233.png" alt="screenshot of Open Disclosure Oakland" /></p>
+          
+
+          <a href="http://www.opendisclosure.io/" class="btn btn-primary btn-sm projects-btn">Visit site</a>
+
+          <a href="https://github.com/caciviclab" class="btn btn-outline-secondary btn-sm projects-btn">View code</a>
+
+          
+          <p class="card-text"><small><b>Project lead</b></small><br />
+          Elina Rubuliak, Colin King-Bailey, and Suzanne Doran</p>
+          
+
+          
+          <p class="card-text"><small><b>Connect on Slack</b></small><br />
+          <a href="https://openoakland.slack.com/messages/C02GKECTJ" target="_blank" rel="noopener noreferrer">#project-open-disclosure</a></p>
+          
+
+        </div>
+      </div>
+
+  </div>
+
+  <div class="card-footer text-muted">
+    
+    <b>Technology:</b> Jekyll, PostgreSQL
+    
+  </div>
+
+</div>
+</div>
+
+  
+  
+  <div class="d-flex">
+<div class="card projects" data-tags="active">
+
+  <div class="row no-gutters">
+
+      <div class="col-md-8">
+        <div class="card-body">
+          <div>
+            <p><span class="badge badge-success  project-badge">Active</span></p>
+            
+              <h3 class="projects-h3">OpenOUSD</h3>
+            
+            
+          </div>
+
+          <div class="card-text">OpenOUSD aims to bring greater transparency to the Oakland Unified School District’s central office so that the community can fully participate in discussions about how it can best serve our students. OpenOUSD is a project of OpenOakland, a volunteer run group with the mission of increasing access to government through technology. OpenOUSD receives no public or private funds and is not an official OUSD website.</div>
+
+
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="card-body">
+
+          
+          <p><img class="projects" src="/assets/images/projects/OpenOUSD.png" alt="screenshot of OpenOUSD" /></p>
+          
+
+          <a href="https://openousd.org/" class="btn btn-primary btn-sm projects-btn">Visit site</a>
+
+          <a href="https://github.com/openoakland/openousd-site" class="btn btn-outline-secondary btn-sm projects-btn">View code</a>
+
+          
+          <p class="card-text"><small><b>Project lead</b></small><br />
+          John Baldo</p>
+          
+
+          
+          <p class="card-text"><small><b>Connect on Slack</b></small><br />
+          <a href="https://openoakland.slack.com/messages/CEDNVVCRG" target="_blank" rel="noopener noreferrer">#project-open-ousd</a></p>
+          
+
+        </div>
+      </div>
+
+  </div>
+
+  <div class="card-footer text-muted">
+    
+    <b>Technology:</b> Gatsby, Postgres, Node.js
+    
+  </div>
+
+</div>
+</div>
+
+  
+  
+  <div class="d-flex">
+<div class="card projects" data-tags="active">
+
+  <div class="row no-gutters">
+
+      <div class="col-md-8">
+        <div class="card-body">
+          <div>
+            <p><span class="badge badge-success  project-badge">Active</span></p>
+            
+              <h3 class="projects-h3">West Oakland Air Quality (WOAQ)</h3>
+            
+            
+          </div>
+
+          <div class="card-text">The WOAQ team is building an air quality database with the nonprofit West Oakland Environmental Indicators Project (WOEIP), who has been collecting local air quality data for over a decade. Our initial effort is focused on a volunteer-friendly database for WOEIP staff and volunteers to manage and explore the local AQ data they collect through the organization’s citizen science program. We’ll then build on this to create a neighborhood-friendly platform that allows residents to act on this data through self-education, self-empowerment, and civic engagement.</div>
+
+
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="card-body">
+
+          
+          <p><img class="projects" src="/assets/images/projects/OpenOakland-West-Oakland-Air-Quality.png" alt="screenshot of West Oakland Air Quality (WOAQ)" /></p>
+          
+
+          
+
+          <a href="https://github.com/openoakland/woeip" class="btn btn-outline-secondary btn-sm projects-btn">View code</a>
+
+          
+          <p class="card-text"><small><b>Project lead</b></small><br />
+          Jess Sand</p>
+          
+
+          
+          <p class="card-text"><small><b>Connect on Slack</b></small><br />
+          <a href="https://openoakland.slack.com/messages/C95U7371C" target="_blank" rel="noopener noreferrer">#project-woaq</a></p>
+          
+
+        </div>
+      </div>
+
+  </div>
+
+  <div class="card-footer text-muted">
+    
+    <b>Technology:</b> React front-end using Semantic UI, python, django, PostGIS, MapBox
+    
+  </div>
+
+</div>
+</div>
+
+  
+
+  <!-- Incubating -->
+  
+  
+  <div class="d-flex">
+<div class="card projects" data-tags="incubating">
+
+  <div class="row no-gutters">
+
+      <div class="col-md-8">
+        <div class="card-body">
+          <div>
+            <p><span class="badge badge-info  project-badge">Incubating</span></p>
+            
+              <h3 class="projects-h3">OpenOakland RADAR Program (Research and Data Assistance Request)</h3>
+            
+            
+              <p class="mt-0"><a class="text-small brand-link" href="#incubating-projects">What does incubating mean?</a></p>
+            
+          </div>
+
+          <div class="card-text">RADAR is exploring how we can use OpenOakland’s particular data expertise to further the needs of our community and government partners by supplementing their own internal capacity, thereby amplifying their impact. Our hypothesis is that creating an off-the-shelf request service for well-scoped, time-bound, data-centric projects can help potential partners make better use of OpenOakland’s services, create a more consistent pipeline of mission-aligned projects for the brigade, and allow us to more directly serve our mission through the strength of our volunteers. OpenOakland RADAR is inspired by BetaNYC’s existing program.</div>
+
+
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="card-body">
+
+          
+
+          
+
+          <a href="https://docs.google.com/document/d/1NroAgRtaa6W12UKSCBimhzRICwBfhe9sWy-FWhiRZ0Y/edit?usp=sharing" class="btn btn-outline-secondary btn-sm projects-btn">View code</a>
+
+          
+          <p class="card-text"><small><b>Project lead</b></small><br />
+          Open</p>
+          
+
+          
+          <p class="card-text"><small><b>Connect on Slack</b></small><br />
+          <a href="https://openoakland.slack.com/messages/C01RVMKBF5X" target="_blank" rel="noopener noreferrer">#project-incubating-radar</a></p>
+          
+
+        </div>
+      </div>
+
+  </div>
+
+  <div class="card-footer text-muted">
+    
+    <b>Technology:</b> TBD
+    
+  </div>
+
+</div>
+</div>
+
+  
+
+  <!-- Ops -->
+  
+  
+  <div class="d-flex">
+<div class="card projects" data-tags="brigade ops">
+
+  <div class="row no-gutters">
+
+      <div class="col-md-8">
+        <div class="card-body">
+          <div>
+            <p><span class="badge badge-primary  project-badge">Brigade ops</span></p>
+            
+              <h3 class="projects-h3">Civic User Testing Group (CUT Group)</h3>
+            
+            
+          </div>
+
+          <div class="card-text">Civic User Testing (CUT) Group’s goal is to make sure OpenOakland projects are working towards creating the best possible experience and serve all Oakland residents. If you’re interested in user experience, or just like making things better, please reach out! Check out our <a href="https://docs.google.com/document/d/1VkSG9Amzq2759HACbFizSGAah4Q4byGG6R8cCxwcOO4/edit">most recent projects.</a></div>
+
+
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="card-body">
+
+          
+          <p><img class="projects" src="/assets/images/projects/cut-group_300x233.png" alt="screenshot of Civic User Testing Group (CUT Group)" /></p>
+          
+
+          
+
+          <a href="https://github.com/openoakland/cutgroup" class="btn btn-outline-secondary btn-sm projects-btn">View code</a>
+
+          
+          <p class="card-text"><small><b>Project lead</b></small><br />
+          Open, formerly Mary Yeh</p>
+          
+
+          
+          <p class="card-text"><small><b>Connect on Slack</b></small><br />
+          <a href="https://openoakland.slack.com/messages/C02FYSFLK" target="_blank" rel="noopener noreferrer">#cut-group</a></p>
+          
+
+        </div>
+      </div>
+
+  </div>
+
+  <div class="card-footer text-muted">
+    
+  </div>
+
+</div>
+</div>
+
+  
+  
+  <div class="d-flex">
+<div class="card projects" data-tags="brigade ops">
+
+  <div class="row no-gutters">
+
+      <div class="col-md-8">
+        <div class="card-body">
+          <div>
+            <p><span class="badge badge-primary  project-badge">Brigade ops</span></p>
+            
+              <h3 class="projects-h3">Diversity, Equity, and Inclusion Group</h3>
+            
+            
+          </div>
+
+          <div class="card-text">The Diversity, Equity, and Inclusion Group was created in 2016 to codify OpenOakland’s DEI organizational principles and to lead through action, OpenOakland’s commitment to making the technology space representative of Oakland’s diverse and multicultural community. In 2020, it’s become very clear that this foundational shift must extend beyond a single working group. We welcome those who might want to formalize the process through an active working group. In the meantime, please visit us in Slack to connect and continue the work.</div>
+
+
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="card-body">
+
+          
+
+          
+
+          
+
+          
+          <p class="card-text"><small><b>Project lead</b></small><br />
+          Open (see Jess Sand)</p>
+          
+
+          
+          <p class="card-text"><small><b>Connect on Slack</b></small><br />
+          <a href="https://openoakland.slack.com/messages/C3SA2U3KP" target="_blank" rel="noopener noreferrer">#oo-diversity-equity</a></p>
+          
+
+        </div>
+      </div>
+
+  </div>
+
+  <div class="card-footer text-muted">
+    
+  </div>
+
+</div>
+</div>
+
+  
+  
+  <div class="d-flex">
+<div class="card projects" data-tags="brigade ops">
+
+  <div class="row no-gutters">
+
+      <div class="col-md-8">
+        <div class="card-body">
+          <div>
+            <p><span class="badge badge-primary  project-badge">Brigade ops</span></p>
+            
+              <h3 class="projects-h3">openoakland.org</h3>
+            
+            
+          </div>
+
+          <div class="card-text">As the digital face of OpenOakland, our website serves new and existing members, community and government partners, and members of the larger Oakland and civic tech communities. The site was recently migrated from a Wordpress install to a static Jekyll site hosted on AWS. The migration focused primarily on moving the codebase, and we now are working on improving site architecture and visual design. Issues in GutHub marked “Good First Issue” are great for first-timers.</div>
+
+
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="card-body">
+
+          
+          <p><img class="projects" src="/assets/images/projects/OpenOakland-home.png" alt="screenshot of openoakland.org" /></p>
+          
+
+          <a href="https://openoakland.org" class="btn btn-primary btn-sm projects-btn">Visit site</a>
+
+          <a href="https://github.com/openoakland/openoakland.org" class="btn btn-outline-secondary btn-sm projects-btn">View code</a>
+
+          
+          <p class="card-text"><small><b>Project lead</b></small><br />
+          Jess Sand</p>
+          
+
+          
+          <p class="card-text"><small><b>Connect on Slack</b></small><br />
+          <a href="https://openoakland.slack.com/messages/CH1U5KJ48" target="_blank" rel="noopener noreferrer">#project-oo-website</a></p>
+          
+
+        </div>
+      </div>
+
+  </div>
+
+  <div class="card-footer text-muted">
+    
+    <b>Technology:</b> Jekyll, Kramdown, Bootstrap UI
+    
+  </div>
+
+</div>
+</div>
+
+    
+
+  <!-- Idle -->
+  
+  
+  <div class="d-flex">
+<div class="card projects" data-tags="idle">
+
+  <div class="row no-gutters">
+
+      <div class="col-md-8">
+        <div class="card-body">
+          <div>
+            <p><span class="badge badge-secondary  project-badge">Idle</span></p>
+            
+              <h3 class="projects-h3">Civic User Testing Group (CUT Group)</h3>
+            
+            
+          </div>
+
+          <div class="card-text">Civic User Testing (CUT) Group’s goal is to make sure OpenOakland projects are working towards creating the best possible experience and serve all Oakland residents. If you’re interested in user experience, or just like making things better, please reach out! Check out our <a href="https://docs.google.com/document/d/1VkSG9Amzq2759HACbFizSGAah4Q4byGG6R8cCxwcOO4/edit">most recent projects.</a></div>
+
+
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="card-body">
+
+          
+          <p><img class="projects" src="/assets/images/projects/cut-group_300x233.png" alt="screenshot of Civic User Testing Group (CUT Group)" /></p>
+          
+
+          
+
+          <a href="https://github.com/openoakland/cutgroup" class="btn btn-outline-secondary btn-sm projects-btn">View code</a>
+
+          
+          <p class="card-text"><small><b>Project lead</b></small><br />
+          Open, formerly Mary Yeh</p>
+          
+
+          
+          <p class="card-text"><small><b>Connect on Slack</b></small><br />
+          <a href="https://openoakland.slack.com/messages/C02FYSFLK" target="_blank" rel="noopener noreferrer">#cut-group</a></p>
+          
+
+        </div>
+      </div>
+
+  </div>
+
+  <div class="card-footer text-muted">
+    
+  </div>
+
+</div>
+</div>
+
+  
+  
+  <div class="d-flex">
+<div class="card projects" data-tags="idle">
+
+  <div class="row no-gutters">
+
+      <div class="col-md-8">
+        <div class="card-body">
+          <div>
+            <p><span class="badge badge-secondary  project-badge">Idle</span></p>
+            
+              <h3 class="projects-h3">Community Foods</h3>
+            
+            
+          </div>
+
+          <div class="card-text">In partnership with West Oakland’s Community Foods Market this project aims to support the adoption and use of food assistance benefits (EBT). The main objectives are to provide support for in-store EBT applications and to improve the EBT checkout process.</div>
+
+
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="card-body">
+
+          
+          <p><img class="projects" src="/assets/images/projects/Community-Foods-Exterior-300x206.png" alt="screenshot of Community Foods" /></p>
+          
+
+          
+
+          
+
+          
+          <p class="card-text"><small><b>Project lead</b></small><br />
+          TBD</p>
+          
+
+          
+          <p class="card-text"><small><b>Connect on Slack</b></small><br />
+          <a href="https://openoakland.slack.com/messages/C0165NXC2F2" target="_blank" rel="noopener noreferrer">#project-community-foods</a></p>
+          
+
+        </div>
+      </div>
+
+  </div>
+
+  <div class="card-footer text-muted">
+    
+    <b>Technology:</b> TBD
+    
+  </div>
+
+</div>
+</div>
+
+  
+  
+  <div class="d-flex">
+<div class="card projects" data-tags="idle">
+
+  <div class="row no-gutters">
+
+      <div class="col-md-8">
+        <div class="card-body">
+          <div>
+            <p><span class="badge badge-secondary  project-badge">Idle</span></p>
+            
+              <h3 class="projects-h3">Diversity, Equity, and Inclusion Group</h3>
+            
+            
+          </div>
+
+          <div class="card-text">The Diversity, Equity, and Inclusion Group was created in 2016 to codify OpenOakland’s DEI organizational principles and to lead through action, OpenOakland’s commitment to making the technology space representative of Oakland’s diverse and multicultural community. In 2020, it’s become very clear that this foundational shift must extend beyond a single working group. We welcome those who might want to formalize the process through an active working group. In the meantime, please visit us in Slack to connect and continue the work.</div>
+
+
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="card-body">
+
+          
+
+          
+
+          
+
+          
+          <p class="card-text"><small><b>Project lead</b></small><br />
+          Open (see Jess Sand)</p>
+          
+
+          
+          <p class="card-text"><small><b>Connect on Slack</b></small><br />
+          <a href="https://openoakland.slack.com/messages/C3SA2U3KP" target="_blank" rel="noopener noreferrer">#oo-diversity-equity</a></p>
+          
+
+        </div>
+      </div>
+
+  </div>
+
+  <div class="card-footer text-muted">
+    
+  </div>
+
+</div>
+</div>
+
+  
+  
+  <div class="d-flex">
+<div class="card projects" data-tags="idle">
+
+  <div class="row no-gutters">
+
+      <div class="col-md-8">
+        <div class="card-body">
+          <div>
+            <p><span class="badge badge-secondary  project-badge">Idle</span></p>
+            
+              <h3 class="projects-h3">LaneLookout</h3>
+            
+            
+          </div>
+
+          <div class="card-text">Our project seeks to improve the safety of bike lanes for cyclists in Oakland. We are developing an app to generate aggregate data regarding infringements in the bike lane (ie. vehicles) via self-reporting cyclists. From this data, we will generate reports to drive improvements in problem areas.</div>
+
+
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="card-body">
+
+          
+          <p><img class="projects" src="/assets/images/projects/lane-lookout_300x300.png" alt="screenshot of LaneLookout" /></p>
+          
+
+          <a href="https://www.lanelookout.org" class="btn btn-primary btn-sm projects-btn">Visit site</a>
+
+          
+
+          
+          <p class="card-text"><small><b>Project lead</b></small><br />
+          Open</p>
+          
+
+          
+          <p class="card-text"><small><b>Connect on Slack</b></small><br />
+          <a href="https://openoakland.slack.com/messages/C9Q7L8DPC" target="_blank" rel="noopener noreferrer">#oak-dot-bikes</a></p>
+          
+
+        </div>
+      </div>
+
+  </div>
+
+  <div class="card-footer text-muted">
+    
+  </div>
+
+</div>
+</div>
+
+  
+  
+  <div class="d-flex">
+<div class="card projects" data-tags="idle">
+
+  <div class="row no-gutters">
+
+      <div class="col-md-8">
+        <div class="card-body">
+          <div>
+            <p><span class="badge badge-secondary  project-badge">Idle</span></p>
+            
+              <h3 class="projects-h3">Oakland Gov 101</h3>
+            
+            
+          </div>
+
+          <div class="card-text">This project was a partnership with the League of Women Voters of Oakland to add educational content to their site describing the structure and function of local government.</div>
+
+
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="card-body">
+
+          
+
+          
+
+          <a href="https://invis.io/8NUX0LPSBMG#/394226187_Overview" class="btn btn-outline-secondary btn-sm projects-btn">View code</a>
+
+          
+          <p class="card-text"><small><b>Project lead</b></small><br />
+          Formerly Thomas Deckert</p>
+          
+
+          
+          <p class="card-text"><small><b>Connect on Slack</b></small><br />
+          <a href="https://openoakland.slack.com/messages/CNTPFR7JA" target="_blank" rel="noopener noreferrer">#project-oakland-gov-101</a></p>
+          
+
+        </div>
+      </div>
+
+  </div>
+
+  <div class="card-footer text-muted">
+    
+  </div>
+
+</div>
+</div>
+
+  
+  
+  <div class="d-flex">
+<div class="card projects" data-tags="idle">
+
+  <div class="row no-gutters">
+
+      <div class="col-md-8">
+        <div class="card-body">
+          <div>
+            <p><span class="badge badge-secondary  project-badge">Idle</span></p>
+            
+              <h3 class="projects-h3">Oakland Open Data Portal</h3>
+            
+            
+          </div>
+
+          <div class="card-text">Since 2011, this platform has served as an open data catalog built by the OpenOakland brigade as a community resource and our first example of what can be achieved using open source tools in strategic ways for our city. This site uses the opensource [CKAN](http://www.ckan.org) platform—the same free software behind the UK government’s [Data.Gov.UK](http://data.gov.uk) resource. This site has been populated with data found on various Oakland government websites and from the huge data warehouse operated by [Urban Strategies Council](http://www.urbanstrategies.org).</div>
+
+
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="card-body">
+
+          
+
+          <a href="http://data.openoakland.org/" class="btn btn-primary btn-sm projects-btn">Visit site</a>
+
+          
+
+          
+          <p class="card-text"><small><b>Project lead</b></small><br />
+          Open</p>
+          
+
+          
+
+        </div>
+      </div>
+
+  </div>
+
+  <div class="card-footer text-muted">
+    
+  </div>
+
+</div>
+</div>
+
+  
+  
+  <div class="d-flex">
+<div class="card projects" data-tags="idle">
+
+  <div class="row no-gutters">
+
+      <div class="col-md-8">
+        <div class="card-body">
+          <div>
+            <p><span class="badge badge-secondary  project-badge">Idle</span></p>
+            
+              <h3 class="projects-h3">Oakland Wiki</h3>
+            
+            
+          </div>
+
+          <div class="card-text">Oakland Wiki is built on the [LocalWiki](https://oaklandwiki.org/about/) platform, a grassroots effort to collect, share, and open the world’s local knowledge. Anyone can edit this wiki, so contribute what you know about your local community for others to use and enjoy!</div>
+
+
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="card-body">
+
+          
+
+          <a href="https://oaklandwiki.org" class="btn btn-primary btn-sm projects-btn">Visit site</a>
+
+          
+
+          
+
+          
+
+        </div>
+      </div>
+
+  </div>
+
+  <div class="card-footer text-muted">
+    
+  </div>
+
+</div>
+</div>
+
+  
+  
+  <div class="d-flex">
+<div class="card projects" data-tags="idle">
+
+  <div class="row no-gutters">
+
+      <div class="col-md-8">
+        <div class="card-body">
+          <div>
+            <p><span class="badge badge-secondary  project-badge">Idle</span></p>
+            
+              <h3 class="projects-h3">Trash Talk</h3>
+            
+            
+          </div>
+
+          <div class="card-text">With East Oakland facing illegal dumping, mostly from outside actors, Trash Talk was envisioned in 2016 as a tool to help neighbors plan and execute cleanups and graffiti removal. The app was intended to help neighbors report issues and work together with the Oakland City Public Works Agency to remove trash, dead animals, and other consequences of illegal dumping in East Oakland neighborhoods. The goal was for Trash Talk to eventually connect with the City‘s existing tracking app, [SeeClickFix](https://en.seeclickfix.com/oakland) for tracking volunteer time.</div>
+
+
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="card-body">
+
+          
+          <p><img class="projects" src="/assets/images/projects/trashtalk_300x233.png" alt="screenshot of Trash Talk" /></p>
+          
+
+          
+
+          <a href="https://github.com/openoakland/TrashTalk" class="btn btn-outline-secondary btn-sm projects-btn">View code</a>
+
+          
+          <p class="card-text"><small><b>Project lead</b></small><br />
+          Formerly Tim Miller</p>
+          
+
+          
+          <p class="card-text"><small><b>Connect on Slack</b></small><br />
+          <a href="https://openoakland.slack.com/messages/C4R9JUW12" target="_blank" rel="noopener noreferrer">#project-trash-talk</a></p>
+          
+
+        </div>
+      </div>
+
+  </div>
+
+  <div class="card-footer text-muted">
+    
+  </div>
+
+</div>
+</div>
+
+  
+  
+  <div class="d-flex">
+<div class="card projects" data-tags="idle">
+
+  <div class="row no-gutters">
+
+      <div class="col-md-8">
+        <div class="card-body">
+          <div>
+            <p><span class="badge badge-secondary  project-badge">Idle</span></p>
+            
+            
+          </div>
+
+          <div class="card-text"></div>
+
+
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="card-body">
+
+          
+
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </div>
+
+  </div>
+
+  <div class="card-footer text-muted">
+    
+  </div>
+
+</div>
+</div>
+
+  
+
+  <!-- Delivered -->
+  
+  
+  <div class="d-flex">
+<div class="card projects" data-tags="delivered">
+
+  <div class="row no-gutters">
+
+      <div class="col-md-8">
+        <div class="card-body">
+          <div>
+            <p><span class="badge badge-dark  project-badge">Delivered</span></p>
+            
+              <h3 class="projects-h3">Adopt a Drain</h3>
+            
+            
+          </div>
+
+          <div class="card-text">Adopt a Drain was a platform for Oakland residents to volunteer to be responsible for keeping a nearby storm drain clear to decrease flooding from storms, protect water quality, and keep trash from storm drains and connected creeks and water bodies. Vigilant maintenance of the City’s storm drain infrastructure is important for reducing pollution in the Bay. Adopt a Drain was set up in partnership with [City of Oakland’s Public Works Agency](http://www2.oaklandnet.com/government/o/PWA/o/FE/s/ID/OAK024735#Drain).</div>
+
+
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="card-body">
+
+          
+
+          
+
+          <a href="https://github.com/openoakland/adopt-a-drain" class="btn btn-outline-secondary btn-sm projects-btn">View code</a>
+
+          
+
+          
+
+        </div>
+      </div>
+
+  </div>
+
+  <div class="card-footer text-muted">
+    
+  </div>
+
+</div>
+</div>
+
+  
+  
+  <div class="d-flex">
+<div class="card projects" data-tags="delivered">
+
+  <div class="row no-gutters">
+
+      <div class="col-md-8">
+        <div class="card-body">
+          <div>
+            <p><span class="badge badge-dark  project-badge">Delivered</span></p>
+            
+              <h3 class="projects-h3">Alameda County Census 2020 Landing Page</h3>
+            
+            
+          </div>
+
+          <div class="card-text">This landing page was a portal for the 2020 Census administered by Alameda County. It will be accessible at locations where a computer or tablet is provided to the public and is intended to introduce people to the Census and offer information in their native language about why the Census is important to complete, as well as resources and guides on how to complete the Census. It is intended to be welcoming to people for whom English is not their first language.</div>
+
+
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="card-body">
+
+          
+          <p><img class="projects" src="/assets/images/projects/OpenOakland-Census-Guide.png" alt="screenshot of Alameda County Census 2020 Landing Page" /></p>
+          
+
+          <a href="https://llkats.github.io/dos-acccc/" class="btn btn-primary btn-sm projects-btn">Visit site</a>
+
+          <a href="https://github.com/llkats/dos-acccc" class="btn btn-outline-secondary btn-sm projects-btn">View code</a>
+
+          
+          <p class="card-text"><small><b>Project lead</b></small><br />
+          Formerly Lydia Kats</p>
+          
+
+          
+          <p class="card-text"><small><b>Connect on Slack</b></small><br />
+          <a href="https://openoakland.slack.com/messages/CJJ9B9A3S" target="_blank" rel="noopener noreferrer">#census-projects</a></p>
+          
+
+        </div>
+      </div>
+
+  </div>
+
+  <div class="card-footer text-muted">
+    
+  </div>
+
+</div>
+</div>
+
+  
+  
+  <div class="d-flex">
+<div class="card projects" data-tags="delivered">
+
+  <div class="row no-gutters">
+
+      <div class="col-md-8">
+        <div class="card-body">
+          <div>
+            <p><span class="badge badge-dark  project-badge">Delivered</span></p>
+            
+              <h3 class="projects-h3">Alameda County Census 2020 Events</h3>
+            
+            
+          </div>
+
+          <div class="card-text">Census partners can submit events (workshops, tabling, drop-in centers, etc) and resources around the 2020 census. Alameda County residents can learn more about the first all digital census through these events, even finding locations where they can get assistance to complete the census. Residents can search for events based on date, location, and language.</div>
+
+
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="card-body">
+
+          
+
+          
+
+          <a href="https://github.com/openoakland/dos-census-events" class="btn btn-outline-secondary btn-sm projects-btn">View code</a>
+
+          
+          <p class="card-text"><small><b>Project lead</b></small><br />
+          @mikeubell</p>
+          
+
+          
+          <p class="card-text"><small><b>Connect on Slack</b></small><br />
+          <a href="https://openoakland.slack.com/messages/CJJ9B9A3S" target="_blank" rel="noopener noreferrer">#census-projects</a></p>
+          
+
+        </div>
+      </div>
+
+  </div>
+
+  <div class="card-footer text-muted">
+    
+  </div>
+
+</div>
+</div>
+
+  
+  
+  <div class="d-flex">
+<div class="card projects" data-tags="delivered">
+
+  <div class="row no-gutters">
+
+      <div class="col-md-8">
+        <div class="card-body">
+          <div>
+            <p><span class="badge badge-dark  project-badge">Delivered</span></p>
+            
+              <h3 class="projects-h3">CannaEquity.org</h3>
+            
+            
+          </div>
+
+          <div class="card-text">In 2017, City of Oakland expanded their medical cannabis licensing to include regulation for cultivation and manufacturing. As part of this activity, the City also codified an Equity Licensing Program to address barriers to participation in the industry for members of disenfranchised communities in Oakland. This program includes a provision for “equity business incubators” to support new businesses in the industry. Equity businesses in the pipeline will be importantant to regular applicants, because regular licenses will only be issued on a one-to-one basis with equity licenses during the initial phase of the program. The incubator opportunity is intended to help new enterprises overcome the barrier of securing commercial space by incentivizing more established businesses to agree to share their existing space for a minimum of three years. By partnering with an equity business, a regular applicant will be moved to the top of the list for the next available non-equity cannabis business license.
+To support the Equity Licensing Program, OpenOakland provided support to other volunteer technologists and cannabis entrepreneurs working with the City of Oakland’s City Administrator’s Office and the Department of Race and Equity to develop [CannaEquity.org](http://cannaequity.org/), an online “matchmaking” application that would assist interested equity and regular applicants to locate each other efficiently. Applicants would create online accounts to pre-screen for compatibility and control the pace of information sharing and relationship building needed for the formation of space-sharing relationships. The app will be maintained until the end of phase one of licensing. This date will be determined by the collection of cannabis tax revenue sufficient to launch the next phase of equity applicant support services (assumed to be within one year).</div>
+
+
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="card-body">
+
+          
+          <p><img class="projects" src="/assets/images/projects/cannaequity_300x199.png" alt="screenshot of CannaEquity.org" /></p>
+          
+
+          
+
+          
+
+          
+          <p class="card-text"><small><b>Project lead</b></small><br />
+          Formerly Angela Gennino and Richard Ng</p>
+          
+
+          
+
+        </div>
+      </div>
+
+  </div>
+
+  <div class="card-footer text-muted">
+    
+  </div>
+
+</div>
+</div>
+
+  
+  
+  <div class="d-flex">
+<div class="card projects" data-tags="delivered">
+
+  <div class="row no-gutters">
+
+      <div class="col-md-8">
+        <div class="card-body">
+          <div>
+            <p><span class="badge badge-dark  project-badge">Delivered</span></p>
+            
+              <h3 class="projects-h3">CityCamp Oakland</h3>
+            
+            
+          </div>
+
+          <div class="card-text">The fifth annual CityCamp successfully took place on Saturday, March 25, 2017 at Oakland City Hall. CityCamp is an unstructured conference where municipal employees, civic leaders, technology folks, software developers, journalists, and engaged residents can meet and discuss the intersections of technology and local government—how innovative technology and data uses can improve civic engagement, increase efficiency and transparency, connect residents, and incubate the technology community in our city. Unconferences are not structured up-front; the agenda is completed on the day based on topics the attendees themselves suggest. This gives attendees control over the topics and discussion happening at the event, so residents can drive attention towards issues they think are most important.</div>
+
+
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="card-body">
+
+          
+          <p><img class="projects" src="/assets/images/projects/citycamp_300x150.png" alt="screenshot of CityCamp Oakland" /></p>
+          
+
+          
+
+          
+
+          
+
+          
+          <p class="card-text"><small><b>Connect on Slack</b></small><br />
+          <a href="https://openoakland.slack.com/messages/C4GRVQBU2" target="_blank" rel="noopener noreferrer">#event-citycampoakland</a></p>
+          
+
+        </div>
+      </div>
+
+  </div>
+
+  <div class="card-footer text-muted">
+    
+  </div>
+
+</div>
+</div>
+
+  
+  
+  <div class="d-flex">
+<div class="card projects" data-tags="delivered">
+
+  <div class="row no-gutters">
+
+      <div class="col-md-8">
+        <div class="card-body">
+          <div>
+            <p><span class="badge badge-dark  project-badge">Delivered</span></p>
+            
+              <h3 class="projects-h3">Discount Mobility Share</h3>
+            
+            
+          </div>
+
+          <div class="card-text">Discount Mobility helped low income residents get access to scooter share, bike share and car share programs. While every company has discount programs for low income residents, the application process is fragmented and these benefits aren’t widely known. We unified the application for these programs and engaged in outreach so people were aware of this benefit.</div>
+
+
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="card-body">
+
+          
+          <p><img class="projects" src="/assets/images/projects/discount_mobility_300x213.png" alt="screenshot of Discount Mobility Share" /></p>
+          
+
+          
+
+          
+
+          
+          <p class="card-text"><small><b>Project lead</b></small><br />
+          Open, formerly Gaurav Kulkarni</p>
+          
+
+          
+          <p class="card-text"><small><b>Connect on Slack</b></small><br />
+          <a href="https://openoakland.slack.com/messages/CLY606C2D" target="_blank" rel="noopener noreferrer">#discount-mobility</a></p>
+          
+
+        </div>
+      </div>
+
+  </div>
+
+  <div class="card-footer text-muted">
+    
+  </div>
+
+</div>
+</div>
+
+  
+  
+  <div class="d-flex">
+<div class="card projects" data-tags="delivered">
+
+  <div class="row no-gutters">
+
+      <div class="col-md-8">
+        <div class="card-body">
+          <div>
+            <p><span class="badge badge-dark  project-badge">Delivered</span></p>
+            
+              <h3 class="projects-h3">Early Oakland</h3>
+            
+            
+          </div>
+
+          <div class="card-text">Built in partnership with the Oak Education Cabinet in 2011, Early Oakland provided information on early learning programs that were state subsidized and federally supported Head Start programs in Oakland, including Bananas Child Care Resource and Referral, Oakland Head Start and the Unity Council Preschool, as well as Oakland Unified School District Early Childhood Education Department. It included part-day and full-day programs for three- and four-year-olds, and a few programs also served younger children.</div>
+
+
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="card-body">
+
+          
+
+          
+
+          <a href="https://github.com/openoakland/EarlyOakland" class="btn btn-outline-secondary btn-sm projects-btn">View code</a>
+
+          
+
+          
+
+        </div>
+      </div>
+
+  </div>
+
+  <div class="card-footer text-muted">
+    
+  </div>
+
+</div>
+</div>
+
+  
+  
+  <div class="d-flex">
+<div class="card projects" data-tags="delivered">
+
+  <div class="row no-gutters">
+
+      <div class="col-md-8">
+        <div class="card-body">
+          <div>
+            <p><span class="badge badge-dark  project-badge">Delivered</span></p>
+            
+              <h3 class="projects-h3">La Escuelita</h3>
+            
+            
+          </div>
+
+          <div class="card-text">OUSD doesn’t provide resources for school websites, but many parents (and parents of prospective students) expect them to. La Escuelita, a K-8 elementary school in the Lake Merritt area, wants help developing a simple website that goes live in Fall 2020 term; houses essential info like announcements, schedule changes (currently rely on paper fliers students bring home) and contact info; offers easy-to-use technology and a layout that non-technical staff can easily update and maintain.</div>
+
+
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="card-body">
+
+          
+          <p><img class="projects" src="/assets/images/projects/OpenOakland-project-laescuelita.png" alt="screenshot of La Escuelita" /></p>
+          
+
+          <a href="https://www.laescuelita.org/" class="btn btn-primary btn-sm projects-btn">Visit site</a>
+
+          
+
+          
+          <p class="card-text"><small><b>Project lead</b></small><br />
+          Laurel Adams</p>
+          
+
+          
+          <p class="card-text"><small><b>Connect on Slack</b></small><br />
+          <a href="https://openoakland.slack.com/messages/UNSGF8W06" target="_blank" rel="noopener noreferrer">#project-la-escuelita</a></p>
+          
+
+        </div>
+      </div>
+
+  </div>
+
+  <div class="card-footer text-muted">
+    
+    <b>Technology:</b> Google Sites
+    
+  </div>
+
+</div>
+</div>
+
+  
+  
+  <div class="d-flex">
+<div class="card projects" data-tags="delivered">
+
+  <div class="row no-gutters">
+
+      <div class="col-md-8">
+        <div class="card-body">
+          <div>
+            <p><span class="badge badge-dark  project-badge">Delivered</span></p>
+            
+              <h3 class="projects-h3">Oakland Art Murmur</h3>
+            
+            
+          </div>
+
+          <div class="card-text">OpenOakland partnered with Oakland Art Murmur to build tools that art enthusiasts can use to promote Oakland art. At the heart of this partership was Art Murmur’s interactive Art Map. The map features a series of curated walking tours. Clicking along the tour route reveals photographs of public art in Oakland with accompanying information about the artwork. The team built a submission form that allows anyone to submit new art to the map by leveraging [Oakland Wiki](https://localwiki.org/oakland/Murals).</div>
+
+
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="card-body">
+
+          
+          <p><img class="projects" src="/assets/images/projects/oakland-art-murmur_300x240.png" alt="screenshot of Oakland Art Murmur" /></p>
+          
+
+          <a href="https://oaklandartmurmur.org/venues/walking-tours/" class="btn btn-primary btn-sm projects-btn">Visit site</a>
+
+          <a href="https://github.com/openoakland/artmap" class="btn btn-outline-secondary btn-sm projects-btn">View code</a>
+
+          
+          <p class="card-text"><small><b>Project lead</b></small><br />
+          Open, formerly Andy Guenthner</p>
+          
+
+          
+          <p class="card-text"><small><b>Connect on Slack</b></small><br />
+          <a href="https://openoakland.slack.com/messages/CJL45MU0P" target="_blank" rel="noopener noreferrer">#project-artmap</a></p>
+          
+
+        </div>
+      </div>
+
+  </div>
+
+  <div class="card-footer text-muted">
+    
+  </div>
+
+</div>
+</div>
+
+  
+  
+  <div class="d-flex">
+<div class="card projects" data-tags="delivered">
+
+  <div class="row no-gutters">
+
+      <div class="col-md-8">
+        <div class="card-body">
+          <div>
+            <p><span class="badge badge-dark  project-badge">Delivered</span></p>
+            
+              <h3 class="projects-h3">Oakland Beats</h3>
+            
+            
+          </div>
+
+          <div class="card-text">This tool helps visitors determine which Community Police Beat they live in. In Oakland, [Neighborhood Councils](https://www.oaklandca.gov/topics/neighborhood-councils) (formerly known as Neighborhood Crime Prevention Council or NCPC), operate for each of the 53 Community Police Beats. The Neighborhood Council system provides a way for residents to gather and discuss local crime problems with a city and OPD representative on a monthly basis.</div>
+
+
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="card-body">
+
+          
+
+          
+
+          <a href="https://github.com/openoakland/FindYourBeat" class="btn btn-outline-secondary btn-sm projects-btn">View code</a>
+
+          
+
+          
+          <p class="card-text"><small><b>Connect on Slack</b></small><br />
+          <a href="https://openoakland.slack.com/messages/C040ULV6C" target="_blank" rel="noopener noreferrer">#project-oak-crime</a></p>
+          
+
+        </div>
+      </div>
+
+  </div>
+
+  <div class="card-footer text-muted">
+    
+  </div>
+
+</div>
+</div>
+
+  
+  
+  <div class="d-flex">
+<div class="card projects" data-tags="delivered">
+
+  <div class="row no-gutters">
+
+      <div class="col-md-8">
+        <div class="card-body">
+          <div>
+            <p><span class="badge badge-dark  project-badge">Delivered</span></p>
+            
+              <h3 class="projects-h3">Open Government Pledge</h3>
+            
+            
+          </div>
+
+          <div class="card-text">During Oakland‘s 2012 elections, OpenOakland asked electoral candidates to take the [Open Government Pledge](http://oaklandcandidates.org/OpenGovPledge2012.pdf) to support three core principles of Open Government: transparency, participation, and collaboration. By the end of the elections, four of the six winners had signed onto the pledge.</div>
+
+
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="card-body">
+
+          
+
+          <a href="http://oaklandcandidates.org/" class="btn btn-primary btn-sm projects-btn">Visit site</a>
+
+          <a href="https://github.com/openoakland/oaklandcandidates" class="btn btn-outline-secondary btn-sm projects-btn">View code</a>
+
+          
+
+          
+
+        </div>
+      </div>
+
+  </div>
+
+  <div class="card-footer text-muted">
+    
+  </div>
+
+</div>
+</div>
+
+  
+  
+  <div class="d-flex">
+<div class="card projects" data-tags="delivered">
+
+  <div class="row no-gutters">
+
+      <div class="col-md-8">
+        <div class="card-body">
+          <div>
+            <p><span class="badge badge-dark  project-badge">Delivered</span></p>
+            
+              <h3 class="projects-h3">Open Oasis</h3>
+            
+            
+          </div>
+
+          <div class="card-text">Phase III (Delivery pending, ~End of Mar 2019): This is mainly focused on developing a survey design, and related questionnaire, to measure OTX impact across their tech literacy programs servicing individuals in public housing. The data team is going to fine-tune our deliveries in Phase II to be “publication-ready”. Meanwhile, our volunteers leading the survey design work are partnered with CUT group to assist with the survey design, implementation approach, and language of questions.</div>
+
+
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="card-body">
+
+          
+
+          
+
+          <a href="https://docs.google.com/presentation/d/1A34p8Cbifhfn4uGpqG0MTBC89fR_EsFjRFtQR21fEnk/edit?usp=sharing" class="btn btn-outline-secondary btn-sm projects-btn">View code</a>
+
+          
+          <p class="card-text"><small><b>Project lead</b></small><br />
+          Andrew Tom</p>
+          
+
+          
+          <p class="card-text"><small><b>Connect on Slack</b></small><br />
+          <a href="https://openoakland.slack.com/messages/C040ULV6C" target="_blank" rel="noopener noreferrer">#openoasis</a></p>
+          
+
+        </div>
+      </div>
+
+  </div>
+
+  <div class="card-footer text-muted">
+    
+  </div>
+
+</div>
+</div>
+
+  
+  
+  <div class="d-flex">
+<div class="card projects" data-tags="delivered">
+
+  <div class="row no-gutters">
+
+      <div class="col-md-8">
+        <div class="card-body">
+          <div>
+            <p><span class="badge badge-dark  project-badge">Delivered</span></p>
+            
+              <h3 class="projects-h3">RecordTrac</h3>
+            
+            
+          </div>
+
+          <div class="card-text">RecordTrac was a simple way for individuals to submit public record requests to a governmental agency online. The application, built in 2013, also allowed government employees to manage, respond to, and fulfill incoming requests. By displaying all submitted records requests, members of the public can find what they need without having to create a new public record request.</div>
+
+
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="card-body">
+
+          
+
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </div>
+
+  </div>
+
+  <div class="card-footer text-muted">
+    
+  </div>
+
+</div>
+</div>
+
+  
+  
+  <div class="d-flex">
+<div class="card projects" data-tags="delivered">
+
+  <div class="row no-gutters">
+
+      <div class="col-md-8">
+        <div class="card-body">
+          <div>
+            <p><span class="badge badge-dark  project-badge">Delivered</span></p>
+            
+              <h3 class="projects-h3">Soft Story</h3>
+            
+            
+          </div>
+
+          <div class="card-text">Soft Story is a simple interactive map of potential soft-story buildings in Oakland. Soft-story buildings are multi-unit, wood-frame, residential buildings with a first story that lacks adequate strength or stiffness to prevent leaning or collapse in an earthquake. These buildings pose a safety risk to tenants and occupants, a financial risk to owners, and risk the recovery of the city and region. This data shows the results of a screening program for potential soft-story buildings in Oakland. In 2008 Oakland surveyed its multi-family buildings with five or more units, and in 2009 passed an ordinance that required the owners of these buildings to complete a simple evaluation of the ground floor. This data shows the results of these screenings as of early 2013.</div>
+
+
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="card-body">
+
+          
+
+          
+
+          
+
+          
+
+          
+          <p class="card-text"><small><b>Connect on Slack</b></small><br />
+          <a href="https://openoakland.slack.com/messages/C040ULV6C" target="_blank" rel="noopener noreferrer">#project-soft-story</a></p>
+          
+
+        </div>
+      </div>
+
+  </div>
+
+  <div class="card-footer text-muted">
+    
+  </div>
+
+</div>
+</div>
+
+  
+  
+  <div class="d-flex">
+<div class="card projects" data-tags="delivered">
+
+  <div class="row no-gutters">
+
+      <div class="col-md-8">
+        <div class="card-body">
+          <div>
+            <p><span class="badge badge-dark  project-badge">Delivered</span></p>
+            
+              <h3 class="projects-h3">Track G – Oakland’s Measure G</h3>
+            
+            
+          </div>
+
+          <div class="card-text">Measure G is a city ballot measure that was passed by the citizens of Oakland in 2008 to improve the quality of education provided by Oakland public schools. Money is collected from Measure G via a special parcel tax, which amounts to about $20 million a year in additional funds for the Oakland Unified School District’s budget. [Track G – Oakland’s Measure G](https://trackg.org/) publishes data on how funds collected from the Measure G parcel tax are spent. Track G allows spending to be seen by location, by program, and by school.</div>
+
+
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="card-body">
+
+          
+          <p><img class="projects" src="/assets/images/projects/trackg_300x233.png" alt="screenshot of Track G – Oakland’s Measure G" /></p>
+          
+
+          <a href="https://trackg.org/" class="btn btn-primary btn-sm projects-btn">Visit site</a>
+
+          <a href="https://github.com/openoakland/measure-g" class="btn btn-outline-secondary btn-sm projects-btn">View code</a>
+
+          
+          <p class="card-text"><small><b>Project lead</b></small><br />
+          Formerly John Baldo, Erin Hancock</p>
+          
+
+          
+          <p class="card-text"><small><b>Connect on Slack</b></small><br />
+          <a href="https://openoakland.slack.com/messages/C04AS7MKP" target="_blank" rel="noopener noreferrer">#project-track-g</a></p>
+          
+
+        </div>
+      </div>
+
+  </div>
+
+  <div class="card-footer text-muted">
+    
+  </div>
+
+</div>
+</div>
+
+  
+  
+  <div class="d-flex">
+<div class="card projects" data-tags="delivered">
+
+  <div class="row no-gutters">
+
+      <div class="col-md-8">
+        <div class="card-body">
+          <div>
+            <p><span class="badge badge-dark  project-badge">Delivered</span></p>
+            
+              <h3 class="projects-h3">Water Quality</h3>
+            
+            
+          </div>
+
+          <div class="card-text">Approximately one million California residents currently only have access to drinking water that does not meet state and federal standards. The California Drinking Water project provides user-friendly online queries, charts, and maps to show which water systems have current and persistent drinking water contamination violations. Partnering with the State Water Board and the Community Water Center non-profit organization, Open Oakland volunteers developed a tool features using the State’s bi-monthly Human Right to Water water quality reporting data on cities, communities, schools, and daycares. The online features allow government officials, advocates, researchers, and residents to more easily understand which water systems have contamination problems and identify solutions that support clean water for all Californians. Used daily by local grassroots organizations, the site won awards at two consecutive Water Data Challenges.</div>
+
+
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="card-body">
+
+          
+          <p><img class="projects" src="/assets/images/projects/water_300x237.png" alt="screenshot of Water Quality" /></p>
+          
+
+          <a href="http://water.openoakland.org/" class="btn btn-primary btn-sm projects-btn">Visit site</a>
+
+          <a href="https://github.com/openoakland/clean-water" class="btn btn-outline-secondary btn-sm projects-btn">View code</a>
+
+          
+          <p class="card-text"><small><b>Project lead</b></small><br />
+          Open, formerly Aaron Hans</p>
+          
+
+          
+          <p class="card-text"><small><b>Connect on Slack</b></small><br />
+          <a href="https://openoakland.slack.com/messages/CBB52CFU2" target="_blank" rel="noopener noreferrer">#project-ca-water-challenge</a></p>
+          
+
+        </div>
+      </div>
+
+  </div>
+
+  <div class="card-footer text-muted">
+    
+  </div>
+
+</div>
+</div>
+
+  
+  
+  <div class="d-flex">
+<div class="card projects" data-tags="delivered">
+
+  <div class="row no-gutters">
+
+      <div class="col-md-8">
+        <div class="card-body">
+          <div>
+            <p><span class="badge badge-dark  project-badge">Delivered</span></p>
+            
+            
+          </div>
+
+          <div class="card-text"></div>
+
+
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="card-body">
+
+          
+
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </div>
+
+  </div>
+
+  <div class="card-footer text-muted">
+    
+  </div>
+
+</div>
+</div>
+
+  
+
+</project-filter>
+
+<hr />
+<h2 id="status-definitions">Status definitions</h2>
+
+<h3 id="active"><span class="badge badge-success">Active</span></h3>
+
+<p>These projects are actively supported by a core team of OpenOakland volunteers. To contribute or provide feedback, see <a href="#get-involved">Get involved</a>.</p>
+
+<h3 id="incubating"><span class="badge badge-info">Incubating</span></h3>
+
+<p>Incubating projects are in the exploratory or start-up phase before becoming an official OpenOakland project. To be listed as an incubating project, ideas must have a draft <a href="https://docs.google.com/document/d/1k24P9JiAUEzJLPFRDjVh7aRZexax6NUhfPFLSI3R80M/edit?usp=sharing">project exploration worksheet</a> completed, an acting lead shepherding the idea, and be actively recruiting collaborators. Placement on the website is at the discretion of the Steering Committee.</p>
+
+<h3 id="brigade-ops"><span class="badge badge-primary">Brigade ops</span></h3>
+
+<p>These projects support OpenOakland’s operations. Like <span class="badge badge-success">Active</span> and <span class="badge badge-info">Incubating</span> projects, they are <a href="#get-involved">open to volunteer contributions</a>.</p>
+
+<h3 id="idle"><span class="badge badge-secondary">Idle</span></h3>
+
+<p>Sometimes projects go quiet when the core team gets too busy or disbands. If you’d like to resume or adapt one of these, submit a <a href="https://docs.google.com/document/d/1k24P9JiAUEzJLPFRDjVh7aRZexax6NUhfPFLSI3R80M/edit?usp=sharing">project exploration worksheet</a> at an upcoming Hack Night or in Slack’s #oo-steering-committee channel.</p>
+
+<h3 id="delivered"><span class="badge badge-dark">Delivered</span></h3>
+
+<p>Delivered projects have either reached their intended conclusion or been handed off to a partner for long-term management. Because most of OpenOakland’s work is open source, these projects can often be reproduced or adapted by anyone with an interest in doing so.</p>
+
+<h3 id="decommissioned"><span class="badge badge-warning">Decommissioned</span></h3>
+
+<p>These are projects the Steering Committee has formally reviewed and deemed no longer a good fit for OpenOakland. These projects may not be reinstated without submitting a new <a href="https://docs.google.com/document/d/1k24P9JiAUEzJLPFRDjVh7aRZexax6NUhfPFLSI3R80M/edit?usp=sharing">project exploration worksheet</a> that substantively addresses the original reasons for discontinuation. Project briefs that are declined by the Steering Committee twice may not be resubmitted without substantive changes.</p>
+
+<hr />
+
+<h2 id="get-involved">Get involved</h2>
+<p>There are several ways to contribute to an existing project:</p>
+
+<ul>
+  <li>Join us for our Tuesday <a href="https://www.meetup.com/OpenOakland/events/">meetups</a> to connect with the project team.</li>
+  <li>Join our <a href="https://join.slack.com/t/openoakland/shared_invite/zt-n4d7tx2t-UVIN7a769e4oc9j7PgM3HA">Slack workspace</a> and introduce yourself in the project’s channel listed in the description (see our <a href="https://docs.google.com/document/d/1VWZQ_3ehP5j0IOTY0nJClvQPll3ivSkuAdh5YsOhO_U/edit?usp=sharing">OpenOakland Slack Guide</a> for help).</li>
+  <li>Email <a href="mailto:steering@openoakland.org">steering@openoakland.org</a> with any questions or feedback.</li>
+</ul>
+
+<hr />
+
+<h3 id="starting-an-openoakland-project">Starting an OpenOakland project</h3>
+
+<p>OpenOakland is reevaluating how our projects are vetted, adopted, and developed. This is an ongoing pilot that we continue to iterate on in an effort to ensure that projects serve their intended communities, consider potential unintended consequences, and foster greater inclusion of community voices—particularly those from underrepresented and underserved Oakland communities.</p>
+
+<p>If you have a new idea for an OpenOakland project:</p>
+
+<ol>
+  <li>
+    <p><strong>Fill out the <a href="https://docs.google.com/document/d/1k24P9JiAUEzJLPFRDjVh7aRZexax6NUhfPFLSI3R80M/edit?usp=sharing">project exploration worksheet</a></strong>. We encourage you to join our <a href="https://join.slack.com/t/openoakland/shared_invite/zt-n4d7tx2t-UVIN7a769e4oc9j7PgM3HA">Slack workspace</a> and share your draft with our membership, so we can collaborate together as you develop your idea.</p>
+  </li>
+  <li>
+    <p><strong>Submit your draft brief to the #oo-steering-committee channel</strong> on Slack for formal consideration. Provided your brief is submitted at least two weeks in advance, it will be reviewed at the next Steering Committee meeting (a group of elected leadership and existing project reps), and you’ll get some initial feedback and be asked to make adjustments accordingly.</p>
+  </li>
+  <li>
+    <p><strong>Make any requested adjustments</strong> based on the Steering Committee’s feedback and resubmit the final brief.</p>
+  </li>
+</ol>
+
+<p>Once your final brief is submitted, the Steering Committee will hold a formal vote to approve or decline the project.</p>
+
+<h4 id="what-makes-a-good-project">What makes a good project?</h4>
+
+<p>We generally consider the following types of projects:</p>
+
+<ul>
+  <li><strong>Civic tech projects:</strong> providing tools or services to Oaklanders or public agencies to increase access to and understanding of government.</li>
+  <li><strong>Events:</strong> major events that require a team to execute.</li>
+  <li><strong>OpenOakland sustainability projects:</strong> efforts to improve and sustain OpenOakland as an organization.</li>
+</ul>
+
+<p>Projects must demonstrate alignment to OpenOakland’s mission and values. Some ways a project might do so include:</p>
+
+<ul>
+  <li>Partnering with organizations to serve as domain experts in the needs of the community it serves</li>
+  <li>Forming a project team which has lived experience with the issue the project is focused on</li>
+  <li>Conducting user research to understand the needs of the community the project serves</li>
+</ul>
+
+<hr />
+
+<h2 id="providing-feedback">Providing feedback</h2>
+
+<p>In the spirit of continuous improvement and self-reflection, we welcome any and all feedback on OpenOakland projects past and present, as well as the overall project management process. Ways you can share your input include:</p>
+
+<ul>
+  <li>Open an issue in the project’s GitHub repository (listed in the project description).</li>
+  <li>Join the project’s channel in our <a href="https://join.slack.com/t/openoakland/shared_invite/zt-n4d7tx2t-UVIN7a769e4oc9j7PgM3HA">Slack workspace</a> and introduce yourself (see our <a href="https://docs.google.com/document/d/1VWZQ_3ehP5j0IOTY0nJClvQPll3ivSkuAdh5YsOhO_U/edit?usp=sharing">OpenOakland Slack Guide</a> for help).</li>
+  <li>Join our next <a href="https://www.meetup.com/OpenOakland/events/">Hack Night</a> and meet the team.</li>
+  <li>Email our <a href="mailto:steering@openoakland.org">Steering Committee</a> with your input.</li>
+</ul>
+
+<p>You may also email concerns or comments to <a href="mailto:safespace@openoakland.org">safespace@openoakland.org</a>, which is staffed by two OpenOakland <a href="https://docs.google.com/document/d/1QR-fr1WnmXkZoVNmWnZ9drzfmaZoPkodEOx-PkExt94/edit#heading=h.3t0te9n2wr7m">ombudspeople</a>.</p>
+:ET

@@ -52,6 +52,18 @@ p {
   margin-top: $spacing-unit / 3;
 }
 
+.float-right {
+  float:right;
+}
+
+.float-left {
+  float:left;
+}
+
+.caption {
+  font-size:1rem;
+}
+
 .image-caption {
   font-size:.9rem;
 }
@@ -176,6 +188,7 @@ main {
 .project-filter__toolbar {
   display: flex;
   align-items: start;
+  margin-top:2rem;
 
   .dropdown:not(:first-of-type) {
     margin-left: 0.5rem;
@@ -184,4 +197,11 @@ main {
 
 .text-small, .fa-inline {
   font-size: $small-font-size;
+}
+
+// OO project badges
+
+.project-badge {
+  font-weight: normal;
+  padding:6px;
 }
