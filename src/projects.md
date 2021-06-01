@@ -1,32 +1,26 @@
 ---
-title: Our Projects
+title: Projects
 date:  2020-11-19T07:50:52+00:00
 author: Jess Sand
 layout: page
 scripts: ["/assets/js/project_filter.js"]
 badges:
-  ongoing: 'primary'
+  brigade ops: 'primary'
   active: 'success'
   incubating: 'info'
-  inactive: 'secondary'
-  decommissioned: 'dark'
+  idle: 'secondary'
+  delivered: 'dark'
+  decommissioned: 'warning'
 ---
 
-[Projects](#projects)  
-[Starting an OpenOakland project](#starting-an-openoakland-project)  
-[Providing feedback](#providing-feedback)  
+Browse the projects below to see what we're currently working on. You can filter the list to see past projects, too.
 
----
+[Status definitions](#status-definitions) \| [Get involved](#get-involved) \| [Provide feedback](#provide-feedback)
 
-## Projects
-
-The following are official OpenOakland projects that are being actively supported by an existing team. If you see something that interests you, there are a couple of ways you can get involved:
-
-- Join us for our Tuesday [Hack Nights](https://www.meetup.com/OpenOakland/events/) to connect with the project team.
-- Join our [Slack workspace](https://join.slack.com/t/openoakland/shared_invite/zt-n4d7tx2t-UVIN7a769e4oc9j7PgM3HA) and introduce yourself in the project's channel listed in the description (see our [OpenOakland Slack Guide](https://docs.google.com/document/d/1VWZQ_3ehP5j0IOTY0nJClvQPll3ivSkuAdh5YsOhO_U/edit?usp=sharing) for help).
 
 <project-filter>
   <div class="project-filter__toolbar"></div>
+
   <!-- Active -->
   {% for project in site.data.active_projects %}
   {% assign status = 'active' %}
@@ -39,22 +33,68 @@ The following are official OpenOakland projects that are being actively supporte
   {% include project.html %}
   {% endfor %}
 
-  <!-- Inactive -->
-  {% for project in site.data.inactive_projects %}
-  {% assign status = 'inactive' %}
+  <!-- Ops -->
+  {% for project in site.data.ops_projects %}
+  {% assign status = 'brigade ops' %}
+  {% include project.html %}
+  {% endfor %}  
+
+  <!-- Idle -->
+  {% for project in site.data.idle_projects %}
+  {% assign status = 'idle' %}
   {% include project.html %}
   {% endfor %}
 
-  <!-- Decommissioned -->
-  {% for project in site.data.decommissioned_projects %}
-  {% assign status = 'decommissioned' %}
+  <!-- Delivered -->
+  {% for project in site.data.delivered_projects %}
+  {% assign status = 'delivered' %}
   {% include project.html %}
   {% endfor %}
+
 </project-filter>
 
 ---
+[<i class="fas fa-arrow-alt-circle-up"></i> Top](#top){: .caption .float-right}
 
-## Starting an OpenOakland project
+## Status definitions
+
+### <span class="badge badge-{{ page.badges['active'] }}">Active</span>
+
+These projects are actively supported by a core team of OpenOakland volunteers. To contribute or provide feedback, see [Get involved](#get-involved).
+
+### <span class="badge badge-{{ page.badges['incubating'] }}">Incubating</span>
+
+Incubating projects are in the exploratory or start-up phase before becoming an official OpenOakland project. To be listed as an incubating project, ideas must have a draft [project exploration worksheet](https://docs.google.com/document/d/1k24P9JiAUEzJLPFRDjVh7aRZexax6NUhfPFLSI3R80M/edit?usp=sharing) completed, an acting lead shepherding the idea, and be actively recruiting collaborators. Placement on the website is at the discretion of the Steering Committee.
+
+### <span class="badge badge-{{ page.badges['brigade ops'] }}">Brigade ops</span>
+
+These projects support OpenOakland's operations. Like <span class="badge badge-{{ page.badges['active'] }}">Active</span> and <span class="badge badge-{{ page.badges['incubating'] }}">Incubating</span> projects, they are [open to volunteer contributions](#get-involved).
+
+### <span class="badge badge-{{ page.badges['idle'] }}">Idle</span>
+
+Sometimes projects go quiet when the core team gets too busy or disbands. If you'd like to resume or adapt one of these, submit a [project exploration worksheet](https://docs.google.com/document/d/1k24P9JiAUEzJLPFRDjVh7aRZexax6NUhfPFLSI3R80M/edit?usp=sharing) at an upcoming Hack Night or in Slack's #oo-steering-committee channel.
+
+### <span class="badge badge-{{ page.badges['delivered'] }}">Delivered</span>
+
+Delivered projects have either reached their intended conclusion or been handed off to a partner for long-term management. Because most of OpenOakland's work is open source, these projects can often be reproduced or adapted by anyone with an interest in doing so.
+
+### <span class="badge badge-{{ page.badges['decommissioned'] }}">Decommissioned</span>
+
+These are projects the Steering Committee has formally reviewed and deemed no longer a good fit for OpenOakland. These projects may not be reinstated without submitting a new [project exploration worksheet](https://docs.google.com/document/d/1k24P9JiAUEzJLPFRDjVh7aRZexax6NUhfPFLSI3R80M/edit?usp=sharing) that substantively addresses the original reasons for discontinuation. Project briefs that are declined by the Steering Committee twice may not be resubmitted without substantive changes.
+
+---
+
+[<i class="fas fa-arrow-alt-circle-up"></i> Top](#top){: .caption .float-right}
+
+## Get involved
+There are several ways to contribute to an existing project:
+
+- Join us for our Tuesday [meetups](https://www.meetup.com/OpenOakland/events/) to connect with the project team.
+- Join our [Slack workspace](https://join.slack.com/t/openoakland/shared_invite/zt-n4d7tx2t-UVIN7a769e4oc9j7PgM3HA) and introduce yourself in the project's channel listed in the description (see our [OpenOakland Slack Guide](https://docs.google.com/document/d/1VWZQ_3ehP5j0IOTY0nJClvQPll3ivSkuAdh5YsOhO_U/edit?usp=sharing) for help).
+- Email [steering@openoakland.org](mailto:steering@openoakland.org) with any questions or feedback.
+
+
+### How to start a new project
 
 OpenOakland is reevaluating how our projects are vetted, adopted, and developed. This is an ongoing pilot that we continue to iterate on in an effort to ensure that projects serve their intended communities, consider potential unintended consequences, and foster greater inclusion of community voices—particularly those from underrepresented and underserved Oakland communities.
 
@@ -68,7 +108,7 @@ If you have a new idea for an OpenOakland project:
 
 Once your final brief is submitted, the Steering Committee will hold a formal vote to approve or decline the project.
 
-### What makes a good project?
+#### What makes a good project?
 
 We generally consider the following types of projects:
 
@@ -82,21 +122,11 @@ Projects must demonstrate alignment to OpenOakland’s mission and values. Some 
 - Forming a project team which has lived experience with the issue the project is focused on
 - Conducting user research to understand the needs of the community the project serves
 
-### Incubating projects
-
-Projects with the <span class="badge badge-{{ page.badges['incubating'] }}">Incubating</span> label are not official OpenOakland projects yet. To be listed as an incubating project, ideas must have a draft [project exploration worksheet](https://docs.google.com/document/d/1k24P9JiAUEzJLPFRDjVh7aRZexax6NUhfPFLSI3R80M/edit?usp=sharing) completed, an acting lead shepherding the idea, and be actively recruiting collaborators. Placement on the website is at the discretion of the Steering Committee.
-
-### Inactive projects
-
-Projects with the <span class="badge badge-{{ page.badges['inactive'] }}">Inactive</span> label have either served their purpose or are otherwise no longer actively supported. If you'd like to resume or adapt one of these, submit a [project exploration worksheet](https://docs.google.com/document/d/1k24P9JiAUEzJLPFRDjVh7aRZexax6NUhfPFLSI3R80M/edit?usp=sharing) at an upcoming Hack Night or in Slack's #leadership channel.
-
-### Decommissioned projects
-
-Projoects with the <span class="badge badge-{{ page.badges['decommissioned'] }}">Decommissioned</span> label are projects that the Steering Committee has formally reviewed and deemed no longer a good fit for OpenOakland based on our 2020 project evaluation pilot. These projects may not be reinstated without submitting a new [project exploration worksheet](https://docs.google.com/document/d/1k24P9JiAUEzJLPFRDjVh7aRZexax6NUhfPFLSI3R80M/edit?usp=sharing) that substantively addresses the original reasons for discontinuation. Project briefs that are declined by the Steering Committee twice may not be resubmitted without substantive changes.
-
 ---
 
-## Providing feedback
+[<i class="fas fa-arrow-alt-circle-up"></i> Top](#top){: .caption .float-right}
+
+## Provide feedback
 
 In the spirit of continuous improvement and self-reflection, we welcome any and all feedback on OpenOakland projects past and present, as well as the overall project management process. Ways you can share your input include:
 

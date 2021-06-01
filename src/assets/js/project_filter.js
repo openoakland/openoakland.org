@@ -34,12 +34,13 @@ class ProjectFilter extends HTMLElement {
     this._filters = new Set();
 
     this._statuses = {
-      label: 'Status',
+      label: 'Filter by status',
       options: {
         'Active': true, // true indicates the filter should be on by default.
         'Incubating': true,
-        'Inactive': false,
-        'Decommissioned': false,
+        'Brigade ops': false,
+        'Idle': false,
+        'Delivered': false,
       }
     };
 

@@ -1,0 +1,132 @@
+I"p&<p>OpenOakland subscribes to Code for America’s <a href="https://www.codeforamerica.org/values">tenet</a> that <em>no one is coming; it’s up to us</em>. We strive for consensus as much as possible and are continually working to build a collaborative community where members have the flexibility to lean into action, while maintaining accountability to each other and our broader Oakland community.</p>
+
+<p><a href="/our-values" class="btn btn-primary">Our Values</a> <a href="/code-of-conduct" class="btn btn-primary">Code of Conduct</a></p>
+
+<h2 id="brigade-structure">Brigade structure</h2>
+
+<p>Brigade membership is open to all, regardless of expertise or skill level. We have a core team of elected representatives (known as Elects), supported by a Steering Committee that oversees activities and formal decision-making. The Steering Committee consists of the elected leads plus project representatives.</p>
+
+<p><img src="/assets/images/OpenOakland-leadership-structure.png" alt="Bubble chart depicting the Steering Committee in a large circle containing the four elected leads; several project team circles overlap the steering committee circle and two Ombuds circles sit outside of Steering Committee." /></p>
+
+<p>The brigade has two Ombudspeople (available at <a href="mailto:safespace@openoakland.org">safespace@openoakland.org</a>), who are available to anyone who wishes to provide feedback, express concerns, report a Code of Conduct violation, or otherwise seek support. Ombudspeople are independent of the Steering Committee.</p>
+
+<h3 id="how-the-steering-committee-works">How the Steering Committee works</h3>
+
+<p>The Steering Committee follows a set of <a href="https://docs.google.com/document/d/1QR-fr1WnmXkZoVNmWnZ9drzfmaZoPkodEOx-PkExt94/">bylaws</a> that outline leadership roles, project requirements, decision-making processes, and additional brigade policies. <em>All OpenOakland members are welcome to sit in on the committee’s monthly meetings.</em></p>
+
+<div class="accordion" id="steering-faq">
+
+    <div class="card">
+
+      <div class="card-header" id="headingOne">
+        <h3 class="mb-0">
+          <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+            About the meeting
+          </button>
+        </h3>
+      </div>
+
+      <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#steering-faq">
+        <div class="card-body">
+          <h4>What's the purpose of the Steering Committee meeting?</h4>
+          <p>This is our monthly meeting to discuss and make decisions about brigade-wide activities and processes that impact us all. </p>
+          <h4>When does the Steering Committee meet?</h4>
+          <p>Steering Committee meets via Zoom on the third Tuesday of each month. Visit <a href="https://www.meetup.com/OpenOakland/events/">Meetup</a> for upcoming dates. If you need accessibility accomodations to attend, please contact steering@openoakland.org in advance.</p>
+          <h4>Who should attend?</h4>
+          <p>Elects and project leads are expected to attend as regularly as possible. Projects may appoint <i>any</i> member of their team to represent the project as a voting member at any given meeting. Elects may appoint an alternate to represent them but the alternate may not vote. A majority of voting members must be present for the meeting to take place.</p>
+          <h4>How is the meeting conducted?</h4>
+          <p>The Chair moderates the meeting according to an agenda that covers general brigade updates, items to be voted on, and items for discussion. We encourage the use of Zoom's "raise hand" feature found in the Reactions toolbar, or placing your name in chat to be added to the speaking queue. We ask attendees to be mindful of the space you take up; please listen at least as much as you speak.</p>
+        </div>
+      </div>
+
+    </div>
+
+
+    <div class="card">
+
+      <div class="card-header" id="headingTwo">
+        <h3 class="mb-0">
+          <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+            Adding to the agenda
+          </button>
+        </h3>
+      </div>
+
+      <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#steering-faq">
+        <div class="card-body">
+          <h4>Who can add to the agenda?</h4>
+          <p>Any OpenOakland member can add to the agenda.</p>
+          <h4>What can I add to the agenda?</h4>
+          <p>Agenda items should be relevant to brigade-wide operations. This may include new project submissions or ideas, proposals for policy or process changes, general discussion items about how we work together or specific activities, and questions, concerns, or feedback for the group. Projects who need brigade support can also add discussion items to the agenda.</p>
+          <h4>How do I add to the agenda?</h4>
+          <p>The agenda is pinned to the <a href="https://app.slack.com/client/T02FEGG84/C02FG2BUX">#oo-steering-committee channel</a> in Slack. You may add your item to the appropriate section of the agenda according to the instructions in the doc. If you don't automatically have edit permissions, contact the Steering Committee Chair.</p>
+          <p>We recommend adding your items as far in advance as possible, to give members the chance to get familiar with your item. The Steering Committee chair will make a reasonable effort to ensure all items are heard but may limit the agenda or time spent on individual items at their discretion.</p>
+        </div>
+      </div>
+
+    </div>
+
+
+    <div class="card">
+
+      <div class="card-header" id="headingThree">
+        <h3 class="mb-0">
+          <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+            The voting process
+          </button>
+        </h3>
+      </div>
+
+      <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#steering-faq">
+        <div class="card-body">
+          <h4>What do we vote on?</h4>
+          <p>Any member or group of members may submit a formal proposal to be voted on (see the optional <a href="https://docs.google.com/document/d/1MoTuET3gl3YE3DAyylAt2D_vHiihZS45xKLd5kCjlWA/edit?usp=sharing">proposal template</a>). Generally speaking, any item added to the <i>Voting Items</i> section of the agenda will be considered, time allowing. This is ultimately at the discretion of the Chair.</p>
+          <h4>When do we vote?</h4>
+          <p>The meeting Chair will review Voting Items according to the agenda sequence (usually after brigade updates). The person introducing the proposal will be asked to summarize, followed by a limited period for questions and clarifications prior to voting.</p>
+          <h4>Who votes?</h4>
+          <p>Each elected lead gets one vote, as does each project via a member of their team.</p>
+          <p>Projects don't need to send the same team member each month, but their voting rep should be part of the core team. If a project team doesn't send a rep, they're considered to be abstaining from any vote that month.</p>
+          <h4>What are the voting rules?</h4>
+          <p>A simple majority of votes is required for a proposal to pass.</p>
+            <ul>
+              <li>Once the proposal is introduced, either the chair or another member can "move to vote." This needs to be "seconded" by another member to move forward.</li>
+              <li>The Chair will then invite and tally the votes via Zoom chat.</li>
+              <li>If a proposal appears to need more discussion, any member may "move to table the proposal," to ensure there's sufficient time to address the rest of the agenda. Ideally, the group will agree to the next step for moving the discussion forward following the meeting at the time the proposal is tabled. This, too, must be "seconded" by another member for the proposal to formally be tabled.</li>
+              <li>The Chair is responsible for maintaining this process and the flow of the meeting is at their discretion.</li>
+            </ul>
+
+        </div>
+      </div>
+
+    </div>
+
+
+    <div class="card">
+
+      <div class="card-header" id="headingFour">
+        <h3 class="mb-0">
+          <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+            Staying connected to the meeting
+          </button>
+        </h3>
+      </div>
+
+      <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#steering-faq">
+        <div class="card-body">
+          <h4>Where is the upcoming agenda?</h4>
+          <p>The agenda is pinned to the <a href="https://app.slack.com/client/T02FEGG84/C02FG2BUX">#oo-steering-committee channel</a> in Slack.</p>
+          <h4>How are Steering Committee decisions communicated out?</h4>
+          <p>The elect team will attempt to summarize major meeting items within a couple of days in the #oo-general channel in Slack, as well as at the following Hack Night and in the <a href="/newsletter">brigade newsletter</a>.</p>
+          <h4>How to contact the Steering Committee</h4>
+          <p>To contact the steering committee, email <a href="mailto:steering@openoakland.org">steering@openoakland.org</a> or post in the <a href="https://app.slack.com/client/T02FEGG84/C02FG2BUX">#oo-steering-committee channel</a> in Slack.</p>
+        </div>
+      </div>
+
+    </div>
+
+
+
+  </div>
+
+<p>You can reach Steering Committee members by emailing steering@openoakland.org.</p>
+:ET

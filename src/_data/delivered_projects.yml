@@ -46,25 +46,6 @@
   slack_channel: event-citycampoakland
   description: "The fifth annual CityCamp successfully took place on Saturday, March 25, 2017 at Oakland City Hall. CityCamp is an unstructured conference where municipal employees, civic leaders, technology folks, software developers, journalists, and engaged residents can meet and discuss the intersections of technology and local government—how innovative technology and data uses can improve civic engagement, increase efficiency and transparency, connect residents, and incubate the technology community in our city. Unconferences are not structured up-front; the agenda is completed on the day based on topics the attendees themselves suggest. This gives attendees control over the topics and discussion happening at the event, so residents can drive attention towards issues they think are most important."
 -
-  name: Civic User Testing Group (CUT Group)
-  image: cut-group_300x233.png
-  website:
-  repo: https://github.com/openoakland/cutgroup
-  leader: Open, formerly Mary Yeh
-  slack_id: C02FYSFLK
-  slack_channel: cut-group
-  description: Civic User Testing (CUT) Group's goal is to make sure OpenOakland projects are working towards creating the best possible experience and serve all Oakland residents. If you're interested in user experience, or just like making things better, please reach out! Check out our <a href="https://docs.google.com/document/d/1VkSG9Amzq2759HACbFizSGAah4Q4byGG6R8cCxwcOO4/edit">most recent projects.</a>
--
-  name: Community Foods
-  image: Community-Foods-Exterior-300x206.png
-  website:
-  repo:
-  leader: TBD
-  slack_id: C0165NXC2F2
-  slack_channel: project-community-foods
-  description: In partnership with West Oakland's Community Foods Market this project aims to support the adoption and use of food assistance benefits (EBT). The main objectives are to provide support for in-store EBT applications and to improve the EBT checkout process.
-  tech: TBD
--
   name: Discount Mobility Share
   image: discount_mobility_300x213.png
   website:
@@ -73,16 +54,6 @@
   slack_id: CLY606C2D
   slack_channel: discount-mobility
   description: Discount Mobility helped low income residents get access to scooter share, bike share and car share programs. While every company has discount programs for low income residents, the application process is fragmented and these benefits aren't widely known. We unified the application for these programs and engaged in outreach so people were aware of this benefit.
--
-  name: Diversity, Equity, and Inclusion Group
-  image:
-  established: 2016
-  website:
-  repo:
-  leader: Open (see Jess Sand)
-  slack_id: C3SA2U3KP
-  slack_channel: oo-diversity-equity
-  description: "The Diversity, Equity, and Inclusion Group was created in 2016 to codify OpenOakland’s DEI organizational principles and to lead through action, OpenOakland’s commitment to making the technology space representative of Oakland’s diverse and multicultural community. In 2020, it's become very clear that this foundational shift must extend beyond a single working group. We welcome those who might want to formalize the process through an active working group. In the meantime, please visit us in Slack to connect and continue the work."
 -
   name: Early Oakland
   image:
@@ -105,15 +76,6 @@
   description: OUSD doesn’t provide resources for school websites, but many parents (and parents of prospective students) expect them to. La Escuelita, a K-8 elementary school in the Lake Merritt area, wants help developing a simple website that goes live in Fall 2020 term; houses essential info like announcements, schedule changes (currently rely on paper fliers students bring home) and contact info; offers easy-to-use technology and a layout that non-technical staff can easily update and maintain.
   tech: Google Sites
 -
-  name: LaneLookout
-  image: lane-lookout_300x300.png
-  website: https://www.lanelookout.org
-  repo:
-  leader: Open
-  slack_id: C9Q7L8DPC
-  slack_channel: oak-dot-bikes
-  description: Our project seeks to improve the safety of bike lanes for cyclists in Oakland. We are developing an app to generate aggregate data regarding infringements in the bike lane (ie. vehicles) via self-reporting cyclists. From this data, we will generate reports to drive improvements in problem areas.
--
   name: Oakland Art Murmur
   image: oakland-art-murmur_300x240.png
   website: https://oaklandartmurmur.org/venues/walking-tours/
@@ -132,34 +94,6 @@
   slack_id: C040ULV6C
   slack_channel: project-oak-crime
   description: "This tool helps visitors determine which Community Police Beat they live in. In Oakland, [Neighborhood Councils](https://www.oaklandca.gov/topics/neighborhood-councils) (formerly known as Neighborhood Crime Prevention Council or NCPC), operate for each of the 53 Community Police Beats. The Neighborhood Council system provides a way for residents to gather and discuss local crime problems with a city and OPD representative on a monthly basis."
--
-  name: Oakland Gov 101
-  image:
-  website:
-  repo: https://invis.io/8NUX0LPSBMG#/394226187_Overview
-  leader: Formerly Thomas Deckert
-  slack_id: CNTPFR7JA
-  slack_channel: project-oakland-gov-101
-  description: This project was a partnership with the League of Women Voters of Oakland to add educational content to their site describing the structure and function of local government.
--
-  name: Oakland Open Data Portal
-  image:
-  established: 2011
-  website: http://data.openoakland.org/
-  repo:
-  leader: Open
-  slack_id:
-  slack_channel:
-  description: "Since 2011, this platform has served as an open data catalog built by the OpenOakland brigade as a community resource and our first example of what can be achieved using open source tools in strategic ways for our city. This site uses the opensource [CKAN](http://www.ckan.org) platform—the same free software behind the UK government’s [Data.Gov.UK](http://data.gov.uk) resource. This site has been populated with data found on various Oakland government websites and from the huge data warehouse operated by [Urban Strategies Council](http://www.urbanstrategies.org)."
--
-  name: Oakland Wiki
-  image:
-  established: 2013
-  website: https://oaklandwiki.org
-  leader:
-  slack_id:
-  slack_channel:
-  description: "Oakland Wiki is built on the [LocalWiki](https://oaklandwiki.org/about/) platform, a grassroots effort to collect, share, and open the world’s local knowledge. Anyone can edit this wiki, so contribute what you know about your local community for others to use and enjoy!"
 -
   name: Open Government Pledge
   image:
@@ -210,16 +144,6 @@
   slack_channel: project-track-g
   description: "Measure G is a city ballot measure that was passed by the citizens of Oakland in 2008 to improve the quality of education provided by Oakland public schools. Money is collected from Measure G via a special parcel tax, which amounts to about $20 million a year in additional funds for the Oakland Unified School District's budget. [Track G – Oakland’s Measure G](https://trackg.org/) publishes data on how funds collected from the Measure G parcel tax are spent. Track G allows spending to be seen by location, by program, and by school."
 -
-  name: Trash Talk
-  image: trashtalk_300x233.png
-  established: 2016
-  website:
-  repo: https://github.com/openoakland/TrashTalk
-  leader: Formerly Tim Miller
-  slack_id: C4R9JUW12
-  slack_channel: project-trash-talk
-  description: "With East Oakland facing illegal dumping, mostly from outside actors, Trash Talk was envisioned in 2016 as a tool to help neighbors plan and execute cleanups and graffiti removal. The app was intended to help neighbors report issues and work together with the Oakland City Public Works Agency to remove trash, dead animals, and other consequences of illegal dumping in East Oakland neighborhoods. The goal was for Trash Talk to eventually connect with the City‘s existing tracking app, [SeeClickFix](https://en.seeclickfix.com/oakland) for tracking volunteer time."
--
   name: Water Quality
   image: water_300x237.png
   website: http://water.openoakland.org/
@@ -228,4 +152,3 @@
   slack_id: CBB52CFU2
   slack_channel: project-ca-water-challenge
   description: Approximately one million California residents currently only have access to drinking water that does not meet state and federal standards. The California Drinking Water project provides user-friendly online queries, charts, and maps to show which water systems have current and persistent drinking water contamination violations. Partnering with the State Water Board and the Community Water Center non-profit organization, Open Oakland volunteers developed a tool features using the State’s bi-monthly Human Right to Water water quality reporting data on cities, communities, schools, and daycares. The online features allow government officials, advocates, researchers, and residents to more easily understand which water systems have contamination problems and identify solutions that support clean water for all Californians. Used daily by local grassroots organizations, the site won awards at two consecutive Water Data Challenges.
--
