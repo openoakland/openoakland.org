@@ -19,19 +19,16 @@ OpenOakland bridges technology and community for a thriving and equitable Oaklan
 
 We're a fiscally-sponsored project of [Code for America](https://www.codeforamerica.org/), a 501(c)3 nonprofit. Donations to OpenOakland are tax-deductible and can be [made through Code for America](https://www.codeforamerica.org/donate-to-a-brigade?utm_campaign=Open%20Oakland&utm_source=OpenOakland%20site) (be sure to select OpenOakland from the drop-down menu after choosing the amount).
 
- <div class="iframe-container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/mYzMl_HnEZU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <div class="iframe-container iframe-container-video">
+  <iframe class="iframe-video" src="https://www.youtube.com/embed/mYzMl_HnEZU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-Brigade membership is open to all, regardless of expertise or skill level. The brigade is led by core team of elected leads. Activities and formal decision-making are overseen by a Steering Committee, which meets monthly and consists of the elected leads plus project representatives.
-
-[More about how we work](/how-we-work){: .btn .btn-primary } [Browse our projects](/projects){: .btn .btn-primary }
-
 
 
 ## 2021 leadership team
 
-The leadership team is elected by membership annually and generally are members who have been actively engaged in OpenOakland activities for an extended period of time.
+Brigade membership is open to all, regardless of expertise or skill level. The brigade is led by core team of elected leads. These are generally members who have been actively engaged in OpenOakland activities for an extended period of time. Activities and formal decision-making are overseen by a Steering Committee, which meets monthly and consists of the elected leads plus project representatives.
+
+[More about how we work](/how-we-work){: .btn .btn-primary }
 
 {% include steering-committee.html %}
 
