@@ -1,7 +1,7 @@
 ---
 title: Resources
 date:  2020-09-12T19:54:38-08:00
-author: Jess Sand
+author: OpenOakland
 layout: page
 ---
 

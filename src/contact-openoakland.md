@@ -1,7 +1,7 @@
 ---
 title: Contact OpenOakland
 date: 2021-05-31T12:00:23+00:00
-author: Jess Sand
+author: OpenOakland
 layout: page
 ---
 

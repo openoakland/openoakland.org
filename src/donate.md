@@ -2,7 +2,7 @@
 title: Make a Donation
 nav_title: Donate
 date: 2016-01-23T21:40:52-07:00
-author: Services @OpenOakland.org
+author: OpenOakland
 layout: page
 ---
 

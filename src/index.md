@@ -1,6 +1,7 @@
 ---
 layout: home
 title: We are OpenOakland
+author: OpenOakland
 ---
 
 <section class="row page-section">

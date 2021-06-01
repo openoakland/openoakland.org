@@ -205,3 +205,21 @@ main {
   font-weight: normal;
   padding:6px;
 }
+
+// Responsive iframes (wrap div with "iframe-container" class around the iframe with "responsive-iframe" class)
+
+.iframe-container {
+  position: relative;
+  display: block;
+  overflow: hidden;
+}
+
+.responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  height: 100%;
+  width: 100%;
+  border: 0;
+}

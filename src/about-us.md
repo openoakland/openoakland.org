@@ -1,7 +1,7 @@
 ---
 title: About Us
 date: 2020-08-03T23:03:27+0000
-author: Jess Sand
+author: OpenOakland
 layout: page
 ---
 
@@ -44,7 +44,7 @@ If you're interested in joining the leadership team, join us for Hack Night and 
     Every Tuesday from 6:30-9:00pm PST, we meet on Zoom (normally, we meet in City Hall but are working remotely during the coronavirus pandemic). After intros on Zoom, we break off into Slack channels to work and you can bounce around to introduce yourself. Don't be shy about joining in; we're friendly folk. [RSVP on Meetup](https://www.meetup.com/OpenOakland/).
 
 - **Join us on Slack.**  
-    [Join us on Slack](https://join.slack.com/t/openoakland/shared_invite/zt-n4d7tx2t-UVIN7a769e4oc9j7PgM3HA) and introduce yourself in #oo-meet-and-greet (see our [OpenOakland Slack Guide](https://docs.google.com/document/d/1VWZQ_3ehP5j0IOTY0nJClvQPll3ivSkuAdh5YsOhO_U/edit?usp=sharing) for help). We look forward to meeting you! 
+    [Join us on Slack](https://join.slack.com/t/openoakland/shared_invite/zt-n4d7tx2t-UVIN7a769e4oc9j7PgM3HA) and introduce yourself in #oo-meet-and-greet (see our [OpenOakland Slack Guide](https://docs.google.com/document/d/1VWZQ_3ehP5j0IOTY0nJClvQPll3ivSkuAdh5YsOhO_U/edit?usp=sharing) for help). We look forward to meeting you!
 
 - **Contribute to an existing project.**  
     Check out our [active projects](/projects/). You're welcome to contact project leads directly or jump into their Github repos but if you're not a coder or are unsure how you might contribute, we suggest attending Hack Night to get to know our project teams.
