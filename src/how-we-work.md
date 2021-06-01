@@ -1,7 +1,7 @@
 ---
 title: How We Work
 date: 2021-02-07T22:05:23+00:00
-author: Jess Sand
+author: OpenOakland
 layout: page
 ---
 

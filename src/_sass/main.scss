@@ -33,6 +33,8 @@ body {
   flex-direction: column;
 }
 
+// Custom type styles
+
 h1,
 h2,
 h3,
@@ -52,25 +54,6 @@ p {
   margin-top: $spacing-unit / 3;
 }
 
-.float-right {
-  float:right;
-}
-
-.float-left {
-  float:left;
-}
-
-.caption {
-  font-size:1rem;
-}
-
-.image-caption {
-  font-size:.9rem;
-}
-
-.bold {
-  font-weight: bold;
-}
 
 ol {
   margin-top:1.6rem;
@@ -96,6 +79,25 @@ a:not([class]),
     color: white;
   }
 }
+
+.caption {
+  font-size:1rem;
+}
+
+.image-caption {
+  font-size:.9rem;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.text-small, .fa-inline {
+  font-size: $small-font-size;
+}
+
+// Layout
+
 
 img {
   max-width:100%;
@@ -133,6 +135,15 @@ main {
   border-top: 1px solid $grey-color-light;
 }
 
+.float-right {
+  float:right;
+}
+
+.float-left {
+  float:left;
+}
+
+
 // bootstrap overrides
 .btn-primary {
   background-color: $brand-color;
@@ -168,22 +179,49 @@ main {
     object-fit: cover;
   }
 
+// Responsive iframes:
+// 1. Wrap your iframe in a div with class="iframe-container".
+// 2. Depending on the content of your iframe, you may need to also add a second class called
+//    .iframe-container-xyz that includes custom height, padding, etc
+//    (see .iframe-container-video and .iframe-container-form-contact examples for video and form content).
+// 2. Assign the iframe itself with class .iframe-video, .iframe-form-generic,
+//    or a new custom class depending on content.
 
 .iframe-container {
   position: relative;
   width: 100%;
   height: 0;
+}
+
+.iframe-container-video {
   padding-bottom: 56.25%;
   margin-bottom: $spacing-unit * 3;
 }
 
-.iframe-container iframe {
+.iframe-video {
   position: absolute;
   margin-top: 20px;
   margin-bottom: 20px;
   width: 100%;
   height: 100%;
 }
+
+.iframe-container-form-contact {
+  overflow: visible;
+  min-height:1520px;
+}
+
+.iframe-form-generic {
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height:100%;
+  border: none;
+}
+
+// OO projects filter
 
 .project-filter__toolbar {
   display: flex;
@@ -195,9 +233,6 @@ main {
   }
 }
 
-.text-small, .fa-inline {
-  font-size: $small-font-size;
-}
 
 // OO project badges
 

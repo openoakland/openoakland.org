@@ -1,7 +1,7 @@
 ---
 title: Projects
 date:  2020-11-19T07:50:52+00:00
-author: Jess Sand
+author: OpenOakland
 layout: page
 scripts: ["/assets/js/project_filter.js"]
 badges:
