@@ -210,16 +210,19 @@ main {
 
 .iframe-container {
   position: relative;
-  display: block;
-  overflow: hidden;
+  overflow: visible;
+  width: 100%;
+  height: 100%;
+  min-height:1520px;
+  padding-top: 100%; /* 1:1 Aspect Ratio */
 }
 
 .responsive-iframe {
-  position: absolute;
   top: 0;
   left: 0;
   bottom: 0;
-  height: 100%;
+  right: 0;
   width: 100%;
-  border: 0;
+  height:100%;
+  border: none;
 }
