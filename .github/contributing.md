@@ -104,6 +104,7 @@ To add a new project, copy and paste a new project block into the appropriate .y
   image:
   website: 
   repo:
+  tech:
   leader:
   slack_id:
   slack_channel:
@@ -124,6 +125,7 @@ The following metadata tags are used to populate the project cards and should be
 - `image:` Thumbnail filename (recommended min. 300px wide and uploaded to `src/assets/images/projects/projectname.png`)
 - `website:` Public-facing URL of live project
 - `repo:` URL of primary code repository (if more than one, the primary repo should clearly link to related repos in the ReadMe)
+- `tech:` Platforms and languages used (enter "TBD" if not decided yet)
 - `leader:` Name of Project Lead (preferably their Slack handle)
 - `slack_id:` See "How to find the `slack_id` of a Slack channel" section below
 - `slack_channel:` Name of Slack channel
