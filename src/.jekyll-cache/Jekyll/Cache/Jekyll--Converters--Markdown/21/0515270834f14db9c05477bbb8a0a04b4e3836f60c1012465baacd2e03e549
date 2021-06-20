@@ -1,4 +1,4 @@
-I"l�<p>Browse the projects below to see what we’re currently working on. You can filter the list to see past projects, too.</p>
+I"c<p>Browse the projects below to see what we’re currently working on. You can filter the list to see past projects, too.</p>
 
 <p><a href="#status-definitions">Status definitions</a> | <a href="#get-involved">Get involved</a> | <a href="#provide-feedback">Provide feedback</a></p>
 
@@ -390,6 +390,61 @@
           
           <p class="card-text"><small><b>Connect on Slack</b></small><br />
           <a href="https://openoakland.slack.com/messages/C01RVMKBF5X" target="_blank" rel="noopener noreferrer">#project-incubating-radar</a></p>
+          
+
+        </div>
+      </div>
+
+  </div>
+
+  <div class="card-footer text-muted">
+    
+    <b>Technology:</b> TBD
+    
+  </div>
+
+</div>
+</div>
+
+  
+  
+  <div class="d-flex">
+<div class="card projects" data-tags="incubating">
+
+  <div class="row no-gutters">
+
+      <div class="col-md-8">
+        <div class="card-body">
+          <div>
+            <p><span class="badge badge-info  project-badge">Incubating</span></p>
+            
+              <h3 class="projects-h3">Public Safety &amp; Violence Prevention Oversight Commission Content Strategy</h3>
+            
+          </div>
+
+          <div class="card-text">The SSOC is seeking assistance with information management to support their efforts overseeing Measure Z spending. We’re currently looking for folks interested in guiding the scoping and feasibility of such a partnership, including interviewing stakeholders, exploring community impacts, and mapping the content ecosystem.</div>
+
+
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="card-body">
+
+          
+
+          <a href="https://www.oaklandca.gov/boards-commissions/public-safety-and-services-violence-prevention-oversight-commission" class="btn btn-primary btn-sm projects-btn">Visit site</a>
+
+          <a href="https://docs.google.com/document/d/1NNJ2tPtBmvMce_V83NFBiRxmPeErWpGAZpCh7iHhWEE/edit?usp=sharing" class="btn btn-outline-secondary btn-sm projects-btn">View code</a>
+
+          
+          <p class="card-text"><small><b>Project lead</b></small><br />
+          Open</p>
+          
+
+          
+          <p class="card-text"><small><b>Connect on Slack</b></small><br />
+          <a href="https://openoakland.slack.com/messages/T02FEGG84" target="_blank" rel="noopener noreferrer">#project-incubating-ssoc</a></p>
           
 
         </div>
