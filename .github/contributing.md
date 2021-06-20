@@ -59,7 +59,8 @@ Open your web browser to [localhost:4000](http://localhost:4000/).
   - Create an issue outlining the request, follow the template, and make sure you add a `request` tag to it.
 - How to contribute to an existing issue:
   - Request Write privileges from an admin or any of OpenOakland's elected officers.
-  - Assign the issue to yourself.
+  - Visit the [Ongoing Improvements Backlog]{https://github.com/openoakland/openoakland.org/projects/2} project to view issues that are ready to work on.
+  - Assign an issue to yourself.
   - Once assigned, the project will move to the `In Progress` column in our [project board](https://github.com/openoakland/openoakland.org/projects).
 
 ## Working with forks and branches
