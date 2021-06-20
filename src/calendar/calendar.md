@@ -3,6 +3,7 @@ title: Calendar
 date:  2020-11-07T02:09:11+00:00
 author: OpenOakland
 layout: page
+permalink: /calendar/
 ---
 
 {% include next-meeting.html %}
