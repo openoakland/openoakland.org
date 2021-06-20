@@ -1,4 +1,4 @@
-I" <h2>Our next meeting</h2>
+I"¤<h2>Our next meeting</h2>
 
 <div class="card home__event-card">
   <div class="row no-gutters">
@@ -54,7 +54,7 @@
       <div class="card-body">
         <h3 class="card-title calendar-card-h3">Suggest a speaker</h3>
         <p class="card-text">Want to share about bridging community and tech in Oakland, or know someone we should invite?</p>
-        <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSd-rx1jRMNN6ggITcu-kB7htXLI0nSdWgDpbP-0w2bsXf-5vQ/viewform?usp=sf_link" class="btn btn-primary btn-sm">Submit a name</a></p>
+        <p><a href="/suggest-speaker" class="btn btn-primary btn-sm">Submit a name</a></p>
       </div>
     </div>
     </div>

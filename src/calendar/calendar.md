@@ -15,7 +15,7 @@ permalink: /calendar/
 
 We welcome folks of all skill levels and disciplines. Normally, we meet in Oakland City Hall ([directions](https://goo.gl/maps/YTNkpZcb7Sy936w88)) but we're fully remote during the pandemic. If you need accessibility assistance, please email steering@openoakland.org.
 
-{% include zoom-link.html %}
+{% include zoom-speaker-cols.html %}
 
 ## Recurring meetings
 The following events happen during Tuesday's Hack Night on the following dates:
