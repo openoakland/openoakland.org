@@ -5,8 +5,7 @@ author: OpenOakland
 layout: page
 permalink: /calendar/
 ---
-
-{% include next-meeting.html %}
+[Upcoming events](#upcoming-events) \| [Suggest a speaker](#suggest-a-speaker) \| [Past events](#past-events)
 
 ## Join us every Tuesday on Zoom
 
@@ -15,15 +14,17 @@ permalink: /calendar/
 
 We welcome folks of all skill levels and disciplines. Normally, we meet in Oakland City Hall ([directions](https://goo.gl/maps/YTNkpZcb7Sy936w88)) but we're fully remote during the pandemic. If you need accessibility assistance, please email steering@openoakland.org.
 
-{% include zoom-speaker-cols.html %}
+[RSVP on Meetup](https://www.meetup.com/OpenOakland/events/){: .btn .btn-primary }
 
-## Recurring meetings
-The following events happen during Tuesday's Hack Night on the following dates:
+## Upcoming events
 
-- **First Tuesday of each month: Demo Night**  
-See the latest updates from active projects.  
-- **Third Tuesday of each month: Steering Committee**  
-Everyone is welcome to sit in on our monthly [decision-making meeting](/how-we-work).   
+The first Tuesday of each month is Demo Night, when you can see the latest updates from active projects. The third Tuesday of each of month is [Steering Committee](/how-we-work){: .image-caption }, which everyone is welcome to join.
+{: .image-caption }
+
+{% include embed-calendar.html %}
+
+{% include cal-includes.html %}
+
 
 
 ## Past Events

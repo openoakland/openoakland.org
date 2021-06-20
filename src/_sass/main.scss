@@ -80,12 +80,19 @@ a:not([class]),
   }
 }
 
+.breadcrumb-nav, .breadcrumb-nav a {
+  margin-top:1rem;
+  font-size:.8rem;
+}
+
 .caption {
   font-size:1rem;
 }
 
 .image-caption {
   font-size:.9rem;
+  line-height: 1.2rem;
+  margin-bottom:2rem;
 }
 
 .bold {
@@ -224,6 +231,21 @@ main {
   width: 100%;
   height:100%;
   border: none;
+}
+
+.responsiveCal {
+ position: relative;
+ padding-bottom: 75%;
+ height: 0;
+ overflow: hidden;
+}
+
+.responsiveCal iframe {
+  position: absolute;
+  top:0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
 
 // OO projects filter
