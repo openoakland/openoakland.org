@@ -33,8 +33,8 @@ plugins:
 source: src
 header_pages:
   - about-us.md
+  - calendar/calendar.md
   - projects.md
-  - calendar.md
   - resources.md
   - contact.md
   - donate.md
@@ -56,3 +56,6 @@ permalink: pretty
 jekyll_get_json:
   - data: events
     json: 'https://api.meetup.com/OpenOakland/events?&page=2'
+
+exclude:
+  - .jekyll-cache

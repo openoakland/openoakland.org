@@ -2,10 +2,8 @@
   path: /
 - title: About Us
   path: about-us.md
-- title: How We Work
-  path: how-we-work.md
 - title: Calendar
-  path: calendar.md
+  path: /calendar/
 - title: Contact
   path: contact.md
 - title: Donate

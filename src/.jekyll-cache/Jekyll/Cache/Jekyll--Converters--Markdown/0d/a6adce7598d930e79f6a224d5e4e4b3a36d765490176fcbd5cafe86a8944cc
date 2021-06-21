@@ -1,31 +1,4 @@
-I" <h2>Our next meeting</h2>
-
-<div class="card home__event-card">
-  <div class="row no-gutters">
-    <div class="col-md-4">
-      <img class="card-img" src="/assets/images/OpenOakland-Next-Meeting.png" alt="Five OpenOakland members sit together at a meetup" />
-    </div>
-    <div class="col-md-8">
-      <div class="card-body">
-        <h3 class="card-title mt-0">
-          <a href="https://www.meetup.com/OpenOakland/events/zdhghsyccjbcb/" target="_blank">OpenOakland Civic Hack Night</a>
-        </h3>
-        <p class="card-text">
-          *** New start time for newcomers (or those who want a refresher)! *** Join us this Tuesday on Zoom to see the latest progress from our current project...
-        </p>
-        <a href="https://www.meetup.com/OpenOakland/events/zdhghsyccjbcb/" target="_blank" class="card-link btn btn-primary">RSVP on Meetup</a>
-      </div>
-    </div>
-    <div class="col-12 px-4 card-footer d-flex justify-content-between">
-      <span>
-      <i class="fa fa-calendar"></i> Tuesday, June 01, 2021
-      </span>
-      <span>
-      <i class="fa fa-clock-o"></i>  6:00 PM
-      </span>
-    </div>
-  </div>
-</div>
+I"L<p><a href="#upcoming-events">Upcoming events</a> | <a href="#suggest-a-speaker">Suggest a speaker</a> | <a href="#past-events">Past events</a></p>
 
 <h2 id="join-us-every-tuesday-on-zoom">Join us every Tuesday on Zoom</h2>
 
@@ -33,6 +6,14 @@
 <strong>6:30-8:30</strong> Brigade-wide activities for everyone</p>
 
 <p>We welcome folks of all skill levels and disciplines. Normally, we meet in Oakland City Hall (<a href="https://goo.gl/maps/YTNkpZcb7Sy936w88">directions</a>) but we’re fully remote during the pandemic. If you need accessibility assistance, please email steering@openoakland.org.</p>
+
+<p><a href="https://www.meetup.com/OpenOakland/events/" class="btn btn-primary">RSVP on Meetup</a></p>
+
+<h2 id="upcoming-events">Upcoming events</h2>
+
+<div class="responsiveCal">
+  <iframe src="https://calendar.google.com/calendar/embed?src=administrator%40openoakland.org&amp;ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+</div>
 
 <div class="container" style="margin-top:30px;">
 
@@ -54,7 +35,7 @@
       <div class="card-body">
         <h3 class="card-title calendar-card-h3">Suggest a speaker</h3>
         <p class="card-text">Want to share about bridging community and tech in Oakland, or know someone we should invite?</p>
-        <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSd-rx1jRMNN6ggITcu-kB7htXLI0nSdWgDpbP-0w2bsXf-5vQ/viewform?usp=sf_link" class="btn btn-primary btn-sm">Submit a name</a></p>
+        <p><a href="/suggest-speaker" class="btn btn-primary btn-sm">Submit a name</a></p>
       </div>
     </div>
     </div>
@@ -64,7 +45,7 @@
 </div>
 
 <h2 id="recurring-meetings">Recurring meetings</h2>
-<p>The following events happen during Tuesday’s Hack Night on the following dates:</p>
+<p>The following special events happen during Tuesday’s regular meetup:</p>
 
 <ul>
   <li><strong>First Tuesday of each month: Demo Night</strong><br />
