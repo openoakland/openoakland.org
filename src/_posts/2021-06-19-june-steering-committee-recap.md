@@ -51,4 +51,4 @@ Need a process that allows for active participation, passive input, and informin
 
 ***
 
-*(Steering Committee meets the Third Tuesday of each month and is open to all OpenOakland members. [Read more about how Steering Committee works](how-we-work/) and how to participate.*
+*(Steering Committee meets the Third Tuesday of each month and is open to all OpenOakland members. [Read more about how Steering Committee works](/how-we-work/) and how to participate.*
