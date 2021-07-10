@@ -26,3 +26,5 @@ As an all-volunteer brigade, we operate as lean as we can. Your contributions he
 - Research and testing supplies and incentives.
 - Diet-sensitive food for in-person events to reduce barriers for volunteers from different backgrounds.
 - Promotional collateral materials to raise awareness, increase program adoption, and thank our hard-working volunteer contributors.
+
+## Thank you!
