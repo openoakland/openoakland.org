@@ -2,7 +2,6 @@
 layout: default
 ---
 
-
 <article
   class="post h-entry"
   itemscope
@@ -18,7 +17,7 @@ layout: default
         datetime="{{ page.date | date: '%B %-d, %Y' }}"
         itemprop="datePublished"
       >
-        {{ page.date }}
+        {{ page.date  | date: '%B %-d, %Y' }}
       </time>
       {%- if page.author -%} •
       <span itemprop="author" itemscope itemtype="http://schema.org/Person"
@@ -28,6 +27,7 @@ layout: default
       >
       {%- endif -%}
     </p>
+    <hr>
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">

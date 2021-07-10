@@ -6,13 +6,11 @@
   path: /calendar/
 - title: Contact
   path: contact.md
-- title: Donate
-  path: donate.md
 - title: Press
   path: press.md
 - title: Projects
   path: projects.md
 - title: Resources
   path: resources.md
-- title: Steering Committee
-  path: steering-committee.md
+- title: Updates
+  path: updates.md

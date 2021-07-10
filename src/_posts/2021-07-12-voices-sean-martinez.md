@@ -2,6 +2,9 @@
 title: "Voices: Sean Martinez of OpenOakland"
 author: OpenOakland
 layout: post
+date: 2021-07-10 00:00:00 -0800
+permalink: updates/:title/
+post-excerpt: "OpenOakland’s volunteer Treasurer/Recorder talks to us about the unique perspective his intersectionality brings to the brigade, the role of empathy in policy making, and the challenges—and joy—of learning and growing from a diverse community..."
 ---
 
 

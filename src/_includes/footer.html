@@ -14,15 +14,15 @@
         </div>
 
         <div class="col-sm-6">
-          <h6>Connect with us</h6>
+          <h6>Connect</h6>
           <a
             target="_blank"
             href="https://github.com/{{
               site.github_username | cgi_escape | escape
             }}"
           >
-            <i class="fa fa-github"></i>
-            <span>{{ site.github_username | escape }}</span></a
+            <i class="fa fa-github">&nbsp;</i>
+            <span>Visit us on GitHub</span></a
           >
           <br />
           <a
@@ -31,13 +31,18 @@
             }}"
             target="_blank"
           >
-            <i class="fa fa-twitter"></i>
-            <span>{{ site.twitter_username | escape }}</span></a
+            <i class="fa fa-twitter">&nbsp;</i>
+            <span>Follow us on Twitter</span></a
           >
           <br />
           <a href="{{ '/newsletter' | relative_url }}" target="_blank">
-            <i class="fa fa-envelope"></i>
-            <span>Join our Newsletter</span>
+            <i class="fa fa-envelope">&nbsp;</i>
+            <span>Get the newsletter</span>
+          </a>
+          <br />
+          <a href="{{ '/donate' | relative_url }}">
+            <i class="fa fa-hand-holding-usd">&nbsp;</i>
+            <span>Donate to support our work</span>
           </a>
         </div>
       </div>

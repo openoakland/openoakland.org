@@ -2,10 +2,11 @@
 title: OpenOakland Condemns the Anti-Democratic Insurrection
 date: 2021-01-09T00:50:30+00:00
 author: OpenOakland
+permalink: updates/:title/
 layout: post
+post-excerpt: "OpenOakland unequivocally condemns the actions of those who’ve attempted to undermine our democracy..."
 ---
 
-## January 8, 2021
 
 Wednesday’s violent insurrection at the Capitol was unprecedented and like many, we’re still processing the far-reaching implications. OpenOakland unequivocally condemns the actions of those who’ve attempted to undermine our democracy, including those who are sworn to protect it but failed to act to prevent and even incited Wednesday’s violent attack. We’re outraged by apparent law enforcement’s double standard used to manage crowds of different colors, and we join the call for a reckoning in the way justice is served for our Black, brown, and Indigenous compatriots across our institutions.
 
