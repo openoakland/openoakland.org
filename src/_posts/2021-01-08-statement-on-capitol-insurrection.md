@@ -2,7 +2,7 @@
 title: OpenOakland Condemns the Anti-Democratic Insurrection
 date: 2021-01-09T00:50:30+00:00
 author: OpenOakland
-layout: page
+layout: post
 ---
 
 ## January 8, 2021

@@ -1,12 +1,12 @@
 ---
-title: "Spotlight: Sean Martinez of OpenOakland"
+title: "Voices: Sean Martinez of OpenOakland"
 date: 2021-07-02T00:50:30+00:00
 author: OpenOakland
-layout: page
+layout: post
 ---
 
 
-**OpenOakland’s volunteer contributors are the lifeblood of our brigade. They come from different backgrounds and have  different experiences of our city. As we carry Oakland’s Pride Month celebration forward into our daily lives, we’d like to start shining the light on some of these members.**
+**OpenOakland’s volunteer contributors are the lifeblood of our brigade. We may have different backgrounds and experiences of our city but we're united in our belief that technology can be a tool to empower communities and make government more representative of the people it serves. As we carry Oakland’s Pride Month celebration forward into our daily lives, we’d like to start introducing you to some of these members.**
 
 ![Purple and blue duotone of Sean Martinez in glasses, smiling with his hand touching his forehead.](/assets/images/blog/Sean-duotone.png)
 
@@ -14,7 +14,7 @@ Today, we start with Sean Martinez, OpenOakland’s volunteer Treasurer/Recorder
 
 The interview has been edited for length and flow.
 
-## **Jess:** To start, why don’t you tell me a little bit about yourself outside of OpenOakland. What’s your background, what do you do? Who are you, Sean? {#question}
+## **Jess:** To start, why don’t you tell me a little bit about yourself outside of OpenOakland. What’s your background, what do you do? Who *are* you, Sean? {#question}
 
 
 **Sean:** I'm a researcher. I've done research in health care and domestic violence. I originally started doing economic research. My parents were very adamant that I get an MBA at some point or get my Masters. And I decided, you know, what, I'm not going to do that at all, I'm going to do something for society for a little bit. So when I graduated college, I realized maybe I should work for a nonprofit. And I happily did for a few months! And then suddenly, 2016 happened and everything kind of fell apart. So I stuck around, continuing to do research and policy-making in the nonprofit field until now, where I now live in the East Bay and I feel really connected to a lot of organizations. But I still feel like I'm growing my connections elsewhere, and always learning. So it's really exciting. And I always feel like I have something new to learn all the time.
@@ -110,6 +110,6 @@ And sometimes that's challenging because, you know, we have to acknowledge that 
 
 
 ---
-Published on: July 2, 2021
+### Published on: July 12, 2021
 
-*Perspectives expressed in the Voices series are that of individuals and do not necessarily reflect that of OpenOakland membership at large. To nominate someone *
+*Perspectives expressed in the Voices series are that of individuals and do not necessarily reflect that of OpenOakland membership at large. Want to see someone featured? [Submit a suggestion](suggest-speaker).*
