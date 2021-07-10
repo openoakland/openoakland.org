@@ -10,12 +10,12 @@ At OpenOakland, civic tech means helping communities understand and navigate loc
 Your generous gift will support our efforts to connect to all of Oakland through events and weekly meetings
 
 {: style="text-align: center"}
-[Donate Now!](https://www.codeforamerica.org/donate-to-a-brigade?utm_campaign=Open%20Oakland&utm_source=OpenOakland%20site){:target="_blank" .btn.btn-primary }
+[Donate Now](https://www.codeforamerica.org/donate-to-a-brigade?utm_campaign=Open%20Oakland&utm_source=OpenOakland%20site){:target="_blank" .btn.btn-primary }
 
 {: style="text-align: center"}
-*Be sure to select OpenOakland from the drop-down menu.*
+*Be sure to select **OpenOakland** from the drop-down menu.*
 
- If you prefer to use checks, you may address it to _Code for America_ and in the memo write _OpenOakland_. One of our [steering committee members]({{ site.baseurl }}/about-us/) can accept it at our weekly meetings. If you'd like to mail it, [contact us by email](mailto:fundraising@openoakland.org) for an address. If you would like to become a sponsor, you may contact us through the above email.
+To pay by check, contact our [Steering Committee](mailto:steering@openoakland.org). Checks can be made payable to _Code for America_ with _OpenOakland_ added in the Memo line.
 
 
 ## Your donation provides critical resources
