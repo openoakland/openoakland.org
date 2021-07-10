@@ -1,6 +1,5 @@
 ---
 title: "Voices: Sean Martinez of OpenOakland"
-date: 2021-07-02T00:50:30+00:00
 author: OpenOakland
 layout: post
 ---
@@ -110,6 +109,5 @@ And sometimes that's challenging because, you know, we have to acknowledge that 
 
 
 ---
-### Published on: July 12, 2021
 
 *Perspectives expressed in the Voices series are that of individuals and do not necessarily reflect that of OpenOakland membership at large. Want to see someone featured? [Submit a suggestion](suggest-speaker).*
