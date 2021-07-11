@@ -26,8 +26,8 @@
   leader: Felicia Betancourt
   slack_id: C02R4185B
   slack_channel: project-open-budget-oakland
-  description: Every 2 years the city of Oakland releases a budget in a spreadsheet that has nearly 20,000 rows, which does not make for ideal reading. The mission of Open Budget Oakland is to transform this mountain of data into an interactive display of charts and diagrams that is easy and even fun to use. Our MVP is live, but could benefit from improvements and new features.
-  tech: Harp using Node.js, jade, Sass, Bootstrap, React
+  description: Every 2 years the city of Oakland releases a budget in a spreadsheet that has nearly 20,000 rows, which does not make for ideal reading. The mission of Open Budget Oakland is to transform this mountain of data into an interactive display of charts and diagrams that is easy and even fun to use. Our MVP is live, but could benefit from improvements, updated content, and new features.
+  tech: Eleventy + Pug + Node, Sass, Bootstrap, React, D3, GitHub Actions
 -
   name: Open Disclosure Oakland
   image: opendisclosure_300x233.png
