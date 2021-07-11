@@ -8,8 +8,8 @@ layout: page
 ## Tools for running your OpenOakland project
 
 
-### OpenOakland Project Brief  
-The [Project Brief](https://docs.google.com/document/d/1k24P9JiAUEzJLPFRDjVh7aRZexax6NUhfPFLSI3R80M/edit?usp=sharing) is designed to help project teams tackle real needs in the community, ensure impacted voices are reflected in project design, and explore potential unintended consequences. All projects must submit a Project Brief for Steering Committee approval to become an OpenOakland project. For more information, see the [Project Evaluation Pilot Intro](https://drive.google.com/file/d/1ivtFcFTtXg33paMLCCMkdxKOZ9hpGVJf/view?usp=sharing) (PDF).
+### OpenOakland Project Exploration Worksheet  
+The [Exploration Worksheet](https://docs.google.com/document/d/1k24P9JiAUEzJLPFRDjVh7aRZexax6NUhfPFLSI3R80M/edit?usp=sharing) is designed to help project teams tackle real needs in the community, ensure impacted voices are reflected in project design, and explore potential unintended consequences. All projects must submit a Project Brief for Steering Committee approval to become an OpenOakland project. For more information, see the [Project Evaluation Pilot Intro](https://drive.google.com/file/d/1ivtFcFTtXg33paMLCCMkdxKOZ9hpGVJf/view?usp=sharing) (PDF).
 
 ### OpenOakland Style Guide
 The OpenOakland [style guide](https://docs.google.com/document/d/1SvhwrQcu4mNMS05zE4AIXA8zsc7qpUeWVA9GvgiZaHo/edit?usp=sharing) should be used to help ensure that projects and communications have a consistent look and tone.
@@ -29,8 +29,10 @@ Map out your user testing approach with this Code for America [worksheet](https:
 ### OakData
 The City of Oakland’s [open data portal](http://data.oaklandnet.com/), populated and managed by the city.
 
-### Free Software for Brigades  
-Code for America makes [certain software free to brigades](https://brigade.codeforamerica.org/resources/software) for use in our projects. To access a license or request licensing for new software, contact OpenOakland's steering committee first at steering@openoakland.org (we may be able to set you up directly).
+### Software  
+ OpenOakland project teams are expected to create any project-related accounts using an OpenOakland-associated email address. Credentials need to be stored in OpenOakland's password manager for continuity and security. Some of the options available include: [Canva](https://www.canva.com/) / [Heroku](https://heroku.com/) / [Mailgun](https://app.mailgun.com/) / [Mural](https://app.mural.co/)
+
+Code for America also makes [certain software free to brigades](https://brigade.codeforamerica.org/resources/software) for use in our projects. To access a license or request licensing for any new software, or to set up an OpenOakland email address for your project, [contact OpenOakland’s steering committee  <i class="fa fa-paper-plane"></i>](mailto:steering@openoakland.org) for details) (we may be able to set you up directly).
 
 ## General brigade and civic tech resources
 
