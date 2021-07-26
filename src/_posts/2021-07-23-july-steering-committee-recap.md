@@ -10,7 +10,7 @@ post-excerpt: "Accountability came up more than once at this month’s Steering 
 ***Accountability* came up more than once at this month’s Steering Committee meeting on July 20, as we discussed two core action items: hiring professional expertise to support culture change and reviving our former Civic User Testing program to ensure impacted audiences are more directly involved in developing and validating our project work.**
 
 ***Jump to:***  
-[Operational Updates](#operational-updates) | [Culture Change](#discussion-hiring-professional-expertise-to-support-culture-change) | [Reviving CUT Group](#discussion-reviving-the-civic-user-testing-g roup) | [National Day of Civic Hacking](#discussion-national-day-of-civic-hacking)
+[Operational Updates](#operational-updates) | [Culture Change](#discussion-hiring-professional-expertise-to-support-culture-change) | [Reviving CUT Group](#discussion-reviving-the-civic-user-testing-group) | [National Day of Civic Hacking](#discussion-national-day-of-civic-hacking)
 
 ![Green-tinged photo of OpenOakland members seated around tables in City Hall with the words 'Steering Committee' in white.](/assets/images/blog/2021-07-Banner-meetup-Steering.png)
 
