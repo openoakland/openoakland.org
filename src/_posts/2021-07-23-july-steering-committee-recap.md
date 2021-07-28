@@ -2,7 +2,7 @@
 title: "July Steering Committee Recap"
 author: OpenOakland
 layout: post
-date: 2021-07-23 00:00:00 -0800
+date: 2021-07-28 00:00:00 -0800
 permalink: updates/:title/
 post-excerpt: "Accountability came up more than once at this month’s Steering Committee meeting, as we discussed two core action items: hiring professional expertise to support culture change and reviving our former Civic User Testing program to ensure impacted audiences are more directly involved in developing and validating our project work..."
 ---
