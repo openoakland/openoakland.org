@@ -7,6 +7,11 @@ layout: page
 
 **2021 Media Contact:** Jess Sand at jess[at]openoakland.org
 
+ ## 2021
+
+[**Does Oakland spend nearly half its budget on policing?**](https://oaklandside.org/2021/04/12/oakland-police-spending-budget-general-fund-opd/)  
+_April 12, 2021 The Oaklandside, Darwin BondGraham_
+
 ## 2020
 
 [**The Ins and Outs of Your City Budget**](https://www.bloomberg.com/news/articles/2020-06-25/how-to-understand-your-city-budget)  
@@ -118,7 +123,7 @@ _April 30, 2013 - East Bay Express, Ellen Cushing_
 
 <!-- Remove dead link 7/10/2021 -->**Oakland Gets a New Data Visualization Site for its Budget**  
 _April 30, 2013 - TechPresident, Sarah Stirland_  
-'The civic hacking group [OpenOakland](http://data.openoakland.org/) unveiled a new budget visualization Web site called [Open Budget Oakland](http://openbudgetoakland.org/) Wednesday. The site enables visitors to visualize total department expenditures, the details of spending within each department, and their sources of funding.'
+'The civic hacking group [OpenOakland](http://data.openoakland.org/) unveiled a new budget visualization Web site called [Open Budget Oakland](http://openbudgetoakland.org/) Wednesday. The site enables visitors to visualize total department expenditures, the details of spending within each department, and their sources of funding.' [From the Network](){: .badge .badge-secondary }
 
 [**Urban activists hack their way toward open government**](http://arstechnica.com/business/2013/03/urban-activists-hack-their-way-towards-open-government/ "Urban activists hack their way toward open government")  
 _March 30, 2013 - Ars Technica, Cyrus Farivar_  
