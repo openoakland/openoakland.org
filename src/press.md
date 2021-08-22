@@ -5,7 +5,12 @@ author: OpenOakland
 layout: page
 ---
 
-**Media Contact:** Jess Sand at jess[at]openoakland.org
+**2021 Media Contact:** Jess Sand at jess[at]openoakland.org
+
+ ## 2021
+
+[**Does Oakland spend nearly half its budget on policing?**](https://oaklandside.org/2021/04/12/oakland-police-spending-budget-general-fund-opd/)  
+_April 12, 2021 The Oaklandside, Darwin BondGraham_
 
 ## 2020
 
@@ -52,7 +57,7 @@ _MAY 9, 2016 -Civicist/Civic Hall, Jessica McKenzie_
 
 ## 2015
 
-[**Three Data Access Trends Shaping the Future of Community Development: Open Data, My Data, and Smart Disclosure**](http://www.whatcountsforamerica.org/portfolio/three-data-access-trends-shaping-the-future-of-community-development-open-data-my-data-and-smart-disclosure/ "What Counts book"){: target="_blank" rel="noopener noreferrer"}  
+<!-- Remove dead link 7/10/2021 -->**Three Data Access Trends Shaping the Future of Community Development: Open Data, My Data, and Smart Disclosure**
 _What Counts book (2015)_, Published by the Urban Institute, Amias Gerety & Sophie Raseman.
 
 <!-- AL removed link -->
@@ -92,7 +97,6 @@ _August 4, 2013 - The White House_
 'This is the heart of civic hacking for me: building new solutions and processes to replace broken ones, sharing our lessons and our successes and allowing others to benefit from our knowledge, failures, and shared technology.'
 
 <!-- AL removed link -->
-
 [**There's an app for that**](http://digital.bizjournals.com/launch.aspx?eid=487ba110-ea58-40b0-9b07-21be5f5f5672 "SF Business Times")  
 _August 16, 2013 - San Francisco Business Times_  
 'OpenOakland.. brings together coders, designers, city staff and others to improve how Oakland's government serves its citizens.'
@@ -101,16 +105,15 @@ _August 16, 2013 - San Francisco Business Times_
 **Profiles in OakTech: Steve Spiker, Open Data Advocate**  
 _August 12, 2013 -Oakland Local, Howard Dyckoff_
 
-[**Most Innovative Activist Group**](http://www.eastbayexpress.com/oakland/most-innovative-activist-group/BestOf?oid=3653840 "Most Innovative Activist Group"){: target="_blank" rel="noopener noreferrer"}  
+[**Most Innovative Activist Group**](http://www.eastbayexpress.com/oakland/most-innovative-activist-group/BestOf?oid=3653840 "Most Innovative Activist Group")  
 _July 16, 2013 -East Bay Express_  
 'Oaklanders have always had a fierce penchant for community organizing. But until very recently, 'grassroots activism' didn't exactly conjure up the image of a bunch of self-described data nerds with their laptops in tow talking about code. But venture out to Oakland City Hall on most Tuesdays nights and you'll find Open Oakland, a group of self-described 'civic hackers' intent on using government data and technology to create better ways of engaging citizens. ...'
 
-[**Civic Minded Hacking**](http://spectrum.ieee.org/tech-talk/geek-life/hands-on/civicminded-hacking "Civic Minded Hacking"){: target="_blank" rel="noopener noreferrer"}  
+[**Civic Minded Hacking**](http://spectrum.ieee.org/tech-talk/geek-life/hands-on/civicminded-hacking "Civic Minded Hacking")  
 _June 11, 2013 - IEEE Spectrum, Travis Korte_  
 'Oakland, Calif., ever the outlier, hosted the massively collaborative ReWrite Oakland event, in which more than 70 programmers, designers, city officials, writers and local residents came together to create a new community-oriented information website for the city...  ReWrite Oakland provided a great model for this kind of collaboration, and other cities would do well to take note...'
 
 <!-- AL removed link -->
-
 **Re-Write Oakland Hackathon Answers Over 160 Civic Questions**  
 _June 6, 2013 - Oakland Local, Howard Dyckoff_
 
@@ -118,9 +121,9 @@ _June 6, 2013 - Oakland Local, Howard Dyckoff_
 _April 30, 2013 - East Bay Express, Ellen Cushing_  
 'a new project that aims to use data visualization to give average people the tools they need to understand — and, in turn, get involved with — Oakland's budgeting process, just went live a few days ago (in beta at least) and [it's pretty sweet](http://openbudgetoakland.org/).'
 
-[**Oakland Gets a New Data Visualization Site for its Budget**](http://techpresident.com/news/23749/oakland-gets-new-data-visualization-site-its-budget "dataviz")  
+<!-- Remove dead link 7/10/2021 -->**Oakland Gets a New Data Visualization Site for its Budget**  
 _April 30, 2013 - TechPresident, Sarah Stirland_  
-'The civic hacking group [OpenOakland](http://data.openoakland.org/) unveiled a new budget visualization Web site called [Open Budget Oakland](http://openbudgetoakland.org/) Wednesday. The site enables visitors to visualize total department expenditures, the details of spending within each department, and their sources of funding.'
+'The civic hacking group [OpenOakland](http://data.openoakland.org/) unveiled a new budget visualization Web site called [Open Budget Oakland](http://openbudgetoakland.org/) Wednesday. The site enables visitors to visualize total department expenditures, the details of spending within each department, and their sources of funding.' [From the Network](){: .badge .badge-secondary }
 
 [**Urban activists hack their way toward open government**](http://arstechnica.com/business/2013/03/urban-activists-hack-their-way-towards-open-government/ "Urban activists hack their way toward open government")  
 _March 30, 2013 - Ars Technica, Cyrus Farivar_  
@@ -139,7 +142,7 @@ _2/25/2013 - Atlantic Cities, Emily Badger_
  _1/18/2013 - OaklandNorth, Adam Grossberg_  
 'So far, Oakland Wiki’s only stated guidelines are that the wiki is free and anyone can edit it ... OpenOakland has already hosted an [“unconference” they dubbed CityCamp](http://oaklandnorth.net/2012/12/03/openoakland-brigade-encourages-collaboration-between-government-and-community-using-technology/){: target="_blank" rel="noopener noreferrer"}, which brought city officials and residents together to talk about local issues, and [put together an Open Government Pledge](http://oaklandnorth.net/2012/11/02/oaklanders-push-city-council-candidates-for-increased-government-transparency/){: target="_blank" rel="noopener noreferrer"} that asked Oakland politicians to affirm their commitment to government transparency.'
 
-[**Cracking Oakland's Code - Can a group of hackers figure out new answers to the city's old problems?**](http://www.eastbayexpress.com/ebx/cracking-oaklands-code/Content?oid=3426694 "Cracking Oakland's Code"){: target="_blank" rel="noopener noreferrer"}  
+[**Cracking Oakland's Code - Can a group of hackers figure out new answers to the city's old problems?**](https://eastbayexpress.com/cracking-oaklands-code-1/)
 _1/2/2013 - East Bay Express, Azeen Ghorayshi_  
 'I think one of the biggest problems we've faced is that whenever government operates in a closed fashion, it just asks for and results in distrust and concern that government isn't doing what it's meant to be doing and isn't willing to be questioned,' said OpenOakland's Steve Spiker. 'But there is a love for this city that's very strong and very rich, and it's got a history of social activism that's carried over in a lot of ways to the tech community.'
 
@@ -172,6 +175,6 @@ Thanks to a grant from the [Knight News Challenge](http://www.knightfoundation.o
 _10/8/12 - Next American City, Kate Holmquist_  
 Stephen Spiker is brigade co-captain for the new start-up OpenOakland, a volunteer group of hackers, software engineers and civic advocates who build open source technology to tackle civic issues that government doesn’t have the resources to undertake. Spiker loves data, democracy and design. Oh, and he’s a new dad, too.
 
-[**OpenOakland Brigade tries to unite techies, community advocates and city hall**](http://www.insidebayarea.com/news/ci_21464979/openoakland-brigade-tries-unite-techies-community-advocates-and)  
+[**OpenOakland Brigade tries to unite techies, community advocates and city hall**](https://www.eastbaytimes.com/2012/09/04/openoakland-brigade-tries-to-unite-techies-community-advocates-and-city-hall/)  
 _9/4/12 - Oakland Tribune, Angela Woodall_  
 The Brigade project started as a way to create a national network of cities whose residents were leveraging technology to improve their community. The Gov 2.0 civic tech movement is a growing one but tools developed in one city were being reinvented in others.

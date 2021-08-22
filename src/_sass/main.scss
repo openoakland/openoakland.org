@@ -54,6 +54,13 @@ p {
   margin-top: $spacing-unit / 3;
 }
 
+.question {
+  font-size: 1.2rem;
+  line-height: 1.8rem;
+  font-weight: normal;
+  color:#11624C;
+}
+
 
 ol {
   margin-top:1.6rem;
@@ -93,6 +100,10 @@ a:not([class]),
   font-size:.9rem;
   line-height: 1.2rem;
   margin-bottom:2rem;
+}
+
+.blog-date {
+  font-size:1rem;
 }
 
 .bold {
@@ -220,7 +231,7 @@ main {
 
 .iframe-container-form-speaker {
   overflow: visible;
-  min-height:1800px;
+  min-height:2000px;
 }
 
 .iframe-form-generic {

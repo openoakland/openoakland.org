@@ -1,0 +1,7 @@
+{% for post in site.posts %}
+
+
+<h2><span class="blog-date">{{ post.date | date: '%B %-d, %Y' }}<br/></span><a href="{{ post.url }}">{{ post.title }}</a></h2>
+<p>{{ post.post-excerpt }}</p>
+
+{% endfor %}
