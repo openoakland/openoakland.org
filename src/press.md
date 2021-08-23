@@ -170,6 +170,11 @@ March 30, 2013 | Ars Technica | Cyrus Farivar
 _City officials see CFA and other parallel hacktivist projects, like OpenOakland, as a welcome (and low-cost) effort to aid a city under strain. They don’t expect technology to solve all of the Oakland’s problems, but they believe it might alleviate a small portion of the city’s challenges._
 
 {: .media-headline}
+### [Our Town, Our Budget: What Does Public Safety Really Look Like?](https://oaklandrising.org/our-town-our-budget-what-does-public-safety-really-look/)
+April 18. 2013 | Oakland Rising
+_Because the quality of life we enjoy in Oakland is directly connected to the public programs and projects we invest in and prioritize, the city budget is an important issue to pay attention to and be involved in...Learn more about what our budget looks like by using these great budget visualization tools created by Open Budget Oakland._
+
+{: .media-headline}
 ### [Early Fruits for International Open Data Day 2013](http://www.theatlanticcities.com/technology/2013/02/early-fruits-international-open-data-day-2013/4793 "Early Fruits for International Open Data Day 2013")  
 Feb 25, 2013 | Atlantic Cities | Emily Badger  
 _This past Saturday was International Open Data Day, and with it came hackathons hosted in dozens of cities on five continents all simultaneously tinkering with apps, visualizations, data catalogs and new standards built on the world’s growing trove of public data. Of course, put a bunch of mapping geeks and civic hackers in a room – many rooms, all over the world._
