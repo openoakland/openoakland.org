@@ -10,7 +10,7 @@ post-excerpt: "We had a light crowd at this month’s Steering Committee meeting
 **We had a light crowd at this month’s Steering Committee meeting last Tuesday but still managed to cover a lot of ground.**
 
 ***Jump to:***  
-[Operational Updates](#operational-updates) | [Approved: Funding Public Safety](#approved-funding-public-safety-becomes-penoaklands-newest-project) | [Hiring for culture change](#update-hiring-professional-expertise-to-support-culture-change) | [National Day of Civic Hacking](#vote-participating-in-national-day-of-civic-hacking)
+[Operational Updates](#operational-updates) | [Approved: Funding Public Safety](#approved-funding-public-safety-becomes-openoaklands-newest-project) | [Hiring for culture change](#update-hiring-professional-expertise-to-support-culture-change) | [National Day of Civic Hacking](#vote-participating-in-national-day-of-civic-hacking)
 
 ![Green-tinged photo of OpenOakland members seated around tables in City Hall with the words 'Steering Committee' in white.](/assets/images/blog/2021-07-Banner-meetup-Steering.png)
 
