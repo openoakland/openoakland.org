@@ -19,6 +19,16 @@
   description: We make the Oakland City Council meetings easily accessible to the citizens of Oakland. Using our site citizens can learn when are the upcoming city council meetings, view the agenda, put the meeting on your calendar, and send an electronic comment to the Council. Plus you can see videos of past meetings.
   tech:  BASH, Python, JSON, Jinja2 templating
 -
+  name: Funding Public Safety
+  image:
+  website: https://forms.gle/iVDjPfxdmxXeFMf36
+  repo: https://docs.google.com/document/d/1NNJ2tPtBmvMce_V83NFBiRxmPeErWpGAZpCh7iHhWEE/edit?usp=sharing
+  leader: Open
+  slack_id: T02FEGG84
+  slack_channel: project-active-funding-public-safety
+  description: "The City allocates about $24 million each year to the Dept. of Violence Prevention (Oakland Unite), OPD, and the Oakland Fire Dept. to fund public safety and violence prevention programs. This pool of money is overseen by an oversight commission (the SSOC), a volunteer group of city residents appointed by the City. OpenOakland's Funding Public Safety project is aimed at supporting the SSOC's oversight efforts by making the City's Measure Z evaluation reports more meaningful so the SSOC, impacted communities, and the general public can better understand how the money is being spent and how effective these programs are. We're looking for folks to assess the community impacts of this project, analyze program data, and develop a dataviz strategy."
+  tech: TBD (spreadsheets for now!)
+-
   name: Open Budget Oakland
   image: openbudgetoakland_300x233.png
   website: http://openbudgetoakland.org/

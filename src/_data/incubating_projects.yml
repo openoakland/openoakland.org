@@ -1,4 +1,14 @@
 -
+  name: Filipino Mental Health
+  image:
+  website:
+  repo: https://drive.google.com/file/d/1uF-pkmjYKp4BCvxaijdemdcHs2dxn0rt/view
+  leader: Sean Martinez
+  slack_id: C023WQ445PE
+  slack_channel: project-incubating-filipino-mental-health
+  description: "Oakland’s Filipino community faces a range of cultural and societal barriers to seeking mental health services. Local nonprofit Filipino Advocates for Justice has been empowering the Filipino community for decades through its Bayanihan principles, a Filipino demonstration of social justice values where a community comes together to help those in need. Together, we're exploring how OpenOakland can support FAJ's most recent mental health research into an online platform to help the Filipino community overcome barriers to seeking help and connect with critical mental health services."
+  tech: TBD
+-
   name: OpenOakland RADAR Program (Research and Data Assistance Request)
   image:
   website:
@@ -7,14 +17,4 @@
   slack_id: C01RVMKBF5X
   slack_channel: project-incubating-radar
   description: RADAR is exploring how we can use OpenOakland's particular data expertise to further the needs of our community and government partners by supplementing their own internal capacity, thereby amplifying their impact. Our hypothesis is that creating an off-the-shelf request service for well-scoped, time-bound, data-centric projects can help potential partners make better use of OpenOakland's services, create a more consistent pipeline of mission-aligned projects for the brigade, and allow us to more directly serve our mission through the strength of our volunteers. OpenOakland RADAR is inspired by BetaNYC's existing program.
-  tech: TBD
--
-  name: Public Safety & Violence Prevention Oversight Commission Content Strategy
-  image:
-  website: https://www.oaklandca.gov/boards-commissions/public-safety-and-services-violence-prevention-oversight-commission
-  repo: https://docs.google.com/document/d/1NNJ2tPtBmvMce_V83NFBiRxmPeErWpGAZpCh7iHhWEE/edit?usp=sharing
-  leader: Open
-  slack_id: T02FEGG84
-  slack_channel: project-incubating-ssoc
-  description: The SSOC is seeking assistance with information management to support their efforts overseeing Measure Z spending. We're currently looking for folks interested in guiding the scoping and feasibility of such a partnership, including interviewing stakeholders, exploring community impacts, and mapping the content ecosystem.
   tech: TBD
