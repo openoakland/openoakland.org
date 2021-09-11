@@ -2,7 +2,7 @@
 title: "OpenOakland's Priority Areas"
 author: Jess Sand
 layout: post
-date: 2021-09-10 00:00:00 -0800
+date: 2021-09-12 00:00:00 -0800
 permalink: updates/:title/
 post-excerpt: "How do we ensure that all members have a voice and those voices are not only heard but are able to shape decision-making? Earlier this year, OpenOakland defined a set of priority areas based on existing member feedback..."
 ---
