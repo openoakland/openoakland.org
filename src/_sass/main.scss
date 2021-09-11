@@ -283,3 +283,26 @@ main {
   font-weight: normal;
   padding:6px;
 }
+
+// Blog post styling
+
+article { margin-bottom: 40px; }
+
+.PostNav {
+  font-size: .8rem;
+  display: block;
+  width: auto;
+  overflow: hidden;
+}
+
+.PostNav a {
+  font-size: .8rem;
+  display: block;
+  width: 50%;
+  float: left;
+  margin: 1em 0;
+}
+
+.PostNav .next {
+  text-align: right;
+}
