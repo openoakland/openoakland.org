@@ -15,7 +15,7 @@ As a result, a lot of member feedback from recent years has sat in a sort of pur
 
 So how do we ensure that all members have a voice and those voices are not only heard but are able to shape decision-making? As a new co-lead in January of this year, I was desperate to find a way to transform existing feedback into action in a way that would build accountability into brigade activities. So I started gathering everything I could find and began identifying themes. OpenOakland’s Steering Committee then took this material and developed a set of brigade priority areas aimed at addressing these themes. We’ve been actively working on these areas since then.
 
-**[Jump to the priority areas](#openoaklands-brigade-priority-areas):**  
+**[Jump to the priority areas](#openoaklands-priorities):**  
 [Equity and representation](#priority-equity-and-representation) \| [Impact evaluation](#priority-impact-evaluation) \| [Operations](#priority-operations)
  \| [Strategy](#priority-strategy) \| [Member cultivation and culture](#priority-member-cultivation-and-culture)
 
