@@ -10,6 +10,10 @@ layout: page
 ## 2021
 
 {: .media-headline}
+### [Visualizing Government Accountability Using a City Budget](https://www.esal.us/blog/visualizing-government-accountability/)  
+September 8, 2021 | Engineers & Scientists Acting Locally (ESAL) | Malvika Singhal
+
+{: .media-headline}
 ### [Does Oakland spend nearly half its budget on policing?](https://oaklandside.org/2021/04/12/oakland-police-spending-budget-general-fund-opd/)  
 April 12, 2021 | The Oaklandside | Darwin BondGraham
 
