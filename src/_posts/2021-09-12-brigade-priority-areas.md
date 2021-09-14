@@ -158,4 +158,8 @@ These priority areas require more than just a commitment. They require culture c
 
 But we also need to be realistic about what we can actually accomplish, and in what kind of timeframe. Honestly, we may not even need to accomplish it all. But if we’re thoughtful enough about it, we can rebuild OpenOakland in the image we believe in.
 
+## Tell us what you think
+
+[Share your input on the priorities](https://forms.gle/ykFteeYBuZ815Azn9){: .btn .btn-primary }
+
 _In an upcoming post, I’ll share more about the progress we’ve made in the different priority areas and the work yet to come._
