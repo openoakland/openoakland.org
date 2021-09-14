@@ -78,7 +78,7 @@ ul {
   margin-left:1rem;
 }
 
-li {margin-top:1.1rem;}
+li {margin-top:.3rem;}
 
 
 a:not([class]),
@@ -282,4 +282,27 @@ main {
 .project-badge {
   font-weight: normal;
   padding:6px;
+}
+
+// Blog post styling
+
+article { margin-bottom: 40px; }
+
+.PostNav {
+  font-size: .8rem;
+  display: block;
+  width: auto;
+  overflow: hidden;
+}
+
+.PostNav a {
+  font-size: .8rem;
+  display: block;
+  width: 50%;
+  float: left;
+  margin: 1em 0;
+}
+
+.PostNav .next {
+  text-align: right;
 }
