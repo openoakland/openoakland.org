@@ -37,3 +37,6 @@ Add your answer.
 
 
 ##### Thank you!
+- Please document your design and tech decisions in your pull request so others can follow along and understand why we've made the decisions we have.
+- If you'd like feedback, input, or help, share your thoughts or question in this issue's comments.
+
