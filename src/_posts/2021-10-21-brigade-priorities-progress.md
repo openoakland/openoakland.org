@@ -2,7 +2,7 @@
 title: "Progress on OpenOakland’s Priority Areas"
 author: Jess Sand
 layout: post
-date: 2021-10-20 00:00:00 -0800
+date: 2021-10-21 00:00:00 -0800
 permalink: updates/:title/
 post-excerpt: "Progress may feel slow to many of us, even invisible sometimes. But we’ve actually made some meaningful changes this year as a result of establishing brigade priorities..."
 ---
