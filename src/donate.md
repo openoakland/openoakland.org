@@ -19,7 +19,7 @@ To pay by check, contact our [Steering Committee](mailto:steering@openoakland.or
 
 
 ## Your donation provides critical resources
-As an all-volunteer brigade, we operate as lean as we can. Your contributions help us create a more efficient, inclsuive volunteer program. Among other things, your generosity helps provide:
+As an all-volunteer brigade, we operate as lean as we can. Your contributions help us create a more efficient, inclusive volunteer program. Among other things, your generosity helps provide:
 - Web hosting and platform support for openoakland.org and other [project sites]({{ site.baseurl }}/projects/).
 - Supplies for meetings, workshops, and design sessions.
 - Speaker honorariums to encourage diverse voices.
