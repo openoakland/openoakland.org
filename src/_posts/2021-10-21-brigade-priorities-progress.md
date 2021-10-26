@@ -54,7 +54,7 @@ We are going to make mistakes. The reality is that we may not accomplish everyth
 - Practice having **difficult conversations** with each other, learning how to call out and call in when we experience problematic behavior, and how to deliver and receive feedback and criticism in healthy ways.
 - Evolve our bylaws to **address challenges in the current leadership structure**, process gaps, and generally make OpenOakland’s participatory governance structure more effective.
 
-A more rigorous list of activities and initiatives are outlined in [OpenOakland’s Priority Areas](/2021-09-12-brigade-priority-areas).
+A more rigorous list of activities and initiatives are outlined in [OpenOakland’s Priority Areas](/updates/brigade-priority-areas/).
 
 ## Finding the right pace of change
 It’s proving to be a real challenge to make progress fast enough. Members have different levels of patience with the process and expectations of what’s reasonable. Co-leads struggle to keep up with the demands of poorly defined roles. Project leads struggle to balance their project management with brigade management.
