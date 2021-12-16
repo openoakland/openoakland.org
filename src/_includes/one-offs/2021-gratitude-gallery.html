@@ -1,0 +1,19 @@
+<div class="row">
+  {%- for calendar in site.data.2021-gratitude -%}
+    <div class="d-flex col-sm-6 cols-md-12">
+
+      <div class="card calendar-card">
+
+        {% if calendar.image %}<img src="/assets/images/events/{{ calendar.image }}" alt="video thumbnail"/>{% endif %}
+
+        <div class="card-body">
+          <h3 class="card-title calendar-card-h3">{% if 2021-gratitude.recipient %}{{ 2021-gratitude.recipient }}{% endif %}</h3>
+          <p class="card-text">{% if 2021-gratitude.shout-out %}{{ 2021-gratitude.shout-out }}{% endif %}</p>
+        </div>
+
+
+      </div>
+
+    </div>
+  {%- endfor -%}
+</div>
