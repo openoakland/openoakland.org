@@ -11,4 +11,6 @@ OpenOakland welcomed nearly 150 volunteers over the course of 2021! We're blown 
 
 ## Gratitude
 
-{% include 2021-gratitude-gallery.html %}
+{% include one-offs/2021-gratitude-gallery.html %}
+
+## Another section

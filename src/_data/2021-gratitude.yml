@@ -2,3 +2,6 @@
  recipient: xx
  shout-out: '"This is a test"'
 -
+ recipient: xx
+ shout-out: Another test
+-
