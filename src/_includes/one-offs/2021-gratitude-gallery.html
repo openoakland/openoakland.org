@@ -3,9 +3,9 @@
     <div class="d-flex col-sm-4 cols-md-12">
 
       <div class="card calendar-card">
-        <div class="card-body">
-          <h3 class="card-title calendar-card-h3">{% if 2021-gratitude.recipient %}{{ 2021-gratitude.recipient }}{% endif %}</h3>
-          <p class="card-text">{% if 2021-gratitude.shout-out %}{{ 2021-gratitude.shout-out }}{% endif %}</p>
+        <div class="card-body shout-out-body">
+          <div class="card-header shout-out-header">{% if 2021-gratitude.recipient %}{{ 2021-gratitude.recipient }}{% endif %}</div>
+          <p class="card-text shout-out-text">{% if 2021-gratitude.shout-out %}{{ 2021-gratitude.shout-out }}{% endif %}</p>
         </div>
 
 

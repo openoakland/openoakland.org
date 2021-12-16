@@ -48,6 +48,21 @@
   margin-top: .8rem;
 }
 
+.shout-out-body {
+  padding:0rem;
+}
+
+.shout-out-text {
+  padding:1.25rem;
+  margin-top:0rem;
+}
+
+.shout-out-header {
+  font-weight:bold;
+}
+
+
+
 // Give the calendar-card-link left margin only if it's
 // the second child.
 .btn + .calendar-card-link {
