@@ -30,8 +30,9 @@ author: OpenOakland
   <p>
   We hope you'll join us! If you can't make this event, <a href="https://www.meetup.com/OpenOakland" target="_blank">check our Meetup group for our future events</a>.
   </p>
-
 </section>
+
+{% include recent-updates.html %}
 
 <section class="row page-section">
   <div class="col-2">
