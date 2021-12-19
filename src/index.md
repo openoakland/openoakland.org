@@ -19,20 +19,7 @@ author: OpenOakland
   </div>
 </section>
 
-
-<section class="page-section">
-  {% include next-meeting.html %}
-
-  <p>
-  All OpenOakland meetings are open to the public, regardless of technical ability.
-  </p>
-
-  <p>
-  We hope you'll join us! If you can't make this event, <a href="https://www.meetup.com/OpenOakland" target="_blank">check our Meetup group for our future events</a>.
-  </p>
-</section>
-
-{% include one-offs/recent-updates.html %}
+{% include home-sections/home-next-event.html %}
 
 <section class="row page-section">
   <div class="col-2">
@@ -49,3 +36,6 @@ author: OpenOakland
   </div>
 
 </section>
+
+
+{% include home-sections/recent-updates.html %}
