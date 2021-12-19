@@ -1,19 +1,25 @@
-<h2>Latest brigade update</h2>
+<h2>Latest news from the brigade</h2>
 
+<div class="row">
+  {% for post in site.posts limit:2 %}
+<div class="col-6">
 <div class="card">
-  {% for post in site.posts limit:1 %}
+
+
 
   <div class="card-header">{{ post.date | date_to_string }}</div>
 
-  <img src="assets/images/blog/2021-07-Banner-meetup-Steering.png" class="card-img-top" alt="...">
+    <img src="assets/images/blog/2021-07-Banner-meetup-Steering.png" class="card-img-top" alt="...">
 
-  <div class="card-body">
+    <div class="card-body">
+      <h3 class="card-title"><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
+      <p class="card-text home-excerpt">{{ post.excerpt }}</p>
+      <a href="{{ post.url }}" class="btn btn-primary">Continue reading...</a>
+    </div>
 
-    <h3 class="card-title"><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
 
-    <p class="card-text home-excerpt">{{ post.excerpt }}</p>
-    <a href="{{ post.url }}" class="btn btn-primary">Continue reading...</a>
 
-  </div>
+</div>
+</div>
   {% endfor %}
 </div>
