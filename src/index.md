@@ -32,7 +32,7 @@ author: OpenOakland
   </p>
 </section>
 
-{% include recent-updates.html %}
+{% include one-offs/recent-updates.html %}
 
 <section class="row page-section">
   <div class="col-2">
