@@ -307,10 +307,33 @@ article { margin-bottom: 40px; }
   text-align: right;
 }
 
+// Home page styling
+
 .home-excerpt {
   font-weight: normal;
 }
 
 .latest-updates {
   margin-bottom:2rem;
+
+}
+
+.index-hero {
+  background-image: url("#"); /* The image used */
+  background-color: #013743;
+  height: auto; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+  color: #fff;
+  padding: 6rem 2rem 1rem 2rem;
+  margin-bottom: 2rem;
+}
+
+h1.hero {
+  margin-bottom: 0px;
+}
+
+p.hero {
+  font-size: 1.6rem;
 }

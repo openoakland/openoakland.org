@@ -4,6 +4,12 @@ title: We are OpenOakland
 author: OpenOakland
 ---
 
+
+<!--- Section: Hero -->
+{% include home-sections/home-hero.html %}
+
+
+
 <section class="row page-section">
   <div class="col-sm-8">
     <p class="h5 mt-1">OpenOakland bridges <b>technology</b> and <b>community</b> for a thriving and equitable Oakland.</p>
@@ -19,7 +25,11 @@ author: OpenOakland
   </div>
 </section>
 
+<!--- Section: Next Event -->
 {% include home-sections/home-next-event.html %}
+
+
+<!--- Section: Slack -->
 
 <section class="row page-section">
   <div class="col-2">
@@ -34,8 +44,7 @@ author: OpenOakland
     <p>OpenOakland members primarily use Slack for connecting and communicating. By joining our Slack space, you agree to our <a href="/code-of-conduct">Code of Conduct</a> (upshot: be cool to each other and don't spam).</p>
     <p><strong><a class="btn btn-primary" href="https://join.slack.com/t/openoakland/shared_invite/zt-n4d7tx2t-UVIN7a769e4oc9j7PgM3HA">Join us in Slack</a></strong> <a class="btn btn-link brand-link" href="https://docs.google.com/document/d/1VWZQ_3ehP5j0IOTY0nJClvQPll3ivSkuAdh5YsOhO_U/edit?usp=sharing">OpenOakland Slack Guide</a></p>
   </div>
-
 </section>
 
-
+<!--- Section: Latest Updates -->
 <div class="latest-updates"> {% include home-sections/recent-updates.html %} </div>
