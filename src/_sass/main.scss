@@ -319,21 +319,27 @@ article { margin-bottom: 40px; }
 }
 
 .index-hero {
-  background-image: url("#"); /* The image used */
+  background-image: url("/assets/images/blog/openoakland-blue.png"); /* The image used */
   background-color: #013743;
   height: auto; /* You must set a specified height */
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */
   background-size: cover; /* Resize the background image to cover the entire container */
   color: #fff;
-  padding: 6rem 2rem 1rem 2rem;
-  margin-bottom: 2rem;
+  padding: 3rem 2rem 2rem 2rem;
+  margin-top:-2.4rem;
 }
 
 h1.hero {
   margin-bottom: 0px;
+  color: #fff;
 }
 
 p.hero {
   font-size: 1.6rem;
+}
+
+hr.home-hr {
+  border-top: 2px dotted #013743;
+  margin-top:4rem;
 }

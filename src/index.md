@@ -5,32 +5,15 @@ author: OpenOakland
 ---
 
 
-<!--- Section: Hero -->
-{% include home-sections/home-hero.html %}
+<!--- The "Hero" section at the top of the home page is an include in the layouts/home.html file and is editable by opening the includes/home-sections/home-hero.html file. -->
 
-
-
-<section class="row page-section">
-  <div class="col-sm-8">
-    <p class="h5 mt-1">OpenOakland bridges <b>technology</b> and <b>community</b> for a thriving and equitable Oakland.</p>
-
-    <p>As part of the <a href="https://brigade.codeforamerica.org" target="_blank">Code for America brigade network</a>, we are a welcoming and inclusive volunteer group of developers, designers, data geeks, and citizen activists who use creative technology to solve civic and social problems.</p>
-  </div>
-
-  <div class="col-sm-4">
-    <figure>
-      <img src="/assets/images/DayOfService2019.jpg" alt="Attendees of our 2019 Day of Service" width="100%"/>
-      <figcaption>OpenOakland members at our 2019 Day of Service event</figcaption>
-    </figure>
-  </div>
-</section>
 
 <!--- Section: Next Event -->
 {% include home-sections/home-next-event.html %}
 
 
 <!--- Section: Slack -->
-
+<hr class="home-hr">
 <section class="row page-section">
   <div class="col-2">
     <img class="img-fluid" alt="Slack logo" src="/assets/images/OO-on-Slack-300x128.png" width="100" style="margin-top:50px;" />
@@ -44,7 +27,9 @@ author: OpenOakland
     <p>OpenOakland members primarily use Slack for connecting and communicating. By joining our Slack space, you agree to our <a href="/code-of-conduct">Code of Conduct</a> (upshot: be cool to each other and don't spam).</p>
     <p><strong><a class="btn btn-primary" href="https://join.slack.com/t/openoakland/shared_invite/zt-n4d7tx2t-UVIN7a769e4oc9j7PgM3HA">Join us in Slack</a></strong> <a class="btn btn-link brand-link" href="https://docs.google.com/document/d/1VWZQ_3ehP5j0IOTY0nJClvQPll3ivSkuAdh5YsOhO_U/edit?usp=sharing">OpenOakland Slack Guide</a></p>
   </div>
+
 </section>
+<hr class="home-hr">
 
 <!--- Section: Latest Updates -->
 <div class="latest-updates"> {% include home-sections/recent-updates.html %} </div>

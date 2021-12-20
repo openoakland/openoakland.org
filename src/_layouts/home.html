@@ -1,23 +1,23 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
-  {%- include head.html -%}
+  {% include head.html %}
 
   <body>
 
-    {%- include header.html -%}
+    {% include header.html %}
+
+    {% include home-sections/home-hero.html %}
 
     <div class="container content col-8">
       <main>
-
-      {%- if page.title -%}<h1 class="page-heading">{{ page.title }}</h1>{%- endif -%}
 
       {{ content }}
 
       </main>
     </div>
 
-    {%- include footer.html -%}
+    {% include footer.html %}
 
   </body>
 </html>
