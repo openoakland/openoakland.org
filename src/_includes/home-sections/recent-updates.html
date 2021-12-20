@@ -10,7 +10,7 @@
 
       <div class="card-header">{{ post.date | date_to_string: "ordinal", "US" }}</div>
 
-      {% if post.featured_img %}<img src="{{ post.featured_img }}" class="card-img-top" alt="">{% endif %}
+      {% if post.feat-img %}<img src="{{ post.feat-img }}" class="card-img-top" alt="{{ post.feat-img-alt }}">{% endif %}
 
       <div class="card-body">
         <h3 class="card-title"><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
