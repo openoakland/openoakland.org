@@ -1,4 +1,4 @@
-<h2>Latest news from the brigade</h2>
+<h2>Latest updates from the brigade</h2>
 
 <div class="row">
   {% for post in site.posts limit:2 %}
@@ -7,9 +7,9 @@
 
 
 
-  <div class="card-header">{{ post.date | date_to_string }}</div>
+  <div class="card-header">{{ post.date | date_to_string: "ordinal", "US" }}</div>
 
-    <img src="assets/images/blog/2021-07-Banner-meetup-Steering.png" class="card-img-top" alt="...">
+    {% if post.featured_img %}<img src="{{ post.featured_img }}" class="card-img-top" alt="...">{% endif %}
 
     <div class="card-body">
       <h3 class="card-title"><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>

@@ -38,4 +38,4 @@ author: OpenOakland
 </section>
 
 
-{% include home-sections/recent-updates.html %}
+<div class="latest-updates"> {% include home-sections/recent-updates.html %} </div>

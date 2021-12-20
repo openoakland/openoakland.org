@@ -4,6 +4,7 @@ author: OpenOakland
 layout: post
 date: 2021-12-13 00:00:00 -0800
 permalink: updates/:title/
+featured_img: /assets/images/blog/2021-07-Banner-meetup-Steering.png
 post-excerpt: "Last month, our Steering Committee focused on governance, approving changes to OpenOakland’s elections cycle and committing to efforts that we hope will make brigade participation more accessible and representative..."
 ---
 
