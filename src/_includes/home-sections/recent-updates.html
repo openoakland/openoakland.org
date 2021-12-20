@@ -1,23 +1,31 @@
 <h2>Latest updates from the brigade</h2>
+<div class="d-grid gap-2 d-md-flex justify-content-md-end spacer-bottom">
+  <button class="btn btn-outline-secondary" type="button">View All Updates</button>
+</div>
 
-<div class="row">
-  {% for post in site.posts limit:2 %}
-<div class="col-6">
-<div class="card">
+  <div class="row">
+    {% for post in site.posts limit:2 %}
+    <div class="col-6">
+    <div class="card">
 
+      <div class="card-header">{{ post.date | date_to_string: "ordinal", "US" }}</div>
 
-  <div class="card-header">{{ post.date | date_to_string: "ordinal", "US" }}</div>
+      {% if post.featured_img %}<img src="{{ post.featured_img }}" class="card-img-top" alt="">{% endif %}
 
-    {% if post.featured_img %}<img src="{{ post.featured_img }}" class="card-img-top" alt="...">{% endif %}
+      <div class="card-body">
+        <h3 class="card-title"><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
+        <p class="card-text home-excerpt">{{ post.excerpt }}</p>
+        <a href="{{ post.url }}" class="btn btn-primary">Continue reading...</a>
+      </div>
 
-    <div class="card-body">
-      <h3 class="card-title"><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
-      <p class="card-text home-excerpt">{{ post.excerpt }}</p>
-      <a href="{{ post.url }}" class="btn btn-primary">Continue reading...</a>
     </div>
+    </div>
+    {% endfor %}
+  </div>
 
-
-</div>
-</div>
-  {% endfor %}
-</div>
+  <div>
+    <div class="d-grid gap-2 d-md-flex justify-content-md-end spacer-top">
+      <button class="btn btn-outline-secondary" type="button">View All Updates</button>
+    </div>
+    <hr class="hr-home">
+  </div>

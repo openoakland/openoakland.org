@@ -13,8 +13,8 @@ author: OpenOakland
 
 
 <!--- Section: Slack -->
-<hr class="home-hr">
-<section class="row page-section">
+<hr class="hr-home">
+<section class="row" style="margin-top:-2rem;">
   <div class="col-2">
     <img class="img-fluid" alt="Slack logo" src="/assets/images/OO-on-Slack-300x128.png" width="100" style="margin-top:50px;" />
   </div>
@@ -29,7 +29,7 @@ author: OpenOakland
   </div>
 
 </section>
-<hr class="home-hr">
+<hr class="hr-home">
 
 <!--- Section: Latest Updates -->
 <div class="latest-updates"> {% include home-sections/recent-updates.html %} </div>

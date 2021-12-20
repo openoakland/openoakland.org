@@ -166,6 +166,18 @@ main {
   float:left;
 }
 
+.spacer-top {
+  margin-top: 2rem;
+}
+
+.spacer-bottom {
+  margin-bottom: 2rem;
+}
+
+.spacer-equal {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
 
 // bootstrap overrides
 .btn-primary {
@@ -339,7 +351,12 @@ p.hero {
   font-size: 1.6rem;
 }
 
-hr.home-hr {
+hr.hr-slack {
   border-top: 2px dotted #013743;
-  margin-top:4rem;
+  margin:5rem 0rem 3rem 0rem;
+}
+
+hr.hr-home {
+  border-top: 2px dotted #013743;
+  margin:4rem 0rem;
 }
