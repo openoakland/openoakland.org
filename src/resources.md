@@ -5,8 +5,13 @@ author: OpenOakland
 layout: page
 ---
 
-## Tools for running your OpenOakland project
+Jump to: [Project Management Tools](#) | [Civic Tech Resources](#) | [Brigade Operations](#)
 
+## OpenOakland project management tools
+
+{% for resource-cards in site.data.resources-project %}
+{% include resource-cards.html %}
+{% endfor %}
 
 ### OpenOakland Project Exploration Worksheet  
 The [Exploration Worksheet](https://docs.google.com/document/d/1k24P9JiAUEzJLPFRDjVh7aRZexax6NUhfPFLSI3R80M/edit?usp=sharing) is designed to help project teams tackle real needs in the community, ensure impacted voices are reflected in project design, and explore potential unintended consequences. All projects must submit a Project Brief for Steering Committee approval to become an OpenOakland project. For more information, see the [Project Evaluation Pilot Intro](https://drive.google.com/file/d/1ivtFcFTtXg33paMLCCMkdxKOZ9hpGVJf/view?usp=sharing) (PDF).
@@ -34,7 +39,9 @@ The City of Oakland’s [open data portal](http://data.oaklandnet.com/), populat
 
 Code for America also makes [certain software free to brigades](https://brigade.codeforamerica.org/resources/software) for use in our projects. To access a license or request licensing for any new software, or to set up an OpenOakland email address for your project, [contact OpenOakland’s steering committee  <i class="fa fa-paper-plane"></i>](mailto:steering@openoakland.org) for details) (we may be able to set you up directly).
 
-## General brigade and civic tech resources
+## Civic tech resources
+
+Jump to: [Project Management Tools]() | [Civic Tech Resources]() | [Brigade Operations]()
 
 ### The Open Data Handbook  
 This [guide](http://opendatahandbook.org/) discusses the legal, social and technical aspects of open data. It can be used by anyone but is especially designed for those seeking to open up data. It discusses why to go open, what open is, and the how to ‘open’ data (author: Open Knowledge International).
@@ -48,7 +55,9 @@ The [brigade network](https://brigade.codeforamerica.org/) is an incredible reso
 ### Public Interest Tech Job Board  
 Code for America's [job board](https://jobs.codeforamerica.org/) featuring open roles in government and non-profit organizations.
 
-## OpenOakland administrative resources
+## Brigade operations
+
+Jump to: [Project Management Tools]() | [Civic Tech Resources]() | [Brigade Operations]()
 
 ### OpenOakland Steering Committee Bylaws  
 The [guiding regulations](https://docs.google.com/document/d/1QR-fr1WnmXkZoVNmWnZ9drzfmaZoPkodEOx-PkExt94/) adopted by OpenOakland when we moved to a steering committee leadership model.

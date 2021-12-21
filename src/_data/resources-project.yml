@@ -1,0 +1,23 @@
+# Available categories: project management, civic tech, admin, data
+-
+ name: Resource 1 name
+ author: OpenOakland
+ description: The description goes here
+ format: PDF
+ thumbnail: DayOfService2019-2.jpg
+ link: https://openoakland.org
+ button-text: Download
+ secondaryLink:
+ secondaryLinkText:
+ category: project management
+-
+ name: Resource 2 name
+ author: Code for America
+ description: The description goes here
+ format: Website
+ thumbnail: DayOfService2019-2.jpg
+ link: https://openoakland.org
+ button-text: Visit
+ secondaryLink: https://codeforamerica.org
+ secondaryLinkText: CfA
+ category: civic tech
