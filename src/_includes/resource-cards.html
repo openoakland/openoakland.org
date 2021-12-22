@@ -1,13 +1,12 @@
+
 <div class="row">
     <div class="d-flex col-sm-6 cols-md-12">
 
       <div class="card calendar-card">
 
-        {% if resources.thumbnail %}<img src="/assets/images/resource-thumbs/{{ resources.thumbnail }}" alt="thumbnail"/>{% endif %}
-
+        <div class="card-header"><h3 class="card-header-h3">{% if resources.name %}{{ resources.name }}{% endif %}</h3></div>
         <div class="card-body">
-          <h3 class="card-title calendar-card-h3">{% if resources.name %}{{ resources.name }}{% endif %}</h3>
-          <h4 class="card-subtitle calendar-card-subtitle">{% if resources.author %}{{ resources.author }}{% endif %}</h4>
+          <h4 class="card-subtitle calendar-card-subtitle">Author: {% if resources.author %}{{ resources.author }}{% endif %}</h4>
           <p class="card-text">{% if resources.description %}{{ resources.description }}{% endif %}</p>
           {% if resources.link %}<a href="{{ resources.link }}" class="btn btn-primary btn-sm">{{ resources.button-text }}</a>{% endif %} {% if resources.secondaryLink %}<a href="{{ resources.secondaryLink }}" class="card-link calendar-card-link brand-link">{{ resources.secondaryLinkText }}</a>{% endif %}
         </div>
@@ -19,5 +18,4 @@
       </div>
 
     </div>
-  {%- endfor -%}
 </div>

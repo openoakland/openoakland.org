@@ -1,14 +1,14 @@
 # Available categories: project management, civic tech, admin, data
 -
- name: OpenOakland Project Exploration Worksheet
+ name: OpenOakland Steering Committee Bylaws
  author: OpenOakland
- description: Required to become an OpenOakland project, the exploration worksheet helps teams articulate community needs, ensures impacted voices are reflected in project design, and explores potential unintended consequences.
+ description: The guiding regulations adopted by OpenOakland when we moved to a steering committee leadership model.
  format: Google Doc
- link: https://openoakland.org
- button-text: Get the Template
- secondaryLink: https://drive.google.com/file/d/1ivtFcFTtXg33paMLCCMkdxKOZ9hpGVJf/view?usp=sharing
- secondaryLinkText: More Context (PDF)
- category: project management
+ link: The guiding regulations adopted by OpenOakland when we moved to a steering committee leadership model.
+ button-text: View
+ secondaryLink:
+ secondaryLinkText:
+ category: brigade ops
 -
  name: OpenOakland Style Guide
  author: OpenOakland
