@@ -1,21 +1,52 @@
+# OpenOakland-authored resources should be listed first; then alphabetically.
 # Available categories: project management, civic tech, admin, data
 -
- name: OpenOakland Steering Committee Bylaws
+ name: Operations Handbook
  author: OpenOakland
- description: The guiding regulations adopted by OpenOakland when we moved to a steering committee leadership model.
+ description: An unofficial blueprint for keeping brigade activities going from year to year, keeping the lights on, managing communications channels, keeping track of finances and fundraising, running projects, and more. Largely written for brigade leadership, it's a great resource for all members.
  format: Google Doc
- link: The guiding regulations adopted by OpenOakland when we moved to a steering committee leadership model.
- button-text: View
+ link: https://docs.google.com/document/d/1h7haaTwrRyVL_EWhEz_mzgZuRlTFTjxVeEX33g5wrZI/edit?usp=sharing
+ button-text: View Resource
  secondaryLink:
  secondaryLinkText:
  category: brigade ops
 -
- name: OpenOakland Style Guide
+ name: Steering Committee Bylaws
+ author: OpenOakland
+ description: The guiding regulations adopted by OpenOakland when we moved to a steering committee leadership model.
+ format: Google Doc
+ link: https://docs.google.com/document/d/1QR-fr1WnmXkZoVNmWnZ9drzfmaZoPkodEOx-PkExt94/edit?usp=sharing
+ button-text: View Resource
+ secondaryLink:
+ secondaryLinkText:
+ category: brigade ops
+-
+ name: Style Guide
  author: OpenOakland
  description: The OpenOakland style guide should be used to help ensure our projects and communications have a consistent look and tone.
  format: Google Doc
  link: https://docs.google.com/document/d/1SvhwrQcu4mNMS05zE4AIXA8zsc7qpUeWVA9GvgiZaHo/edit?usp=sharing
- button-text: View
+ button-text: View Resource
  secondaryLink:
  secondaryLinkText:
- category: project management
+ category: brigade ops
+-
+ name: 510(c)3 Status Letter
+ author: Code for America
+ description: Letter declaring OpenOakland’s relationship with Code for America for 501(c)(3) status tax exemption. Can be provided to vendors and donors who need proof of our tax-exempt status.
+ format: PDF
+ link: https://drive.google.com/file/d/1i6BzWwVQHYSPD_Aa9HwqCpc8MEtpcqC2/view?usp=sharing
+ button-text: Download PDF
+ secondaryLink:
+ secondaryLinkText:
+ category: brigade ops
+-
+ name: CfA Memorandum of Understanding
+ author: Code for America, OpenOakland
+ description: The agreement that outlines our brigade relationship with Code for America. This document should be updated annually or when brigade leadership changes.
+ format: PDF
+ link: https://drive.google.com/file/d/1PIbFhohFHl5aiYpsEkDqL6Iul-rv7vN_/view?usp=sharing
+ button-text: Download PDF
+ secondaryLink:
+ secondaryLinkText:
+ category: brigade ops

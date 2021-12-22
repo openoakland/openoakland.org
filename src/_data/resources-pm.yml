@@ -1,0 +1,82 @@
+# OpenOakland-authored resources should be listed first; then alphabetically.
+# Available categories: project management, civic tech, admin, data
+-
+ name: OpenOakland Project Exploration Worksheet
+ author: OpenOakland
+ description: Required to become an OpenOakland project, the exploration worksheet helps teams articulate community needs, ensures impacted voices are reflected in project design, and explores potential unintended consequences.
+ format: Google Doc
+ link: https://openoakland.org
+ button-text: Get the Template
+ secondaryLink: https://drive.google.com/file/d/1ivtFcFTtXg33paMLCCMkdxKOZ9hpGVJf/view?usp=sharing
+ secondaryLinkText: More Context (PDF)
+ category: project management
+-
+ name: OpenOakland Slack 101
+ author: OpenOakland
+ description: Get up and running in Slack, our primary communication tool.
+ format: Google Doc
+ link: https://docs.google.com/document/d/1VWZQ_3ehP5j0IOTY0nJClvQPll3ivSkuAdh5YsOhO_U/edit?usp=sharing
+ button-text: View Resource
+ secondaryLink:
+ secondaryLinkText:
+ category: project management
+-
+ name: OpenOakland Style Guide
+ author: OpenOakland
+ description: The OpenOakland style guide should be used to help ensure our projects and communications have a consistent look and tone.
+ format: Google Doc
+ link: https://docs.google.com/document/d/1SvhwrQcu4mNMS05zE4AIXA8zsc7qpUeWVA9GvgiZaHo/edit?usp=sharing
+ button-text: View Resource
+ secondaryLink:
+ secondaryLinkText:
+ category: project management
+-
+ name: CfA software subscriptions
+ author: Code for America
+ description: CfA makes certain software free to brigades for use in our projects. OpenOakland also maintains some subscriptions independently (e.g. Canva, Heroku, Mailgun, Mural). To access a license or request licensing for any new software, or to set up an OpenOakland email address for your project, contact OpenOakland’s steering committee at steering@openoakland.org.
+ format: Google Doc
+ link: https://brigade.codeforamerica.org/resources/software
+ button-text: View Resource
+ secondaryLink:
+ secondaryLinkText:
+ category: project management
+-
+ name: Fist to Five Voting Guide
+ author: OpenOakland
+ description: Try the "Fist to Five" method for rapid, consensus-based decision-making.
+ format: Google Slides
+ link: https://docs.google.com/presentation/d/16j3kAnLE-1hJ3pQv91xY95qW6Yfn_ht_xIIFziSIo-w/edit?usp=sharing
+ button-text: View Resource
+ secondaryLink:
+ secondaryLinkText:
+ category: project management
+-
+ name: Project Discovery Canvas
+ author: Code for America
+ description: Develop a research plan for learning about community needs.
+ format: Google Doc
+ link: https://c4a.me/canvas-discovery
+ button-text: View Resource
+ secondaryLink:
+ secondaryLinkText:
+ category: project management
+-
+ name: Project Technology Canvas
+ author: Code for America
+ description: Explore technology considerations for your project.
+ format: Google Doc
+ link: https://c4a.me/canvas-technology
+ button-text: View Resource
+ secondaryLink:
+ secondaryLinkText:
+ category: project management
+-
+ name: User Testing Canvas
+ author: Code for America
+ description: Map out your user testing approach for project features.
+ format: Google Doc
+ link: https://c4a.me/canvas-user-testing
+ button-text: View Resource
+ secondaryLink:
+ secondaryLinkText:
+ category: project management

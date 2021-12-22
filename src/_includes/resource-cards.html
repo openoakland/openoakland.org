@@ -1,14 +1,17 @@
 
-<div class="row">
-    <div class="d-flex col-sm-6 cols-md-12">
+<div class="d-flex col-sm-6">
 
       <div class="card calendar-card">
 
         <div class="card-header"><h3 class="card-header-h3">{% if resources.name %}{{ resources.name }}{% endif %}</h3></div>
+
         <div class="card-body">
-          <h4 class="card-subtitle calendar-card-subtitle">Author: {% if resources.author %}{{ resources.author }}{% endif %}</h4>
-          <p class="card-text">{% if resources.description %}{{ resources.description }}{% endif %}</p>
+
           {% if resources.link %}<a href="{{ resources.link }}" class="btn btn-primary btn-sm">{{ resources.button-text }}</a>{% endif %} {% if resources.secondaryLink %}<a href="{{ resources.secondaryLink }}" class="card-link calendar-card-link brand-link">{{ resources.secondaryLinkText }}</a>{% endif %}
+
+          <h4 class="card-subtitle resource-card-subtitle">Author: {% if resources.author %}{{ resources.author }}{% endif %}</h4>
+          <p class="card-text">{% if resources.description %}{{ resources.description }}{% endif %}</p>
+
         </div>
 
         <div class="card-footer text-muted">
@@ -17,5 +20,4 @@
 
       </div>
 
-    </div>
 </div>
