@@ -5,7 +5,7 @@ author: OpenOakland
 layout: page
 ---
 
-***Jump to:*** [Project Management](#openoakland-project-management-tools) &#124; [Civic Tech & Data](#) &#124; [Brigade Operations](#brigade-operations)
+***Jump to:*** [Project Management](#project-management) &#124; [Civic Tech & Data](#civic-tech-and-data) &#124; [Brigade Operations](#brigade-operations)
 
 ## Project management
 
@@ -19,7 +19,7 @@ Designed for running your OpenOakland project, many of these resources can be us
 
 ## Civic tech and data
 
-***Jump to:*** [Project Management](#openoakland-project-management-tools) &#124; [Civic Tech & Data](#) &#124; [Brigade Operations](#brigade-operations)
+***Jump to:*** [Project Management](#project-management) &#124; [Civic Tech & Data](#civic-tech-and-data) &#124; [Brigade Operations](#brigade-operations)
 
 Explore various principles and resources for creating better civic and community tech and data-driven projects.
 
@@ -31,7 +31,7 @@ Explore various principles and resources for creating better civic and community
 
 ## Brigade operations
 
-***Jump to:*** [Project Management](#openoakland-project-management-tools) &#124; [Civic Tech & Data](#) &#124; [Brigade Operations](#brigade-operations)
+***Jump to:*** [Project Management](#project-management) &#124; [Civic Tech & Data](#civic-tech-and-data) &#124; [Brigade Operations](#brigade-operations)
 
 Resources for brigade membership and leadership.
 
