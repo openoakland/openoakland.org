@@ -166,6 +166,18 @@ main {
   float:left;
 }
 
+.spacer-top {
+  margin-top: 2rem;
+}
+
+.spacer-bottom {
+  margin-bottom: 2rem;
+}
+
+.spacer-equal {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
 
 // General Bootstrap overrides
 .btn-primary {
@@ -310,4 +322,46 @@ article { margin-bottom: 40px; }
 
 .PostNav .next {
   text-align: right;
+}
+
+// Home page styling
+
+.home-excerpt {
+  font-weight: normal;
+}
+
+.latest-updates {
+  margin-bottom:2rem;
+
+}
+
+.index-hero {
+  background-image: url("/assets/images/openoakland-blue.png"); /* The image used */
+  background-color: #013743;
+  height: auto; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+  color: #fff;
+  padding: 3rem 2rem 2rem 2rem;
+  margin-top:-2.4rem;
+}
+
+h1.hero {
+  margin-bottom: 0px;
+  color: #fff;
+}
+
+p.hero {
+  font-size: 1.6rem;
+}
+
+hr.hr-slack {
+  border-top: 2px dotted #013743;
+  margin:5rem 0rem 3rem 0rem;
+}
+
+hr.hr-home {
+  border-top: 2px dotted #013743;
+  margin:4rem 0rem;
 }

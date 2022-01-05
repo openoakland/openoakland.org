@@ -4,36 +4,17 @@ title: We are OpenOakland
 author: OpenOakland
 ---
 
-<section class="row page-section">
-  <div class="col-sm-8">
-    <p class="h5 mt-1">OpenOakland bridges <b>technology</b> and <b>community</b> for a thriving and equitable Oakland.</p>
 
-    <p>As part of the <a href="https://brigade.codeforamerica.org" target="_blank">Code for America brigade network</a>, we are a welcoming and inclusive volunteer group of developers, designers, data geeks, and citizen activists who use creative technology to solve civic and social problems.</p>
-  </div>
-
-  <div class="col-sm-4">
-    <figure>
-      <img src="/assets/images/DayOfService2019.jpg" alt="Attendees of our 2019 Day of Service" width="100%"/>
-      <figcaption>OpenOakland members at our 2019 Day of Service event</figcaption>
-    </figure>
-  </div>
-</section>
+<!--- The "Hero" section at the top of the home page is an include in the layouts/home.html file and is editable by opening the includes/home-sections/home-hero.html file. -->
 
 
-<section class="page-section">
-  {% include next-meeting.html %}
+<!--- Section: Next Event -->
+{% include home-sections/home-next-event.html %}
 
-  <p>
-  All OpenOakland meetings are open to the public, regardless of technical ability.
-  </p>
 
-  <p>
-  We hope you'll join us! If you can't make this event, <a href="https://www.meetup.com/OpenOakland" target="_blank">check our Meetup group for our future events</a>.
-  </p>
-
-</section>
-
-<section class="row page-section">
+<!--- Section: Slack -->
+<hr class="hr-home">
+<section class="row" style="margin-top:-2rem;">
   <div class="col-2">
     <img class="img-fluid" alt="Slack logo" src="/assets/images/OO-on-Slack-300x128.png" width="100" style="margin-top:50px;" />
   </div>
@@ -48,3 +29,7 @@ author: OpenOakland
   </div>
 
 </section>
+<hr class="hr-home">
+
+<!--- Section: Latest Updates -->
+<div class="latest-updates"> {% include home-sections/recent-updates.html %} </div>

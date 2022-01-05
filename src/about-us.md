@@ -17,18 +17,22 @@ OpenOakland bridges technology and community for a thriving and equitable Oaklan
 - **Empowering Oaklanders.**  
     We recognize that Oakland has a rich history of activism. We seek to empower all Oaklanders to keep advocating for our community‘s collective well-being.
 
-We're a fiscally-sponsored project of [Code for America](https://www.codeforamerica.org/), a 501(c)3 nonprofit. Donations to OpenOakland are tax-deductible and can be [made through Code for America](https://www.codeforamerica.org/donate-to-a-brigade?utm_campaign=Open%20Oakland&utm_source=OpenOakland%20site) (be sure to select OpenOakland from the drop-down menu after choosing the amount).
+## Part of the Code for America network
+
+We're a fiscally-sponsored project of [Code for America](https://www.codeforamerica.org/), a 501(c)3 nonprofit dedicated to improving government in meaningful ways. [Donations to OpenOakland](https://www.codeforamerica.org/donate-to-a-brigade?utm_campaign=Open%20Oakland&utm_source=OpenOakland%20site) are tax-deductible through Code for America (be sure to select OpenOakland from the drop-down menu after choosing the amount).
 
  <div class="iframe-container iframe-container-video">
   <iframe class="iframe-video" src="https://www.youtube.com/embed/mYzMl_HnEZU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
-## 2021 leadership team
+## How we work
 
-Brigade membership is open to all, regardless of expertise or skill level. The brigade is led by core team of elected leads. These are generally members who have been actively engaged in OpenOakland activities for an extended period of time. Activities and formal decision-making are overseen by a Steering Committee, which meets monthly and consists of the elected leads plus project representatives.
+Brigade membership is open to all, regardless of expertise or skill level. The brigade is led by a core team of elected leads. These are generally members who have been actively engaged in OpenOakland activities for an extended period of time. Activities and formal decision-making are overseen by a Steering Committee, which meets monthly and consists of the elected leads plus project representatives.
 
-[More about how we work](/how-we-work){: .btn .btn-primary }
+[Governance Process](/how-we-work){: .btn .btn-primary }
+
+### 2021 Co-leads
 
 {% include steering-committee.html %}
 
