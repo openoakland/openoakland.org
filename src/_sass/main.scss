@@ -179,7 +179,7 @@ main {
   margin-bottom: 2rem;
 }
 
-// bootstrap overrides
+// General Bootstrap overrides
 .btn-primary {
   background-color: $brand-color;
   border-color: $brand-color;
@@ -199,7 +199,10 @@ main {
   }
 }
 
+// =======================
 // OO custom styles
+// =======================
+
 .page-section {
   clear: both;
   margin-bottom: $spacing-unit * 2;
@@ -213,6 +216,8 @@ main {
     height: 100%;
     object-fit: cover;
   }
+
+
 
 // Responsive iframes:
 // 1. Wrap your iframe in a div with class="iframe-container".

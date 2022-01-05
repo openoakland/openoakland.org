@@ -1,0 +1,102 @@
+# OpenOakland-authored resources should be listed first; then alphabetically.
+# Available categories: project management, civic tech, admin, data
+-
+ name: OpenOakland Data Catalog
+ author: OpenOakland
+ description: Aimed at providing Oaklanders with independent access to data sets beyond the City's options, the OO Data Catalog is a work in progress. Some data may be out of date. Email steering@openoakland.org to contribute updates.
+ format: Website
+ link: http://data.openoakland.org/
+ button-text: Visit Site
+ secondaryLink:
+ secondaryLinkText:
+ category: civic tech
+-
+ name: Code for America Brigade Network
+ author: Code for America
+ description: The brigade network is an incredible resource for knowledge-sharing about brigade-specific issues and civic tech in general. Connect with others in their Slack and Discourse communities.
+ format: Website
+ link: https://brigade.codeforamerica.org/
+ button-text: Visit Site
+ secondaryLink:
+ secondaryLinkText:
+ category: civic tech
+-
+ name: Consentful Tech
+ author: Allied Media and And Also Too
+ description: Toolkit for building digital applications and spaces that are built with consent at their core, and that support the self-determination of people who use and are affected by these technologies.
+ format: Website
+ link: https://www.consentfultech.io/
+ button-text: Visit Site
+ secondaryLink:
+ secondaryLinkText:
+ category: civic tech
+-
+ name: Don't Build It
+ author: Grassroot and MIT Governance Lab
+ description: A guide for practitioners in civic tech and tech for development that "aims to avoid bad projects, structure the team right, ship and learn quicker, and mature longer."
+ format: PDF
+ link: https://mitgovlab.org/wp-content/uploads/2021/04/GrassrootMIT_DontBuildIt2.pdf
+ button-text: Download PDF
+ secondaryLink:
+ secondaryLinkText:
+ category: civic tech
+-
+ name: Exposing the Invisible Toolkit
+ author: Tactical Tech
+ description: Lessons and resources for investigating the world through data.
+ format: Website
+ link: https://kit.exposingtheinvisible.org/
+ button-text: Visit Site
+ secondaryLink:
+ secondaryLinkText:
+ category: civic tech
+-
+ name: How to Talk to Civic Hackers
+ author: Mark Headd
+ description: This book is meant for public servants and people working inside government who want to connect with innovators and technologists outside of the bureaucracy.
+ format: Website
+ link: https://www.civichacking.guide
+ button-text: Visit Site
+ secondaryLink:
+ secondaryLinkText:
+ category: civic tech
+-
+ name: Intro to Open Leadership Course
+ author: Mozilla Foundation
+ description: A free, self-paced collection of online modules designed to help you lead open projects in community with others
+ format: Website
+ link: https://mozilla.github.io/open-leadership-training-series/articles/readme/
+ button-text: Visit Site
+ secondaryLink:
+ secondaryLinkText:
+ category: civic tech
+-
+ name: OakData
+ author: City of Oakland
+ description: The City of Oakland’s open data portal.
+ format: Website
+ link: https://data.oaklandca.gov/
+ button-text: Visit Site
+ secondaryLink:
+ secondaryLinkText:
+ category: data
+-
+ name: Open Data Handbook
+ author: Open Knowledge Foundation
+ description: Guides, case studies and resources for government and civil society on the what, why and how of open data.
+ format: Website
+ link: https://opendatahandbook.org/
+ button-text: Visit Site
+ secondaryLink:
+ secondaryLinkText:
+ category: data, civic tech
+-
+ name: Public Interest Tech Job Board
+ author: Code for America
+ description: Job board featuring open roles in government and non-profit organizations.
+ format: Website
+ link: https://jobs.codeforamerica.org/
+ button-text: Visit Site
+ secondaryLink:
+ secondaryLinkText:
+ category: civic tech

@@ -1,8 +1,9 @@
 <div class="d-flex">
-<div class="card projects" data-tags="{{ status }}">
+<div class="card projects" data-tags="{{ status }}"><!-- Card definition -->
 
-  <div class="row no-gutters">
+  <div class="row no-gutters"><!-- End card row wrap -->
 
+      <!-- Card column 1 -->
       <div class="col-md-8">
         <div class="card-body">
           <div>
@@ -14,10 +15,10 @@
 
           <div class="card-text">{% if project.description %}{{ project.description | smartify }}{% endif %}</div>
 
-
         </div>
       </div>
 
+      <!-- Card column 2 -->
       <div class="col-md-4">
         <div class="card-body">
 
@@ -44,8 +45,9 @@
         </div>
       </div>
 
-  </div>
+  </div><!-- End card row wrap -->
 
+  <!-- Card footer -->
   <div class="card-footer text-muted">
     {% if project.tech %}
     <b>Technology:</b> {{ project.tech }}
