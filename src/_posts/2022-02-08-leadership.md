@@ -61,7 +61,7 @@ We deeply value diversity in all its forms and have been working hard over the p
 
 ## Key dates
 
-- **Nomination period:** Feb. 8 - Feb. 15
+- **Nomination period:** Feb. 8 - Feb. 22
 - **Get to know the candidates:** Feb. 22 - Mar. 1
 - **Voting period:** Mar. 1 - Mar. 8
 - **New leadership announced:** Mar. 15
