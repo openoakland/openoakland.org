@@ -9,11 +9,12 @@ feat-img-alt: Cartoon head divided into happy segments
 post-excerpt: "Our all-volunteer collective runs on people power. We’re a nonprofit but unlike most nonprofits, our leadership is elected by OpenOakland’s general membership each year. We’ve gone through a lot of reflection and refocusing over the last couple of years and are so excited to welcome in a new team of Oaklanders to guide our vision as we bridge community and technology for a thriving and equitable Oakland..."
 ---
 
-![Green-tinged illustration of three raised fists next to a diagram showing a large circle labeled 'Steering Committee' with four circles inside it representing the elected co-leads, and several circles overlapping the main one representing project reps.](/assets/images/blog/2022-02-08-elections.png)
-
 Our all-volunteer collective runs on people power. We’re a nonprofit but unlike most nonprofits, our leadership is elected by OpenOakland’s general membership each year. We’ve gone through a lot of reflection and refocusing over the last couple of years and are so excited to welcome in a new team of Oaklanders to guide our vision as we bridge community and technology for a thriving and equitable Oakland.
 
 [Submit the interest form](http://oakca.us/leadership22){: .btn .btn-primary } _(You can nominate yourself or someone else.)_
+
+![Green-tinged illustration of three raised fists next to a diagram showing a large circle labeled 'Steering Committee' with four circles inside it representing the elected co-leads, and several circles overlapping the main one representing project reps.](/assets/images/blog/2022-02-08-elections.png)
+
 
 ## Join a team of doers and leaders
 

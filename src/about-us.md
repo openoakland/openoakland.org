@@ -17,6 +17,7 @@ OpenOakland bridges technology and community for a thriving and equitable Oaklan
 - **Empowering Oaklanders.**  
     We recognize that Oakland has a rich history of activism. We seek to empower all Oaklanders to keep advocating for our community‘s collective well-being.
 
+
 ## Part of the Code for America network
 
 We're a fiscally-sponsored project of [Code for America](https://www.codeforamerica.org/), a 501(c)3 nonprofit dedicated to improving government in meaningful ways. [Donations to OpenOakland](https://www.codeforamerica.org/donate-to-a-brigade?utm_campaign=Open%20Oakland&utm_source=OpenOakland%20site) are tax-deductible through Code for America (be sure to select OpenOakland from the drop-down menu after choosing the amount).
@@ -33,6 +34,9 @@ Brigade membership is open to all, regardless of expertise or skill level. The b
 [Governance Process](/how-we-work){: .btn .btn-primary }
 
 ### 2021 Co-leads
+
+<!--- Section: Temporary Alert -->
+{% include home-sections/announcement-neutral.html %}
 
 {% include steering-committee.html %}
 

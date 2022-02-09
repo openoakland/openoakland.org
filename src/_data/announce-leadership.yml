@@ -4,15 +4,15 @@
 # Do not alter the labels (which tells event.html which data to pull).
 # If your entry includes a colon or other special characters not allowed in yml, wrap the entire entry in double quotes.
 -
- title: "2021 leadership"
- subhead: "We're excited to announce 2021's volunteer member leadership!"
+ title: "2022 leadership"
+ subhead: "We're excited to announce 2022's volunteer leadership team!"
  list: yes
- itemOne: "Sean Martinez, Treasurer/Recorder"
- itemTwo: "Jess Sand, Communications Lead"
- itemThree: "Tom Theimer, Hack Night Lead"
- itemFour: "Niels Thorsen, Community Organizer"
+ itemOne: "Name, Role"
+ itemTwo: "Name, Role"
+ itemThree: "Name, Role"
+ itemFour: "Name, Role"
  itemFive:
  link:
  buttonText:
  secondaryLink:
- secondaryLinkText: 
+ secondaryLinkText:

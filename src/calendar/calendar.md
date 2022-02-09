@@ -7,6 +7,9 @@ permalink: /calendar/
 ---
 [Upcoming events](#upcoming-events) \| [Suggest a speaker](#suggest-a-speaker) \| [Past events](#past-events)
 
+<!--- Section: Temporary Alert -->
+{% include home-sections/announcement-neutral.html %}
+
 ## Join us every Tuesday on Zoom
 
 **6:00-6:30** Intro for newcomers  
