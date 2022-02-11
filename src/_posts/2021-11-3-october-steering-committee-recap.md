@@ -16,7 +16,7 @@ While our monthly Steering Committee meetings are mainly operational in nature, 
 
 ## Negotiated and signed: 2022 Code for America Memorandum of Understanding
 
-The CfA MOU outlines our relationship with our parent organization. After a full Steering Committee review and discussion, the team voted to approve signing of our memorandum of understanding (MOU) with Code for America, with several key revisions proposed. After some negotiation and discussion with CfA to address issues of data privacy and “what if” scenarios, we signed the new 6-month MOU.  [View the PDF](https://drive.google.com/file/d/12sbk7btqWpdqB_OBBDaiYiS2Arx8SJ0w/view?usp=sharing) (also available on our [Resources](resources/#brigade-operations) page).
+The CfA MOU outlines our relationship with our parent organization. After a full Steering Committee review and discussion, the team voted to approve signing of our memorandum of understanding (MOU) with Code for America, with several key revisions proposed. After some negotiation and discussion with CfA to address issues of data privacy and “what if” scenarios, we signed the new 6-month MOU.  [View the PDF](https://drive.google.com/file/d/12sbk7btqWpdqB_OBBDaiYiS2Arx8SJ0w/view?usp=sharing) (also available on our [Resources](/resources/#brigade-operations) page).
 
 ## Discussion: Options for addressing culture change
 
