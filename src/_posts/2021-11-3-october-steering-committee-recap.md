@@ -16,7 +16,7 @@ While our monthly Steering Committee meetings are mainly operational in nature, 
 
 ## Negotiated and signed: 2022 Code for America Memorandum of Understanding
 
-The CfA MOU outlines our relationship with our parent organization. After a full Steering Committee review and discussion, the team voted to approve signing of our memorandum of understanding (MOU) with Code for America, with several key revisions proposed. After some negotiation and discussion with CfA to address issues of data privacy and “what if” scenarios, we signed the new 6-month MOU.  Download the PDF (also available on our Resources page).
+The CfA MOU outlines our relationship with our parent organization. After a full Steering Committee review and discussion, the team voted to approve signing of our memorandum of understanding (MOU) with Code for America, with several key revisions proposed. After some negotiation and discussion with CfA to address issues of data privacy and “what if” scenarios, we signed the new 6-month MOU.  [View the PDF](https://drive.google.com/file/d/12sbk7btqWpdqB_OBBDaiYiS2Arx8SJ0w/view?usp=sharing) (also available on our [Resources](resources/#brigade-operations) page).
 
 ## Discussion: Options for addressing culture change
 
@@ -30,9 +30,9 @@ With these three tracks of work in mind, the Steering Committee discussed the pr
 
 ### Discussion and decision: Direct skills training in conflict management and facilitation
 
-We continued discussion about hiring SEEDS Community Resolution Center, one of the few affordable training options that met our criteria of being local, BIPOC-led, and focused on communities like our collective. Even with their flexible pricing, it would use up at least a third of our financial reserves. We remained unresolved in December but by January’s meeting had come up with an alternative solution.
+We continued discussion about hiring [SEEDS Community Resolution Center](https://www.seedscrc.org/), one of the few affordable training options that met our criteria of being local, BIPOC-led, and focused on communities like our collective. Even with their flexible pricing, it would use up at least a third of our financial reserves. We remained unresolved in December but by January’s meeting had come up with an alternative solution.
 
-**Thanks to some lucky timing and the generosity of Code for America, we were able to secure space in SEEDS’ public Building Restorative Spaces workshop series for the entire Steering Committee and a limited number of seats for additional brigade members.** We’re so excited to finally be committing to this work as a team and will share more on the blog in the weeks to come. If you’re interested in participating in this training as part of your OpenOakland experience, complete this interest form.
+**Thanks to some lucky timing and the generosity of Code for America, we were able to secure space in SEEDS’ public [Building Restorative Spaces workshop series](https://www.seedscrc.org/building-restorative-spaces) for the entire Steering Committee and a limited number of seats for additional brigade members.** We’re so excited to finally be committing to this work as a team and will share more on the blog in the weeks to come. If you’re interested in participating in this training as part of your OpenOakland experience, [complete our interest form](http://oakca.us/seeds1).
 
 ### Discussion: Conflict resolution and healing options through CfA
 
