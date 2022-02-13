@@ -21,13 +21,13 @@
 -
   name: Funding Public Safety
   image:
-  website: https://forms.gle/iVDjPfxdmxXeFMf36
-  repo: https://docs.google.com/document/d/1NNJ2tPtBmvMce_V83NFBiRxmPeErWpGAZpCh7iHhWEE/edit?usp=sharing
-  leader: Open
+  website: https://bit.ly/fps-interest
+  repo: https://github.com/openoakland/funding-public-safety/
+  leader: Jess S.
   slack_id: T02FEGG84
   slack_channel: project-active-funding-public-safety
-  description: "The City allocates about $24 million each year to the Dept. of Violence Prevention (Oakland Unite), OPD, and the Oakland Fire Dept. to fund public safety and violence prevention programs. This pool of money is overseen by an oversight commission (the SSOC), a volunteer group of city residents appointed by the City. OpenOakland's Funding Public Safety project is aimed at supporting the SSOC's oversight efforts by making the City's Measure Z evaluation reports more meaningful so the SSOC, impacted communities, and the general public can better understand how the money is being spent and how effective these programs are. We're looking for folks to assess the community impacts of this project, analyze program data, and develop a dataviz strategy."
-  tech: TBD (spreadsheets for now!)
+  description: "Funding Public Safety explores how Oakland spends Measure Z's approximately $24 million annual budget, so Oaklanders can better understand the City's approach to public safety and violence prevention. We're currently looking for data entry folks to pull information from PDFs into spreadsheets, dataviz designers and front-end developers, and especially input and participation of community partners and residents impacted by violence."
+  tech: Eleventy static site generator, Bootstrap CSS framework, spreadsheets and various dataviz tools
 -
   name: Open Budget Oakland
   image: openbudgetoakland_300x233.png
