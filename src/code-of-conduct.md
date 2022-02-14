@@ -46,23 +46,29 @@ Harassment includes but is not limited to: offensive verbal or written comments 
 
 If a participant engages in harassing behavior, the organizers may take any action they deem appropriate, including warning the offender or expulsion from OpenOakland network activities, events, and digital forums.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the event staff or forum administrator immediately. You can contact them at [EVENT ORGANIZER/FORUM ADMINISTRATOR EMAIL AND PHONE NUMBER]. Event staff or forum administrators will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event.
+## What to do if you have a Code of Conduct concern
 
-If you cannot reach an event organizer or forum administrator and/or it is an emergency, please call 911 and/or remove yourself from the situation.
+If someone's immediate physical safety is at risk, do what you can to remove yourself from the situation and call 911 if needed.
 
-You can also contact OpenOakland about harassment at _safespace@openoakland.org_ and feel free to use the email template below.  The OpenOakland Core Team acknowledges that we are not always in a position to evaluate a given situation due to the number of events and the fact that our team is not always present. However, we are hopeful that by providing these guidelines we are establishing a community that jointly adheres to these values and can provide an environment that is welcoming to all.
+**Code for America provides [guidance on managing conflicts and complaints](https://docs.google.com/document/d/1Z7FcoXZCBP3X1g6iizMFvAntyZralCdAzIVSkYosLVs/edit?usp=sharing). Assuming the situation is not an emergency, we encourage members to consider these guidelines first.**
 
-We value your attendance and hope that by communicating these expectations widely we can all enjoy a harassment-free environment.
+If you do wish to report an issue, there are several ways to do so:
 
-## Email Template for Anti-Harassment Reporting
+- Send an email to [safespace@codeforamerica.org](safespace@codeforamerica.org). This goes directly to Code for America staff and not OpenOakland.
+- Send an email to [steering@openoakland.org](steering@openoakland.org) (note that this goes to _all_ members of the OpenOakland Steering Committee).
+- Reach out to any individual member of the Steering Committee directly in [Slack](https://docs.google.com/document/d/1VWZQ_3ehP5j0IOTY0nJClvQPll3ivSkuAdh5YsOhO_U/edit?usp=sharing) (Steering Committee members include elected co-leads and project leads, listed on [openoakland.org](https://openoakland.org)).
+- If you're attending an event, contact the event organizer directly.
 
-SUBJECT: Safe Space alert at [EVENT NAME]
 
-I am writing because of harassment at an OpenOakland event, (NAME, PLACE, DATE OF EVENT).
+### Email Template for Anti-Harassment Reporting
 
-You can reach me at (CONTACT INFO). Thank you.
+You can use this email template when submitting a Code of Conduct report but it's not required.
 
-**Code of Conduct Complaints will be reviewed by the Ombudspersons. [The full process is explained here](https://docs.google.com/document/d/166AtSw9ygV4NW0_P9XrYDgx_pt7gtjkePXAoUQ0_KrA/edit#heading=h.y9wfwqjg139g).**
+_SUBJECT: Safe Space alert at [EVENT NAME]_
+
+_I am writing because of harassment at an OpenOakland event: (NAME, PLACE, DATE OF EVENT)._
+_You can reach me at (CONTACT INFO)._
+
 
 ## Image and Video Policy
 

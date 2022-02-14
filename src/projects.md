@@ -134,5 +134,3 @@ In the spirit of continuous improvement and self-reflection, we welcome any and 
 - Join the project's channel in our [Slack workspace](https://join.slack.com/t/openoakland/shared_invite/zt-n4d7tx2t-UVIN7a769e4oc9j7PgM3HA) and introduce yourself (see our [OpenOakland Slack Guide](https://docs.google.com/document/d/1VWZQ_3ehP5j0IOTY0nJClvQPll3ivSkuAdh5YsOhO_U/edit?usp=sharing) for help).
 - Join our next [Hack Night](https://www.meetup.com/OpenOakland/events/) and meet the team.
 - Email our [Steering Committee](mailto:steering@openoakland.org) with your input.
-
-You may also email concerns or comments to <safespace@openoakland.org>, which is staffed by two OpenOakland [ombudspeople](https://docs.google.com/document/d/1QR-fr1WnmXkZoVNmWnZ9drzfmaZoPkodEOx-PkExt94/edit#heading=h.3t0te9n2wr7m).
