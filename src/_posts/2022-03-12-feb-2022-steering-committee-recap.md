@@ -6,17 +6,17 @@ date: 2022-03-12 00:00:00 -0800
 permalink: updates/:title/
 feat-img: /assets/images/blog/2021-07-Banner-meetup-Steering.png
 feat-img-alt: Volunteers sit in chairs in a semi-circle in a room in City Hall
-post-excerpt: "xx..."
+post-excerpt: "February’s Steering Committee meeting continued to focus on building trust among the group to encourage better communication, and explored upcoming leadership needs in the face of waning engagement..."
 ---
 
 **February's Steering Committee meeting continued to focus on building trust among the group to encourage better communication, and explored upcoming leadership needs in the face of waning engagement.**
 
 ![Green-tinged photo of OpenOakland members seated around tables in City Hall overlaid with the words 'Steering Committee' in white.](/assets/images/blog/2021-07-Banner-meetup-Steering.png)
 
-Last year, pandemic life finally caught up to the long-term lack of brigade infrastructure and process. Anecdotal evidence from incoming volunteers suggests that folks are looking for shorter-term, less-intensive engagement opportunities. But providing this requires a shared vision and a smoothly-operating infrastructure to plan projects; onboard, match and support volunteers; and foster healthy collaboration and communication. It's clear that we need a new approach to the distribution of labor required to manage a thriving brigade and all its projects. Or we need to redefine what we're trying to accomplish.
+Last year, pandemic life finally caught up to the long-term lack of brigade infrastructure and process. Leadership nominations are at an all-time low. Anecdotal evidence from incoming volunteers suggests that folks are looking for shorter-term, less-intensive engagement opportunities. But providing this requires a shared vision and a smoothly-operating infrastructure to plan projects; onboard, match and support volunteers; and foster healthy collaboration and communication. It's clear that we need a new approach to the distribution of labor required to manage a thriving brigade and all its projects. Or we need to redefine what we're trying to accomplish. February's meeting focused on near-term problem-solving.
 
 ***Jump to:***  
-[Building trust through practice](#building-trust-through-practice) | [Exploring collective governance](#exploring-collective-governance) | [Councilmatic status](#councilmatic-status)
+[Building trust through practice](#building-trust-through-practice) | [Collective governance planning](#collective-governance-planning) | [BrigadeOps with lean leadership](#managing-brigade-operations-with-lean-leadership) | [Councilmatic status](#councilmatic-status)
 
 ## Building trust through practice
 
@@ -26,7 +26,7 @@ The practice set a tone for the rest of the meeting of shared understanding and 
 
 We created a [template members can use to do their own circle exercise at meetings](https://docs.google.com/presentation/d/1OwD46SAEInvJzIEqJ-MVLkWzHlPjV5e1Hwo462lIzK8/edit?usp=sharing).
 
-## Exploring collective governance
+## Collective governance planning
 
 We started with some updates about upcoming Code for America programs:
 
@@ -54,7 +54,7 @@ We discussed:
 
 ## Councilmatic status
 
-- Twitter complaint has been filed against rogue account
+- A Twitter complaint has been filed against rogue account.
 - Concerns from city that new handle may appear to represent City Council when it’s not a city-sanctioned account.
   - Project lead expressed concern about changing the name, having just done so.
   - Recommendation from Comms Lead that all OO project social accounts use the name of the project; several members expressed their desire for same.
