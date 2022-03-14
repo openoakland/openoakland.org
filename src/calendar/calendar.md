@@ -40,10 +40,10 @@ We love having folks from the community share the work they're doing and explori
 
 {% include calendar/events-voices.html %}
 
-### Demo Night
-OpenOakland project teams share brief progress updates.
+### Latest Demo Night
+OpenOakland project teams share brief progress updates on the first Tuesday of each month.
 
-(add embed)
+{% include calendar/embed-demo-playlist.html %}
 
 ### National Day of Civic Hacking
 A Code for America-sponsored event, National Day of Civic Hacking is an opportunity to come together as a brigade network, focus our efforts, provide dedicated resources to volunteers, amplify actions across the country and leverage the collective power of Code for America’s resources.
