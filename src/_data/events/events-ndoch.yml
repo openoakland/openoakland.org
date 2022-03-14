@@ -1,0 +1,29 @@
+# INSTRUCTIONS
+#
+# Add the most recent event at the top, separated by a hyphen.
+#
+# Do not alter the labels (which tells event.html which data to pull). Best practice is to copy and paste the entire block of an existing event, then edit the entries (leaving blank any entries you don't have info for).
+#
+# "Category" is case sensitive and must be one of: "voices", "demo", "ndoch", "ndos", "odd" or "other".
+# If you have a link to the event recording, be sure to include *both* buttonText and link strings. Otherwise the button will display the URL, which is ugly. The buttonText should be sentence case (only the first word is capitalized).
+#
+# If your entry includes a colon, wrap the entire entry in double quotes.
+#
+-
+ image: OpenOakland-NDoCH-ballots.png
+ title: Alameda County Ballot Drop-off & OpenOakland access
+ subtitleGuest: National Day of Civic Hacking 2020
+ descriptionSentence: OpenOakland and area brigade members focused on <emphasis>access</emphasis> this year, documenting drop-off voting locations across Alameda County and making openoakland.org more accessible to those interested in engaging with our brigade.
+ link: "https://docs.google.com/document/d/17_0O4QRnFS705npB-bo4xuLtfJHGF5yAdNdd2HMe5SI/edit?usp=sharing"
+ buttonText: Read the recap
+ mon-dd-yyyy: Sept. 12, 2020
+-
+ image: OpenOakland-NDoCH-workinggroup.jpg
+ title: Civic Action for Justice
+ subtitleGuest: National Day of Civic Hacking 2019
+ descriptionSentence: Oaklanders of all stripes joined OpenOakland and the Code for America brigade network to help improve the experience of those impacted directly by the criminal justice system. We conducted usability reviews of Alameda County's and California's records clearance process and developed Know Your Rights guides.
+ link: "https://twitter.com/OpenOakland/status/1175584902416236545"
+ buttonText: View the Recap
+ secondaryLink: "https://www.eventbrite.com/e/national-day-of-civic-hacking-2019-tickets-69928206147"
+ secondaryLinkText: Event details
+ mon-dd-yyyy: Sept. 21, 2019

@@ -26,10 +26,36 @@ The first Tuesday of each month is Demo Night, when you can see the latest updat
 
 {% include embed-calendar.html %}
 
-{% include cal-includes.html %}
+{% include calendar/cal-includes.html %}
 
 
 
 ## Past Events
 
-{% include calendar-events.html %}
+***Jump to:***
+[OpenOakland Voices](#openoakland-voices) | [Demo Night](#demo-night) | [National Day of Civic Hacking](#national-day-of-civic-hacking) | [National Day of Service](#national-day-of-service) | [Open Data Day](#open-data-day)
+
+### OpenOakland Voices
+We love having folks from the community share the work they're doing and exploring how OpenOakland might support and amplify those efforts.
+
+{% include calendar/events-voices.html %}
+
+### Demo Night
+OpenOakland project teams share brief progress updates.
+
+(add embed)
+
+### National Day of Civic Hacking
+A Code for America-sponsored event, National Day of Civic Hacking is an opportunity to come together as a brigade network, focus our efforts, provide dedicated resources to volunteers, amplify actions across the country and leverage the collective power of Code for America’s resources.
+
+{% include calendar/events-ndoch.html %}
+
+### National Day of Service
+OpenOakland has participated in National Day of Service by hosting a space for developers, designers, advocates, and community organizers to join forces to address important community needs that impact Oakland residents.
+
+{% include calendar/events-ndos.html %}
+
+### Open Data Day
+Open Data Day is an opportunity for Oaklanders to learn about and work with data to benefit their local community.
+
+{% include calendar/events-odd.html %}

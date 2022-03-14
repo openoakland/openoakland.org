@@ -1,0 +1,22 @@
+# INSTRUCTIONS
+#
+# Add the most recent event at the top, separated by a hyphen.
+#
+# Do not alter the labels (which tells event.html which data to pull). Best practice is to copy and paste the entire block of an existing event, then edit the entries (leaving blank any entries you don't have info for).
+#
+# "Category" is case sensitive and must be one of: "voices", "demo", "ndoch", "ndos", "odd" or "other".
+# If you have a link to the event recording, be sure to include *both* buttonText and link strings. Otherwise the button will display the URL, which is ugly. The buttonText should be sentence case (only the first word is capitalized).
+#
+# If your entry includes a colon, wrap the entire entry in double quotes.
+#
+-
+ category: odd
+ image: OpenOakland-Open-Data-Day-2019.png
+ title: Public Record Requests as Open Data
+ subtitleGuest: National Open Data Day 2019
+ descriptionSentence: Our panel discusses how to file a data request in California and Oakland, and the Sunshine laws that govern requests and data retention.
+ link: "https://youtu.be/zpkj53kjpMs"
+ buttonText: View on YouTube
+ secondaryLink: "https://www.meetup.com/OpenOakland/events/258831439/"
+ secondaryLinkText: Event Details
+ mon-dd-yyyy: Mar. 2, 2020

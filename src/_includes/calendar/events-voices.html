@@ -1,0 +1,24 @@
+<div class="row">
+  {%- for events-voices in site.data.events.events-voices -%}
+    <div class="d-flex col-sm-6 cols-md-12">
+
+      <div class="card calendar-card">
+
+        {% if events-voices.image %}<img src="/assets/images/events/{{ events-voices.image }}" alt="video thumbnail"/>{% endif %}
+
+        <div class="card-body">
+          <h3 class="card-title calendar-card-h3">{% if events-voices.title %}{{ events-voices.title }}{% endif %}</h3>
+          <h4 class="card-subtitle calendar-card-subtitle">{% if events-voices.subtitleGuest %}{{ events-voices.subtitleGuest }}{% endif %}</h4>
+          <p class="card-text">{% if events-voices.descriptionSentence %}{{ events-voices.descriptionSentence }}{% endif %}</p>
+          {% if events-voices.link %}<a href="{{ events-voices.link }}" class="btn btn-primary btn-sm">{{ events-voices.buttonText }}</a>{% endif %} {% if events-voices.secondaryLink %}<a href="{{ events-voices.secondaryLink }}" class="card-link calendar-card-link brand-link">{{ events-voices.secondaryLinkText }}</a>{% endif %}
+        </div>
+
+        <div class="card-footer text-muted">
+          {% if events-voices.mon-dd-yyyy %}{{ events-voices.mon-dd-yyyy }}{% endif %}
+        </div>
+
+      </div>
+
+    </div>
+  {%- endfor -%}
+</div>
