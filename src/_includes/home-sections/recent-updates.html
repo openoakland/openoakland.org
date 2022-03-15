@@ -1,3 +1,4 @@
+
 <h2>Latest updates from the brigade</h2>
 <div class="d-grid gap-2 d-md-flex justify-content-md-end spacer-bottom">
   <a href="/updates" class="btn btn-outline-secondary">View All Updates</a>
@@ -5,8 +6,8 @@
 
   <div class="row">
     {% for post in site.posts limit:2 %}
-    <div class="col-6">
-    <div class="card">
+    <div class="col">
+    <div class="card" style="margin-top:20px;">
 
       <div class="card-header">{{ post.date | date_to_string: "ordinal", "US" }}</div>
 
