@@ -33,10 +33,11 @@ The first Tuesday of each month is Demo Night, when you can see the latest updat
 ## Past Events
 
 ***Jump to:***
-[OpenOakland Voices](#openoakland-voices) | [Demo Night](#demo-night) | [National Day of Civic Hacking](#national-day-of-civic-hacking) | [National Day of Service](#national-day-of-service) | [Open Data Day](#open-data-day)
+[OpenOakland Voices](#openoakland-voices) | [Demo Night](#latest-demo-night) | [National Day of Civic Hacking](#national-day-of-civic-hacking) | [National Day of Service](#national-day-of-service) | [Open Data Day](#open-data-day)
+
 
 ### OpenOakland Voices
-We love having folks from the community share the work they're doing and exploring how OpenOakland might support and amplify those efforts.
+We love having folks from the community share the work they're doing and exploring how OpenOakland might support and amplify those efforts. Want to be part of OpenOakland Voices? [Submit your idea](/suggest-speaker/).
 
 {% include calendar/events-voices.html %}
 

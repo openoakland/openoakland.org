@@ -1,5 +1,42 @@
+
+<!--
+To do: include this page in calendar.md and replace with if/else cascade to display individual page sections without needing multiple include files and their associated data files.
+-->
+
+<!-- If there are events in past-events.yml with the category "voices", then display the OpenOakland Voices section -->
+{% if site/data/events/past-events.category == "voices" %}
+
+<h3>OpenOakland Voices</h3>
 <div class="row">
-  {%- for calendar in site.data.events.past-events -%}
+  {%- for past-events in site.data.events.past-events -%}
+    <div class="d-flex col-sm-6 cols-md-12">
+
+      <div class="card calendar-card">
+        {% if calendar.image %}<img src="/assets/images/events/{{ calendar.image }}" alt="video thumbnail"/>{% endif %}
+
+        <div class="card-body">
+          <h3 class="card-title calendar-card-h3">{% if calendar.title %}{{ calendar.title }}{% endif %}</h3>
+          <h4 class="card-subtitle calendar-card-subtitle">{% if calendar.subtitleGuest %}{{ calendar.subtitleGuest }}{% endif %}</h4>
+          <p class="card-text">{% if calendar.descriptionSentence %}{{ calendar.descriptionSentence }}{% endif %}</p>
+          {% if calendar.link %}<a href="{{ calendar.link }}" class="btn btn-primary btn-sm">{{ calendar.buttonText }}</a>{% endif %} {% if calendar.secondaryLink %}<a href="{{ calendar.secondaryLink }}" class="card-link calendar-card-link brand-link">{{ calendar.secondaryLinkText }}</a>{% endif %}
+        </div>
+
+        <div class="card-footer text-muted">
+          {% if calendar.mon-dd-yyyy %}{{ calendar.mon-dd-yyyy }}{% endif %}
+        </div>
+
+      </div>
+
+    </div>
+  {%- endfor -%}
+</div>
+
+<!-- If there are events in past-events.yml with the category "ndoch", then display the NDoCH section -->
+{% elsif site.data.events.past-events.category == "ndoch" %}
+<h3>National Day of Civic Hacking</h3>
+
+<div class="row">
+  {%- for past-events in site.data.events.past-events -%}
     <div class="d-flex col-sm-6 cols-md-12">
 
       <div class="card calendar-card">
@@ -22,3 +59,7 @@
     </div>
   {%- endfor -%}
 </div>
+
+{% else %}
+  <p>There are no past events to display.</p>
+{% endif %}
