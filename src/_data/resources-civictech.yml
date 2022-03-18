@@ -11,6 +11,16 @@
  secondaryLinkText:
  category: civic tech
 -
+ name: CIVIC Data Library of Context
+ author: The CIVIC Data Library of Context
+ description: An example framework for describing data sets to account for things like lineage, ethical governance, social justice, attribution and more.
+ format: Website
+ link: https://www.civicdatalibrary.org/context
+ button-text: Visit Site
+ secondaryLink:
+ secondaryLinkText:
+ category: data
+-
  name: Code for America Brigade Network
  author: Code for America
  description: The brigade network is an incredible resource for knowledge-sharing about brigade-specific issues and civic tech in general. Connect with others in their Slack and Discourse communities.
@@ -30,6 +40,16 @@
  secondaryLink:
  secondaryLinkText:
  category: civic tech
+-
+ name: Data Equity Framework
+ author: We All Count
+ description: A framework for addressing data through an equity lens, with a focus on funding, motivation, project design, data collection and sourcing, analysis, interpretation, and communication and distribution.
+ format: Website
+ link: https://weallcount.com/the-data-process/
+ button-text: Visit Site
+ secondaryLink:
+ secondaryLinkText:
+ category: data
 -
  name: Don't Build It
  author: Grassroot and MIT Governance Lab
@@ -81,6 +101,16 @@
  secondaryLinkText:
  category: data
 -
+ name: Oakland Equity Indicators
+ author: City of Oakland, Dept. of Race & Equity
+ description: Evaluates Oakland against 72 indicators that explore Economy, Education, Public Health, Housing, Public Safety and Neighborhood and Civic Life.
+ format: Website
+ link: https://data.oaklandca.gov/stories/s/Oakland-Equity-Indicators/brb2-j4ad/
+ button-text: Visit Site
+ secondaryLink:
+ secondaryLinkText:
+ category: data, gov
+-
  name: Open Data Handbook
  author: Open Knowledge Foundation
  description: Guides, case studies and resources for government and civil society on the what, why and how of open data.
@@ -100,3 +130,13 @@
  secondaryLink:
  secondaryLinkText:
  category: civic tech
+-
+ name: Technology Budgeting Handbook
+ author: "18F"
+ description: '"De-risking custom technology projects: A handbook for state budgeting and oversight" is a 40-page guide for executives, budget specialists, legislators and other decision makers who fund or oversee state government technology projects.'
+ format: Website
+ link: https://jobs.codeforamerica.org/
+ button-text: Visit Site
+ secondaryLink:
+ secondaryLinkText:
+ category: civic tech, gov

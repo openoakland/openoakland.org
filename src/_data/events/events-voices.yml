@@ -1,0 +1,35 @@
+# INSTRUCTIONS
+#
+# Add the most recent event at the top, separated by a hyphen.
+#
+# Do not alter the labels (which tells event.html which data to pull). Best practice is to copy and paste the entire block of an existing event, then edit the entries (leaving blank any entries you don't have info for).
+#
+# "Category" is case sensitive and must be one of: "voices", "demo", "ndoch", "ndos", "odd" or "other".
+# If you have a link to the event recording, be sure to include *both* buttonText and link strings. Otherwise the button will display the URL, which is ugly. The buttonText should be sentence case (only the first word is capitalized).
+#
+# If your entry includes a colon, wrap the entire entry in double quotes.
+#
+-
+ image: OpenOakland-Voices-JacksonBrown.png
+ title: "OpenOakland Voices: Tracking Local Legislation"
+ subtitleGuest: with Jackson Brown of the Council Data Project
+ descriptionSentence: "Jackson shares the Council Data Project's approach to making city councils more accessible to the public, tracking legislative action, improving inclusion through machine learning and other challenges."
+ link: "https://youtu.be/CDoVkufFOHw"
+ buttonText: View on YouTube
+ mon-dd-yyyy: Feb. 9, 2022
+-
+ image: OpenOakland-Voices-OaklandFellows.png
+ title: "OpenOakland Voices: Delivering Services to Oakland's Unhoused Communities"
+ subtitleGuest: with Code for America Oakland Community Fellows Adorable Jasmine, Amee Covarrubias and Tori Howard
+ descriptionSentence: "The Code for America Oakland Community Fellows discuss their work with the city designing an app to help front-line workers connect Oakland's unhoused communities with the services they need, how the South African Zulu principle of Ubuntu fuels their design work, the challenges of government platform constraints, and so much more."
+ link: "https://youtu.be/xs8c0tPIaUo"
+ buttonText: View on YouTube
+ mon-dd-yyyy: Feb. 23, 2021
+-
+ image: OpenOakland-Hack-Night-Darlene-Flynn-Oakland-Equity-Analysis-Framework.png
+ title: "OpenOakland Voices: Oakland's Equity Analysis Framework"
+ subtitleGuest: with Darlene Flynn, Director of Race & Equity, City of Oakland
+ descriptionSentence: "Darlene shares her work on the city's Equity Analysis framework, followed by a Q&A and member discussion about how to apply these principles to our work."
+ link: "https://youtu.be/OzbMX_J_4yI"
+ buttonText: View on YouTube
+ mon-dd-yyyy: Sep. 22, 2020

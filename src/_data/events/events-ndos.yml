@@ -1,0 +1,22 @@
+# INSTRUCTIONS
+#
+# Add the most recent event at the top, separated by a hyphen.
+#
+# Do not alter the labels (which tells event.html which data to pull). Best practice is to copy and paste the entire block of an existing event, then edit the entries (leaving blank any entries you don't have info for).
+#
+# "Category" is case sensitive and must be one of: "voices", "demo", "ndoch", "ndos", "odd" or "other".
+# If you have a link to the event recording, be sure to include *both* buttonText and link strings. Otherwise the button will display the URL, which is ugly. The buttonText should be sentence case (only the first word is capitalized).
+#
+# If your entry includes a colon, wrap the entire entry in double quotes.
+#
+-
+ category: ndos
+ image: OpenOakland-Day-of-Service-2019.jpg
+ title: Civic Engagement in the Digital Age
+ subtitleGuest: OpenOakland Day of Service 2019
+ descriptionSentence: "Oakland residents, students, community leaders, city staff, artists, developers and designers, and journalists spent the day tackling our partners' tech challenges through collaboration and service delivery."
+ link:
+ buttonText:
+ secondaryLink: "https://www.eventbrite.com/e/openoakland-day-of-service-2019-tickets-59979544432#"
+ secondaryLinkText: Event details
+ mon-dd-yyyy: May 11, 2019

@@ -1,12 +1,13 @@
+
 <h2>Latest updates from the brigade</h2>
 <div class="d-grid gap-2 d-md-flex justify-content-md-end spacer-bottom">
-  <button class="btn btn-outline-secondary" type="button">View All Updates</button>
+  <a href="/updates" class="btn btn-outline-secondary">View All Updates</a>
 </div>
 
   <div class="row">
     {% for post in site.posts limit:2 %}
-    <div class="col-6">
-    <div class="card">
+    <div class="col">
+    <div class="card" style="margin-top:20px;">
 
       <div class="card-header">{{ post.date | date_to_string: "ordinal", "US" }}</div>
 
@@ -14,7 +15,7 @@
 
       <div class="card-body">
         <h3 class="card-title"><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
-        <p class="card-text home-excerpt">{{ post.excerpt }}</p>
+        <p class="card-text home-excerpt">{{ post.post-excerpt }}</p>
         <a href="{{ post.url }}" class="btn btn-primary">Continue reading...</a>
       </div>
 
@@ -25,7 +26,7 @@
 
   <div>
     <div class="d-grid gap-2 d-md-flex justify-content-md-end spacer-top">
-      <button class="btn btn-outline-secondary" type="button">View All Updates</button>
+      <a href="/updates" class="btn btn-outline-secondary">View All Updates</a>
     </div>
     <hr class="hr-home">
   </div>

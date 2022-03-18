@@ -1,0 +1,24 @@
+<div class="row">
+  {%- for events-ndoch in site.data.events.events-ndoch -%}
+    <div class="d-flex col-sm-6 cols-md-12">
+
+      <div class="card calendar-card">
+
+        {% if events-ndoch.image %}<img src="/assets/images/events/{{ events-ndoch.image }}" alt="video thumbnail"/>{% endif %}
+
+        <div class="card-body">
+          <h3 class="card-title calendar-card-h3">{% if events-ndoch.title %}{{ events-ndoch.title }}{% endif %}</h3>
+          <h4 class="card-subtitle calendar-card-subtitle">{% if events-ndoch.subtitleGuest %}{{ events-ndoch.subtitleGuest }}{% endif %}</h4>
+          <p class="card-text">{% if events-ndoch.descriptionSentence %}{{ events-ndoch.descriptionSentence }}{% endif %}</p>
+          {% if events-ndoch.link %}<a href="{{ events-ndoch.link }}" class="btn btn-primary btn-sm">{{ events-ndoch.buttonText }}</a>{% endif %} {% if events-ndoch.secondaryLink %}<a href="{{ events-ndoch.secondaryLink }}" class="card-link calendar-card-link brand-link">{{ events-ndoch.secondaryLinkText }}</a>{% endif %}
+        </div>
+
+        <div class="card-footer text-muted">
+          {% if events-ndoch.mon-dd-yyyy %}{{ events-ndoch.mon-dd-yyyy }}{% endif %}
+        </div>
+
+      </div>
+
+    </div>
+  {%- endfor -%}
+</div>

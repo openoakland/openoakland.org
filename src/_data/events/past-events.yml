@@ -1,17 +1,44 @@
-# Add your new event at the top, separated by a hyphen.
-# Do not alter the labels (which tells event.html which data to pull).
+# INSTRUCTIONS
+#
+# Add the most recent event at the top, separated by a hyphen.
+#
+# Do not alter the labels (which tells event.html which data to pull). Best practice is to copy and paste the entire block of an existing event, then edit the entries (leaving blank any entries you don't have info for).
+#
+# "Category" is case sensitive and must be one of: "voices", "demo", "ndoch", "ndos", "odd" or "other".
 # If you have a link to the event recording, be sure to include *both* buttonText and link strings. Otherwise the button will display the URL, which is ugly. The buttonText should be sentence case (only the first word is capitalized).
+#
 # If your entry includes a colon, wrap the entire entry in double quotes.
+#
 -
+ category: voices
+ image: OpenOakland-Voices-JacksonBrown.png
+ title: "OpenOakland Voices: Tracking Local Legislation"
+ subtitleGuest: with Jackson Brown of the Council Data Project
+ descriptionSentence: "Jackson shares the Council Data Project's approach to making city councils more accessible to the public, tracking legislative action, improving inclusion through machine learning and other challenges."
+ link: "https://youtu.be/CDoVkufFOHw"
+ buttonText: View on YouTube
+ mon-dd-yyyy: Feb. 9, 2022
+-
+ category: voices
+ image: OpenOakland-Voices-OaklandFellows.png
+ title: "OpenOakland Voices: Delivering Services to Oakland's Unhoused Communities"
+ subtitleGuest: with Code for America Oakland Community Fellows Adorable Jasmine, Amee Covarrubias and Tori Howard
+ descriptionSentence: "CfA Oakland Community Fellows discuss their work with the city designing an app to connect Oakland's unhoused communities with services, how the South African Zulu principle of Ubuntu fuels their design work, the challenges of government platform constraints, and so much more."
+ link: "https://youtu.be/xs8c0tPIaUo"
+ buttonText: View on YouTube
+ mon-dd-yyyy: Feb. 23, 2021
+-
+ category: voices
  image: OpenOakland-Hack-Night-Darlene-Flynn-Oakland-Equity-Analysis-Framework.png
- title: "Hack Night: Oakland's Equity Analysis Framework"
+ title: "OpenOakland Voices: Oakland's Equity Analysis Framework"
  subtitleGuest: with Darlene Flynn, Director of Race & Equity, City of Oakland
  descriptionSentence: "Darlene shares her work on the city's Equity Analysis framework, followed by a Q&A and member discussion about how to apply these principles to our work."
  link: "https://youtu.be/OzbMX_J_4yI"
  buttonText: View on YouTube
  mon-dd-yyyy: Sep. 22, 2020
 -
- image:
+ category: ndoch
+ image: OpenOakland-NDoCH-ballots.png
  title: Alameda County Ballot Drop-off & OpenOakland access
  subtitleGuest: National Day of Civic Hacking 2020
  descriptionSentence: OpenOakland and area brigade members focused on <emphasis>access</emphasis> this year, documenting drop-off voting locations across Alameda County and making openoakland.org more accessible to those interested in engaging with our brigade.
@@ -19,6 +46,7 @@
  buttonText: Read the recap
  mon-dd-yyyy: Sept. 12, 2020
 -
+ category: odd
  image: OpenOakland-Open-Data-Day-2019.png
  title: Public Record Requests as Open Data
  subtitleGuest: National Open Data Day 2019
@@ -29,6 +57,7 @@
  secondaryLinkText: Event Details
  mon-dd-yyyy: Mar. 2, 2020
 -
+ category: ndos
  image: OpenOakland-Day-of-Service-2019.jpg
  title: Civic Engagement in the Digital Age
  subtitleGuest: OpenOakland Day of Service 2019
@@ -39,6 +68,7 @@
  secondaryLinkText: Event details
  mon-dd-yyyy: May 11, 2019
 -
+ category: ndoch
  image: OpenOakland-NDoCH-workinggroup.jpg
  title: Civic Action for Justice
  subtitleGuest: National Day of Civic Hacking 2019
