@@ -15,8 +15,6 @@ OpenOakland subscribes to Code for America's [tenet](https://www.codeforamerica.
 
 Brigade membership is open to all, regardless of expertise or skill level. We have a core team of elected representatives (known as Elects), supported by a Steering Committee that oversees activities and formal decision-making. The Steering Committee consists of the elected leads plus project representatives.
 
-<!--- Section: Temporary Alert -->
-{% include home-sections/announcement-neutral.html %}
 
 ![Bubble chart depicting the Steering Committee in a large circle containing the four elected leads; several project team circles overlap the steering committee circle and two Ombuds circles sit outside of Steering Committee.](/assets/images/OpenOakland-leadership-structure.png)
 

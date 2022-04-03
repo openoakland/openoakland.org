@@ -8,10 +8,6 @@ author: OpenOakland
 <!--- The "Hero" section at the top of the home page is an include in the layouts/home.html file and is editable by opening the includes/home-sections/home-hero.html file. -->
 
 
-<!--- Section: Temporary Alert -->
-{% include home-sections/announcement-neutral.html %}
-
-
 <!--- Section: Next Event -->
 {% include home-sections/home-next-event.html %}
 
