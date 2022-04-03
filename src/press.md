@@ -5,7 +5,7 @@ author: OpenOakland
 layout: page
 ---
 
-**2021 Media Contact:** Jess Sand at jess[at]openoakland.org
+**2021 Media Contact:** Contact the Steering Committee at steering[at]openoakland.org
 
 ## 2021
 
