@@ -84,7 +84,7 @@ Jess has updated the [Brigade Ops Handbook](https://docs.google.com/document/d/1
 Jess has two speakers interested in sharing at an upcoming meetup:
 
 - **Program Coordinator for [Design for America](http://www.designforamerica.com):** Interested in sharing their approach to project scoping, which aligns with a lot of the discussion we've been having around project life cycle management.
-- **Organizer with [Community Ready Corps Allies and Accomplices](white people to organize other white people to effectively contribute to anti-racist struggles):** This white-run committee of the [CRC](http://www.crc4sd.org/), a Black-led liberation organization that actively builds & supports self determination, is interested in discussing the role of the local tech field in dismantling anti-Black racism.
+- **Organizer with [Community Ready Corps Allies and Accomplices](https://www.facebook.com/CRCAA/):** This white-run committee of the [CRC](http://www.crc4sd.org/), a Black-led liberation organization that actively builds & supports self determination, is interested in discussing the role of the local tech field in dismantling anti-Black racism.
 
 Because these speakers are not regular members, we would offer them our standard speaker honorarium for their time. A general member in attendance suggested that perhaps the honorarium should not be offered to potential partners. Jess pointed out that the policy currently extends to any non-regular member, and that changes can be introduced through a new proposal to the Steering Committee.
 
