@@ -7,16 +7,20 @@ author: OpenOakland
 
 <!--- The "Hero" section at the top of the home page is an include in the layouts/home.html file and is editable by opening the includes/home-sections/home-hero.html file. -->
 
-
-<!--- Section: Temporary Alert -->
-{% include home-sections/announcement-neutral.html %}
-
-
 <!--- Section: Next Event -->
-{% include home-sections/home-next-event.html %}
+
+<!-- {% include home-sections/home-next-event.html %}
+-->
+
+
+
+
+<!--- Section: Latest Updates -->
+<div class="latest-updates"> {% include home-sections/recent-updates.html %} </div>
+
 
 <!--- Section: Slack -->
-<hr class="hr-home">
+<!--<hr class="hr-home"> -->
 <section class="row" style="margin-top:-2rem;">
   <div class="col-2">
     <img class="img-fluid" alt="Slack logo" src="/assets/images/OO-on-Slack-300x128.png" width="100" style="margin-top:50px;" />
@@ -33,6 +37,3 @@ author: OpenOakland
 
 </section>
 <hr class="hr-home">
-
-<!--- Section: Latest Updates -->
-<div class="latest-updates"> {% include home-sections/recent-updates.html %} </div>

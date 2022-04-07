@@ -18,7 +18,7 @@ OpenOakland bridges technology and community for a thriving and equitable Oaklan
     We recognize that Oakland has a rich history of activism. We seek to empower all Oaklanders to keep advocating for our community‘s collective well-being.
 
 
-## Part of the Code for America network
+## We're part of the Code for America network
 
 We're a fiscally-sponsored project of [Code for America](https://www.codeforamerica.org/), a 501(c)3 nonprofit dedicated to improving government in meaningful ways. [Donations to OpenOakland](https://www.codeforamerica.org/donate-to-a-brigade?utm_campaign=Open%20Oakland&utm_source=OpenOakland%20site) are tax-deductible through Code for America (be sure to select OpenOakland from the drop-down menu after choosing the amount).
 
@@ -29,21 +29,24 @@ We're a fiscally-sponsored project of [Code for America](https://www.codeforamer
 
 ## How we work
 
-Brigade membership is open to all, regardless of expertise or skill level. The brigade is led by a core team of elected leads. These are generally members who have been actively engaged in OpenOakland activities for an extended period of time. Activities and formal decision-making are overseen by a Steering Committee, which meets monthly and consists of the elected leads plus project representatives.
+Brigade membership is open to all, regardless of expertise or skill level. We work collaboratively, in the open, and strive to ensure those most impacted by our work are included in the decision-making that shapes it.
 
-[Governance Process](/how-we-work){: .btn .btn-primary }
+[Governance Process](/how-we-work){: .btn .btn-primary } [Brigade Bylaws](/bylaws){: .btn .btn-primary }
 
-### 2021 Co-leads
+### 2022 leadership team
 
-<!--- Section: Temporary Alert -->
-{% include home-sections/announcement-neutral.html %}
+The brigade is managed by a Steering Committee made up of one project representative from each project team, plus four co-leads elected by general membership. As of April 2022, we are revisiting our governance structure to explore how we can make participation easier, more effective, and more inclusive. We do not currently have any elected co-leads.
 
-{% include steering-committee.html %}
+Current Steering Committee members:
 
-If you're interested in joining the leadership team, join us for Hack Night and introduce yourself. In the interest of greater representation, our Communications Lead has committed to sharing or turning the role over if you're interested and identify as Black, Indigenous, or a person of color (reach out in #oo-steering-committee if interested).
+- John Baldo (rep, OpenOUSD)
+- Felicia Betancourt/Sean Martinez (alternating reps, Open Budget)
+- Elina Rubuliak (rep, Open Disclosure)
+- Jess Sand (rep, Funding Public Safety)
+- Niels Thorsen (rep, WOAQ)
+- Tom Theimer (rep, Councilmatic)
 
-
-## How you can get involved
+## Get involved
 
 - **Join us at Hack Night.**  
     Every Tuesday from 6:30-9:00pm PST, we meet on Zoom (normally, we meet in City Hall but are working remotely during the coronavirus pandemic). After intros on Zoom, we break off into Slack channels to work and you can bounce around to introduce yourself. Don't be shy about joining in; we're friendly folk. [RSVP on Meetup](https://www.meetup.com/OpenOakland/).
@@ -53,6 +56,5 @@ If you're interested in joining the leadership team, join us for Hack Night and 
 
 - **Contribute to an existing project.**  
     Check out our [active projects](/projects/). You're welcome to contact project leads directly or jump into their Github repos but if you're not a coder or are unsure how you might contribute, we suggest attending Hack Night to get to know our project teams.
-
 
 **We hope to see you soon!**
