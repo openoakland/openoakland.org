@@ -2,10 +2,10 @@
 title: "Open through 5/17: Special Member-wide Leadership Vote"
 author: OpenOakland
 layout: post
-date: 2022-04-03 00:00:00 -0800
+date: 2022-05-09 00:00:00 -0800
 permalink: updates/:title/
-feat-img: /assets/images/blog/2021-07-Banner-meetup-Steering.png
-feat-img-alt: Volunteers sit in chairs in a semi-circle in a room in City Hall
+feat-img: /assets/images/blog/2022-05-07-special-vote.png
+feat-img-alt: ""
 post-excerpt: "Per our bylaws, we are committed to a democratically-controlled brigade that ensures all members have a direct voice in how we operate. With no elected leadership currently on the Steering Committee, this vote offers members a voice in our next steps..."
 ---
 
