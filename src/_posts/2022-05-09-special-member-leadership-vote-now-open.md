@@ -5,11 +5,11 @@ layout: post
 date: 2022-05-09 00:00:00 -0800
 permalink: updates/:title/
 feat-img: /assets/images/blog/2022-05-07-special-vote.png
-feat-img-alt: ""
+feat-img-alt: "Bright pink, red, orange and yellow illustration of a hand placing a vote in a ballot box."
 post-excerpt: "Per our bylaws, we are committed to a democratically-controlled brigade that ensures all members have a direct voice in how we operate. With no elected leadership currently on the Steering Committee, this vote offers members a voice in our next steps..."
 ---
 
-[![""](/assets/images/blog/2022-05-07-special-vote.png)](https://docs.google.com/forms/d/e/1FAIpQLScfqgSuf9ICxGAohP2-7Zam1zHwN0qCMnSW5ALHg6nyCa7f5w/viewform)
+[!["Bright pink, red, orange and yellow illustration of a hand placing a vote in a ballot box."](/assets/images/blog/2022-05-07-special-vote.png)](https://docs.google.com/forms/d/e/1FAIpQLScfqgSuf9ICxGAohP2-7Zam1zHwN0qCMnSW5ALHg6nyCa7f5w/viewform)
 
 OpenOakland is unable to hold an election for 2022 brigade leadership due to a lack of nominees/volunteers. Given this, the Steering Committee is currently comprised of all active project leads, without any representation elected by membership. Per our bylaws, we are committed to a democratically-controlled brigade that ensures all members have a direct voice in how we operate. More details are available in our [March Steering Committee Recap](/updates/mar-2022-steering-committee-update/).
 
