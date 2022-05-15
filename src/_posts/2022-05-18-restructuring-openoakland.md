@@ -48,4 +48,4 @@ To do this, the existing Steering Committee (made up of active project leads) wi
 
 ## How can members and the public get involved?
 
-All Steering Committee meetings are open to the public and are listed on our [calendar](/calendar). We'll hold a public comment period at each meeting at which anyone adhering to the [Code of Conduct](code-of-conduct) may share their input or ask questions. To ensure everyone has a chance to share, individuals will be limited to 3 minutes. Comments and questions can also be emailed to steering@openoakland.org at any time.
+All Steering Committee meetings are open to the public and are listed on our [calendar](/calendar). Anyone adhering to the [Code of Conduct](code-of-conduct) will be given an opportunity to share their input or ask questions. To ensure everyone has a chance to share, individuals may be limited to 3 minutes. Comments and questions can also be emailed to steering@openoakland.org at any time.
