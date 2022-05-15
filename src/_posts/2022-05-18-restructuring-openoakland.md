@@ -6,7 +6,7 @@ date: 2022-05-14 00:00:00 -0800
 permalink: updates/:title/
 feat-img: /assets/images/blog/2022-05-07-special-vote-results.png
 feat-img-alt: "Illustration of a voting button in primary colors."
-post-excerpt: "xx..."
+post-excerpt: "We're happy to report that XX% of voting members voted yes to empower the Steering Committee to enter Lean Ops mode and focus on restructuring the brigade for greater inclusiveness. Our Lean Ops (lean operations) mode is intended to strip operational tasks down to the very barebones needed to accomplish two core goals..."
 ---
 
 !["Illustration of a voting button in primary colors."](/assets/images/blog/2022-05-07-special-vote-results.png)
