@@ -225,4 +225,4 @@ Certain building blocks that we don’t yet have would need to be built out for 
 {% include one-offs/blog-2022-05-20-slides.html %}
 
 ## Acknowledgements
-OpenOakland is grateful in particular to our volunteers who supported this work: Angela K., Joyce L. and Jess S. We’re also grateful to the BetaNYC team, who generously shared their time and experiences with us.
+OpenOakland is grateful in particular to volunteers Angela K. and Joyce L., who supported this work. We’re also grateful to the BetaNYC team, who generously shared their time and experiences with us.
