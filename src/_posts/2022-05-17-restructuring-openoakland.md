@@ -2,18 +2,18 @@
 title: "Restructuring OpenOakland"
 author: OpenOakland
 layout: post
-date: 2022-05-14 00:00:00 -0800
+date: 2022-05-17 00:00:00 -0800
 permalink: updates/:title/
 feat-img: /assets/images/blog/2022-05-07-special-vote-results.png
 feat-img-alt: "Illustration of a voting button in primary colors."
-post-excerpt: "We're happy to report that XX% of voting members voted yes to empower the Steering Committee to enter Lean Ops mode and focus on restructuring the brigade for greater inclusiveness. Our Lean Ops (lean operations) mode is intended to strip operational tasks down to the very barebones needed to accomplish two core goals..."
+post-excerpt: "We're happy to report that membership unanimously voted yes to empower the Steering Committee to enter Lean Ops mode and focus on restructuring the brigade for greater inclusiveness. Our Lean Ops (lean operations) mode is intended to strip operational tasks down to the very barebones needed to accomplish two core goals..."
 ---
 
 !["Illustration of a voting button in primary colors."](/assets/images/blog/2022-05-07-special-vote-results.png)
 
 In the absence of elected member representatives, OpenOakland recently held an open vote to determine whether or not membership wanted to empower the existing Steering Committee (currently made up of active project leads) to implement a Lean Ops mode in an effort to restructure OpenOakland to improve participation and more diverse representation.
 
-Eligible voters included anyone who attended an OpenOakland event or contributed to a project in the past year (with the exception of current Steering Committee members). **We're happy to report that XX% of voting members voted yes to empower the Steering Committee to enter Lean Ops mode and focus on restructuring the brigade for greater inclusiveness.**
+Eligible voters included anyone in good standing who attended an OpenOakland event or contributed to a project in the past year (with the exception of current Steering Committee members). **We're happy to report that fully 100% of eligible voting members voted _yes_ to empower the Steering Committee to enter Lean Ops mode and focus on restructuring the brigade for greater inclusiveness.**
 
 Although this vote may *seem* like a formality, this process helps us maintain accountability, ensure we're adhering to the spirit of our bylaws, and maintain paths to participation for volunteers interested in reshaping OpenOakland.
 
@@ -28,7 +28,7 @@ Because Project Leads tend to be the ones representing their team on Steering Co
 Our Lean Ops (lean operations) mode is intended to strip operational tasks down to the very barebones needed to accomplish two core goals:
 
 1. Maintain official brigade status with Code for America.
-2. Improve the sustainable participation, representation, and decision-making of groups historically underrepresented in tech, through the restructuring of our bylaws, decision-making processes, and community rituals.
+2. Improve the sustainable participation, representation, and decision-making among Oaklanders, particularly those historically underrepresented in tech, through the restructuring of our bylaws, decision-making processes, and community rituals.
 
 To do this, the existing Steering Committee (made up of active project leads) will share responsibility for the following limited activities:
 
@@ -41,11 +41,11 @@ To do this, the existing Steering Committee (made up of active project leads) wi
 
 ### What we won't do
 
-- Hold regular meetups for project working groups. Volunteers wanting to get involved with an existing project will need to reach out to the project team directly, preferably via Slack.
+- Hold regular meetups for project working groups. Volunteers wanting to get involved with an existing project will need to reach out to the project team directly, preferably [via Slack](https://docs.google.com/document/d/1VWZQ_3ehP5j0IOTY0nJClvQPll3ivSkuAdh5YsOhO_U/edit?usp=sharing).
 - Provide additional support (financial, technical or operational) to existing projects beyond what we're already committed to.
 - Launch new projects.
 - Maintain our social media channels.
 
 ## How can members and the public get involved?
 
-All Steering Committee meetings are open to the public and are listed on our [calendar](/calendar). Anyone adhering to the [Code of Conduct](code-of-conduct) will be given an opportunity to share their input or ask questions. To ensure everyone has a chance to share, individuals may be limited to 3 minutes. Comments and questions can also be emailed to steering@openoakland.org at any time.
+All Steering Committee meetings are open to the public and are listed on our [calendar](/calendar). Anyone adhering to the [Code of Conduct](code-of-conduct) will be given an opportunity to share their input or ask questions. To ensure everyone has a chance to share, commenters may be limited to 3-4 minutes. Comments and questions can also be emailed to steering@openoakland.org at any time or shared in Slack.
