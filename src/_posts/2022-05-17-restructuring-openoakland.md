@@ -4,12 +4,12 @@ author: OpenOakland
 layout: post
 date: 2022-05-17 00:00:00 -0800
 permalink: updates/:title/
-feat-img: /assets/images/blog/2022-05-07-special-vote-results.png
+feat-img: /assets/images/blog/2022-05-07-special-vote.png
 feat-img-alt: "Illustration of a voting button in primary colors."
 post-excerpt: "We're happy to report that membership unanimously voted yes to empower the Steering Committee to enter Lean Ops mode and focus on restructuring the brigade for greater inclusiveness. Our Lean Ops (lean operations) mode is intended to strip operational tasks down to the very barebones needed to accomplish two core goals..."
 ---
 
-!["Illustration of a voting button in primary colors."](/assets/images/blog/2022-05-07-special-vote-results.png)
+!["Illustration of a voting button in primary colors."](/assets/images/blog/2022-05-07-special-vote.png)
 
 In the absence of elected member representatives, OpenOakland recently held an open vote to determine whether or not membership wanted to empower the existing Steering Committee (currently made up of active project leads) to implement a Lean Ops mode in an effort to restructure OpenOakland to improve participation and more diverse representation.
 
