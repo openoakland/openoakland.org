@@ -1,11 +1,15 @@
+
 ---
 title: Contact
 date: 2021-05-31T12:00:23+00:00
 author: OpenOakland
 layout: page
 ---
+Get in touch! All emails are staffed by volunteers
 
-Get in touch! All emails are staffed by volunteers, so please allow several days for a response.
+DISCLAMIER:
+Your message will be posted to the Steering Committee channel in OpenOakland's Slack group. A volunteer team member will get back to you as soon as possible, so please allow several days for a response.
+
 
 - General inquiries: [steering@openoakland.org](mailto:steering@openoakland.org)
 - Media inquiries: [jess@openoakland.org](mailto:jess@openoakland.org)
