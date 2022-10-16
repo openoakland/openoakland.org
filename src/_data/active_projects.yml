@@ -19,16 +19,6 @@
   description: We make the Oakland City Council meetings easily accessible to the citizens of Oakland. Using our site citizens can learn when are the upcoming city council meetings, view the agenda, put the meeting on your calendar, and send an electronic comment to the Council. Plus you can see videos of past meetings.
   tech:  BASH, Python, JSON, Jinja2 templating
 -
-  name: Funding Public Safety
-  image:
-  website: https://bit.ly/fps-interest
-  repo: https://github.com/openoakland/funding-public-safety/
-  leader: Jess S.
-  slack_id: T02FEGG84
-  slack_channel: project-active-funding-public-safety
-  description: "Funding Public Safety explores how Oakland spends Measure Z's approximately $24 million annual budget, so Oaklanders can better understand the City's approach to public safety and violence prevention. We're currently looking for data entry folks to pull information from PDFs into spreadsheets, dataviz designers and front-end developers, and especially input and participation of community partners and residents impacted by violence."
-  tech: Eleventy static site generator, Bootstrap CSS framework, spreadsheets and various dataviz tools
--
   name: Open Budget Oakland
   image: openbudgetoakland_300x233.png
   website: http://openbudgetoakland.org/
@@ -60,11 +50,11 @@
   tech: Gatsby, Postgres, Node.js
 -
   name: West Oakland Air Quality (WOAQ)
-  image: OpenOakland-West-Oakland-Air-Quality.png
-  website:
+  image: WOAQ-thumb.png
+  website: https://woaq.org
   repo: https://github.com/openoakland/woeip
-  leader: Jess Sand
+  leader: Gabriel Ehrlich, Niels Thorsen
   slack_id: C95U7371C
   slack_channel: project-woaq
-  description: The WOAQ team is building an air quality database with the nonprofit West Oakland Environmental Indicators Project (WOEIP), who has been collecting local air quality data for over a decade. Our initial effort is focused on a volunteer-friendly database for WOEIP staff and volunteers to manage and explore the local AQ data they collect through the organization’s citizen science program. We’ll then build on this to create a neighborhood-friendly platform that allows residents to act on this data through self-education, self-empowerment, and civic engagement.
+  description: WOAQ is a partnership with the nonprofit West Oakland Environmental Indicators Project, designed to power WOEIP's citizen science program. The WOAQ platform helps West Oaklanders visualize neighborhood air quality data collected by WOEIP's volunteer residents, and use that data to explore the environmental issues that directly impact their health and well-being every day.
   tech: React front-end using Semantic UI, python, django, PostGIS, MapBox

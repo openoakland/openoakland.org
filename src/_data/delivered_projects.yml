@@ -65,6 +65,16 @@
   slack_channel:
   description: "Built in partnership with the Oak Education Cabinet in 2011, Early Oakland provided information on early learning programs that were state subsidized and federally supported Head Start programs in Oakland, including Bananas Child Care Resource and Referral, Oakland Head Start and the Unity Council Preschool, as well as Oakland Unified School District Early Childhood Education Department. It included part-day and full-day programs for three- and four-year-olds, and a few programs also served younger children."
 -
+  name: Funding Public Safety
+  image: Screenshot-FPS.png
+  website: https://openoakland.github.io/funding-public-safety/
+  repo: https://github.com/openoakland/funding-public-safety/
+  leader: Jess Sand
+  slack_id: T02FEGG84
+  slack_channel: project-active-funding-public-safety
+  description: "Oakland's Public Safety and Services Oversight Commission (SSOC) is tasked with monitoring how the City spends Measure Z funds, aimed at reducing violence by funding community policing, and violence interruption and prevention programs. In the summer of 2021, members of the SSOC approached OpenOakland for support making sense of the data they were receiving from the City in anticipation of their funding recommendations to City Council at the end of the year. OpenOakland helped them identify key questions and goals, understand the scope of available data and its limitations, and prepared them to make their recommendations with confidence. The team then prepared for a potential phase 2 of the project, involving a public website housing the information they learned and exploring Oakland's public safety issues in more depth. A key component of this was identifying potential community stakeholders and impacted populations for further engagement in shared decision-making and project design should the project continue."
+  tech: Eleventy static site generator, Bootstrap CSS framework, spreadsheets and various dataviz tools
+-
   name: La Escuelita
   image: OpenOakland-project-laescuelita.png
   website: https://www.laescuelita.org/
