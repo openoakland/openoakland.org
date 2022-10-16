@@ -42,8 +42,7 @@ Current Steering Committee members:
 - John Baldo (rep, OpenOUSD)
 - Felicia Betancourt/Sean Martinez (alternating reps, Open Budget)
 - Elina Rubuliak (rep, Open Disclosure)
-- Jess Sand (rep, Funding Public Safety)
-- Niels Thorsen (rep, WOAQ)
+- Niels Thorsen/Gabriel Ehrlich (alternating reps, WOAQ)
 - Tom Theimer (rep, Councilmatic)
 
 ## Get involved
