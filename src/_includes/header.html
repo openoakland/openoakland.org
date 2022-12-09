@@ -1,9 +1,5 @@
 <header class="site-header">
 
-<div style="background-color:alert-danger; width:100%;">
-  {% include home-sections/announcement-warning.html %}
-</div>
-
   <nav class="navbar navbar-expand-lg navbar-light ">
     {%- assign default_paths = site.data.navigation | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
