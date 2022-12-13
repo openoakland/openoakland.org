@@ -5,7 +5,7 @@ _site/
 .jekyll-metadata
 
 _src/
-.jekyll-cache/
+src/.jekyll-cache/
 
 # Other stuff to ignore
 .DS_Store
