@@ -56,5 +56,5 @@
   leader: Gabriel Ehrlich, Niels Thorsen
   slack_id: C95U7371C
   slack_channel: project-woaq
-  description: WOAQ is a partnership with the nonprofit West Oakland Environmental Indicators Project, designed to power WOEIP's citizen science program. The WOAQ platform helps West Oaklanders visualize neighborhood air quality data collected by WOEIP's volunteer residents, and use that data to explore the environmental issues that directly impact their health and well-being every day.
-  tech: React front-end using Semantic UI, python, django, PostGIS, MapBox
+  description: WOAQ is a partnership with the nonprofit West Oakland Environmental Indicators Project, designed to power WOEIP's citizen science program. The WOAQ platform helps West Oaklanders visualize neighborhood air quality data collected by WOEIP's volunteer residents, and use that data to explore the environmental issues that directly impact their health and well-being every day. We could especially use some help with production server configuration, educational program design, and product management.
+  tech: React/Javascript, Semantic UI, MapBox, Django/Python, PostGIS
