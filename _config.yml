@@ -54,7 +54,7 @@ permalink: pretty
 #   - vendor/gems/
 #   - vendor/ruby/
 jekyll_get_json:
-  - data: events
+  - data: upcoming
     json: 'https://api.meetup.com/OpenOakland/events?&page=2'
 
 exclude:
