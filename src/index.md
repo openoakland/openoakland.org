@@ -9,8 +9,8 @@ author: OpenOakland
 
 <!--- Section: Next Event -->
 
-<!-- {% include home-sections/home-next-event.html %}
--->
+{% include home-sections/home-next-event.html %}
+
 
 
 
