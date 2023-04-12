@@ -48,13 +48,3 @@
   slack_channel: project-open-ousd
   description: OpenOUSD aims to bring greater transparency to the Oakland Unified School District's central office so that the community can fully participate in discussions about how it can best serve our students. OpenOUSD is a project of OpenOakland, a volunteer run group with the mission of increasing access to government through technology. OpenOUSD receives no public or private funds and is not an official OUSD website.
   tech: Gatsby, Postgres, Node.js
--
-  name: West Oakland Air Quality (WOAQ)
-  image: WOAQ-thumb.png
-  website: https://woaq.org
-  repo: https://github.com/openoakland/woeip
-  leader: Gabriel Ehrlich, Niels Thorsen
-  slack_id: C95U7371C
-  slack_channel: project-woaq
-  description: WOAQ is a partnership with the nonprofit West Oakland Environmental Indicators Project, designed to power WOEIP's citizen science program. The WOAQ platform helps West Oaklanders visualize neighborhood air quality data collected by WOEIP's volunteer residents, and use that data to explore the environmental issues that directly impact their health and well-being every day. We could especially use some help with production server configuration, educational program design, and product management.
-  tech: React/Javascript, Semantic UI, MapBox, Django/Python, PostGIS

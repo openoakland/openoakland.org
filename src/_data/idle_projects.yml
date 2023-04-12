@@ -74,3 +74,14 @@
   slack_id: C4R9JUW12
   slack_channel: project-trash-talk
   description: "With East Oakland facing illegal dumping, mostly from outside actors, Trash Talk was envisioned in 2016 as a tool to help neighbors plan and execute cleanups and graffiti removal. The app was intended to help neighbors report issues and work together with the Oakland City Public Works Agency to remove trash, dead animals, and other consequences of illegal dumping in East Oakland neighborhoods. The goal was for Trash Talk to eventually connect with the City‘s existing tracking app, [SeeClickFix](https://en.seeclickfix.com/oakland) for tracking volunteer time."
+-
+  name: West Oakland Air Quality (WOAQ)
+  image: WOAQ-thumb.png
+  established: 2017
+  website: https://woaq.org
+  repo: https://github.com/openoakland/woeip
+  leader: Formerly Robert Soden, Jess Sand, Gabriel Ehrlich, Niels Thorsen
+  slack_id: C95U7371C
+  slack_channel: project-woaq
+  description: WOAQ is a partnership with the nonprofit West Oakland Environmental Indicators Project, designed to power WOEIP's citizen science program. The WOAQ platform helps West Oaklanders visualize neighborhood air quality data collected by WOEIP's volunteer residents, and use that data to explore the environmental issues that directly impact their health and well-being every day. We could especially use some help with production server configuration, educational program design, and product management.
+  tech: React/Javascript, Semantic UI, MapBox, Django/Python, PostGIS
