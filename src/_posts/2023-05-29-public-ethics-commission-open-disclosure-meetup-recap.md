@@ -39,8 +39,8 @@ On April 4, 2023, Suzanne Doran (Acting Executive Director of the PEC), Michael 
 {: style="text-align: center"}
 <div><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Zl0i8UwJUBI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
-- All Oakland campaign finance information is available through the City’s website, however the number of documents and the data format make it difficult to sort through. Open Disclosure Oakland makes
-- You can drill down into each election, candidate, and individual donors. You can also see information on committees which spent money in support of a candidate.
+- All Oakland campaign finance information is available through the City’s website, however the number of documents and the data format make it difficult to sort through.
+- Open Disclosure Oakland makes it easy to drill down into each election, candidate, and individual donors to quickly get a sense of who is spending in support of candidates and ballot measures.
 
 See it for yourself at [opendisclosure.io](https://www.opendisclosure.io)!
 
@@ -73,7 +73,7 @@ OpenOakland can also create spaces for like-minded City staffers to meet both pe
 
 **Open Disclosure Oakland**
 
-- Campaign finance data is now geocoded and this opens up possibilities for new analysis and presentation of the data. (Show me the money is an example of that.)
+- Campaign finance data is now geocoded and this opens up possibilities for new analysis and presentation of the data. ([Show me the money](https://data.oaklandca.gov/campaign_finance/contribution?electionYear=2023) is an example of that.)
 - New datasets are now available in digital format:
 	- Lobbyist data
 	- Form 700 - statements of economic interest for high ranking public officials - income, investments, property ownership
