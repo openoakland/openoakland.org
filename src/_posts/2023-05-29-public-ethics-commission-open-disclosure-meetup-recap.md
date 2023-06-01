@@ -21,7 +21,7 @@ On April 4, 2023, Suzanne Doran (Acting Executive Director of the PEC), Michael 
 <div><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/jHs9xfgdv2I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 - The Public Ethics Commission’s mission is to ensure the honesty and integrity of Oakland government. It’s an independent body made up of 7 volunteer citizen commissioners who serve as policymakers. The Commission is supported by 7 staff members.
-- The Commission was formed in 1996, but didn't have the authority to enforce laws until 2014 when a ballot measure provided funding for staff support.
+- The Commission was started in 1996, but didn't have the authority and independence to effectively enforce laws until 2014 when a ballot measure provided increased authority and funding for staff support.
 - The Commission enforces several local laws including:
 	- The Oakland Campaign Reform Act
 	- Lobbyist Registration Act
@@ -29,7 +29,7 @@ On April 4, 2023, Suzanne Doran (Acting Executive Director of the PEC), Michael 
 	- Sunshine Ordinance (open meetings and public records)
 	- False Endorsement in Campaign Literature Act
 	- New! - Measure W: Oakland Fair Elections Act - public financing for candidates
-- Measure W - Oakland will be the second city in the US (Seattle was the first) and first in California to implement public campaign financing. Each resident will be given a $100 voucher to give to a candidate of their choice. The hope is that this will encourage candidates to interact with all of their constituents.
+- Measure W - Oakland will be the second city in the US (Seattle was the first) and first in California to implement public campaign financing. Each resident will be given a $100 voucher to give to a candidate of their choice. The hope is that this will encourage candidates to interact with all of their constituents and enable residents to run for office without dependence on wealthy donors.
 - Most PEC activity is focused on policy change and education to prevent enforcement action, but the Commission is tasked with prosecuting when someone breaks the law. In 2021, the Commission collected over $300,000 in fines (the largest amount in a single year so far).
 - Typically 60% or more of campaign funds come from outside of Oakland. Within Oakland, less than 1% of residents donate to campaign initiatives.
 - Electronic filing of campaign finance records started in 2013. Former PEC Director Whitney Barazoto approached OpenOakland about making that massive data set more accessible to the public and that was the start of Open Disclosure Oakland.
