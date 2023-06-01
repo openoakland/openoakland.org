@@ -21,7 +21,7 @@ On April 4, 2023, Suzanne Doran (Acting Executive Director of the PEC), Michael 
 <div><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/jHs9xfgdv2I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 - The Public Ethics Commission’s mission is to ensure the honesty and integrity of Oakland government. It’s an independent body made up of 7 volunteer citizen commissioners who serve as policymakers. The Commission is supported by 7 staff members.
-- The Commission was started in 1996, but hasn’t had the authority to enforce laws since 2014 when a ballot measure provided funding for staff support.
+- The Commission was formed in 1996, but didn't have the authority to enforce laws until 2014 when a ballot measure provided funding for staff support.
 - The Commission enforces several local laws including:
 	- The Oakland Campaign Reform Act
 	- Lobbyist Registration Act
