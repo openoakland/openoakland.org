@@ -8,9 +8,9 @@ permalink: /calendar/
 
 ## Join us in City Hall
 
-We typically meet in-person on the first Tuesday of the month at 6:30pm in Hearing Room 3 (Oakland City Hall). Over time, we'd like to add virtual meetings as well. [Joining our meetup group](https://www.meetup.com/OpenOakland/events/) is the best way to hear about upcoming events.
+We typically meet in-person on the first Tuesday of the month at 6:30pm in Hearing Room 3 ([Oakland City Hall](https://goo.gl/maps/YTNkpZcb7Sy936w88)). Over time, we'd like to add virtual meetings as well. [Joining our meetup group](https://www.meetup.com/OpenOakland/events/) is the best way to hear about upcoming events.
 
-We welcome people of all skill levels and disciplines. Normally, we meet in Oakland City Hall ([directions](https://goo.gl/maps/YTNkpZcb7Sy936w88)). If you need accessibility assistance, please email steering@openoakland.org.
+We welcome people of all skill levels and disciplines. If you need accessibility assistance, please email steering@openoakland.org.
 
 [Join Our Meetup Group](https://www.meetup.com/OpenOakland/events/){: .btn .btn-primary }
 
