@@ -7,15 +7,16 @@ layout: page
 ---
 
 At OpenOakland, civic tech means helping communities understand and navigate local government. We are working harder than ever to reach more communities.
-Your generous gift will support our efforts to connect to all of Oakland through events and weekly meetings
+
+Your generous gift will support our efforts to connect to all of Oakland through events and weekly meetings.
 
 {: style="text-align: center"}
-[Donate Now](https://www.codeforamerica.org/donate-to-a-brigade?utm_campaign=Open%20Oakland&utm_source=OpenOakland%20site){:target="_blank" .btn.btn-primary }
+*All donations are tax-deductable through our fiscal sponsor the Open Collective.*
 
 {: style="text-align: center"}
-*Be sure to select **OpenOakland** from the drop-down menu.*
+[Donate Now](https://opencollective.com/openoakland/contribute){:target="_blank" .btn.btn-primary }
 
-To pay by check, contact our [Steering Committee](mailto:steering@openoakland.org). Checks can be made payable to _Code for America_ with _OpenOakland_ added in the Memo line.
+To donate by check, contact our [Steering Committee](mailto:steering@openoakland.org).
 
 
 ## Your donation provides critical resources
