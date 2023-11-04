@@ -1,4 +1,12 @@
 -
+  name: Democracy Dollars
+  website: https://www.oaklandca.gov/topics/democracy-dollars
+  leader: Niels Helvig Thorsen / John Baldo
+  slack_id: C06470G7HA9
+  slack_channel: project-democracy-dollars
+  description: Democracy Dollars is a public campaign finance initiative passed by Oakland voters (Measure W) and rolling out for the 2026 election. This team is prototyping a digital experience for the program and recruiting UX designers and researchers!
+  tech: Figma, other prototyping / design tools
+-
   name: openoakland.org
   image: OpenOakland-home.png
   website: https://openoakland.org
