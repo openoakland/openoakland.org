@@ -96,8 +96,6 @@ There are several ways to contribute to an existing project:
 
 ### How to start a new project
 
-OpenOakland is reevaluating how our projects are vetted, adopted, and developed. This is an ongoing pilot that we continue to iterate on in an effort to ensure that projects serve their intended communities, consider potential unintended consequences, and foster greater inclusion of community voices—particularly those from underrepresented and underserved Oakland communities.
-
 If you have a new idea for an OpenOakland project:
 
 1. **Fill out the [project exploration worksheet](https://docs.google.com/document/d/1k24P9JiAUEzJLPFRDjVh7aRZexax6NUhfPFLSI3R80M/edit?usp=sharing)**. We encourage you to join our [Slack workspace](https://join.slack.com/t/openoakland/shared_invite/zt-n4d7tx2t-UVIN7a769e4oc9j7PgM3HA) and share your draft with our membership, so we can collaborate together as you develop your idea.

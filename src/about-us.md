@@ -29,13 +29,13 @@ We are a member of the [Alliance of Civic Technologists](https://www.civictechno
 
 ## How we work
 
-Brigade membership is open to all, regardless of expertise or skill level. We work collaboratively, in the open, and strive to ensure those most impacted by our work are included in the decision-making that shapes it.
+Membership is open to all, regardless of expertise or skill level. We work collaboratively, in the open, and strive to ensure those most impacted by our work are included in the decision-making that shapes it.
 
-[Governance Process](/how-we-work){: .btn .btn-primary } [Brigade Bylaws](/bylaws){: .btn .btn-primary }
+[Governance Process](/how-we-work){: .btn .btn-primary } [Bylaws](/bylaws){: .btn .btn-primary }
 
-### 2023-24 leadership team
+### Leadership team
 
-The brigade is managed by a Steering Committee made up of one project representative from each project team, plus co-leads elected by general membership. As of April 2022, we paused our election structure, but are looking to bring back more leadership roles in 2024!
+OpenOakland is managed by a Steering Committee made up of one project representative from each project team, plus co-leads elected by general membership.
 
 Current Steering Committee members:
 

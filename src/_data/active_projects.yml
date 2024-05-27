@@ -1,7 +1,7 @@
 -
   name: Democracy Dollars
   website: https://www.oaklandca.gov/topics/democracy-dollars
-  leader: Niels Helvig Thorsen / John Baldo
+  leader: Niels Helvig Thorsen / Kenny Wu
   slack_id: C06470G7HA9
   slack_channel: project-democracy-dollars
   description: Democracy Dollars is a public campaign finance initiative passed by Oakland voters (Measure W) and rolling out for the 2026 election. This team is prototyping a digital experience for the program and recruiting UX designers and researchers!
@@ -11,37 +11,17 @@
   image: OpenOakland-home.png
   website: https://openoakland.org
   repo: https://github.com/openoakland/openoakland.org
-  leader: Jess Sand
+  leader: John Baldo
   slack_id: CH1U5KJ48
   slack_channel: project-oo-website
   description: As the digital face of OpenOakland, our website serves new and existing members, community and government partners, and members of the larger Oakland and civic tech communities. The site was recently migrated from a Wordpress install to a static Jekyll site hosted on AWS. The migration focused primarily on moving the codebase, and we now are working on improving site architecture and visual design. Issues in GutHub marked "Good First Issue" are great for first-timers.
   tech: Jekyll, Kramdown, Bootstrap UI
 -
-  name: Councilmatic
-  image: councilmatic_300x118.png
-  website: https://oaklandcouncil.net/
-  repo: https://github.com/openoakland/councilmatic
-  leader: Tom Theimer
-  slack_id: C0M89GTRT
-  slack_channel: project-councilmatic
-  description: We make the Oakland City Council meetings easily accessible to the citizens of Oakland. Using our site citizens can learn when are the upcoming city council meetings, view the agenda, put the meeting on your calendar, and send an electronic comment to the Council. Plus you can see videos of past meetings.
-  tech:  BASH, Python, JSON, Jinja2 templating
--
-  name: Open Budget Oakland
-  image: openbudgetoakland_300x233.png
-  website: http://openbudgetoakland.org/
-  repo: https://github.com/openoakland/openbudgetoakland
-  leader: Felicia Betancourt
-  slack_id: C02R4185B
-  slack_channel: project-open-budget-oakland
-  description: Every 2 years the city of Oakland releases a budget in a spreadsheet that has nearly 20,000 rows, which does not make for ideal reading. The mission of Open Budget Oakland is to transform this mountain of data into an interactive display of charts and diagrams that is easy and even fun to use. Our MVP is live, but could benefit from improvements, updated content, and new features.
-  tech: Eleventy + Pug + Node, Sass, Bootstrap, React, D3, GitHub Actions
--
   name: Open Disclosure Oakland
   image: opendisclosure_300x233.png
   website: http://www.opendisclosure.io/
   repo: https://github.com/caciviclab
-  leader: Elina Rubuliak, Colin King-Bailey, and Suzanne Doran
+  leader: Mike Ubell, Colin King-Bailey, and Suzanne Doran
   slack_id: C02GKECTJ
   slack_channel: project-open-disclosure
   description: Open Disclosure helps Oaklanders understand the role of money in their local politics. By analyzing mandatory campaign finance disclosures for candidates seeking public office, Open Disclosure presents a user-friendly overview of who is raising money, from where, and how much. Open Disclosure is developed in partnership with the City of Oakland Public Ethics Commission.

@@ -1,4 +1,24 @@
 -
+  name: Open Budget Oakland
+  image: openbudgetoakland_300x233.png
+  website: http://openbudgetoakland.org/
+  repo: https://github.com/openoakland/openbudgetoakland
+  leader: Felicia Betancourt
+  slack_id: C02R4185B
+  slack_channel: project-open-budget-oakland
+  description: Every 2 years the city of Oakland releases a budget in a spreadsheet that has nearly 20,000 rows, which does not make for ideal reading. The mission of Open Budget Oakland is to transform this mountain of data into an interactive display of charts and diagrams that is easy and even fun to use. Our MVP is live, but could benefit from improvements, updated content, and new features.
+  tech: Eleventy + Pug + Node, Sass, Bootstrap, React, D3, GitHub Actions
+-
+  name: Councilmatic
+  image: councilmatic_300x118.png
+  website: https://oaklandcouncil.net/
+  repo: https://github.com/openoakland/councilmatic
+  leader: Tom Theimer
+  slack_id: C0M89GTRT
+  slack_channel: project-councilmatic
+  description: We make the Oakland City Council meetings easily accessible to the citizens of Oakland. Using our site citizens can learn when are the upcoming city council meetings, view the agenda, put the meeting on your calendar, and send an electronic comment to the Council. Plus you can see videos of past meetings.
+  tech:  BASH, Python, JSON, Jinja2 templating
+-
   name: Civic User Testing Group (CUT Group)
   image: cut-group_300x233.png
   website:
