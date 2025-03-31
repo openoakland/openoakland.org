@@ -23,6 +23,7 @@ $content-width: 900px !default;
 // breakpoints
 $mobile-up: 320px;
 $tablet-up: 460px;
+$desktop-up: 992px;
 
 body {
   font: $base-font-weight $base-font-family;
@@ -151,6 +152,12 @@ main {
   margin-right: 80px;
   @media (max-width: $mobile-up) {
     width: 200px;
+  }
+}
+
+.header-links{
+  @media (min-width: $desktop-up) {
+    max-width: 600px;
   }
 }
 
