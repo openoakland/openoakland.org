@@ -7,7 +7,8 @@ layout: page
 
 OpenOakland connects public agencies and nonprofits with skilled tech volunteers to increase their community impact through the use of technology. If you're facing challenges in delivering services to Oakland or East Bay residents, we can help — at no cost.
 
-[Get help now](/apply-now)\| [Learn more about our program](#process)
+[Get help now](#apply-now){: .btn .btn-primary }
+<!-- | [Learn more about our program](#process){: .btn .btn-secondary } -->
 
 
 ## Eligibility Criteria & Expectations
@@ -18,11 +19,9 @@ OpenOakland connects public agencies and nonprofits with skilled tech volunteers
 * Technology-related problem or potential for a tech solution
 * Dedicated point of contact prepared to spend 2-3 hours a week interacting with the project team
 
-Sound like a good fit? Unsure? Apply and we can figure it out.
+Sound like a good fit? Unsure? Apply and we can figure it out together.
 
-<div class="button-group">
-    <a href="#apply-form" class="button primary">Apply Now</a>
-</div>
+[Apply now!](#apply-now){: .btn .btn-primary }
 
 ## Process
 
@@ -46,8 +45,10 @@ Most projects are completed within 3-6 months, though timing varies based on sco
 ### What does it cost?
 Our services are provided for free by skilled volunteers. We ask only for your time and commitment to the project's success.
 
-## Contact Us
+## Apply now!
 
-Have questions about whether your project would be a good fit? Contact us:
+Fill out this short intake form to kick off the conversation.
+
+Have questions about whether your project would be a good fit? We encourage you to apply and include any questions you have. We'll follow up to discuss with you!
 
 {% include form-apply.html %}
