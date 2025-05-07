@@ -23,6 +23,7 @@ $content-width: 900px !default;
 // breakpoints
 $mobile-up: 320px;
 $tablet-up: 460px;
+$medium-up: 768px;
 $desktop-up: 992px;
 
 body {
@@ -431,4 +432,60 @@ hr.hr-slack {
 hr.hr-home {
   border-top: 2px dotted #013743;
   margin:4rem 0rem;
+}
+
+#what-we-offer h2{
+  text-align: center;
+}
+
+.offer-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+
+
+  @media (min-width: $medium-up) and (max-width: $desktop-up) {
+    flex-direction: row;
+  }
+}
+.offer-content-row {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 1rem;
+
+  @media (min-width: $desktop-up) {
+    flex-direction: row;
+  }
+}
+
+.offer-card {
+  width: 300px;
+  background-color: #f1f1f1;
+  //border: 1px grey solid;
+  box-shadow: 0px 2px 5px 0px #8B8A8C;
+  padding: 24px;  
+}
+
+.offer-card h3 {
+  margin: 0;
+  text-align: end;
+}
+
+.offer-card p {
+  margin-bottom: 0;
+}
+
+.offer-card .offer-img {
+  background-color: #1BB890;
+  min-width: 50px;
+  margin-right: 5px;
+  border-radius: 50%;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0.5rem;
 }
