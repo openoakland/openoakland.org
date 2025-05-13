@@ -246,11 +246,6 @@ main {
   height: 100%;
 }
 
-.iframe-container-form-apply {
-  overflow: visible;
-  min-height:1900px;
-}
-
 .iframe-container-form-contact {
   overflow: visible;
   min-height:1520px;
@@ -384,6 +379,14 @@ hr.hr-home {
 
 
 // Apply Now page
+
+
+//// Application form
+
+.iframe-container-form-apply {
+  overflow: visible;
+  min-height:1900px;
+}
 
 //// Inline logos
 
