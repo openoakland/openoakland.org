@@ -388,6 +388,12 @@ hr.hr-home {
   min-height:1900px;
 }
 
+@media (max-width: 500px) {
+  .iframe-container-form-apply {
+    min-height: 2100px;
+  }
+}
+
 //// Inline logos
 
 .partner-logos-wrapper {
