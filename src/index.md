@@ -12,6 +12,7 @@ author: OpenOakland
 
 {% include home-sections/home-slack.html  %}
 
+{% include home-sections/home-why-choose-openoakland.html  %}
 
 
 <!--- Section: Latest Updates -->
