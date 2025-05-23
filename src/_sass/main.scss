@@ -489,3 +489,28 @@ hr.hr-home {
   align-items: center;
   padding: 0.5rem;
 }
+
+#slack {
+  border-top: 0.5px solid #000;
+  border-bottom: 0.5px solid #000;
+  background-color: #E6FFF9;
+}
+
+#btn-slack {
+  min-width:fit-content;
+  font-weight: 600;
+}
+
+.slack-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+  gap: 0.5rem;
+
+  @media (min-width: $medium-up) {
+    flex-direction: row;
+  }
+}
