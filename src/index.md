@@ -12,6 +12,8 @@ author: OpenOakland
 
 {% include home-sections/home-slack.html  %}
 
+{% include home-sections/home-next-event.html %}
+
 {% include home-sections/home-why-choose-openoakland.html  %}
 
 
