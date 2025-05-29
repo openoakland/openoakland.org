@@ -18,6 +18,4 @@ author: OpenOakland
 
 
 <!--- Section: Latest Updates -->
-<div class="latest-updates"> {% include home-sections/recent-updates.html %} </div>
-
-<hr class="hr-home">
+{% include home-sections/recent-updates.html %} 
