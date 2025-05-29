@@ -519,16 +519,12 @@ hr.hr-home {
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 0.5rem;
+  gap: 1.5rem;
 }
 
 .oo-logo-list li, ol{
   width: 100%;
   margin: 0;
-}
-
-#why-choose-oo {
-  border-bottom: 0.5px solid #000;
 }
 
 .why-choose-oo-content {
