@@ -233,7 +233,11 @@ main {
     object-fit: cover;
   }
 
-
+.event-card {
+  border: 1px solid black;
+  width: 385px;
+  padding-bottom: 1rem;
+}
 
 // Responsive iframes:
 // 1. Wrap your iframe in a div with class="iframe-container".

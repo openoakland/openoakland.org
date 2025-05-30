@@ -1,34 +1,18 @@
-<section id="next-event" class="border-bottom pt-4 bg-light-green">
+<section id="next-event" class="border-bottom pt-4 pb-4 bg-light-green">
   <div class="container">
     <h2 class="mt-0 text-center">Upcoming events</h2>
-    {% assign next_event = site.data.upcoming[0] %}
+    {% assign next_event = site.data.events.upcoming[0] %}
 
-    <div class="card home__event-card">
-      <div class="card-header">
-        <span><i class="fa fa-calendar"></i> {{ next_event.local_date | date: "%A, %B %d, %Y" }}</span>
-        <span><i class="fa fa-clock-o"></i> {{ next_event.local_time | date: "%l:%M %p" }}</span>
-      </div>
-
-      <div class="row no-gutters">
-        <div class="col-md-4">
-          <img class="card-img" src="/assets/images/OpenOakland-Next-Meeting.png"
-            alt="Five OpenOakland members sit together at a meetup" />
-        </div>
-
-        <div class="col-md-8">
-          <div class="card-body">
-            <h3 class="card-title mt-0"><a href="{{ next_event.link }}" target="_blank">{{ next_event.name }}</a></h3>
-            <p class="card-text">{{ next_event.description | strip_html | truncatewords: 30 }}</p>
-            <a href="{{ next_event.link }}" target="_blank" class="card-link btn btn-primary">RSVP on Meetup</a>
-          </div>
-        </div>
-
-        <div class="col-12 px-4 card-footer d-flex justify-content-between">
-          <p>All OpenOakland meetings are open to the public, regardless of technical ability. Visit <a
-              href="https://www.meetup.com/OpenOakland" target="_blank">meetup.com</a> for additional events.</p>
+    <div class="d-flex justify-content-center">
+      <div class="event-card bg-white">
+        <img src="assets/images/{{ next_event.image }}" alt="{{ next_event.alt }}">
+        <div class="px-4">
+          <h3 class="mt-3">{{ next_event.title }}</h3>
+          <p class="m-0"><i>{{ next_event.date }}</i></p>
+          <p class="m-0"><i>{{ next_event.location }}</i></p>
+          <p class="mt-3"><a href="{{ next_event.link }}">Learn more →</a></p>
         </div>
       </div>
-
     </div>
 
   </div>
