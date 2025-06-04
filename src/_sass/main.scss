@@ -489,7 +489,7 @@ img.hero {
 }
 
 #btn-slack {
-  min-width:fit-content;
+  min-width: fit-content;
   font-weight: 600;
 }
 
@@ -528,5 +528,44 @@ img.hero {
   @media (min-width: $desktop-up) {
     flex-direction: row;
     align-items: start;
+  }
+}
+
+// Apply Now page
+
+
+//// Application form
+
+.iframe-container-form-apply {
+  overflow: visible;
+  min-height:1900px;
+}
+
+@media (max-width: 500px) {
+  .iframe-container-form-apply {
+    min-height: 2100px;
+  }
+}
+
+//// Inline logos
+
+.partner-logos-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  gap: 1.2rem; /* spacing between logos */
+}
+
+.partner-logo {
+  flex: 0 1 auto;
+  max-height: 120px;
+  min-height: 60px;
+  max-width: 220px;
+  object-fit: contain;
+}
+@media (max-width: 576px) {
+  .partner-logo-container {
+    flex: 0 0 100%; /* full width on xs screens */
   }
 }
