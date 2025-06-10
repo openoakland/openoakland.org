@@ -35,8 +35,6 @@ header_pages:
   - about-us.md
   - calendar/calendar.md
   - projects.md
-  - resources.md
-  - updates.md
   - contact.md
 
 google_analytics: UA-35908939-6

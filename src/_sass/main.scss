@@ -23,6 +23,8 @@ $content-width: 900px !default;
 // breakpoints
 $mobile-up: 320px;
 $tablet-up: 460px;
+$medium-up: 768px;
+$desktop-up: 992px;
 
 body {
   font: $base-font-weight $base-font-family;
@@ -154,6 +156,12 @@ main {
   }
 }
 
+.header-links{
+  @media (min-width: $desktop-up) {
+    max-width: 600px;
+  }
+}
+
 .site-footer {
   border-top: 1px solid $grey-color-light;
 }
@@ -177,6 +185,14 @@ main {
 .spacer-equal {
   margin-top: 2rem;
   margin-bottom: 2rem;
+}
+
+.bg-lighter-green {
+  background-color: #E6FFF9;
+}
+
+.bg-light-green {
+  background-color: #D1FAEF;
 }
 
 // General Bootstrap overrides
@@ -217,7 +233,11 @@ main {
     object-fit: cover;
   }
 
-
+.event-card {
+  border: 1px solid black;
+  width: 385px;
+  padding-bottom: 1rem;
+}
 
 // Responsive iframes:
 // 1. Wrap your iframe in a div with class="iframe-container".
@@ -341,11 +361,6 @@ article { margin-bottom: 40px; }
   font-weight: normal;
 }
 
-.latest-updates {
-  margin-bottom:2rem;
-
-}
-
 .index-hero {
   background-image: url("/assets/images/openoakland-blue.png"); /* The image used */
   background-color: #013743;
@@ -359,24 +374,162 @@ article { margin-bottom: 40px; }
 }
 
 h1.hero {
-  margin-bottom: 0px;
+  margin-bottom: 10px;
   color: #fff;
+  text-align: center;
+  line-height: normal;
 }
 
 p.hero {
-  font-size: 1.6rem;
+  font-size: 1.2rem;
+  text-align: center;
+  margin: 20px;
+
+  @media (min-width: $desktop-up) {
+    margin: 0;
+  }
 }
 
-hr.hr-slack {
-  border-top: 2px dotted #013743;
-  margin:5rem 0rem 3rem 0rem;
+img.hero {
+  max-width: 300px;
+  border-radius: 9999px;
+  @media (min-width: $desktop-up) {
+    max-width: 450px;
+  }
 }
 
-hr.hr-home {
-  border-top: 2px dotted #013743;
-  margin:4rem 0rem;
+.hero-content{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 0rem;
+
+  @media (min-width: $desktop-up) {
+    flex-direction: row-reverse;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 2rem;
+  }
 }
 
+.hero-content-image{
+  width: fit-content;
+  margin: auto auto;
+}
+
+.hero-buttons{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  @media (min-width: $desktop-up) {
+    flex-direction: row;
+    justify-content: space-evenly;
+  }
+}
+
+.hero-buttons *{
+  font-weight: 600;
+}
+
+#what-we-offer h2{
+  text-align: center;
+}
+
+.offer-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+
+
+  @media (min-width: $medium-up) and (max-width: $desktop-up) {
+    flex-direction: row;
+  }
+}
+.offer-content-row {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 1rem;
+
+  @media (min-width: $desktop-up) {
+    flex-direction: row;
+  }
+}
+
+.offer-card {
+  width: 300px;
+  background-color: #f1f1f1;
+  //border: 1px grey solid;
+  box-shadow: 0px 2px 5px 0px #8B8A8C;
+  padding: 24px;  
+}
+
+.offer-card h3 {
+  margin: 0;
+  text-align: end;
+}
+
+.offer-card p {
+  margin-bottom: 0;
+}
+
+.offer-card .offer-img {
+  background-color: #1BB890;
+  min-width: 50px;
+  margin-right: 5px;
+  border-radius: 50%;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0.5rem;
+}
+
+#btn-slack {
+  min-width: fit-content;
+  font-weight: 600;
+}
+
+.slack-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+  gap: 0.5rem;
+
+  @media (min-width: $medium-up) {
+    flex-direction: row;
+  }
+}
+
+.oo-logo-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.oo-logo-list li, ol{
+  width: 100%;
+  margin: 0;
+}
+
+.why-choose-oo-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.5rem;
+
+  @media (min-width: $desktop-up) {
+    flex-direction: row;
+    align-items: start;
+  }
+}
 
 // Apply Now page
 
