@@ -1,19 +1,50 @@
 <section id="next-event" class="border-bottom pt-4 pb-4 bg-light-green">
   <div class="container">
     <h2 class="mt-0 text-center">Upcoming events</h2>
-    {% assign next_event = site.data.events.upcoming[0] %}
 
-    <div class="d-flex justify-content-center">
-      <div class="event-card bg-white">
-        <img src="assets/images/{{ next_event.image }}" alt="{{ next_event.alt }}">
-        <div class="px-4">
-          <h3 class="mt-3">{{ next_event.title }}</h3>
-          <p class="m-0"><i>{{ next_event.date }}</i></p>
-          <p class="m-0"><i>{{ next_event.location }}</i></p>
-          <p class="mt-3"><a href="{{ next_event.link }}">Learn more →</a></p>
-        </div>
+    {% comment %}Get current date for comparison{% endcomment %}
+    {% assign current_date = 'now' | date: '%s' %}
+
+    {% comment %}Filter and display upcoming events{% endcomment %}
+    {% assign upcoming_events = '' | split: '' %}
+    {% for event in site.data.events.upcoming %}
+      {% if event.calendarDate %}
+        {% comment %}Parse the MM/DD/YYYY date{% endcomment %}
+        {% assign date_parts = event.calendarDate | split: '/' %}
+        {% assign month = date_parts[0] %}
+        {% assign day = date_parts[1] %}
+        {% assign year = date_parts[2] %}
+        {% assign event_date_string = year | append: '-' | append: month | append: '-' | append: day %}
+        {% assign event_date = event_date_string | date: '%s' %}
+
+        {% comment %}Only include if event date is in the future{% endcomment %}
+        {% if event_date >= current_date %}
+          {% assign upcoming_events = upcoming_events | push: event %}
+        {% endif %}
+      {% else %}
+        {% comment %}Always include events without calendarDate{% endcomment %}
+        {% assign upcoming_events = upcoming_events | push: event %}
+      {% endif %}
+    {% endfor %}
+
+    {% if upcoming_events.size > 0 %}
+      <div class="d-flex justify-content-center flex-wrap">
+        {% for event in upcoming_events %}
+          <div class="event-card bg-white">
+            <img src="assets/images/{{ event.image }}" alt="{{ event.alt }}">
+            <div class="px-4">
+              <h3 class="mt-3">{{ event.title }}</h3>
+              <p class="m-0"><i>{{ event.date }}</i></p>
+              <p class="m-0"><i>{{ event.location }}</i></p>
+              <p class="mt-3"><a href="{{ event.link }}">Learn more →</a></p>
+            </div>
+          </div>
+        {% endfor %}
       </div>
-    </div>
-
+    {% else %}
+      <div class="text-center">
+        <p>No upcoming events scheduled. Check back soon!</p>
+      </div>
+    {% endif %}
   </div>
 </section>
