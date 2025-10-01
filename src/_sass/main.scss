@@ -570,3 +570,21 @@ img.hero {
     flex: 0 0 100%; /* full width on xs screens */
   }
 }
+
+
+//// Blog styling
+
+.citycamp-session-table {
+  th {
+    background-color: #2c5f2d;
+    color: white;
+    padding: 12px;
+    text-align: left;
+  }
+
+  td {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+    vertical-align: top;
+  }
+}

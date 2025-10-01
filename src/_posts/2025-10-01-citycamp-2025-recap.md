@@ -34,14 +34,15 @@ Unlike traditional conferences, CityCamp operates as an "unconference"—partici
 
 After pitches and voting, these sessions were selected by attendees. 
 
-| Session | Hearing Room 1 | Hearing Room 2 | Hearing Room 3 | Hearing Room 4 |
+{:.citycamp-session-table}
+| Session | Hearing Rm 1 | Hearing Rm 2 | Hearing Rm 3 | Hearing Rm 4 |
 |------|----------------|----------------|----------------|----------------|
-| **1** | Oakland Charter Reform | [Building Civic Projects Faster](#) | Virtual Education System for STEM | Disaster Planning |
-| **2** | [Food Insecurity in Oakland](#) (sponsored by Safeway) | [People's Budget / Combine Data Resources](#) | Gamifying the City | [Restoration of Malonga Casquelourd Center for the Arts](#) |
-| **3** | Transparency of How Budget is Spent to Meet Goals | [Abandoned Car Cleanup](#) | [Transit Data (AC Transit)](#) | [ICE Rapid Response](#) |
-| **4** | OPD / ICE Policy | [Walk Oakland - Make it More Safe and Welcoming](#) | [Workshops for Healing for Seniors (Lincoln)](#) | |
+| **1** | [Oakland Charter Reform](https://drive.google.com/file/d/1MQjGIVyAlkyH1S7FgcdoCllKA3CHOgY_/view?usp=sharing) | [Building Civic Projects Faster](https://drive.google.com/file/d/1SXC_Spy2pOb_1y3vdJ4T5qwA1kZUAvCq/view?usp=sharing) | [Virtual Education System for STEM](https://drive.google.com/file/d/1Af99DOu7zOeWcqXzkGaZGihzYhTu6MUJ/view?usp=sharing) | Disaster Planning |
+| **2** | [Food Insecurity in Oakland](https://drive.google.com/file/d/1hWUm2stlwIKhQd37GqJFMAusDjGziGf2/view?usp=drive_link) (sponsored by Safeway) | [People's Budget / Combine Data Resources](https://drive.google.com/file/d/1RvZWF7LqdY-oKpKafH1kdvc3qtCxxsOd/view?usp=sharing) | [Gamifying the City](https://docs.google.com/document/d/1fnpz7vwI65v1hptbSwj42LrlXgembyp2K0TlMENM-oA/edit?usp=sharing) | Restoration of Malonga Casquelourd Center for the Arts |
+| **3** | [Transparency of How Budget is Spent to Meet Goals](https://drive.google.com/file/d/1o6tzJ9eK0Mi5nNpxSuwqvOqNJ5kUlx4v/view?usp=sharing) | [Abandoned Car Cleanup](https://drive.google.com/file/d/1XZT4tKS9WQfSiM6zfxULn5MjeBJmBmE6/view?usp=drive_link) | [Transit Data (AC Transit)](https://docs.google.com/document/d/1D2SLizL8sh3Z5snFG2Zc0MkL3oqUFjiEruK2dsBG0e0/edit?usp=sharing) | ICE Rapid Response |
+| **4** | [OPD / ICE Policy](https://docs.google.com/document/d/19_jijMnqLj3i5oy5ZPGtZK13x8gTe0ZMzF1h4yS442A/edit?usp=sharing) | [Walk Oakland - Make it More Safe and Welcoming](https://drive.google.com/file/d/1SpsEc3rkl60UVaDoziuV-D5skXyTZBuR/view?usp=drive_link) | [Workshops for Healing for Seniors (Lincoln)](https://drive.google.com/file/d/1vA7e_OjLuULezH0e5lIjxf6KeT1ic1KS/view?usp=drive_link) | |
 
-*Session names with links have detailed notes available*
+*Session names with links have detailed notes available* [A folder of all materials is available in Google Drive](https://drive.google.com/drive/folders/1jVh0C5UbjvhuN85WELlfobzoEk1H6C7O?usp=drive_link)
 
 ## Key Themes
 
