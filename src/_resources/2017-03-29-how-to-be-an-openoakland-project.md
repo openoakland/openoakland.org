@@ -11,7 +11,7 @@ layout: page
 - Demo nights are the first Tuesday of every month.
 - Physical presence is not required.
 - Projects may: present remotely, record a presentation or post a publication (blog, etc).
-- Ask Hack Night Lead if you'd like to update in a different way. We're open!
+- Ask Monthly Meeting Lead if you'd like to update in a different way. We're open!
 - _**All projects must be Open Source and <a href="https://opensource.org/licenses/mit-license.php" target="_blank" rel="noopener">licensed using the MIT open source license</a> to be considered an OpenOakland project.**_
 
 #### Gaining Representation on the Steering Committee
@@ -22,13 +22,13 @@ layout: page
 
 #### Off-boarding Projects
 
-- Occasionally, the Hack Night Lead will recommend that the Steering Committee vote to remove projects from the active list if they have not met the active project requirements. A simple majority is needed to remove.
+- Occasionally, the Monthly Meeting Lead will recommend that the Steering Committee vote to remove projects from the active list if they have not met the active project requirements. A simple majority is needed to remove.
 - Once removed, the project will be removed from the OpenOakland website, lose Steering Committee representation and potentially lose OpenOakland resources if they are needed for active projects.
 - A project can reactivate at any time!
 
-#### Role of the Hack Night Lead
+#### Role of the Monthly Meeting Lead
 
-- Hack Night Lead is responsible for guiding projects through this process and supporting projects with resources they need to make progress.
+- Monthly Meeting Lead is responsible for guiding projects through this process and supporting projects with resources they need to make progress.
 
 ---
 

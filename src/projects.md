@@ -8,6 +8,7 @@ badges:
   brigade ops: 'primary'
   active: 'success'
   incubating: 'info'
+  recruiting: 'danger'
   idle: 'secondary'
   delivered: 'dark'
   decommissioned: 'warning'
@@ -20,6 +21,12 @@ Browse the projects below to see what we're currently working on. You can filter
 
 <project-filter>
   <div class="project-filter__toolbar"></div>
+
+  <!-- Recruiting -->
+  {% for project in site.data.recruiting_projects %}
+  {% assign status = 'recruiting' %}
+  {% include project.html %}
+  {% endfor %}
 
   <!-- Active -->
   {% for project in site.data.active_projects %}
@@ -66,13 +73,17 @@ These projects are actively supported by a core team of OpenOakland volunteers. 
 
 Incubating projects are in the exploratory or start-up phase before becoming an official OpenOakland project. To be listed as an incubating project, ideas must have a draft [project exploration worksheet](https://docs.google.com/document/d/1k24P9JiAUEzJLPFRDjVh7aRZexax6NUhfPFLSI3R80M/edit?usp=sharing) completed, an acting lead shepherding the idea, and be actively recruiting collaborators. Placement on the website is at the discretion of the Steering Committee.
 
+### <span class="badge badge-{{ page.badges['recruiting'] }}">Recruiting</span>
+
+These projects are currently looking for volunteers. Connect with the project lead on Slack to learn more.
+
 ### <span class="badge badge-{{ page.badges['brigade ops'] }}">Brigade ops</span>
 
 These projects support OpenOakland's operations. Like <span class="badge badge-{{ page.badges['active'] }}">Active</span> and <span class="badge badge-{{ page.badges['incubating'] }}">Incubating</span> projects, they are [open to volunteer contributions](#get-involved).
 
 ### <span class="badge badge-{{ page.badges['idle'] }}">Idle</span>
 
-Sometimes projects go quiet when the core team gets too busy or disbands. If you'd like to resume or adapt one of these, submit a [project exploration worksheet](https://docs.google.com/document/d/1k24P9JiAUEzJLPFRDjVh7aRZexax6NUhfPFLSI3R80M/edit?usp=sharing) at an upcoming Hack Night or in Slack's #oo-steering-committee channel.
+Sometimes projects go quiet when the core team gets too busy or disbands. If you'd like to resume or adapt one of these, submit a [project exploration worksheet](https://docs.google.com/document/d/1k24P9JiAUEzJLPFRDjVh7aRZexax6NUhfPFLSI3R80M/edit?usp=sharing) at our Monthly Meeting or in Slack's #oo-steering-committee channel.
 
 ### <span class="badge badge-{{ page.badges['delivered'] }}">Delivered</span>
 
@@ -90,7 +101,7 @@ These are projects the Steering Committee has formally reviewed and deemed no lo
 There are several ways to contribute to an existing project:
 
 - Join us for our Tuesday [meetups](https://www.meetup.com/OpenOakland/events/) to connect with the project team.
-- Join our [Slack workspace](https://join.slack.com/t/openoakland/shared_invite/zt-n4d7tx2t-UVIN7a769e4oc9j7PgM3HA) and introduce yourself in the project's channel listed in the description (see our [OpenOakland Slack Guide](https://docs.google.com/document/d/1VWZQ_3ehP5j0IOTY0nJClvQPll3ivSkuAdh5YsOhO_U/edit?usp=sharing) for help).
+- Join our [Slack workspace](https://join.slack.com/t/openoakland/shared_invite/zt-n4d7tx2t-UVIN7a769e4oc9j7PgM3HA) and introduce yourself in the project's channel listed in the description.
 - Email [steering@openoakland.org](mailto:steering@openoakland.org) with any questions or feedback.
 
 
@@ -129,6 +140,6 @@ Projects must demonstrate alignment to OpenOakland’s mission and values. Some 
 In the spirit of continuous improvement and self-reflection, we welcome any and all feedback on OpenOakland projects past and present, as well as the overall project management process. Ways you can share your input include:
 
 - Open an issue in the project's GitHub repository (listed in the project description).
-- Join the project's channel in our [Slack workspace](https://join.slack.com/t/openoakland/shared_invite/zt-n4d7tx2t-UVIN7a769e4oc9j7PgM3HA) and introduce yourself (see our [OpenOakland Slack Guide](https://docs.google.com/document/d/1VWZQ_3ehP5j0IOTY0nJClvQPll3ivSkuAdh5YsOhO_U/edit?usp=sharing) for help).
-- Join our next [Hack Night](https://www.meetup.com/OpenOakland/events/) and meet the team.
+- Join the project's channel in our [Slack workspace](https://join.slack.com/t/openoakland/shared_invite/zt-n4d7tx2t-UVIN7a769e4oc9j7PgM3HA) and introduce yourself.
+- Join our next [Monthly Meeting](https://www.meetup.com/OpenOakland/events/) and meet the team.
 - Email our [Steering Committee](mailto:steering@openoakland.org) with your input.
