@@ -10,6 +10,6 @@ Get in touch! Your message will be posted to the Steering Committee channel in O
 
 For general inquiries: [steering@openoakland.org](mailto:steering@openoakland.org)
 
-For faster response times, consider [joining us in Slack](https://join.slack.com/t/openoakland/shared_invite/zt-n4d7tx2t-UVIN7a769e4oc9j7PgM3HA) and posting in #oo-steering-committee.
+For faster response times, consider [joining us in Slack](https://join.slack.com/t/openoakland/shared_invite/zt-3uynkogva-MslCri1UbW8q1xJIJ4fPeg) and posting in #oo-steering-committee.
 
 {% include form-contact.html %}
