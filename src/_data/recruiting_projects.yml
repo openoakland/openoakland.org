@@ -1,0 +1,33 @@
+-
+  name: Open Disclosure Oakland
+  description: Open Disclosure helps Oaklanders understand the role of money in their local politics. By analyzing mandatory campaign finance disclosures for candidates seeking public office, Open Disclosure presents a user-friendly overview of who is raising money, from where, and how much. Open Disclosure is developed in partnership with the City of Oakland Public Ethics Commission.
+  image: opendisclosure_300x233.png
+  website: http://www.opendisclosure.io/
+  repo: https://github.com/caciviclab
+  tech: Jekyll, PostgreSQL
+  leader: Mike Ubell
+  slack_id: C02GKECTJ
+  slack_channel: project-open-disclosure
+  recruiting: Front End Developers
+-
+  name: Brightwayz
+  description: Brightwayz is a mobile-first platform that helps people quickly find shelters, food banks, and community services — and submit a request for help in minutes. Staff at partner organisations get a single dashboard to manage cases, track referrals, and communicate with clients. An AI layer is coming that will summarise intake forms, recommend services, and support multiple languages.
+  image:
+  website:
+  repo:
+  tech: TBD
+  leader: Abdel Errami
+  slack_id:
+  slack_channel: brightwayz-community-channel
+  recruiting: User Researchers, Project/Product Managers
+-
+  name: EVOAK
+  description: 'EVOAK! (pronounced: evoke) has gathered West Oakland community asset data as part of the CalTrans Vision 980 project to re-imagine the I-980 corridor but needs help designing a digital interface that makes the data actionable for land developers, City approvers, service providers, others.'
+  image:
+  website:
+  repo:
+  tech: TBD
+  leader: Dani Platt
+  slack_id:
+  slack_channel: project-evoak
+  recruiting: Product Managers

@@ -42,6 +42,11 @@
               rel="noopener noreferrer">#{{ project.slack_channel }}</a></p>
           {% endif %}
 
+          {% if project.recruiting %}
+          <p class="card-text"><small><b>Now Recruiting</b></small><br/>
+          {{ project.recruiting }}</p>
+          {% endif %}
+
         </div>
       </div>
 
