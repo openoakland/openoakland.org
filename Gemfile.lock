@@ -91,6 +91,7 @@ GEM
     typhoeus (1.6.0)
       ethon (>= 0.18.0)
     unicode-display_width (1.8.0)
+    webrick (1.9.2)
     yell (2.2.2)
 
 PLATFORMS
@@ -106,6 +107,7 @@ DEPENDENCIES
   jekyll-seo-tag
   json (= 2.3.0)
   tzinfo-data
+  webrick (~> 1.7)
 
 BUNDLED WITH
    2.5.22

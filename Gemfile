@@ -32,3 +32,7 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 # Other misc gems
 gem "html-proofer", "~> 3.10"
 gem "json", "2.3.0"
+
+# webrick was removed from Ruby's default gems in Ruby 3.0; `jekyll serve`
+# needs it and it must now be declared explicitly.
+gem "webrick", "~> 1.7"
