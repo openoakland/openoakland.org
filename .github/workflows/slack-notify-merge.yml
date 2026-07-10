@@ -1,0 +1,25 @@
+name: Notify Slack on merge
+
+on:
+  pull_request:
+    types: [closed]
+    branches: [main]
+
+jobs:
+  notify:
+    if: github.event.pull_request.merged == true
+    runs-on: ubuntu-latest
+    steps:
+      - name: Post to Slack
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        run: |
+          curl -sf -X POST -H 'Content-type: application/json' \
+            --data "$(jq -n \
+              --arg title "${{ github.event.pull_request.title }}" \
+              --arg url "${{ github.event.pull_request.html_url }}" \
+              --arg user "${{ github.event.pull_request.user.login }}" \
+              --arg number "${{ github.event.pull_request.number }}" \
+              '{text: ":github: *PR #\($number) merged into main*\n<\($url)|\($title)>\nOpened by *\($user)*"}' \
+            )" \
+            "$SLACK_WEBHOOK_URL"
