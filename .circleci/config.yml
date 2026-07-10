@@ -4,6 +4,7 @@ jobs:
   build:
     docker:
       - image: cimg/ruby:3.3.11
+    resource_class: large
     steps:
       - checkout
       - restore_cache:
@@ -14,7 +15,10 @@ jobs:
           command: |
             BUNDLER_VERSION=$(tail -1 Gemfile.lock | tr -d " ")
             gem install bundler -v "$BUNDLER_VERSION"
-      - run: bundle install --path vendor/bundle
+      - run:
+          name: bundle install
+          command: bundle install --path vendor/bundle
+          no_output_timeout: 20m
       - save_cache:
           key: v2-ruby3.3-bundle-{{ checksum "Gemfile.lock" }}
           paths:
