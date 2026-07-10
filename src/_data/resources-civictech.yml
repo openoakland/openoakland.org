@@ -111,6 +111,16 @@
  secondaryLinkText:
  category: data, gov
 -
+ name: Oakland Public Records Requests
+ author: OpenOakland
+ description: Guides to filing a California Public Records Act request with the City of Oakland, including Oakland's Sunshine Ordinance and a step-by-step CPRA primer.
+ format: Website
+ link: https://library.municode.com/ca/oakland/codes/code_of_ordinances?nodeId=TIT2ADPE_CH2.20PUMEPURE
+ button-text: Read the Ordinance
+ secondaryLink: https://firstamendmentcoalition.org/public-records-2/cpra-primer/cpra-primer-required-law-enforcement-disclosure/
+ secondaryLinkText: CPRA Primer
+ category: civic tech, gov
+-
  name: Open Data Handbook
  author: Open Knowledge Foundation
  description: Guides, case studies and resources for government and civil society on the what, why and how of open data.

@@ -11,7 +11,6 @@ badges:
   recruiting: 'danger'
   idle: 'secondary'
   delivered: 'dark'
-  decommissioned: 'warning'
 ---
 
 Browse the projects below to see what we're currently working on. You can filter the list to see past projects, too.
@@ -88,10 +87,6 @@ Sometimes projects go quiet when the core team gets too busy or disbands. If you
 ### <span class="badge badge-{{ page.badges['delivered'] }}">Delivered</span>
 
 Delivered projects have either reached their intended conclusion or been handed off to a partner for long-term management. Because most of OpenOakland's work is open source, these projects can often be reproduced or adapted by anyone with an interest in doing so.
-
-### <span class="badge badge-{{ page.badges['decommissioned'] }}">Decommissioned</span>
-
-These are projects the Steering Committee has formally reviewed and deemed no longer a good fit for OpenOakland. These projects may not be reinstated without submitting a new [project exploration worksheet](https://docs.google.com/document/d/1k24P9JiAUEzJLPFRDjVh7aRZexax6NUhfPFLSI3R80M/edit?usp=sharing) that substantively addresses the original reasons for discontinuation. Project briefs that are declined by the Steering Committee twice may not be resubmitted without substantive changes.
 
 ---
 
