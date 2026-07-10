@@ -3,7 +3,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: cimg/ruby:2.6
+      - image: cimg/ruby:3.3.11
     steps:
       - checkout
       - restore_cache:
