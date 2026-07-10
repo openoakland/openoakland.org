@@ -8,8 +8,7 @@ jobs:
       - checkout
       - restore_cache:
           keys:
-            - v1-bundle-{{ checksum "Gemfile.lock" }}
-            - v1-bundle-
+            - v2-ruby3.3-bundle-{{ checksum "Gemfile.lock" }}
       - run:
           name: Configure Bundler # use bundler version in Gemfile.lock
           command: |
@@ -17,7 +16,7 @@ jobs:
             gem install bundler -v "$BUNDLER_VERSION"
       - run: bundle install --path vendor/bundle
       - save_cache:
-          key: v1-bundle-{{ checksum "Gemfile.lock" }}
+          key: v2-ruby3.3-bundle-{{ checksum "Gemfile.lock" }}
           paths:
             - vendor/bundle
       - run: JEKYLL_ENV=production make build
