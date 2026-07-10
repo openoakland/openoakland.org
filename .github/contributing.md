@@ -18,8 +18,10 @@ This page explains how to contribute code to openoakland.org. **By contributing 
 ### Prerequisites:
 
 - [GNU Make](https://www.gnu.org/software/make/)
-- [Ruby 2.5+](https://www.ruby-lang.org/en/)
+- [Ruby 3.3+](https://www.ruby-lang.org/en/) (this project is built and tested against Ruby 3.3.11; see `.circleci/config.yml`/`Dockerfile`)
 - [bundler](https://bundler.io/)
+
+Modern macOS and Linux system Rubies are usually too old (or entirely absent) for this project, and this repo's gems (e.g. `nokogiri`) require Ruby >= 3.2. We recommend installing Ruby via a version manager like [rbenv](https://github.com/rbenv/rbenv) or [rvm](https://rvm.io/) rather than relying on your system Ruby.
 
 ### Setup (Local)
 
