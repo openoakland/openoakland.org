@@ -39,11 +39,13 @@ OpenOakland is managed by a Steering Committee made up of one project representa
 
 Current Steering Committee members:
 
-- John Baldo (rep, OpenOUSD)
-- Mike Ubell (rep, Open Disclosure)
-- Tom Theimer (rep, Councilmatic)
-- Niels Thorsen
+- Toni Aguilar
 - Felicia Betancourt
+- Blaise Harrison
+- Dani Platt
+- Cristy Rowley
+- Niels Thorsen
+- Mike Ubell
 
 ## Get involved
 
