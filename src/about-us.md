@@ -18,22 +18,7 @@ OpenOakland bridges technology and community for a thriving and equitable Oaklan
     We recognize that Oakland has a rich history of activism. We seek to empower all Oaklanders to keep advocating for our community‘s collective well-being.
 
 
-## We're part of the Alliance of Civic Technologists
-
-We are a member of the [Alliance of Civic Technologists](https://www.civictechnologists.org/) (previously the Code for America brigade network). [Donations to OpenOakland](https://opencollective.com/openoakland/contribute) are tax-deductible through our fiscal sponsor the Open Collective.
-
- <div class="iframe-container iframe-container-video">
-  <iframe class="iframe-video" src="https://www.youtube.com/embed/mYzMl_HnEZU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-
-## How we work
-
-Membership is open to all, regardless of expertise or skill level. We work collaboratively, in the open, and strive to ensure those most impacted by our work are included in the decision-making that shapes it.
-
-[Governance Process](/how-we-work){: .btn .btn-primary } [Bylaws](/bylaws){: .btn .btn-primary }
-
-### Leadership team
+## Leadership team
 
 OpenOakland is managed by a Steering Committee made up of one project representative from each project team, plus co-leads elected by general membership.
 
@@ -47,15 +32,29 @@ Current Steering Committee members:
 - Niels Thorsen
 - Mike Ubell
 
+## How we work
+
+Membership is open to all, regardless of expertise or skill level. We work collaboratively, in the open, and strive to ensure those most impacted by our work are included in the decision-making that shapes it.
+
+[Governance Process](/how-we-work){: .btn .btn-primary } [Bylaws](/bylaws){: .btn .btn-primary }
+
 ## Get involved
 
 - **Join us at our Monthly Meeting.**  
     Every first Tuesday from 6:30-9:00pm PST, we meet in City Hall but are working remotely during the coronavirus pandemic). After intros, we break into project teams for deeper collaboration. Don't be shy about joining in; we're friendly folk. [RSVP on Meetup](https://www.meetup.com/OpenOakland/).
 
 - **Join us on Slack.**  
-    [Join us on Slack](https://join.slack.com/t/openoakland/shared_invite/zt-n4d7tx2t-UVIN7a769e4oc9j7PgM3HA) and introduce yourself in #oo-meet-and-greet. We look forward to meeting you!
+    [Join us on Slack](https://join.slack.com/t/openoakland/shared_invite/zt-3yesrb28g-A8Wv1kcLjBwBDJlT3G_xVQ) and introduce yourself in #oo-meet-and-greet. We look forward to meeting you!
 
 - **Contribute to an existing project.**  
     Check out our [active projects](/projects/). You're welcome to contact project leads directly or jump into their Github repos but if you're not a coder or are unsure how you might contribute, we suggest attending our Monthly Meeting to get to know our project teams.
 
 **We hope to see you soon!**
+
+## We're part of the Alliance of Civic Technologists
+
+We are a member of the [Alliance of Civic Technologists](https://www.civictechnologists.org/) (previously the Code for America brigade network). [Donations to OpenOakland](https://hcb.hackclub.com/donations/start/openoakland) are tax-deductible.
+
+ <div class="iframe-container iframe-container-video">
+  <iframe class="iframe-video" src="https://www.youtube.com/embed/mYzMl_HnEZU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>

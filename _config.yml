@@ -32,9 +32,12 @@ plugins:
 
 source: src
 header_pages:
-  - about-us.md
-  - calendar/calendar.md
+  - impact.md
   - projects.md
+  - calendar/calendar.md
+  - blog.md
+  - donate.md
+  - about-us.md
   - contact.md
 
 google_analytics: UA-35908939-6

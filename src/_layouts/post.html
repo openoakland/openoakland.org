@@ -27,6 +27,9 @@ layout: default
       >
       {%- endif -%}
     </p>
+    {% if page.tags.size > 0 %}
+    <p class="post-tags">{% for tag in page.tags %}<span class="badge badge-secondary post-tag">{{ tag }}</span> {% endfor %}</p>
+    {% endif %}
     <hr>
   </header>
 

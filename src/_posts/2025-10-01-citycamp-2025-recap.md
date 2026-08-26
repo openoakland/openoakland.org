@@ -63,7 +63,7 @@ CityCamp Oakland demonstrated the power of bringing residents together to tackle
 Join us on the first Tuesday of each month at Oakland City Hall. Our next meetup is [October 7, 2025]. [Join our Meetup group](https://meetup.com/openoakland) to stay updated.
 
 **Support an OpenOakland Project**  
-We're currently recruiting researchers and interface designers for a community asset mapping project with EVOAK!, part of CalTrans Vision 980: reimagining the I-980 freeway. Attend our meetup and [join our Slack workspace](https://join.slack.com/t/openoakland/shared_invite/zt-n4d7tx2t-UVIN7a769e4oc9j7PgM3HA) to learn about project opportunities.
+We're currently recruiting researchers and interface designers for a community asset mapping project with EVOAK!, part of CalTrans Vision 980: reimagining the I-980 freeway. Attend our meetup and [join our Slack workspace](https://join.slack.com/t/openoakland/shared_invite/zt-3yesrb28g-A8Wv1kcLjBwBDJlT3G_xVQ) to learn about project opportunities.
 
 **Donate**  
 CityCamp Oakland was made possible by volunteers and community support. Help us continue this work by [donating to OpenOakland](https://hcb.hackclub.com/donations/start/openoakland). Thanks to over 20 individuals that donated to cover costs!
