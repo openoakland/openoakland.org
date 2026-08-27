@@ -74,7 +74,7 @@
   leader: Open
   slack_id:
   slack_channel:
-  description: "Since 2011, this platform has served as an open data catalog built by the OpenOakland brigade as a community resource and our first example of what can be achieved using open source tools in strategic ways for our city. This site uses the opensource [CKAN](http://www.ckan.org) platform—the same free software behind the UK government’s [Data.Gov.UK](http://data.gov.uk) resource. This site has been populated with data found on various Oakland government websites and from the huge data warehouse operated by [Urban Strategies Council](http://www.urbanstrategies.org)."
+  description: "Since 2011, this platform has served as an open data catalog built by the OpenOakland brigade as a community resource and our first example of what can be achieved using open source tools in strategic ways for our city. This site uses the opensource [CKAN](http://www.ckan.org) platform - the same free software behind the UK government’s [Data.Gov.UK](http://data.gov.uk) resource. This site has been populated with data found on various Oakland government websites and from the huge data warehouse operated by [Urban Strategies Council](http://www.urbanstrategies.org)."
 -
   name: Oakland Wiki
   image:

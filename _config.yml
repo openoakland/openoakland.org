@@ -29,13 +29,62 @@ plugins:
   - jekyll-seo-tag
   - jekyll-redirect-from
   - jekyll-get-json
+  - jekyll-paginate-v2
+
+# Blog pagination. Individual pages opt in via `pagination: enabled: true`
+# in their front matter (currently just src/blog.md).
+pagination:
+  enabled: true
+  per_page: 10
+  permalink: '/page/:num/'
+  # jekyll-seo-tag already prefixes paginated titles with "Page N of M for",
+  # so keep the page's own title unchanged to avoid a doubled-up <title>.
+  title: ':title'
+  sort_field: 'date'
+  sort_reverse: true
+  trail:
+    before: 2
+    after: 2
 
 source: src
 header_pages:
-  - about-us.md
-  - calendar/calendar.md
+  - volunteer.md
   - projects.md
-  - contact.md
+  - calendar/calendar.md
+  - about-us.md
+  - donate.md
+
+# Nav tabs that open a dropdown instead of linking straight to their own page.
+# Keyed by the same file path listed in header_pages above.
+header_dropdowns:
+  volunteer.md:
+    title: Get Involved
+    items:
+      - title: Volunteer
+        url: /volunteer/
+      - title: Partner with Us
+        url: /partner/
+  projects.md:
+    title: Projects
+    items:
+      - title: Current Projects
+        url: /projects/
+      - title: Impact
+        url: /impact/
+  calendar/calendar.md:
+    title: Events
+    items:
+      - title: Calendar
+        url: /calendar/
+      - title: Blog
+        url: /blog/
+  about-us.md:
+    title: About
+    items:
+      - title: About OpenOakland
+        url: /about-us/
+      - title: Contact Us
+        url: /contact/
 
 google_analytics: UA-35908939-6
 

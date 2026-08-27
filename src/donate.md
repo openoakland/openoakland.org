@@ -11,7 +11,7 @@ At OpenOakland, civic tech means helping communities understand and navigate loc
 Your generous gift will support our efforts to connect to all of Oakland through events and weekly meetings.
 
 {: style="text-align: center"}
-*All donations are tax-deductable through our fiscal agent the Hack Club.*
+*All donations are tax-deductible through our fiscal sponsor the Hack Club.*
 
 {: style="text-align: center"}
 [Donate Now](https://hcb.hackclub.com/donations/start/openoakland){:target="_blank" .btn.btn-primary }

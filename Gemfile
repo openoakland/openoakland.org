@@ -21,6 +21,9 @@ gem 'hash-joiner'
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
   gem "jekyll-get-json", "~> 1.0"
+  # Paginates the Blog page. v2 (not the original jekyll-paginate) because it
+  # can paginate any page, not just a site's root index.
+  gem "jekyll-paginate-v2", "~> 3.0"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

@@ -12,6 +12,9 @@ $spacing-unit: 24px !default;
 $text-color: #111 !default;
 $background-color: #fdfdfd !default;
 $brand-color: #21b890 !default;
+// Announcement banner: pale mint band with the hero's deep teal for text.
+$announcement-bg: #e9fbf5 !default;
+$announcement-text: #013743 !default;
 
 $grey-color: #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
@@ -151,14 +154,30 @@ main {
 .header-logo {
   width: 240px;
   margin-right: 80px;
+
+  // On narrower desktops the seven nav tabs need the horizontal room more
+  // than the logo does; without this they end up touching each other.
+  @media (min-width: $desktop-up) and (max-width: 1199px) {
+    margin-right: 24px;
+  }
+
   @media (max-width: $mobile-up) {
     width: 200px;
   }
 }
 
 .header-links{
+  // Tabs sit together at a fixed distance apart, next to the logo. The old
+  // approach stretched them across a fixed-width box, so the gaps ballooned
+  // every time a tab was removed (5 tabs ended up 97px apart).
   @media (min-width: $desktop-up) {
-    max-width: 600px;
+    justify-content: flex-end;
+    gap: 2.25rem;
+  }
+
+  // Keep multi-word tabs ("Get Involved", "Current Projects") on a single line.
+  .nav-link {
+    white-space: nowrap;
   }
 }
 
@@ -268,8 +287,14 @@ main {
 }
 
 .iframe-container-form-contact {
-  overflow: visible;
-  min-height:1520px;
+  // Show the form in a shorter window that scrolls on its own, rather than
+  // stretching to its full ~1520px and pushing the rest of the page down.
+  height: 700px;
+  min-height: 0;
+
+  @media (max-width: 576px) {
+    height: 560px;
+  }
 }
 
 .iframe-container-form-speaker {
@@ -572,7 +597,155 @@ img.hero {
 }
 
 
+// Home page announcement banner (content in _data/announcements.yml)
+//
+// .site-header carries a 40px bottom margin that .index-hero normally cancels
+// with its own negative top margin. The banner sits between the two, so it
+// absorbs that gap itself and stops the hero pulling up over it.
+.home-announcement {
+  margin-top: -40px;
+  margin-bottom: 0;
+  padding: 1rem 1.5rem;
+  text-align: center;
+
+  background-color: $announcement-bg;
+  color: $announcement-text;
+  // A brand-coloured rule reads as a deliberate band rather than a Bootstrap
+  // alert, and separates the strip from the dark hero below.
+  border-bottom: 3px solid $brand-color;
+}
+
+.home-announcement-line {
+  margin: 0;
+  line-height: 1.5;
+
+  + .home-announcement-line {
+    margin-top: .25rem;
+  }
+
+  // The pale band needs a deeper green than $brand-color for readable links.
+  a {
+    color: darken($brand-color, 22%);
+    font-weight: 700;
+    text-decoration: underline;
+
+    &:hover,
+    &:focus {
+      color: darken($brand-color, 34%);
+    }
+  }
+}
+
+@media (max-width: $medium-up) {
+  .home-announcement {
+    padding: 1rem;
+    font-size: $small-font-size;
+  }
+}
+
+.home-announcement + .index-hero {
+  margin-top: 0;
+}
+
 //// Blog styling
+
+// Breathing room between the page intro and the first post.
+.post-list {
+  margin-top: 2.5rem;
+}
+
+// Blog index: thumbnail on the left, post text on the right.
+// Posts without an image simply render as full-width text.
+.post-list-item {
+  margin-bottom: 2.5rem;
+
+  &.has-thumb {
+    display: flex;
+    align-items: flex-start;
+    gap: 1.5rem;
+  }
+
+  // Keep the heading level with the top of the thumbnail.
+  h2 {
+    margin-top: 0;
+  }
+}
+
+.post-list-thumb {
+  flex: 0 0 220px;
+  display: block;
+
+  img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 4px;
+    display: block;
+  }
+}
+
+// min-width:0 lets the text column shrink instead of overflowing the row.
+.post-list-body {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+// Stack the image above the text on small screens.
+@media (max-width: 576px) {
+  .post-list-item.has-thumb {
+    display: block;
+  }
+
+  .post-list-thumb {
+    margin-bottom: 1rem;
+
+    img {
+      height: 180px;
+    }
+  }
+}
+
+// Blog pager: prev / page count / next, centred under the post list.
+.post-pagination {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin: 3rem 0 1rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid $grey-color-light;
+}
+
+.post-pagination-status {
+  color: $grey-color;
+  font-size: $small-font-size;
+  text-align: center;
+}
+
+// Keep the row's width stable whether the arrows are links or disabled text.
+.post-pagination-arrow {
+  flex: 0 0 auto;
+  white-space: nowrap;
+
+  &.disabled {
+    opacity: .4;
+    pointer-events: none;
+  }
+}
+
+@media (max-width: 576px) {
+  .post-pagination {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .post-pagination-status {
+    order: -1;
+    flex: 0 0 100%;
+    margin-bottom: .75rem;
+  }
+}
+
 
 .citycamp-session-table {
   th {
