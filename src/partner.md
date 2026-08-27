@@ -1,13 +1,16 @@
 ---
-title: Get Help With Your Technology Needs
+title: Partner with Us
 date: 2024-03-19T12:00:00+00:00
 author: OpenOakland
 layout: page
+permalink: /partner/
+redirect_from:
+  - /get-help/
 ---
 
-OpenOakland connects public agencies and nonprofits with skilled tech volunteers to increase their community impact through the use of technology. If you're facing challenges in delivering services to Oakland or East Bay residents, we can help — at no cost.
+OpenOakland connects public agencies and nonprofits with skilled tech volunteers to increase their community impact through the use of technology. If you're facing challenges in delivering services to Oakland or East Bay residents, we can help - at no cost.
 
-[Get help now](#apply-now){: .btn .btn-primary }
+[Partner with Us](#apply-now){: .btn .btn-primary }
 <!-- | [Learn more about our program](#process){: .btn .btn-secondary } -->
 
 

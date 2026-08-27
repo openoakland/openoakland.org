@@ -10,3 +10,6 @@ src/.jekyll-cache/
 # Other stuff to ignore
 .DS_Store
 .ruby-version
+
+# Personal Claude sandbox config (not shared project infra)
+.dev/

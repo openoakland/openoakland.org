@@ -5,11 +5,9 @@ author: OpenOakland
 layout: page
 ---
 
-Get in touch! Your message will be posted to the Steering Committee channel in OpenOakland's Slack group. A volunteer team member will get back to you as soon as possible, so please allow several days for a response.
+Get in touch! A volunteer team member will get back to you as soon as possible, so please allow several days for a response.
 
 
 For general inquiries: [steering@openoakland.org](mailto:steering@openoakland.org)
-
-For faster response times, consider [joining us in Slack](https://join.slack.com/t/openoakland/shared_invite/zt-3yesrb28g-A8Wv1kcLjBwBDJlT3G_xVQ) and posting in #oo-steering-committee.
 
 {% include form-contact.html %}

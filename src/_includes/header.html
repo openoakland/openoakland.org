@@ -10,13 +10,67 @@
 
     <div class="collapse navbar-collapse header-links" id="navbarSupportedContent">
       {%- if site.header_pages -%}
+        {%- comment -%}
+          Current page URL, with any trailing index.html trimmed, so the
+          active-tab check works for paginated pages too.
+        {%- endcomment -%}
+        {%- assign current_url = page.url | remove: "index.html" -%}
+
         {%- for path in site.header_pages -%}
-          {%- assign my_page = site.pages | where: "path", path | first -%}
-          {%- assign title = my_page.nav_title | default: my_page.title -%}
-          {%- if title -%}
-          <div class="navbar-nav mr-auto">
-              <a class="nav-link nav-item {% if my_page.url == page.url %}active{% endif %}" href="{{ my_page.url | relative_url }}">{{ title | escape }}</a>
+          {%- assign dropdown = site.header_dropdowns[path] -%}
+
+          {%- if dropdown -%}
+            {%- comment -%} A tab that opens a menu (see header_dropdowns in _config.yml). {%- endcomment -%}
+            {%- assign dropdown_active = false -%}
+            {%- for item in dropdown.items -%}
+              {%- assign item_paged_prefix = item.url | append: "page/" -%}
+              {%- if item.url == current_url or current_url contains item_paged_prefix -%}{%- assign dropdown_active = true -%}{%- endif -%}
+            {%- endfor -%}
+            {%- comment -%}
+              The toggle points at its first menu item rather than "#", so the tab
+              still goes somewhere sensible if JavaScript hasn't loaded (and so the
+              link checker has a real target). Bootstrap intercepts the click to
+              open the menu instead of navigating.
+            {%- endcomment -%}
+            {%- assign first_item = dropdown.items | first -%}
+          <div class="navbar-nav nav-tab dropdown">
+              <a class="nav-link nav-item dropdown-toggle {% if dropdown_active %}active{% endif %}" href="{{ first_item.url | relative_url }}" id="nav-dropdown-{{ forloop.index }}" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ dropdown.title | escape }}</a>
+              <div class="dropdown-menu {% if forloop.last %}dropdown-menu-right{% endif %}" aria-labelledby="nav-dropdown-{{ forloop.index }}">
+                {%- for item in dropdown.items %}
+                {%- assign item_paged_prefix = item.url | append: "page/" -%}
+                <a class="dropdown-item {% if item.url == current_url or current_url contains item_paged_prefix %}active{% endif %}" href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>
+                {%- endfor %}
+              </div>
           </div>
+          {%- else -%}
+            {%- assign my_page = site.pages | where: "path", path | first -%}
+
+            {%- unless my_page -%}
+              {%- comment -%}
+                jekyll-paginate-v2 replaces a paginated page (e.g. blog.md) with
+                generated pages whose `path` is no longer the source filename, so
+                fall back to matching on the URL slug and take page one.
+              {%- endcomment -%}
+              {%- assign slug = path | split: "/" | last | remove: ".md" | remove: ".html" -%}
+              {%- assign wanted_url = "/" | append: slug | append: "/" -%}
+              {%- for candidate in site.pages -%}
+                {%- assign candidate_url = candidate.url | remove: "index.html" -%}
+                {%- if candidate_url == wanted_url -%}
+                  {%- assign my_page = candidate -%}
+                  {%- break -%}
+                {%- endif -%}
+              {%- endfor -%}
+            {%- endunless -%}
+
+            {%- assign title = my_page.nav_title | default: my_page.title -%}
+            {%- if title -%}
+            {%- assign link_url = my_page.url | remove: "index.html" -%}
+            {%- comment -%} Keep the tab active on a paginated page's later pages. {%- endcomment -%}
+            {%- assign paged_prefix = link_url | append: "page/" -%}
+          <div class="navbar-nav nav-tab">
+              <a class="nav-link nav-item {% if link_url == current_url or current_url contains paged_prefix %}active{% endif %}" href="{{ link_url | relative_url }}">{{ title | escape }}</a>
+          </div>
+            {%- endif -%}
           {%- endif -%}
         {%- endfor -%}
       {%- endif -%}

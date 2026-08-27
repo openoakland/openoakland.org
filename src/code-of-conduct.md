@@ -72,7 +72,7 @@ _You can reach me at (CONTACT INFO)._
 
 ## Image and Video Policy
 
-OpenOakland respects members’ and event attendees’ privacy—online and offline. Creating a safe and comfortable space for all people to participate and contribute fully is our first priority in OpenOakland spaces. When capturing video, photographic, or audio images in all OpenOakland spaces, consent by subjects is paramount.
+OpenOakland respects members’ and event attendees’ privacy - online and offline. Creating a safe and comfortable space for all people to participate and contribute fully is our first priority in OpenOakland spaces. When capturing video, photographic, or audio images in all OpenOakland spaces, consent by subjects is paramount.
 
 To this end, OpenOakland’s official photo and video policy is an opt-in model, meaning it is the photographer’s onus to gain consent from all individuals being photographed/filmed. Images and videos captured officially to be used on OpenOakland promotional materials are captured and used at the discretion of the Communications Leads.
 

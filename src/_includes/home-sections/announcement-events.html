@@ -1,0 +1,13 @@
+{%- comment -%}
+  Announcement banner. Content comes from src/_data/announcements.yml - edit
+  that file to change the wording, the links, or to hide the banner.
+  Each line is written in Markdown, so [text](url) becomes a link.
+{%- endcomment -%}
+{%- assign ann = site.data.announcements -%}
+{%- if ann.show and ann.lines.size > 0 %}
+<div class="home-announcement" role="region" aria-label="Upcoming events">
+  {%- for line in ann.lines %}
+  <p class="home-announcement-line">{{ line | markdownify | remove: '<p>' | remove: '</p>' | strip }}</p>
+  {%- endfor %}
+</div>
+{%- endif %}

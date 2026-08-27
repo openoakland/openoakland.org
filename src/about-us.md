@@ -1,5 +1,5 @@
 ---
-title: About Us
+title: About OpenOakland
 date: 2020-08-03T23:03:27+0000
 author: OpenOakland
 layout: page

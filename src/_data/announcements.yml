@@ -1,0 +1,17 @@
+# Announcement banner at the top of the home page.
+#
+# To hide the banner entirely: set `show: false` (or delete every line below).
+# Each entry under `lines:` is one line of the banner.
+#
+# Links use the form [words people click](https://the-address.com) - the words
+# in square brackets are what shows on the page, the address in parentheses is
+# where it goes. Plain text outside the brackets shows as normal text.
+
+show: true
+
+lines:
+  - "Join us during Oakland Tech Week on Tuesday, September 29 at [A Beautiful Oakland: A Civic Tech Idea-A-Thon](https://www.eventbrite.com/e/a-beautiful-oakland-a-civic-tech-idea-a-thon-tickets-1996656041970?aff=openoaklandwebsite)"
+
+  - "and [AI in the Public Interest: Oakland Civic Projects in Action](https://www.eventbrite.com/e/ai-in-the-public-interest-oakland-civic-projects-in-action-tickets-1996826868918?aff=openoaklandwebsite)."
+
+  - "[CityCamp Oakland 2026](https://citycamp.eventbrite.com/?aff=openoaklandwebsite) returns to Oakland City Hall on Saturday, October 17!"

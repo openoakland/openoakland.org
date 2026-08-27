@@ -21,7 +21,7 @@ Yes. Our Slack workspace is active year-round, and some projects meet and collab
 Fill out our [project exploration worksheet](https://docs.google.com/document/d/1k24P9JiAUEzJLPFRDjVh7aRZexax6NUhfPFLSI3R80M/edit?usp=sharing) and submit it to the Steering Committee for review. See our [Projects page](/projects/) for more details.
 
 ### What is civic tech?
-Civic tech is technology built to improve how communities interact with government and each other — tools that increase transparency, access, and participation in civic life.
+Civic tech is technology built to improve how communities interact with government and each other - tools that increase transparency, access, and participation in civic life.
 
 ### How did OpenOakland start?
 OpenOakland was founded in 2012 as part of the Code for America brigade network. We are now a member of the [Alliance of Civic Technologists](https://www.civictechnologists.org/).

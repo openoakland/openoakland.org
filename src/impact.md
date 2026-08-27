@@ -10,7 +10,7 @@ badges:
 
 These OpenOakland projects have either reached their intended conclusion or been handed off to a partner for long-term management. Because most of our work is open source, these projects can often be reproduced or adapted by anyone with an interest in doing so.
 
-Is your organization facing a challenge like the ones below? [Get help from our volunteer teams](https://openoakland.org/get-help/){: .btn .btn-primary }
+Is your organization facing a challenge like the ones below? [Partner with us](/partner/){: .btn .btn-primary }
 
 Looking for what we're working on right now? Visit [Current Projects](/projects/).
 

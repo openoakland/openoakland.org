@@ -6,8 +6,10 @@ layout: page
 permalink: /blog/
 redirect_from:
   - /updates/
+pagination:
+  enabled: true
 ---
 
-Stories, recaps, and updates from OpenOakland — including highlights from past OpenOakland Voices talks, National Day of Civic Hacking, National Day of Service, Open Data Day, and our monthly Demo Nights. Want to be part of OpenOakland Voices? [Submit your idea](/suggest-speaker/).
+Here's what we've been working on. Follow along for project updates, recaps from our events and meetups, and news from the volunteer teams building civic tech across Oakland.
 
 {% include posts.html %}

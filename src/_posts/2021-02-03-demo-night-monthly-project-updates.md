@@ -2,7 +2,7 @@
 title: "Catch Our Monthly Demo Nights"
 author: OpenOakland
 layout: post
-date: 2026-08-26 00:00:00 -0800
+date: 2021-02-03 00:00:00 -0800
 permalink: updates/:title/
 post-excerpt: "On the first Tuesday of each month, OpenOakland project teams share brief progress updates at our Demo Night. Watch highlights from past sessions on our YouTube playlist."
 tags: [Demo Night]
