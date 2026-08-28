@@ -7,7 +7,7 @@ permalink: updates/:title/
 post-excerpt: "On April 4, 2023, Suzanne Doran (Acting Executive Director of the PEC), Michael Ubell and Colin King-Bailey (Open Disclosure project team) shared insights from their years of collaboration. This blog post is a summary of the discussion with video clips from the event!"
 ---
 
-Did you know over $6.4 million was spent to support Oakland candidates and ballot measures in the November 2022 election? Money can mean influence over candidates and the outcomes of an election. For the last 8 years, the Oakland Public Ethics Commission (PEC) and Open Oakland have partnered to make Oakland campaign finance more transparent through [Open Disclosure Oakland](http://opendisclosureoakland.org).
+Did you know over $6.4 million was spent to support Oakland candidates and ballot measures in the November 2022 election? Money can mean influence over candidates and the outcomes of an election. For the last 8 years, the Oakland Public Ethics Commission (PEC) and Open Oakland have partnered to make Oakland campaign finance more transparent through [Open Disclosure Oakland](https://www.opendisclosure.io/).
 
 On April 4, 2023, Suzanne Doran (Acting Executive Director of the PEC), Michael Ubell and Colin King-Bailey (Open Disclosure project team) shared insights from their years of collaboration. This blog post is a summary of the discussion with video clips from the event!
 
@@ -73,7 +73,7 @@ OpenOakland can also create spaces for like-minded City staffers to meet both pe
 
 **Open Disclosure Oakland**
 
-- Campaign finance data is now geocoded and this opens up possibilities for new analysis and presentation of the data. ([Show me the money](https://data.oaklandca.gov/campaign_finance/contribution?electionYear=2023) is an example of that.)
+- Campaign finance data is now geocoded and this opens up possibilities for new analysis and presentation of the data.
 - New datasets are now available in digital format:
 	- Lobbyist data
 	- Form 700 - statements of economic interest for high ranking public officials - income, investments, property ownership
