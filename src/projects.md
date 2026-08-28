@@ -21,7 +21,3 @@ Want to learn more?
 {% assign status = 'active' %}
 {% include project.html %}
 {% endfor %}
-
----
-
-Looking for projects that aren't listed above? Browse brigade operations and paused projects in our [Project Archive](/project-archive/).

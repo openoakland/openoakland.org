@@ -90,9 +90,8 @@ Content should be updated via the markdown files in the `src` folder, which may 
 Projects are listed in one .yml file per status, and each status displays on a specific page:
 - `src/_data/active_projects.yml` — shown on [Current Projects](https://openoakland.org/projects)
 - `src/_data/delivered_projects.yml` — shown on [Impact](https://openoakland.org/impact)
-- `src/_data/ops_projects.yml` and `src/_data/idle_projects.yml` — shown on [Project Archive](https://openoakland.org/project-archive) (not linked from the main nav, but linked from Current Projects and Impact)
 
-There is no "Recruiting" or "Incubating" status file — a project actively looking for volunteers should be listed as Active with a `recruiting:` field describing the roles needed (this shows as a "Now Recruiting" note on its card). A brand-new project idea should go through the Steering Committee approval process below before being added to `active_projects.yml`.
+There is no "Recruiting", "Incubating", "Ops", or "Idle" status file — a project actively looking for volunteers should be listed as Active with a `recruiting:` field describing the roles needed (this shows as a "Now Recruiting" note on its card). A brand-new project idea should go through the Steering Committee approval process below before being added to `active_projects.yml`.
 
 To update project details, such as description or project lead, find the project in its appropriate .yml file and replace the specific text using markdown syntax. 
 

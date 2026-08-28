@@ -13,7 +13,7 @@
             {% endif %}
           </div>
 
-          <div class="card-text">{% if project.description %}{{ project.description | smartify }}{% endif %}</div>
+          <div class="card-text">{% if project.description %}{{ project.description | markdownify }}{% endif %}</div>
 
         </div>
       </div>
@@ -26,7 +26,7 @@
           <p><img class="projects" src="/assets/images/projects/{{ project.image }}" alt="screenshot of {{ project.name }}" /></p>
           {% endif %}
 
-          {% if project.website %}<a href="{{ project.website }}" class="btn btn-primary btn-sm projects-btn">Visit site</a>{% endif %}
+          {% if project.website %}<a href="{{ project.website }}" class="btn btn-primary btn-sm projects-btn">{{ project.website_text | default: "Visit site" }}</a>{% endif %}
 
           {% if project.repo %}<a href="{{ project.repo }}" class="btn btn-outline-secondary btn-sm projects-btn">View code</a>{% endif %}
 

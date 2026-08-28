@@ -1,26 +1,29 @@
 -
+  name: EVOAK!
+  description: 'EVOAK! (pronounced: evoke) is gathering West Oakland community asset data as part of the CalTrans Vision 980 project to re-imagine the I-980 corridor. This project is currently in the design phase and will make community data actionable for land developers, city approvers, service providers, and public policy professionals.'
+  image: evoak_600.jpg
+  website:
+  repo:
+  tech: GitHub, Claude Code
+  leader: Ife Famojuro
+  slack_id: C09JX8J3KTM
+  slack_channel: project-evoak
+  recruiting: Developers
+-
   name: Democracy Dollars
-  website: https://www.oaklandca.gov/topics/democracy-dollars
+  image: democracy-dollars_600.jpg
+  website: https://www.oaklandca.gov/Government/Boards-Commissions/Public-Ethics-Commission/Democracy-Dollars-Program
+  website_text: Learn More
   leader: Niels Helvig Thorsen
   slack_id: C06470G7HA9
   slack_channel: project-democracy-dollars
-  description: Democracy Dollars is a public campaign finance initiative passed by Oakland voters (Measure W) and rolling out for the 2026 election. This team is prototyping a digital experience for the program and recruiting UX designers and researchers!
-  tech: Figma, other prototyping / design tools
--
-  name: openoakland.org
-  image: OpenOakland-home.png
-  website: https://openoakland.org
-  repo: https://github.com/openoakland/openoakland.org
-  leader: John Baldo
-  slack_id: CH1U5KJ48
-  slack_channel: project-oo-website
-  description: As the digital face of OpenOakland, our website serves new and existing members, community and government partners, and members of the larger Oakland and civic tech communities. The site was recently migrated from a Wordpress install to a static Jekyll site hosted on AWS. The migration focused primarily on moving the codebase, and we now are working on improving site architecture and visual design. Issues in GutHub marked "Good First Issue" are great for first-timers.
-  tech: Jekyll, Kramdown, Bootstrap UI
+  description: Democracy Dollars is a public campaign finance initiative passed by Oakland voters (Measure W) and rolling out for the 2028 election. This team is prototyping a digital experience, which will allow all residents to receive voucher funds to donate to their city candidates of choice.
+  tech: Figma, Miro
 -
   name: Open Disclosure Oakland
-  description: Open Disclosure helps Oaklanders understand the role of money in their local politics. By analyzing mandatory campaign finance disclosures for candidates seeking public office, Open Disclosure presents a user-friendly overview of who is raising money, from where, and how much. Open Disclosure is developed in partnership with the City of Oakland Public Ethics Commission.
-  image: opendisclosure_300x233.png
-  website: http://www.opendisclosure.io/
+  description: Open Disclosure helps Oaklanders understand the role of money in their local politics. By analyzing mandatory campaign finance disclosures for candidates seeking public office, Open Disclosure presents a user-friendly overview of who is raising money, from where, and how much. Open Disclosure is developed in partnership with the City of Oakland Public Ethics Commission. Open Disclosure has been supporting residents since 2014, and is currently being updated to reflect 2026 data.
+  image: opendisclosure_600.jpg
+  website: https://www.opendisclosure.io/
   repo: https://github.com/caciviclab
   tech: Jekyll, PostgreSQL
   leader: Mike Ubell
@@ -28,24 +31,13 @@
   slack_channel: project-open-disclosure
   recruiting: Front End Developers
 -
-  name: Brightwayz
-  description: Brightwayz is a mobile-first platform that helps people quickly find shelters, food banks, and community services - and submit a request for help in minutes. Staff at partner organisations get a single dashboard to manage cases, track referrals, and communicate with clients. An AI layer is coming that will summarise intake forms, recommend services, and support multiple languages.
-  image:
+  name: City of Oakland Website Accessibility
+  description: OpenOakland is conducting an accessibility review of the Oakland city government website to understand barriers and improve usability for users with disabilities or who use assistive technology.
+  image: oakland-website-accessibility_600.jpg
   website:
   repo:
-  tech: TBD
-  leader: Abdel Errami
-  slack_id:
-  slack_channel: brightwayz-community-channel
-  recruiting: User Researchers, Project/Product Managers
--
-  name: EVOAK
-  description: 'EVOAK! (pronounced: evoke) has gathered West Oakland community asset data as part of the CalTrans Vision 980 project to re-imagine the I-980 corridor but needs help designing a digital interface that makes the data actionable for land developers, City approvers, service providers, others.'
-  image:
-  website:
-  repo:
-  tech: TBD
-  leader: Dani Platt
-  slack_id:
-  slack_channel: project-evoak
-  recruiting: Product Managers
+  tech: Dovetail
+  leader: Cristy Rowley
+  slack_id: C0B3YB2TJN6
+  slack_channel: project-oakland-website-accessibility
+  recruiting: User Researchers

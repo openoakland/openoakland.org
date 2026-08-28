@@ -37,7 +37,7 @@ If you're not sure a directory is live, ask rather than assuming — and don't s
 
 ## Editing projects specifically
 
-Projects shown at `/projects` come from `src/_data/{status}_projects.yml` — one file per status (`active`, `incubating`, `recruiting`, `ops`, `idle`, `delivered`). To change a project's status, move its block to the other file rather than editing a status field. Full syntax rules (indentation, trailing characters, image paths) are in `.github/contributing.md` under "Adding or updating projects" — read that before hand-editing YAML, since a stray trailing space or missing `-` separator breaks the parser in ways that are hard to diagnose from the diff alone.
+Projects shown at `/projects` come from `src/_data/{status}_projects.yml` — one file per status (`active`, `delivered`). To change a project's status, move its block to the other file rather than editing a status field. Full syntax rules (indentation, trailing characters, image paths) are in `.github/contributing.md` under "Adding or updating projects" — read that before hand-editing YAML, since a stray trailing space or missing `-` separator breaks the parser in ways that are hard to diagnose from the diff alone.
 
 ## General nudges for agents working in this repo
 
