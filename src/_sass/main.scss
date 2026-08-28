@@ -216,8 +216,12 @@ main {
 
 // General Bootstrap overrides
 .btn-primary {
-  background-color: $brand-color;
-  border-color: $brand-color;
+  // White label text on the raw $brand-color is only 2.5:1, below the 4.5:1
+  // minimum for readable text. darken(12%) is the least change that clears it
+  // (4.6:1) while staying close to the brand green. Hover and active go
+  // progressively darker so the states stay distinguishable.
+  background-color: darken($brand-color, 12%);
+  border-color: darken($brand-color, 12%);
 
   &:hover {
     background-color: darken($brand-color, 20%);
@@ -225,8 +229,8 @@ main {
   }
 
   &:active {
-    background-color: darken($brand-color, 15%) !important;
-    border-color: darken($brand-color, 15%) !important;
+    background-color: darken($brand-color, 26%) !important;
+    border-color: darken($brand-color, 26%) !important;
   }
 
   &:focus {
@@ -631,7 +635,10 @@ img.hero {
 
     &:hover,
     &:focus {
-      color: darken($brand-color, 34%);
+      // Matches .brand-link elsewhere on the site: inverts to white text on
+      // a dark green fill rather than just shifting shade.
+      background-color: darken($brand-color, 22%);
+      color: #fff;
     }
   }
 }
@@ -645,6 +652,16 @@ img.hero {
 
 .home-announcement + .index-hero {
   margin-top: 0;
+}
+
+// Project descriptions render as Markdown, so they arrive wrapped in <p>.
+.card-text > p:last-child {
+  margin-bottom: 0;
+}
+
+// "Back to Blog" control at the top of every post.
+.post-back {
+  margin-bottom: 1.5rem;
 }
 
 //// Blog styling
@@ -678,7 +695,9 @@ img.hero {
   img {
     width: 100%;
     height: 150px;
-    object-fit: cover;
+    // Fit the whole image inside the box rather than cropping to fill it.
+    // Event banners carry dates and titles near their edges, which a crop cut off.
+    object-fit: contain;
     border-radius: 4px;
     display: block;
   }

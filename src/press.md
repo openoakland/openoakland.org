@@ -25,11 +25,11 @@ June 25, 2020 | Bloomberg CityLab | Ariel Aberg-Riger
 
 {: .media-headline}
 ### [Are you missing out by waiting until your org is ‘ready for design’?](https://uxdesign.cc/are-you-missing-out-by-waiting-until-your-org-is-ready-for-design-6069eebe3760)  
-June 21, 2020 | Medium | Alissa Rubin [From the Network](){: .badge .badge-secondary }
+June 21, 2020 | Medium | Alissa Rubin <span class="badge badge-secondary">From the Network</span>
 
 {: .media-headline}
 ### [Digital Disaster Response: Creating Tech-based Resources](https://jessicasand.com/ux/creating-tech-resources-for-disaster-response/)  
-March 18, 2020 | jessicasand.com | Jess Sand [From the Network](){: .badge .badge-secondary }
+March 18, 2020 | jessicasand.com | Jess Sand <span class="badge badge-secondary">From the Network</span>
 
 ## 2019
 
@@ -166,7 +166,7 @@ _The civic hacking group OpenOakland unveiled a new budget visualization Web sit
 {: .media-headline}
 ### [Open Budget Oakland and OpenSpending](https://blog.okfn.org/2013/04/29/open-budget-oakland-and-openspending/ "Open Knowledge Foundation")  
 April 29, 2013 | Open Knowledge Foundation | Adam Stiles
-_The beta version of Open Budget Oakland went public last week with the release of our mayor’s proposed budget for the next two years._ [From the Network](){: .badge .badge-secondary }
+_The beta version of Open Budget Oakland went public last week with the release of our mayor’s proposed budget for the next two years._ <span class="badge badge-secondary">From the Network</span>
 
 {: .media-headline}
 ### [Urban activists hack their way toward open government](http://arstechnica.com/business/2013/03/urban-activists-hack-their-way-towards-open-government/ "Urban activists hack their way toward open government")  

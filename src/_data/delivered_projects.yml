@@ -88,12 +88,12 @@
 -
   name: Oakland Art Murmur
   image: oakland-art-murmur_300x240.png
-  website: https://oaklandartmurmur.org/venues/walking-tours/
+  website:
   repo: https://github.com/openoakland/artmap
   leader: Open, formerly Andy Guenthner
   slack_id: CJL45MU0P
   slack_channel: project-artmap
-  description: OpenOakland partnered with Oakland Art Murmur to build tools that art enthusiasts can use to promote Oakland art. At the heart of this partnership was Art Murmur's interactive Art Map. The map features a series of curated walking tours. Clicking along the tour route reveals photographs of public art in Oakland with accompanying information about the artwork. The team built a submission form that allows anyone to submit new art to the map by leveraging [Oakland Wiki](https://localwiki.org/oakland/Murals).
+  description: OpenOakland partnered with Oakland Art Murmur to build tools that art enthusiasts could use to promote Oakland art. At the heart of this partnership was Art Murmur's interactive Art Map. The map featured a series of curated walking tours. Clicking along the tour route revealed photographs of public art in Oakland with accompanying information about the artwork. The team built a submission form that allowed anyone to submit new art to the map by leveraging [Oakland Wiki](https://localwiki.org/oakland/).
 -
   name: Oakland Beats
   image:

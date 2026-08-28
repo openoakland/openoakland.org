@@ -10,8 +10,12 @@
     Thumbnail: prefer the post's feat-img, otherwise fall back to the first
     image in the post body. Posts with neither just render as text.
   {%- endcomment -%}
-  {%- assign thumb = post['feat-img'] -%}
-  {%- assign thumb_alt = post['feat-img-alt'] -%}
+  {%- comment -%}
+    thumb-img is a crop sized for this list; feat-img is the full-width banner
+    used on the post itself and the home page cards.
+  {%- endcomment -%}
+  {%- assign thumb = post['thumb-img'] | default: post['feat-img'] -%}
+  {%- assign thumb_alt = post['thumb-img-alt'] | default: post['feat-img-alt'] -%}
   {%- unless thumb -%}
     {%- assign img_chunks = post.content | split: '<img' -%}
     {%- if img_chunks.size > 1 -%}

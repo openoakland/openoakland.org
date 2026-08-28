@@ -50,13 +50,10 @@ If a participant engages in harassing behavior, the organizers may take any acti
 
 If someone's immediate physical safety is at risk, do what you can to remove yourself from the situation and call 911 if needed.
 
-**Code for America provides [guidance on managing conflicts and complaints](https://docs.google.com/document/d/1Z7FcoXZCBP3X1g6iizMFvAntyZralCdAzIVSkYosLVs/edit?usp=sharing). Assuming the situation is not an emergency, we encourage members to consider these guidelines first.**
-
 If you do wish to report an issue, there are several ways to do so:
 
-- Send an email to [safespace@codeforamerica.org](mailto:safespace@codeforamerica.org). This goes directly to Code for America staff and not OpenOakland.
 - Send an email to [steering@openoakland.org](mailto:steering@openoakland.org) (note that this goes to _all_ members of the OpenOakland Steering Committee).
-- Reach out to any individual member of the Steering Committee directly in [Slack](https://docs.google.com/document/d/1VWZQ_3ehP5j0IOTY0nJClvQPll3ivSkuAdh5YsOhO_U/edit?usp=sharing) (Steering Committee members include elected co-leads and project leads, listed on [openoakland.org](https://openoakland.org)).
+- Reach out to any individual member of the Steering Committee directly in [Slack](https://join.slack.com/t/openoakland/shared_invite/zt-3yesrb28g-A8Wv1kcLjBwBDJlT3G_xVQ) (Steering Committee members include elected co-leads and project leads, listed on [openoakland.org](https://openoakland.org)).
 - If you're attending an event, contact the event organizer directly.
 
 
