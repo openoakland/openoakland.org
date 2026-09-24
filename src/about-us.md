@@ -20,17 +20,9 @@ OpenOakland bridges technology and community for a thriving and equitable Oaklan
 
 ## Leadership team
 
-OpenOakland is managed by a Steering Committee made up of one project representative from each project team, plus co-leads elected by general membership.
+OpenOakland is managed by a Steering Committee. Get in touch with us at [steering@openoakland.org](mailto:steering@openoakland.org)
 
-Current Steering Committee members:
-
-- Toni Aguilar
-- Felicia Betancourt
-- Blaise Harrison
-- Dani Platt
-- Cristy Rowley
-- Niels Thorsen
-- Mike Ubell
+{% include steering-committee.html %}
 
 ## How we work
 
