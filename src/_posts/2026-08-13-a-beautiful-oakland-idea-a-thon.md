@@ -36,4 +36,4 @@ You don't need a technical background to take part. If you care about how Oaklan
 
 ## Volunteers Needed!
 
-OpenOakland is hosting two events for this year's [Oakland Tech Week](https://oaklandtechweek.com/) (Sept 27-Oct 3), as well as CityCamp Oakland (October 17). We are looking for volunteers to help with small group facilitation, registration, and event logistics. If you are interested in volunteering for these events, please [sign up here](https://docs.google.com/forms/d/e/1FAIpQLSd6yhOUOb3Ugr145Wv0nfldLrNAYj4dvY7F4b-l9KjAMcryuA/viewform?usp=dialog).
+OpenOakland is hosting two events for this year's [Oakland Tech Week](https://oaklandtechweek.com/) (Sept 27-Oct 3). We are looking for volunteers to help with small group facilitation, registration, and event logistics. If you are interested in volunteering for these events, please [sign up here](https://docs.google.com/forms/d/e/1FAIpQLSd6yhOUOb3Ugr145Wv0nfldLrNAYj4dvY7F4b-l9KjAMcryuA/viewform?usp=dialog).

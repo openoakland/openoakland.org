@@ -206,12 +206,11 @@ main {
   margin-bottom: 2rem;
 }
 
+// Alternating section tint on the home page. Mixed from $brand-color rather
+// than pegged at a full-strength channel, so the band recedes behind the text
+// instead of glowing. Body text on this sits at ~17:1, well past WCAG AA.
 .bg-lighter-green {
-  background-color: #E6FFF9;
-}
-
-.bg-light-green {
-  background-color: #D1FAEF;
+  background-color: #EBF9F5;
 }
 
 // General Bootstrap overrides
@@ -516,11 +515,6 @@ img.hero {
   justify-content: center;
   align-items: center;
   padding: 0.5rem;
-}
-
-#btn-slack {
-  min-width: fit-content;
-  font-weight: 600;
 }
 
 .slack-content {

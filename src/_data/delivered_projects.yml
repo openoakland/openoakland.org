@@ -1,5 +1,13 @@
+# Projects that have been delivered or handed off, shown on /impact/.
+#
+# `delivered:` controls the order they appear in - newest first. Use a quoted
+# year or year-month, e.g. "2024" or "2024-06". The date is never shown on the
+# page; it is only used for sorting. Entries without a `delivered:` date fall
+# to the bottom of the page in alphabetical order.
+
 -
   name: Adopt a Drain
+  delivered: "2015"
   image:
   established: 2011
   website:
@@ -7,6 +15,7 @@
   description: Adopt a Drain was a platform for Oakland residents to volunteer to be responsible for keeping a nearby storm drain clear to decrease flooding from storms, protect water quality, and keep trash from storm drains and connected creeks and water bodies. Vigilant maintenance of the City’s storm drain infrastructure is important for reducing pollution in the Bay. Adopt a Drain was set up in partnership with [City of Oakland’s Public Works Agency](http://www2.oaklandnet.com/government/o/PWA/o/FE/s/ID/OAK024735#Drain).
 -
   name: Alameda County Census 2020 Landing Page
+  delivered: "2019-11"
   image: OpenOakland-Census-Guide.png
   website: https://llkats.github.io/dos-acccc/
   repo: https://github.com/llkats/dos-acccc
@@ -16,6 +25,7 @@
   description: This landing page was a portal for the 2020 Census administered by Alameda County. It will be accessible at locations where a computer or tablet is provided to the public and is intended to introduce people to the Census and offer information in their native language about why the Census is important to complete, as well as resources and guides on how to complete the Census. It is intended to be welcoming to people for whom English is not their first language.
 -
   name: Alameda County Census 2020 Events
+  delivered: "2019-02"
   image:
   website:
   repo: https://github.com/openoakland/dos-census-events
@@ -25,6 +35,7 @@
   description: Census partners can submit events (workshops, tabling, drop-in centers, etc) and resources around the 2020 census. Alameda County residents can learn more about the first all digital census through these events, even finding locations where they can get assistance to complete the census. Residents can search for events based on date, location, and language.
 -
   name: CannaEquity.org
+  delivered: "2017-02"
   image: cannaequity_300x199.png
   established: 2017
   website:
@@ -36,17 +47,8 @@
 
   To support the Equity Licensing Program, OpenOakland provided support to other volunteer technologists and cannabis entrepreneurs working with the City of Oakland’s City Administrator’s Office and the Department of Race and Equity to develop [CannaEquity.org](http://cannaequity.org/), an online \"matchmaking\" application that would assist interested equity and regular applicants to locate each other efficiently. Applicants would create online accounts to pre-screen for compatibility and control the pace of information sharing and relationship building needed for the formation of space-sharing relationships. The app will be maintained until the end of phase one of licensing. This date will be determined by the collection of cannabis tax revenue sufficient to launch the next phase of equity applicant support services (assumed to be within one year)."
 -
-  name: CityCamp Oakland
-  image: citycamp_300x150.png
-  established: 2013
-  website:
-  repo:
-  leader:
-  slack_id: C4GRVQBU2
-  slack_channel: event-citycampoakland
-  description: "The fifth annual CityCamp successfully took place on Saturday, March 25, 2017 at Oakland City Hall. CityCamp is an unstructured conference where municipal employees, civic leaders, technology folks, software developers, journalists, and engaged residents can meet and discuss the intersections of technology and local government - how innovative technology and data uses can improve civic engagement, increase efficiency and transparency, connect residents, and incubate the technology community in our city. Unconferences are not structured up-front; the agenda is completed on the day based on topics the attendees themselves suggest. This gives attendees control over the topics and discussion happening at the event, so residents can drive attention towards issues they think are most important."
--
   name: Discount Mobility Share
+  delivered: "2019-11"
   image: discount_mobility_300x213.png
   website:
   repo:
@@ -56,6 +58,7 @@
   description: Discount Mobility helped low income residents get access to scooter share, bike share and car share programs. While every company has discount programs for low income residents, the application process is fragmented and these benefits aren't widely known. We unified the application for these programs and engaged in outreach so people were aware of this benefit.
 -
   name: Early Oakland
+  delivered: "2014"
   image:
   established: 2011
   website:
@@ -66,6 +69,7 @@
   description: "Built in partnership with the Oak Education Cabinet in 2011, Early Oakland provided information on early learning programs that were state subsidized and federally supported Head Start programs in Oakland, including Bananas Child Care Resource and Referral, Oakland Head Start and the Unity Council Preschool, as well as Oakland Unified School District Early Childhood Education Department. It included part-day and full-day programs for three- and four-year-olds, and a few programs also served younger children."
 -
   name: Funding Public Safety
+  delivered: "2022-10"
   image: Screenshot-FPS.png
   website: https://openoakland.github.io/funding-public-safety/
   repo: https://github.com/openoakland/funding-public-safety/
@@ -76,6 +80,7 @@
   tech: Eleventy static site generator, Bootstrap CSS framework, spreadsheets and various dataviz tools
 -
   name: La Escuelita
+  delivered: "2021-02"
   image: OpenOakland-project-laescuelita.png
   website: https://www.laescuelita.org/
   repo:
@@ -87,6 +92,7 @@
   tech: Google Sites
 -
   name: Oakland Art Murmur
+  delivered: "2019-12"
   image: oakland-art-murmur_300x240.png
   website:
   repo: https://github.com/openoakland/artmap
@@ -96,6 +102,7 @@
   description: OpenOakland partnered with Oakland Art Murmur to build tools that art enthusiasts could use to promote Oakland art. At the heart of this partnership was Art Murmur's interactive Art Map. The map featured a series of curated walking tours. Clicking along the tour route revealed photographs of public art in Oakland with accompanying information about the artwork. The team built a submission form that allowed anyone to submit new art to the map by leveraging [Oakland Wiki](https://localwiki.org/oakland/).
 -
   name: Oakland Beats
+  delivered: "2020-09"
   image:
   established: 2011
   website:
@@ -106,6 +113,7 @@
   description: "This tool helps visitors determine which Community Police Beat they live in. In Oakland, [Neighborhood Councils](https://www.oaklandca.gov/topics/neighborhood-councils) (formerly known as Neighborhood Crime Prevention Council or NCPC), operate for each of the 53 Community Police Beats. The Neighborhood Council system provides a way for residents to gather and discuss local crime problems with a city and OPD representative on a monthly basis."
 -
   name: Open Government Pledge
+  delivered: "2012"
   image:
   established: 2012
   website: http://oaklandcandidates.org/
@@ -116,15 +124,17 @@
   description: "During Oakland‘s 2012 elections, OpenOakland asked electoral candidates to take the [Open Government Pledge](http://oaklandcandidates.org/OpenGovPledge2012.pdf) to support three core principles of Open Government: transparency, participation, and collaboration. By the end of the elections, four of the six winners had signed onto the pledge."
 -
   name: Open Oasis
+  delivered: "2019-03"
   image:
   website:
   repo: https://docs.google.com/presentation/d/1A34p8Cbifhfn4uGpqG0MTBC89fR_EsFjRFtQR21fEnk/edit?usp=sharing
   leader: Andrew Tom
   slack_id: C040ULV6C
   slack_channel: openoasis
-  description: "Phase III (Delivery pending, ~End of Mar 2019): This is mainly focused on developing a survey design, and related questionnaire, to measure OTX impact across their tech literacy programs servicing individuals in public housing. The data team is going to fine-tune our deliveries in Phase II to be \"publication-ready\". Meanwhile, our volunteers leading the survey design work are partnered with CUT group to assist with the survey design, implementation approach, and language of questions."
+  description: "Phase III focused on developing a survey design, and related questionnaire, to measure OTX impact across their tech literacy programs servicing individuals in public housing. The data team fine-tuned our Phase II deliveries to be \"publication-ready\", while our volunteers leading the survey design work partnered with CUT group to assist with the survey design, implementation approach, and language of questions."
 -
   name: RecordTrac
+  delivered: "2016"
   image:
   established: 2013
   website:
@@ -135,6 +145,7 @@
   description: "RecordTrac was a simple way for individuals to submit public record requests to a governmental agency online. The application, built in 2013, also allowed government employees to manage, respond to, and fulfill incoming requests. By displaying all submitted records requests, members of the public can find what they need without having to create a new public record request."
 -
   name: Soft Story
+  delivered: "2014"
   image:
   established: 2013
   website:
@@ -145,6 +156,7 @@
   description: "Soft Story is a simple interactive map of potential soft-story buildings in Oakland. Soft-story buildings are multi-unit, wood-frame, residential buildings with a first story that lacks adequate strength or stiffness to prevent leaning or collapse in an earthquake. These buildings pose a safety risk to tenants and occupants, a financial risk to owners, and risk the recovery of the city and region. This data shows the results of a screening program for potential soft-story buildings in Oakland. In 2008 Oakland surveyed its multi-family buildings with five or more units, and in 2009 passed an ordinance that required the owners of these buildings to complete a simple evaluation of the ground floor. This data shows the results of these screenings as of early 2013."
 -
   name: Track G – Oakland’s Measure G
+  delivered: "2015"
   image: trackg_300x233.png
   established: 2014
   website: https://trackg.org/
@@ -154,7 +166,21 @@
   slack_channel: project-track-g
   description: "Measure G is a city ballot measure that was passed by the citizens of Oakland in 2008 to improve the quality of education provided by Oakland public schools. Money is collected from Measure G via a special parcel tax, which amounts to about $20 million a year in additional funds for the Oakland Unified School District's budget. [Track G – Oakland’s Measure G](https://trackg.org/) publishes data on how funds collected from the Measure G parcel tax are spent. Track G allows spending to be seen by location, by program, and by school."
 -
+  name: Volunteer Database
+  delivered: "2026-09"
+  image: volunteer-database_600.jpg
+  established: 2026
+  website: https://form.fillout.com/t/jgQdebkd3wus
+  website_text: Volunteer intake form
+  repo:
+  leader: Cristy Rowley
+  slack_id: C0AQ4NCV2R1
+  slack_channel: oo-volunteer-engagement
+  tech: Airtable, Fillout
+  description: "With over 2,000 volunteers in our network, OpenOakland needed a reliable way to capture people's skills, experience, and availability and match them to the right projects. A volunteer team built a lightweight database system - a public intake form, self-service profile editing, QR-code meeting check-in, and project tracking - that a non-technical admin can maintain. Matching a volunteer to a project used to take months, and sometimes never happened at all. It now takes one to two weeks. Read the full story in [A New Database for OpenOakland's 2,000 Volunteers](/updates/volunteer-database-case-study/)."
+-
   name: Water Quality
+  delivered: "2019-11"
   image: water_300x237.png
   website: http://water.openoakland.org/
   repo: https://github.com/openoakland/clean-water

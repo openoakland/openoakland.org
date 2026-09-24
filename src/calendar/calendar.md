@@ -6,7 +6,7 @@ layout: page
 permalink: /calendar/
 ---
 
-In addition to our community events, we meet on the first Tuesday of every month at 6:30pm in Hearing Room 3 at [Oakland City Hall](https://goo.gl/maps/YTNkpZcb7Sy936w88). Join our [Meetup group](https://www.meetup.com/OpenOakland/events/) or [Luma calendar](https://luma.com/calendar/manage/cal-Y6pRCtzy4KozE00) to hear about upcoming events.
+In addition to our community events, we meet on the first Tuesday of every month at 6:30pm in Hearing Room 3 at [Oakland City Hall](https://goo.gl/maps/YTNkpZcb7Sy936w88). Join our [Meetup group](https://www.meetup.com/OpenOakland/events/) or [Luma calendar](https://lu.ma/openoakland) to hear about upcoming events.
 
 We welcome people of all skill levels and disciplines. If you need accessibility assistance, please email steering@openoakland.org.
 
