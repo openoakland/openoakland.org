@@ -7,7 +7,7 @@
 # in square brackets are what shows on the page, the address in parentheses is
 # where it goes. Plain text outside the brackets shows as normal text.
 
-show: true
+show: false
 
 lines:
   - "Join us during [Oakland Tech Week](https://oaklandtechweek.com/) on Tuesday, September 29 for [A Beautiful Oakland: A Civic Tech Idea-A-Thon](https://www.eventbrite.com/e/a-beautiful-oakland-a-civic-tech-idea-a-thon-tickets-1996656041970?aff=openoaklandwebsite)"
