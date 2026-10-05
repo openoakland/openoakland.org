@@ -25,6 +25,7 @@
   image: opendisclosure_600.jpg
   website: https://www.opendisclosure.io/
   repo: https://github.com/caciviclab
+  established: "2014-08-01"
   tech: Jekyll, PostgreSQL
   leader: Mike Ubell
   slack_id: C02GKECTJ
