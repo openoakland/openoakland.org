@@ -2,7 +2,7 @@
 title: "Recap: AI in the Public Interest Demo Night"
 author: OpenOakland
 layout: post
-date: 2026-10-03 05:00:00 -0700
+date: 2026-10-05 09:00:00 -0700
 permalink: updates/:title/
 post-excerpt: "Recapping our Oakland Tech Week Demo Night at Oakland City Hall, where volunteers shared how Open Disclosure, EVOAK!, and Metrograph.ai are using AI to better illustrate civic data."
 description: "Recapping our Oakland Tech Week Demo Night at Oakland City Hall, where volunteers shared how Open Disclosure, EVOAK!, and Metrograph.ai are using AI to better illustrate civic data."
