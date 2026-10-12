@@ -33,23 +33,10 @@ Once you apply, we will review your submission as soon as possible and invite yo
 ## FAQ
 
 ### What types of organizations do you work with?
-We primarily serve Oakland-based public agencies and nonprofit organizations. Organizations serving other residents in other parts of the East Bay may also be a good fit. Some of our past partnerships include: Oakland's Public Ethics Commission, Oakland Public Works / Department of Transportation, [Oakland Tech Exchange](https://www.techexchange.org/), and La Escuelita Elementary School.
+We primarily serve Oakland-based public agencies and nonprofit organizations. Organizations serving other residents in other parts of the East Bay may also be a good fit. Some of our past partnerships include: Oakland's Public Ethics Commission, Oakland Public Works / Department of Transportation, [Oakland Tech Exchange](https://www.techexchange.org/), La Escuelita Elementary School, and [EVOAK](https://evoak.org/).
 
 <div class="container">
-  <div class="partner-logos-wrapper">
-    <div class="partner-logo-container">
-      <img src="/assets/images/partners/pec-logo.png" class="partner-logo" alt="Public Ethics Commission">
-    </div>
-    <div class="partner-logo-container">
-      <img src="/assets/images/partners/public-works-logo.jpg" class="partner-logo" alt="Public Works">
-    </div>
-    <div class="partner-logo-container">
-      <img src="/assets/images/partners/tech-exchange-logo.png" class="partner-logo" alt="Tech Exchange">
-    </div>
-    <div class="partner-logo-container">
-      <img src="/assets/images/partners/la-escuelita-logo.png" class="partner-logo" alt="La Escuelita">
-    </div>
-  </div>
+  {% include partner-logos.html %}
 </div>
 
 

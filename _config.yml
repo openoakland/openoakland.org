@@ -65,18 +65,15 @@ header_dropdowns:
         url: /projects/
       - title: Impact
         url: /impact/
-  calendar/calendar.md:
-    title: Events
-    items:
-      - title: Calendar
-        url: /calendar/
-      - title: Blog
-        url: /blog/
   about-us.md:
     title: About
     items:
       - title: About OpenOakland
         url: /about-us/
+      - title: Blog
+        url: /blog/
+      - title: Press
+        url: /press/
       - title: Contact Us
         url: /contact/
 

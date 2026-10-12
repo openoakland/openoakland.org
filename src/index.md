@@ -14,6 +14,9 @@ author: OpenOakland
 
 {% include home-sections/home-what-we-offer.html %}
 
+<!--- Section: Our Partners (logos are shared with the Partner With Us page via partner-logos.html) -->
+{% include home-sections/home-our-partners.html %}
+
 <!--- Section: Latest Blog Posts -->
 {% include home-sections/recent-updates.html %}
 
