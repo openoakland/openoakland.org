@@ -7,6 +7,12 @@ layout: page
 
 **2021 Media Contact:** Contact the Steering Committee at steering[at]openoakland.org
 
+## 2026
+
+{: .media-headline}
+### [Oakland students think up civic tech solutions to combat illegal dumping with help from locals](https://news.northeastern.edu/2026/10/05/oakland-illegal-dumping-prevention/)  
+October 5, 2026 | Northeastern Global News | Peter Rubinstein
+
 ## 2021
 
 {: .media-headline}

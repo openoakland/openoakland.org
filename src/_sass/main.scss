@@ -588,6 +588,28 @@ img.hero {
   max-width: 220px;
   object-fit: contain;
 }
+// On the green home page section, logos sit on white tiles so their own
+// white backgrounds don't show as boxes.
+#our-partners .partner-logos-wrapper {
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+#our-partners .partner-logo-container {
+  background: #fff;
+  border-radius: 8px;
+  padding: 0.75rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 0 0 190px;
+  height: 130px;
+}
+#our-partners .partner-logo {
+  min-height: 0;
+  max-height: 100%;
+  max-width: 100%;
+}
 @media (max-width: 576px) {
   .partner-logo-container {
     flex: 0 0 100%; /* full width on xs screens */
