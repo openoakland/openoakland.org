@@ -9,7 +9,7 @@
 
           <div class="card-header">{{ post.date | date_to_string: "ordinal", "US" }}</div>
 
-          {% if post.feat-img %}<img src="{{ post.feat-img }}" class="card-img-top" alt="{{ post.feat-img-alt }}">{%
+          {% if post.feat-img %}<img src="{{ post.feat-img }}" class="card-img-top" alt="{{ post.feat-img-alt | escape }}">{%
           endif
           %}
 
