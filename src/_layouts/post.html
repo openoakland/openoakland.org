@@ -39,6 +39,13 @@ layout: default
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
+    {%- comment -%}
+      Shared closing section on every post; edit the text in
+      _includes/post-get-involved.html. A post can hide it with
+      `get_involved: false`, or point the volunteer link elsewhere with
+      `volunteer_url:` in its front matter.
+    {%- endcomment -%}
+    {% unless page.get_involved == false %}{% include post-get-involved.html %}{% endunless %}
   </div>
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>

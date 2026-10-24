@@ -4,6 +4,7 @@ date: 2021-01-09T00:50:30+00:00
 author: OpenOakland
 permalink: updates/:title/
 layout: post
+get_involved: false
 post-excerpt: "OpenOakland unequivocally condemns the actions of those who’ve attempted to undermine our democracy..."
 ---
 

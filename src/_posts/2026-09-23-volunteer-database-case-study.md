@@ -9,6 +9,7 @@ thumb-img: /assets/images/blog/volunteer-database-thumb.png
 feat-img: /assets/images/blog/volunteer-database-banner.jpg
 feat-img-alt: "The OpenOakland Volunteer Intake Form, headed by the OpenOakland logo and an invitation to tell us about your interests and how you'd like to get involved"
 tags: [Case Study]
+volunteer_url: https://form.fillout.com/t/jgQdebkd3wus
 ---
 
 ![The OpenOakland Volunteer Intake Form, headed by the OpenOakland logo and an invitation to tell us about your interests and how you'd like to get involved](/assets/images/blog/volunteer-database-banner.jpg)
@@ -59,7 +60,3 @@ Before this system, matching a volunteer to a project could take months, or some
 The new database flips that process. Now, matching happens successfully in one to two weeks. Instead of waiting and hoping, project leads can proactively reach out to volunteers in the database whose skills and interests fit the work. And because volunteers know our project offers are more likely to match their interests, they're more likely to respond, making the whole process faster and easier for everyone.
 
 We're now transitioning our volunteer contacts into the new system. The timing matters: we're excited to be presenting [two events as part of Oakland Tech Week](https://www.eventbrite.com/o/3819004199) on Tuesday, September 29. With this new database, we feel ready to handle an influx of new volunteer interest.
-
-## Get Involved
-
-OpenOakland is a volunteer-driven civic technology organization bringing technologists, data analysts, designers, and researchers together to build community-centered technology that gives Oaklanders and East Bay residents a voice in the issues that impact us all. Learn more at [openoakland.org](https://openoakland.org) or [sign up to volunteer with us](https://form.fillout.com/t/jgQdebkd3wus).

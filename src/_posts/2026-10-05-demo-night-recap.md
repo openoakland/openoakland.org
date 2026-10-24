@@ -34,8 +34,4 @@ If you want to learn more about civic tech, join us at our next monthly meeting:
 - **Where:** Oakland City Hall, Hearing Room 3, 1 Frank H. Ogawa Plaza
 - **RSVP:** on [Luma](https://luma.com/openoakland) or [Meetup](https://www.meetup.com/openoakland/events/)
 
-## About OpenOakland
-
-OpenOakland is a volunteer-driven civic technology organization bringing technologists, data analysts, designers, and researchers together to build community-centered technology that gives Oaklanders and East Bay residents a voice in the issues that impact us all. [Learn how to volunteer](/volunteer/) or [subscribe to our newsletter](/newsletter/) for more updates.
-
 Thank you to everyone who joined us!
