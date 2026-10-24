@@ -49,8 +49,4 @@ Working in small groups, attendees brought creative, neighborhood-rooted ideas, 
 
 We're compiling the ideas generated at the Idea-A-Thon and will share them with the Oakland City Council and with Northeastern University faculty and researchers.
 
-## Get involved
-
-OpenOakland is an all-volunteer civic technology nonprofit that has partnered with the City of Oakland since 2012. Our volunteers, including developers, designers, researchers, data folks, and product managers, build tools that make local government work better for residents. [Learn how to volunteer](/volunteer/) or [sign up for our newsletter](/newsletter/) to hear about upcoming projects and events.
-
 Thank you to everyone who came out and shared their energy and ideas, and to Northeastern University Oakland for co-hosting!

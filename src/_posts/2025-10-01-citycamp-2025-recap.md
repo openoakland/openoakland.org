@@ -57,23 +57,9 @@ Throughout the day, several themes emerged across sessions:
 
 CityCamp Oakland demonstrated the power of bringing residents together to tackle civic challenges collaboratively. The conversations started on September 20th are just the beginning.
 
-### Get Involved with OpenOakland
-
-**Attend Our Monthly Meetups**  
-Join us on the first Tuesday of each month at Oakland City Hall. Our next meetup is [October 7, 2025]. [Join our Meetup group](https://meetup.com/openoakland) to stay updated.
-
-**Support an OpenOakland Project**  
-We're currently recruiting researchers and interface designers for a community asset mapping project with EVOAK!, part of CalTrans Vision 980: reimagining the I-980 freeway. Attend our meetup and [join our Slack workspace](https://join.slack.com/t/openoakland/shared_invite/zt-3yesrb28g-A8Wv1kcLjBwBDJlT3G_xVQ) to learn about project opportunities.
-
-**Donate**  
-CityCamp Oakland was made possible by volunteers and community support. Help us continue this work by [donating to OpenOakland](https://hcb.hackclub.com/donations/start/openoakland). Thanks to over 20 individuals that donated to cover costs!
-
 ## Thank You
 
 A huge thank you to the City of Oakland's CIty Hall for hosting us and all individual donors—and to our incredible volunteers: Pablo, Mike, Toni, John, Eliza, Paula, Seemant. Your time and energy made this event possible.
 
 Most importantly, thank you to the 70 attendees who showed up ready to engage, collaborate, and take action for Oakland. This is just the beginning.
 
----
-
-*Want to learn more about OpenOakland? We connect public agencies and nonprofits with skilled tech volunteers to increase their community impact through technology—at no cost. [Learn more at openoakland.org](https://openoakland.org)*
