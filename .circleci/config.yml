@@ -33,13 +33,14 @@ jobs:
 
   deploy:
     docker:
-      - image: circleci/python:3
+      - image: cimg/python:3.12
     environment: AWS_DEFAULT_REGION=us-west-2
     steps:
       - checkout
       - attach_workspace:
           at: .
-      - run: pip install --user --upgrade awscli
+      # certifi pin: GHSA-6q48-6c7w-9gw2 (emSign roots removed; GitHub lists 2026.10.19 as first patched)
+      - run: pip install --user --upgrade awscli "certifi>=2026.10.19"
       - run: /home/circleci/.local/bin/aws s3 sync _site s3://beta.aws.openoakland.org/
 
 workflows:
