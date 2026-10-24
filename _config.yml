@@ -16,9 +16,9 @@
 title: OpenOakland
 email: steering@openoakland.org
 description: >- # this means to ignore newlines until "baseurl:"
-  OpenOakland is a Code for America Brigade serving Oakland, California.
+  OpenOakland is a volunteer-driven civic technology organization bringing technologists, data analysts, designers, and researchers together to build community-centered technology with nonprofit and government partners.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://openoakland.org" # the base hostname & protocol for your site; `jekyll serve` swaps in localhost automatically
 twitter_username: openoakland
 github_username: openoakland
 
