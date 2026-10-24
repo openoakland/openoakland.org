@@ -1,9 +1,21 @@
 name: Notify Slack on merge
 
+# pull_request_target (not pull_request) so the webhook secret is available
+# when the PR comes from a fork. GitHub withholds secrets from fork PRs
+# under pull_request, which left SLACK_WEBHOOK_URL empty.
+#
+# SECURITY: pull_request_target runs with this repo's secrets. That is only
+# safe because this job never checks out or runs code from the PR. Do NOT
+# add actions/checkout, scripts from the repo, or anything else that executes
+# PR-controlled code here. PR fields are passed through env vars, never
+# interpolated into the script, so a crafted PR title can't inject commands.
 on:
-  pull_request:
+  pull_request_target:
     types: [closed]
     branches: [main]
+
+# The job only needs the webhook; give the GitHub token no access at all.
+permissions: {}
 
 jobs:
   notify:
@@ -13,13 +25,17 @@ jobs:
       - name: Post to Slack
         env:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          PR_TITLE: ${{ github.event.pull_request.title }}
+          PR_URL: ${{ github.event.pull_request.html_url }}
+          PR_USER: ${{ github.event.pull_request.user.login }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
         run: |
           curl -sf -X POST -H 'Content-type: application/json' \
             --data "$(jq -n \
-              --arg title "${{ github.event.pull_request.title }}" \
-              --arg url "${{ github.event.pull_request.html_url }}" \
-              --arg user "${{ github.event.pull_request.user.login }}" \
-              --arg number "${{ github.event.pull_request.number }}" \
+              --arg title "$PR_TITLE" \
+              --arg url "$PR_URL" \
+              --arg user "$PR_USER" \
+              --arg number "$PR_NUMBER" \
               '{text: ":github: *PR #\($number) merged into main*\n<\($url)|\($title)>\nOpened by *\($user)*"}' \
             )" \
             "$SLACK_WEBHOOK_URL"
