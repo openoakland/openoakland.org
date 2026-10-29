@@ -12,13 +12,10 @@ permalink: /faq/
 No. We welcome contributors of all backgrounds. Non-technical roles include user research, design, project management, writing, community outreach, and event organizing.
 
 ### How much time do I need to commit?
-There's no minimum commitment. Many volunteers start by attending our Monthly Meeting to see if it's a good fit before diving in.
+There's no minimum commitment. Many volunteers start by attending a Monthly Meeting or other event ([Luma](https://luma.com/openoakland), [Meetup](https://www.meetup.com/OpenOakland/events/)) before submitting our [volunteer intake form](https://form.fillout.com/t/jgQdebkd3wus).
 
-### Can I participate remotely?
-Yes. Our Slack workspace is active year-round, and some projects meet and collaborate fully online.
-
-### How do I submit a project idea?
-Fill out our [project exploration worksheet](https://docs.google.com/document/d/1k24P9JiAUEzJLPFRDjVh7aRZexax6NUhfPFLSI3R80M/edit?usp=sharing) and submit it to the Steering Committee for review. See our [Projects page](/projects/) for more details.
+### How do I get project support?
+If you are a nonprofit or government entity, [apply now](/partner/#apply-now).
 
 ### What is civic tech?
 Civic tech is technology built to improve how communities interact with government and each other - tools that increase transparency, access, and participation in civic life.
