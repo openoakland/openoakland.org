@@ -36,7 +36,7 @@ A lot of the more direct work towards OpenOakland’s priorities, like greater i
 
 - **Defining a more consistent project life cycle,** including milestones, project tools and templates, to bake in an equity lens as a matter of course, build structured approaches to community representation and accountability, and help volunteers feel more supported and effective in their work.
 
-- **Building improvements into our volunteer onboarding process.** Again, smaller efforts, like updating the automated greetings in [Meetup](https://www.meetup.com/OpenOakland) and [Slack](https://docs.google.com/document/d/1VWZQ_3ehP5j0IOTY0nJClvQPll3ivSkuAdh5YsOhO_U/edit) with important messages about our Code of Conduct, processes, and important resources, sets better expectations for people joining the brigade. More consistent live onboarding each week and the beginning of a volunteer relationship management system will improve our ability to track engagement and progress across volunteers and projects.
+- **Building improvements into our volunteer onboarding process.** Again, smaller efforts, like updating the automated greetings in [Meetup](https://www.meetup.com/OpenOakland) and Slack with important messages about our Code of Conduct, processes, and important resources, sets better expectations for people joining the brigade. More consistent live onboarding each week and the beginning of a volunteer relationship management system will improve our ability to track engagement and progress across volunteers and projects.
 
 - **Drafting an impact measurement strategy** for projects and the brigade as a whole using a results-based accountability approach.
 

@@ -18,11 +18,11 @@ We had a lot of really great discussion last Tuesday, which we’ll continue liv
 
 - **Code for America has announced that National Day of Civic Hacking’s theme will be 911 reform.** It remains to be seen whether it makes sense for OpenOakland to be directly involved in project work relating to this (OpenOakland doesn’t have a strong policing reform/justice track record and the potential for getting it wrong could have meaningful impact on historically marginalized Oaklanders). Is there some way we could use this as a learning opportunity?
 
-- **As we build out a volunteer management system,** we’ll need to have discussions around personal data management and privacy, and access. Interested? Join #oo-brigade-operations in Slack ([instructions](https://docs.google.com/document/d/1VWZQ_3ehP5j0IOTY0nJClvQPll3ivSkuAdh5YsOhO_U/edit?usp=sharing)).
+- **As we build out a volunteer management system,** we’ll need to have discussions around personal data management and privacy, and access.
 
 - **Elects and Ombuds are continuing their conversation about updating the Code of Conduct and Ombuds process,** and will share some themes, takeaways, and next steps at an upcoming meeting.
 
-- **Representation and equity work will continue as an ongoing brigade theme.** Next steps include sharing out past DEIA work and inviting folks to join an ongoing working group. If you’re interested in exploring, please say hello in #oo-diversity-equity ([Slack instructions](https://docs.google.com/document/d/1VWZQ_3ehP5j0IOTY0nJClvQPll3ivSkuAdh5YsOhO_U/edit?usp=sharing)).
+- **Representation and equity work will continue as an ongoing brigade theme.** Next steps include sharing out past DEIA work and inviting folks to join an ongoing working group.
 
 ## Project ideas
 

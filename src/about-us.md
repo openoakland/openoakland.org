@@ -33,10 +33,7 @@ Membership is open to all, regardless of expertise or skill level. We work colla
 ## Get involved
 
 - **Join us at our Monthly Meeting.**  
-    Every first Tuesday from 6:30-9:00pm PST, we meet in City Hall but are working remotely during the coronavirus pandemic). After intros, we break into project teams for deeper collaboration. Don't be shy about joining in; we're friendly folk. [RSVP on Meetup](https://www.meetup.com/OpenOakland/).
-
-- **Join us on Slack.**  
-    [Join us on Slack](https://join.slack.com/t/openoakland/shared_invite/zt-3yesrb28g-A8Wv1kcLjBwBDJlT3G_xVQ) and introduce yourself in #oo-meet-and-greet. We look forward to meeting you!
+    We meet on the first Tuesday of every month at 6:30pm at Oakland City Hall (Hearing Room 3). After intros, we break into project teams for deeper collaboration. Don't be shy about joining in; we're friendly folk. RSVP on [Meetup](https://www.meetup.com/OpenOakland/) or [Luma](https://luma.com/openoakland).
 
 - **Contribute to an existing project.**  
     Check out our [active projects](/projects/). You're welcome to contact project leads directly or jump into their Github repos but if you're not a coder or are unsure how you might contribute, we suggest attending our Monthly Meeting to get to know our project teams.

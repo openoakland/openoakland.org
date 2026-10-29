@@ -43,7 +43,7 @@ To do this, the existing Steering Committee (made up of active project leads) wi
 
 ### What we're putting on hold
 
-- Hosting regular meetups for project working groups. Volunteers wanting to get involved with an existing project will need to reach out to the project team directly, preferably [via Slack](https://docs.google.com/document/d/1VWZQ_3ehP5j0IOTY0nJClvQPll3ivSkuAdh5YsOhO_U/edit?usp=sharing).
+- Hosting regular meetups for project working groups. Volunteers wanting to get involved with an existing project will need to reach out to the project team directly.
 - Providing additional support (financial, technical or operational) to existing projects beyond what we're already committed to.
 - Launching new projects.
 - Maintaining our social media channels.
