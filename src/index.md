@@ -25,5 +25,3 @@ author: OpenOakland
 
 {% include home-sections/home-why-choose-openoakland.html %}
 
-<!--- Section: Join us on Slack -->
-{% include home-sections/home-slack.html %}

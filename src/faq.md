@@ -12,7 +12,7 @@ permalink: /faq/
 No. We welcome contributors of all backgrounds. Non-technical roles include user research, design, project management, writing, community outreach, and event organizing.
 
 ### How much time do I need to commit?
-There's no minimum commitment. Many volunteers start by attending our Monthly Meeting or joining a project's Slack channel to see if it's a good fit before diving in.
+There's no minimum commitment. Many volunteers start by attending our Monthly Meeting to see if it's a good fit before diving in.
 
 ### Can I participate remotely?
 Yes. Our Slack workspace is active year-round, and some projects meet and collaborate fully online.
@@ -31,4 +31,4 @@ No. OpenOakland is an all-volunteer collective. We do not charge for our service
 
 ---
 
-Still have questions? [Contact us](mailto:steering@openoakland.org) or join us on [Slack](https://join.slack.com/t/openoakland/shared_invite/zt-3yesrb28g-A8Wv1kcLjBwBDJlT3G_xVQ).
+Still have questions? [Contact us](mailto:steering@openoakland.org).

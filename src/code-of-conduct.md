@@ -53,7 +53,7 @@ If someone's immediate physical safety is at risk, do what you can to remove you
 If you do wish to report an issue, there are several ways to do so:
 
 - Send an email to [steering@openoakland.org](mailto:steering@openoakland.org) (note that this goes to _all_ members of the OpenOakland Steering Committee).
-- Reach out to any individual member of the Steering Committee directly in [Slack](https://join.slack.com/t/openoakland/shared_invite/zt-3yesrb28g-A8Wv1kcLjBwBDJlT3G_xVQ) (Steering Committee members include elected co-leads and project leads, listed on [openoakland.org](https://openoakland.org)).
+- Reach out to any individual member of the Steering Committee directly in Slack (Steering Committee members include elected co-leads and project leads, listed on [openoakland.org](https://openoakland.org)).
 - If you're attending an event, contact the event organizer directly.
 
 

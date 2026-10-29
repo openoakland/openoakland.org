@@ -104,7 +104,7 @@ Individual project teams have an ongoing need for more user research and testing
 - Can we scaffold the program so there’s a DIY/self-management element for projects in addition to wider brigade/programmatic support?
 - How to ensure results and insights actually are reflected in project decision-making?
 
-**Next steps:** All are invited to continue the conversation in ##project-cut-group on Slack ([access Slack](https://docs.google.com/document/d/1VWZQ_3ehP5j0IOTY0nJClvQPll3ivSkuAdh5YsOhO_U/edit?usp=sharing)). If you're interested in participating in any way, email steering@openoakland.org ([steering@openoakland.org](mailto:steering@openoakland.org)).
+**Next steps:** If you're interested in participating in any way, email steering@openoakland.org ([steering@openoakland.org](mailto:steering@openoakland.org)).
 
 ***
 
@@ -124,7 +124,6 @@ National Day of Civic Hacking (NDoCH) is coming in September. Code for America h
 
 - **Not participate in NDoCH at all.** We could opt out completely, or focus our energy on strengthening brigade work as described previously.
 
-**Next steps:** All are invited to continue the discussion in #oo-event-planning on Slack ([access Slack](https://docs.google.com/document/d/1VWZQ_3ehP5j0IOTY0nJClvQPll3ivSkuAdh5YsOhO_U/edit?usp=sharing)).
 
 
 ---

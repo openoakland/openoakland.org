@@ -13,7 +13,6 @@ Browse the projects our volunteer teams are actively working on right now.
 Want to learn more?
 
 - Join us for our Tuesday [meetups](https://www.meetup.com/OpenOakland/events/) to connect with the project team.
-- Join our [Slack workspace](https://join.slack.com/t/openoakland/shared_invite/zt-3yesrb28g-A8Wv1kcLjBwBDJlT3G_xVQ) and introduce yourself in the project's channel listed in the description.
 - Email [steering@openoakland.org](mailto:steering@openoakland.org) with any questions or feedback.
 
 
