@@ -16,10 +16,7 @@ Tell us about yourself - your background, your skills, and the kind of work you'
 ### 2. Attend our Monthly Meeting
 We meet on the first Tuesday of every month at 6:30pm at Oakland City Hall (Hearing Room 3). It's a great way to meet the community, learn about active projects, and find where you can contribute. RSVP on [Meetup](https://www.meetup.com/OpenOakland/events/) or [Luma](https://luma.com/openoakland).
 
-### 3. Explore our projects
-Browse our [active projects](/projects/) to find one that matches your interests and skills. Each project card includes a Slack channel where you can connect directly with the project lead.
-
-### 4. Get in touch
+### 3. Get in touch
 Have questions or not sure where to start? Email us at [steering@openoakland.org](mailto:steering@openoakland.org) and we'll help you find the right fit.
 
 ---
