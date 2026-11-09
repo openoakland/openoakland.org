@@ -47,6 +47,10 @@ Working in small groups, attendees brought creative, neighborhood-rooted ideas, 
 
 ## What's next
 
-We're compiling the ideas generated at the Idea-A-Thon and will share them with the Oakland City Council and with Northeastern University faculty and researchers.
+We've compiled the ideas generated at the Idea-A-Thon into a two-page summary of community recommendations, which we're sharing with the Oakland City Council and with Northeastern University faculty and researchers. The top recommendations focus on making the City's bulky pickup service easier to use, especially for residents of multi-unit buildings, and the second page collects dozens of additional community ideas on beautification, education, data, waste collection, and enforcement.
+
+[Download the Community Recommendations summary (PDF)](/assets/docs/illegal-dumping-community-recommendations-2026.pdf)
+
+[![First page of the Illegal Dumping Idea-A-Thon Community Recommendations summary, showing key takeaways and recommendations to reduce bulky pickup restrictions for multi-unit residences and simplify bulky pickup communication](/assets/images/blog/idea-a-thon-recommendations-preview.jpg)](/assets/docs/illegal-dumping-community-recommendations-2026.pdf)
 
 Thank you to everyone who came out and shared their energy and ideas, and to Northeastern University Oakland for co-hosting!
