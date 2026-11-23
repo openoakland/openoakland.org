@@ -13,8 +13,6 @@ feat-img-alt: "Panelists flyer for A Beautiful Oakland: A Civic Tech Idea-A-Thon
 tags: [Oakland Tech Week]
 ---
 
-*More photos from the Idea-A-Thon will be shared here at a later date.*
-
 ![Panelists flyer for A Beautiful Oakland: A Civic Tech Idea-A-Thon, Tuesday, Sept 29, 1-5pm at Northeastern University Oakland, featuring Kristin Hathaway of the Department of Public Works, Brian Johnson of Aerbits, and Faith in Action East Bay](/assets/images/blog/idea-a-thon-recap-panelists-flyer.jpg)
 
 On Tuesday, September 29, OpenOakland and Northeastern University Oakland co-hosted [A Beautiful Oakland: A Civic Tech Idea-A-Thon](/updates/a-beautiful-oakland-idea-a-thon/) as part of [Oakland Tech Week](https://oaklandtechweek.com/). Residents, students, technologists, and city leaders spent the afternoon at Northeastern's Oakland campus generating ideas for tackling illegal dumping in Oakland.
